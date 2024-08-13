@@ -1,13 +1,20 @@
 var searchData=
 [
-  ['core_44',['core',['../namespacepaula_1_1core.html',1,'paula']]],
-  ['paula_45',['paula',['../namespacepaula.html',1,'']]],
-  ['paula_2eh_46',['paula.h',['../paula_8h.html',1,'']]],
-  ['paula_5fversion_47',['PAULA_VERSION',['../namespacepaula.html#a05a8cd1a42a1ed85b106b6d36897946f',1,'paula']]],
-  ['pout_48',['POut',['../classpaula_1_1POut.html',1,'paula']]],
-  ['print_49',['print',['../classpaula_1_1POut.html#ad80e6f78ed9764ab99727339d1ed3010',1,'paula::POut::print(char) const =0'],['../classpaula_1_1POut.html#a38780330b2a4a737d9d01ac6448d5c86',1,'paula::POut::print(const char *) const =0'],['../classpaula_1_1POut.html#a8ec5efe60cbd2a489d7233c63da32510',1,'paula::POut::print(long) const =0'],['../classpaula_1_1POut.html#a2ebfae3054a543410772a4c37bdb0b49',1,'paula::POut::print(double) const =0'],['../classpaula_1_1POut.html#a2226b623ca0f48627295bb1b9bd5ead7',1,'paula::POut::print(int x) const'],['../classpaula_1_1POut.html#a8ec8ecd1e261ee1abf7cc8ab0dfebdb0',1,'paula::POut::print(float x) const'],['../classpaula_1_1POut.html#a0946db4011c0f5bda42434de1b33c986',1,'paula::POut::print(bool x) const'],['../classpaula_1_1POut.html#a1f0f7acec3431667b1e707f36f8ba6ab',1,'paula::POut::print(const Error *a) const'],['../classpaula_1_1POut.html#afe3c7e3765ade95037b392604def8d53',1,'paula::POut::print(const core::TreeIterator &amp;x) const'],['../classpaula_1_1POut.html#a5e31f2adbc44a9fc0f34ca9d0bef8428',1,'paula::POut::print(const Var &amp;x) const'],['../classpaula_1_1NullPrint.html#afca7925dcc51afd5a60ad6ddb5f5c8db',1,'paula::NullPrint::print(const char *) const'],['../classpaula_1_1NullPrint.html#a8d51c54ffde4f44f668ba96ef9ac0bca',1,'paula::NullPrint::print(double) const'],['../classpaula_1_1NullPrint.html#a95b2fa43b97113cf7acc12e952437ad0',1,'paula::NullPrint::print(const Error *a) const'],['../classpaula_1_1NullPrint.html#af99f829f68cbdc2389e343fed083a21a',1,'paula::NullPrint::print(const core::TreeIterator &amp;x) const'],['../classpaula_1_1STDOut.html#ae0be881c5ce358acbfe98cb161370461',1,'paula::STDOut::print(char) const override'],['../classpaula_1_1STDOut.html#a59ee09292ca45cbba80f5ea716e40715',1,'paula::STDOut::print(const char *) const override'],['../classpaula_1_1STDOut.html#ad01dddad0f1b6f330e04afc24530e27a',1,'paula::STDOut::print(long) const override'],['../classpaula_1_1STDOut.html#a055dcb6c6bd3a756026b3fc6bef7c58a',1,'paula::STDOut::print(double) const override'],['../classpaula_1_1STDErr.html#a18b80dd52370ff95c4e21ebc71e6ccc6',1,'paula::STDErr::print(char) const override'],['../classpaula_1_1STDErr.html#a6fc9ed434bb88ad03645e756ecacc4a0',1,'paula::STDErr::print(const char *) const override'],['../classpaula_1_1STDErr.html#a2364e5f99c23e9d7d6a258b18a6b7410',1,'paula::STDErr::print(long) const override'],['../classpaula_1_1STDErr.html#ab91a1314ca505c119c605425dd7a3d16',1,'paula::STDErr::print(double) const override']]],
-  ['printcharsymbol_50',['printCharSymbol',['../classpaula_1_1POut.html#a33a7885b97a19d21bbc85f11a77ce30a',1,'paula::POut::printCharSymbol()'],['../classpaula_1_1NullPrint.html#a179c11d88b76631bb49d0b65997fe285',1,'paula::NullPrint::printCharSymbol()']]],
-  ['printhex_51',['printHex',['../classpaula_1_1POut.html#aec2b8fc2906bb73e61be1a3d04ce699f',1,'paula::POut::printHex()'],['../classpaula_1_1NullPrint.html#a34306df64c48fb99c3692c2ffb2f0a77',1,'paula::NullPrint::printHex()']]],
-  ['println_52',['println',['../classpaula_1_1POut.html#a62b7bf5b1c075a1445281f0a102c3bb7',1,'paula::POut::println()'],['../classpaula_1_1NullPrint.html#af2f649517829d63740d7422193a6afff',1,'paula::NullPrint::println()']]],
-  ['printversion_53',['printVersion',['../namespacepaula.html#af0e1e6d22f7f5c6123a81dd3e342cb0c',1,'paula']]]
+  ['node_5fany_5fdata_28',['NODE_ANY_DATA',['../namespacepaula.html#a7deace2790314ec21877ea46bc40ef42',1,'paula']]],
+  ['node_5fbool_29',['NODE_BOOL',['../namespacepaula.html#aa523856232b326cda2d4f8b9deed4e84',1,'paula']]],
+  ['node_5fdouble_30',['NODE_DOUBLE',['../namespacepaula.html#aad884725f29267b4896180aa1f8bad57',1,'paula']]],
+  ['node_5fexpr_31',['NODE_EXPR',['../namespacepaula.html#aca41626f31dc6ece8da4dd8841d337e1',1,'paula']]],
+  ['node_5finteger_32',['NODE_INTEGER',['../namespacepaula.html#a02a46639a0cfa0456c2bd68ad87a554c',1,'paula']]],
+  ['node_5fkv_33',['NODE_KV',['../namespacepaula.html#a35ad5ccac3551eab7d4d751c802b181d',1,'paula']]],
+  ['node_5fmap_34',['NODE_MAP',['../namespacepaula.html#ace41c65570287e1d61383ee58949e488',1,'paula']]],
+  ['node_5fname_35',['NODE_NAME',['../namespacepaula.html#ac0634c0d8b33bcb532715bfc983058d8',1,'paula']]],
+  ['node_5foperator_36',['NODE_OPERATOR',['../namespacepaula.html#a27da838b5139c14b3d30d705b29e9ff4',1,'paula']]],
+  ['node_5fstack_37',['NODE_STACK',['../namespacepaula.html#a729298cc7700c890c9d2f557af574088',1,'paula']]],
+  ['node_5fstatement_38',['NODE_STATEMENT',['../namespacepaula.html#af4f953378e03f5b323d57b3efaff6100',1,'paula']]],
+  ['node_5fsubtree_39',['NODE_SUBTREE',['../namespacepaula.html#a44578f699316a10959affa270e8587a2',1,'paula']]],
+  ['node_5ftext_40',['NODE_TEXT',['../namespacepaula.html#a1276b2cd19d84c64905151b5f2e731de',1,'paula']]],
+  ['node_5ftypes_2eh_41',['node_types.h',['../node__types_8h.html',1,'']]],
+  ['node_5fundefined_42',['NODE_UNDEFINED',['../namespacepaula.html#a2fd59226fd432cac6a99d707426116b3',1,'paula']]],
+  ['node_5fvoid_43',['NODE_VOID',['../namespacepaula.html#ab64c3cfdfe19d73f982a9fa5feb0ff24',1,'paula']]],
+  ['nullprint_44',['NullPrint',['../classpaula_1_1NullPrint.html',1,'paula']]]
 ];

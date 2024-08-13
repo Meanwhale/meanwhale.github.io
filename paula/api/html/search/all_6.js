@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['iinputstream_23',['IInputStream',['../classpaula_1_1IInputStream.html',1,'paula']]],
-  ['ioutputstream_24',['IOutputStream',['../classpaula_1_1IOutputStream.html',1,'paula']]],
-  ['issubtree_25',['isSubtree',['../classpaula_1_1Var.html#afe6bf4de952d454cce58168f8dc7d8a1',1,'paula::Var']]]
+  ['hasreturnvalue_23',['hasReturnValue',['../classpaula_1_1Args.html#a3ed1154f35f4c76cc4c9fa28a0c3c78c',1,'paula::Args']]]
 ];

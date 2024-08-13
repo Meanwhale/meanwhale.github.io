@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['get_16',['get',['../classpaula_1_1Args.html#a968d56e5a4c181596d036f8a29ca5a8d',1,'paula::Args::get()'],['../namespacepaula.html#afa0935dcb615ea8f9d641b2278870a38',1,'paula::get()']]],
-  ['getbool_17',['getBool',['../classpaula_1_1Var.html#a291b79cddb9eeb58aa9e618481a1d781',1,'paula::Var']]],
-  ['getchars_18',['getChars',['../classpaula_1_1Var.html#abe1dc294ce26259c5b5d7f2657999f39',1,'paula::Var']]],
-  ['getdouble_19',['getDouble',['../classpaula_1_1Var.html#a72deffbc25b7df3eb3f3563109cdeb3d',1,'paula::Var']]],
-  ['getint_20',['getInt',['../classpaula_1_1Var.html#afbd6cfdc6e8818497c63aaedf812f641',1,'paula::Var']]],
-  ['getop_21',['getOp',['../classpaula_1_1Var.html#a25c063946495e62412d8eefb16a9c6f6',1,'paula::Var']]]
+  ['fileinput_14',['FileInput',['../classpaula_1_1FileInput.html',1,'paula::FileInput'],['../classpaula_1_1FileInput.html#a3332577ca1e54b1972e27ab92e3e3b2a',1,'paula::FileInput::FileInput()']]],
+  ['flush_15',['flush',['../classpaula_1_1IOutputStream.html#a3044385687dec2521cde6e793e386db3',1,'paula::IOutputStream::flush()'],['../classpaula_1_1POut.html#a3f7d035e5df21ad9f1d031cf38525288',1,'paula::POut::flush()'],['../classpaula_1_1NullPrint.html#ab10cabb1ba45d952d42159df905eca5c',1,'paula::NullPrint::flush()'],['../classpaula_1_1STDOut.html#aae9cd8d4c7d25af775bdeb6e227c9c76',1,'paula::STDOut::flush()'],['../classpaula_1_1STDErr.html#a91713600f4a694db15dec2cd4338d227',1,'paula::STDErr::flush()']]],
+  ['found_16',['found',['../classpaula_1_1FileInput.html#a5f60a58132a9289fc021ba42ea642725',1,'paula::FileInput']]]
 ];
