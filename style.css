@@ -1,0 +1,110 @@
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #000;
+}
+pre {
+  background-color: #000;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 1em;
+  font-size: 1em !important;
+  font-family: Consolas, Menlo, Monaco, monospace !important;
+  color: #0f0;
+}
+.img_center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  line-height: 1.5;
+}
+.doc {
+  font-family: "Fira Sans", Verdana, Geneva, sans-serif;
+  font-size: 1em !important;
+  text-align: left;
+  margin: 0em;
+  padding: 1em;
+}
+.poster {
+  width: 100%
+  /*max-width: 5in;*/
+}
+.wide_pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+.small_pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+.subtitle {
+  font-size: 1.75em !important;
+  /*color: rgb(255,170,20);*/
+  color: rgb(200,70,70);
+  font-family: "mont";
+}
+.intro {
+  background-color:  rgb(250, 250, 250);
+  padding: 20px;
+  font-family: "Fira Sans", Verdana, Geneva, sans-serif;
+  font-size: 1.25em !important;
+  /*color: rgb(200,70,70);*/
+  color: rgb(128,128,128);
+}
+.biglink {
+  text-decoration: none; /* Remove underline */
+  color: rgb(200,70,70); /* Link color */
+  padding: 10px; /* Space inside the border */
+  border: 2px solid rgb(200,70,70); /* Border around the link */
+  border-radius: 5px; /* Rounded corners (optional) */
+  display: block; /* Ensure the box wraps around the text */
+  width=100%;
+  height=100%;
+  text-align: center;
+}
+
+/* Hover effect */
+.biglink:hover {
+	background-color: rgb(250, 250, 250); /* Background color on hover */
+	/*color: #0056b3; /* Text color on hover */
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: "mont", "Fira Sans", Verdana, Geneva, sans-serif;
+  color: rgb(200,70,70);
+  border-top: 1px solid #ccc; /* Line on top of the header */
+  border-bottom: 1px solid #ccc; /* Line on bottom of the header */
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+h1 { font-size: 2.2em !important; }
+h2 { font-size: 2.0em !important; }
+h3 { font-size: 1.8em !important; }
+h4 { font-size: 1.6em !important; }
+h5 { font-size: 1.4em !important; }
+h6 { font-size: 1.2em !important; }
+
+.infobox{
+  background-color:#e0ddff;
+  padding: 1em;
+  font-size: 1em;
+}
+.caption {
+  font-style: italic;
+  font-size: 0.9em;
+  color: #888;
+}

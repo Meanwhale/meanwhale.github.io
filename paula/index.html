@@ -1,0 +1,96 @@
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><link rel="shortcut icon" type="image/png" href="../favicon.png"/><link type="text/css" rel="stylesheet" href="../style.css"> <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet" /> <link href="../mont.otf" rel="stylesheet" /> <body><center><div style="max-width: 40em;" class=doc><center> <a href=../index.html><img src="../meanwhale_title.png" width=25%></a></center><hr><img src="pics/logo.png" class=img_center width="50%"><hr> <title>Paula Script</title></head>
+
+<div class=intro>
+Paula Script is a lightweight scripting language written in C++.
+<p>
+<b class=subtitle>Small and stand-alone</b><br>Minimal external dependencies and built-in parser. The whole thing only takes up a few dozen kilobytes.
+<p>
+<b class=subtitle>No runtime memory allocation</b><br>Reserve all the required memory at startup for performance, predictability, and safety.
+<p>
+<b class=subtitle>Easy to expand</b><br>Add callbacks from your source code with a simple API.
+</div>
+
+<table width=100%>
+<tr>
+<td valign=top width=50%>
+<br>
+For technical information andto try it<br>yourself see the GitHub project:
+<br>
+</td>
+<td valign=top width=50%>
+<br>
+Doxygen docs for programmers:
+<br>
+</td>
+</tr>
+<tr>
+<td valign=top width=50%>
+<a class=biglink href="https://github.com/Meanwhale/paula-script" target="_blank"><!--<img
+	src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" width=33%>-->GitHub: paula-script</a>
+</td>
+<td valign=top width=50%>
+<a class=biglink href="api/html/namespacepaula.html" target="_blank">Paula C++ API</a>
+</td>
+</tr>
+</table>
+
+<p>
+<pre>
+n:20; i:0; a:0; b:1
+while(i &lt; n)
+	c:a+b
+	print(c, " ")
+	a:b; b:c
+	i:i+1
+</pre>
+<div class=caption>Code sample: print 20 Fibonacci numbers (n=20).</div>
+
+<h3>What is a scripting language?</h3>
+
+Computer programs or apps consist of <b>machine code and data</b>.
+Data is pictures, text, <b>scripts</b>, etc. that the app uses.
+Machine code refers to the instructions that tell <b>CPU</b> what to do.
+
+<p>
+CPU (Central Processing Unit) is a microprocessor and the "brain" of the computer, smart phone, or any electronic gadget.
+It reads and executes the machine code to make the app run.
+
+<div><img class=wide_pic src=pics/app.png></div>
+
+Machine code is executed by the CPU whereas scripts are <b>interpreted</b> and executed by the program.
+Scripts control computer programs by instructions, written in some <b>scripting language</b>, like Python or JavaScript... <b>or Paula!</b>
+A common example of a scripting language in use is JavaScript, which is used by web pages to add functionality.
+
+<p>
+Inside the machine code is the script interpreter that does what the script it tells it to do.
+So, the CPU executes the script interpreter (Paula), and the interpreter executes the script, if that makes any sense.
+
+<div><img width=66% class=small_pic src=pics/interpreter.png></div>
+
+<!--
+<p>
+A scripting language defines a strict format that the instructions are given, so that the program code can interpret it.
+-->
+
+<h3>Economic scripting</h3>
+
+Paula (meaning "small" in Latin) is a compact language designed to take up minimal space in a program. This is especially important in constrained environments, such as electronic devices, where the interpreter, other code, and scripts must all fit within a limited memory (RAM).
+
+<div><img class=wide_pic src=pics/microcontroller.png></div>
+
+If the interpreter is too big, you just can't use it.
+
+<div><img width=40% class=small_pic src=pics/python.png></div>
+
+In addition to being compact, Paula is designed to be suitable for environments without such resource limitations,
+providing the needed flexibility while remaining secure and efficient. 
+Its goal is to be something between archaic and clumsy and fancy but extravagant scripting languages.
+
+<div><img class=wide_pic src=pics/hammers.png></div>
+
+<!--
+<h3>Paula doesn't reserve memory when running</h3>
+TODO: kuva rönsyilevästä muistinvaraajasta
+-->
+
+<hr><p class="doc" style="text-align: center;">Meanwhale, 2024</div></center></body></html>
