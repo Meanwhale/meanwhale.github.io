@@ -1,0 +1,182 @@
+[
+    {
+        "news_id": "yle_7420106165",
+        "news_source": "yle",
+        "news_header": "Superlevitt\u00e4j\u00e4t sosiaalisessa mediassa",
+        "news_epoch": 1726098600.0
+    },
+    {
+        "news_id": "yle_7420110763",
+        "news_source": "yle",
+        "news_header": "Kaakkois-Suomen poliisi luopuu Imatran poliisiasemasta",
+        "news_epoch": 1726116420.0
+    },
+    {
+        "news_id": "yle_7420110895",
+        "news_source": "yle",
+        "news_header": "EKP laskee talletuskorkoa ja euribor-korot laskevat",
+        "news_epoch": 1726129020.0
+    },
+    {
+        "news_id": "yle_7420111107",
+        "news_source": "yle",
+        "news_header": "Trumpin ja Harrisin vaaliv\u00e4ittelyn pettymys republikaanien keskuudessa",
+        "news_epoch": 1726129860.0
+    },
+    {
+        "news_id": "yle_7420111285",
+        "news_source": "yle",
+        "news_header": "Nokia kiist\u00e4\u00e4 huhut toimitusjohtajan vaihdosta",
+        "news_epoch": 1726142760.0
+    },
+    {
+        "news_id": "yle_7420110966",
+        "news_source": "yle",
+        "news_header": "Kiovassa j\u00e4rjestet\u00e4\u00e4n huippukokous lasten puolesta",
+        "news_epoch": 1726144140.0
+    },
+    {
+        "news_id": "yle_7420110565",
+        "news_source": "yle",
+        "news_header": "Julkkis numero kuusi -mysteerin ratkaisu",
+        "news_epoch": 1726145880.0
+    },
+    {
+        "news_id": "yle_7420111258",
+        "news_source": "yle",
+        "news_header": "Suomen puolustusvoimat torjuu v\u00e4itteet lennokkien laukaisusta",
+        "news_epoch": 1726146300.0
+    },
+    {
+        "news_id": "yle_7420111171",
+        "news_source": "yle",
+        "news_header": "Asuntomarkkinoiden k\u00e4\u00e4nteet ja median rooli",
+        "news_epoch": 1726148460.0
+    },
+    {
+        "news_id": "yle_7420111238",
+        "news_source": "yle",
+        "news_header": "V\u00e4itteet haitilaisten maahanmuuttajien lemmikkien sy\u00f6misest\u00e4",
+        "news_epoch": 1726149840.0
+    },
+    {
+        "news_id": "yle_7420111298",
+        "news_source": "yle",
+        "news_header": "Ampuminen Tampereen keskustassa",
+        "news_epoch": 1726150680.0
+    },
+    {
+        "news_id": "yle_7420111302",
+        "news_source": "yle",
+        "news_header": "Yle-veron keveneminen ja leikkaukset",
+        "news_epoch": 1726155960.0
+    },
+    {
+        "news_id": "yle_7420111312",
+        "news_source": "yle",
+        "news_header": "P\u00f6rssis\u00e4hk\u00f6n hinnat edelleen korkeita",
+        "news_epoch": 1726171860.0
+    },
+    {
+        "news_id": "yle_7420111314",
+        "news_source": "yle",
+        "news_header": "Brigitte Macronin herjaaminen",
+        "news_epoch": 1726176240.0
+    },
+    {
+        "news_id": "yle_7420111316",
+        "news_source": "yle",
+        "news_header": "Harvinainen haamulintuhaukka havaittu Papua-Uusi-Guineassa",
+        "news_epoch": 1726181640.0
+    },
+    {
+        "news_id": "yle_7420111101",
+        "news_source": "yle",
+        "news_header": "Yhdysvallat harkitsee ohjusten k\u00e4ytt\u00f6rajoitusten poistamista Ukrainalle",
+        "news_epoch": 1726183200.0
+    },
+    {
+        "news_id": "yle_7420110995",
+        "news_source": "yle",
+        "news_header": "Tervia ja Pohjoisen l\u00e4\u00e4k\u00e4ripalvelut",
+        "news_epoch": 1726183800.0
+    },
+    {
+        "news_id": "yle_7420109656",
+        "news_source": "yle",
+        "news_header": "Normien purkuhanke yrityksille ja kunnille",
+        "news_epoch": 1726185600.0
+    },
+    {
+        "news_id": "yle_7420109941",
+        "news_source": "yle",
+        "news_header": "Poliisiylijohtaja ehdottaa esitutkintavelvoitteesta luopumista",
+        "news_epoch": 1726187700.0
+    },
+    {
+        "news_id": "yle_7420110545",
+        "news_source": "yle",
+        "news_header": "S\u00e4hk\u00f6n siirtomaksut her\u00e4tt\u00e4v\u00e4t tyytym\u00e4tt\u00f6myytt\u00e4 Suomessa",
+        "news_epoch": 1726189200.0
+    },
+    {
+        "news_id": "yle_7420111047",
+        "news_source": "yle",
+        "news_header": "Hallituksen esitysluonnoksen arviointi sairaalaverkon vaikutuksista",
+        "news_epoch": 1726190220.0
+    },
+    {
+        "news_id": "yle_7420108829",
+        "news_source": "yle",
+        "news_header": "Espoon kaupunginvaltuusto valitsee uuden kaupunginjohtajan",
+        "news_epoch": 1726191000.0
+    },
+    {
+        "news_id": "yle_7420111330",
+        "news_source": "yle",
+        "news_header": "Sateet ja s\u00e4\u00e4ennuste Suomessa",
+        "news_epoch": 1726191840.0
+    },
+    {
+        "news_id": "yle_7420109180",
+        "news_source": "yle",
+        "news_header": "Puolustusvoimien tavoitteet naisten asepalveluksessa",
+        "news_epoch": 1726192920.0
+    },
+    {
+        "news_id": "yle_7420111327",
+        "news_source": "yle",
+        "news_header": "Ampumistapaukset Tampereen keskustassa",
+        "news_epoch": 1726193340.0
+    },
+    {
+        "news_id": "yle_7420111102",
+        "news_source": "yle",
+        "news_header": "Uusnatsiryhm\u00e4 Rusit\u0161in valokuva Saimaan kanavalta",
+        "news_epoch": 1726194120.0
+    },
+    {
+        "news_id": "yle_7420108420",
+        "news_source": "yle",
+        "news_header": "Niskan retkahdusvamma ja sen hoito",
+        "news_epoch": 1726196340.0
+    },
+    {
+        "news_id": "yle_7420111340",
+        "news_source": "yle",
+        "news_header": "Ampumisesta ep\u00e4ilty mies kiinni Yl\u00f6j\u00e4rvell\u00e4",
+        "news_epoch": 1726196340.0
+    },
+    {
+        "news_id": "dw_70198415",
+        "news_source": "dw",
+        "news_header": "Arnold Sch\u00f6nbergin el\u00e4m\u00e4 ja perint\u00f6",
+        "news_epoch": 1726198200.0
+    },
+    {
+        "news_id": "yle_7420110934",
+        "news_source": "yle",
+        "news_header": "Kouvolan turvallisuuskonferenssi 2023",
+        "news_epoch": 1726198200.0
+    }
+]

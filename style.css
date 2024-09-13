@@ -33,6 +33,24 @@ body {
   margin: 0em;
   padding: 1em;
 }
+.main {
+  max-width: 40em;
+}
+.element {
+  display: inline-block;
+  vertical-align: top;
+  padding: 1em;
+  /*border: 1em solid #000; /* Solid outline */
+  /*border-radius: 1em; /* Rounded corners */
+  margin: 1em;
+  max-width: 20em;
+  
+  font-family: "Fira Sans", Verdana, Geneva, sans-serif;
+  font-size: 1em !important;
+  text-align: left;
+  margin: 0em;
+  padding: 2em;
+}
 .poster {
   width: 100%
   /*max-width: 5in;*/

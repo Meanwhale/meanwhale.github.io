@@ -14,7 +14,7 @@ Paula Script is a lightweight scripting language written in C++.
 <tr>
 <td valign=top width=50%>
 <br>
-For technical information andto try it<br>yourself see the GitHub project:
+For technical information and to try it<br>yourself see the GitHub project:
 <br>
 </td>
 <td valign=top width=50%>
@@ -49,8 +49,8 @@ while(i &lt; n)
 
 Computer programs or apps consist of
 <ul>
-<li><b>Machine code</b>, instructions that tell <b>CPU</b> what to do.
-<li><b>Data</b> is pictures, text, <b>scripts</b>, etc. that the app uses.
+<li><b>Machine code:</b> instructions that tell <b>CPU</b> what to do.
+<li><b>Data:</b> pictures, text, <b>scripts</b>, etc. that the app uses.
 </ul>
 
 Scripts control computer programs by instructions, written in some <b>scripting language</b>, like Python or JavaScript... <b>or Paula!</b>
@@ -60,7 +60,7 @@ A common example of a scripting language in use is JavaScript, which is used by 
 <div><img class=wide_pic src=pics/app.png></div>
 
 <p>
-CPU (Central Processing Unit) is a microprocessor and the "brain" of the computer, smart phone, or any electronic gadget.
+CPU (Central Processing Unit) is a microprocessor and the "brain" of the computer, smart phone, or other electronic gadget.
 It reads and executes the machine code to make the app run.
 <p>
 Machine code is executed by the CPU whereas scripts are <b>interpreted</b> and executed by the program.
@@ -84,11 +84,15 @@ Paula (meaning "small" in Latin) is a compact language designed to take up minim
 
 If the interpreter is too big, you just can't use it.
 
-<div><img width=40% class=small_pic src=pics/python.png></div>
+<div><img width=30% class=small_pic src=pics/python.png></div>
 
 In addition to being compact, Paula is designed to be suitable for environments without such resource limitations,
-providing the needed flexibility while remaining secure and efficient. 
-Its goal is to be something between archaic and clumsy and fancy but extravagant scripting languages.
+providing the needed flexibility while remaining secure and efficient, <b>something between archaic and extravagant</b>.
+<p>
+
+<!--The objective of the Paula scripting language is to be both easier to use and more expressive compared to old, clumsy languages such as Tiny BASIC and Forth.
+On the other hand, it aims to be more expandable and economical than modern scripting languages like Lua and Python.
+Its goal is to be something between archaic and clumsy and fancy but extravagant scripting languages.-->
 
 <div><img class=wide_pic src=pics/hammers.png></div>
 
@@ -96,5 +100,23 @@ Its goal is to be something between archaic and clumsy and fancy but extravagant
 <h3>Paula doesn't reserve memory when running</h3>
 TODO: kuva rönsyilevästä muistinvaraajasta
 -->
+
+<h3>Memory allotion</h3>
+
+
+Most script interpreters allocate memory for their use during runtime. Allocated memory is freed when it's not needed anymore.
+
+<p>
+Usually, this approach is fine and practical. Problems arise, however, if more memory is allocated than is available, causing the program to slow down or crash. This can happen, for example, when large files are loaded into memory for processing.
+
+
+<div><img width= 50% class=small_pic src=pics/alloc.png></div>
+In Paula, this issue does not occur because it doesn't allocate memory during runtime at all. Paula's users can be confident that it won't cause unpleasant surprises due to excessive memory allocation.
+
+<p>
+The downside is that the user must know how much memory Paula will need and define it when launching the program. However, the guarantee that users can specify the required memory themselves provides a sense of security and reliability to Paula's users.
+
+<div><img width= 30% class=small_pic src=pics/fixed.png></div>
+
 
 <hr><p class="doc" style="text-align: center;">Meanwhale, 2024</div></center></body></html>
