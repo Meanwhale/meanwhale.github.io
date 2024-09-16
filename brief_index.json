@@ -736,5 +736,77 @@
         "news_source": "yle_business",
         "news_header": "EU-j\u00e4senyys maksoi Suomelle enemm\u00e4n kuin edellisvuonna",
         "news_epoch": 1726457820.0
+    },
+    {
+        "news_id": "yle_world_7420111777",
+        "news_source": "yle_world",
+        "news_header": "Ruotsin joukot sijoittuvat Lappiin Naton yhteisty\u00f6ss\u00e4",
+        "news_epoch": 1726460400.0
+    },
+    {
+        "news_id": "yle_world_7420111767",
+        "news_source": "yle_world",
+        "news_header": "Tito Jacksonin kuolema",
+        "news_epoch": 1726460880.0
+    },
+    {
+        "news_id": "dw_world_70224757",
+        "news_source": "dw_world",
+        "news_header": "Thierry Breton eroaa Euroopan komissiosta",
+        "news_epoch": 1726461900.0
+    },
+    {
+        "news_id": "yle_business_7420111803",
+        "news_source": "yle_business",
+        "news_header": "Suomen talouden ennusteet",
+        "news_epoch": 1726463820.0
+    },
+    {
+        "news_id": "dw_science_66814386",
+        "news_source": "dw_science",
+        "news_header": "Nipah-viruksen aiheuttama kuolema Intiassa",
+        "news_epoch": 1726466160.0
+    },
+    {
+        "news_id": "yle_business_7420111801",
+        "news_source": "yle_business",
+        "news_header": "Automaatti-Sale lopettaa toimintansa Tampereella",
+        "news_epoch": 1726466580.0
+    },
+    {
+        "news_id": "dw_business_70206639",
+        "news_source": "dw_business",
+        "news_header": "UniCredit ostaa osan Commerzbankista",
+        "news_epoch": 1726466940.0
+    },
+    {
+        "news_id": "yle_world_7420111781",
+        "news_source": "yle_world",
+        "news_header": "Pelon ilmapiiri Yhdysvalloissa",
+        "news_epoch": 1726467240.0
+    },
+    {
+        "news_id": "yle_world_7420111806",
+        "news_source": "yle_world",
+        "news_header": "Ruotsi ottaa johtovastuun Naton joukoista Suomessa",
+        "news_epoch": 1726470660.0
+    },
+    {
+        "news_id": "yle_world_7420111863",
+        "news_source": "yle_world",
+        "news_header": "Taifuuni Bebinca iski Kiinan it\u00e4rannikolle",
+        "news_epoch": 1726472880.0
+    },
+    {
+        "news_id": "yle_business_7420111385",
+        "news_source": "yle_business",
+        "news_header": "P\u00f6rssis\u00e4hk\u00f6n hinta pysyy korkealla",
+        "news_epoch": 1726473060.0
+    },
+    {
+        "news_id": "yle_world_7420111774",
+        "news_source": "yle_world",
+        "news_header": "Trumpin salamurhayritys golfkent\u00e4ll\u00e4",
+        "news_epoch": 1726475040.0
     }
 ]
