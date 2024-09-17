@@ -1,5 +1,335 @@
 [
     {
+        "news_id": "yle_world_7420112164",
+        "news_source": "yle_world",
+        "news_header": "Yhdysvallat valmistelee aselevon ehdotusta Israelille ja Hamasille",
+        "news_epoch": 1726564680.0
+    },
+    {
+        "news_id": "dw_world_202470176927",
+        "news_source": "dw_world",
+        "news_header": "Ghanan demokraattiset haasteet ennen vaaleja",
+        "news_epoch": 1726564080.0
+    },
+    {
+        "news_id": "yle_world_7420112053",
+        "news_source": "yle_world",
+        "news_header": "Poliisi suojaa kouluja Springfieldiss\u00e4 uhkausten vuoksi",
+        "news_epoch": 1726561620.0
+    },
+    {
+        "news_id": "yle_business_7420112091",
+        "news_source": "yle_business",
+        "news_header": "S\u00e4hk\u00f6n hintakehitys Suomessa",
+        "news_epoch": 1726559580.0
+    },
+    {
+        "news_id": "yle_world_7420112101",
+        "news_source": "yle_world",
+        "news_header": "Dominique P\u00e9licotin oikeudenk\u00e4ynti seksuaalisesta v\u00e4kivallasta",
+        "news_epoch": 1726559340.0
+    },
+    {
+        "news_id": "yle_world_7420112112",
+        "news_source": "yle_world",
+        "news_header": "CDU valitsee Friedrich Merzin liittokansleriehdokkaaksi",
+        "news_epoch": 1726558140.0
+    },
+    {
+        "news_id": "dw_world_70238195",
+        "news_source": "dw_world",
+        "news_header": "Mies my\u00f6nsi syyllisyytens\u00e4 vaimonsa hyv\u00e4ksik\u00e4ytt\u00f6\u00f6n liittyviss\u00e4 syytteiss\u00e4",
+        "news_epoch": 1726558080.0
+    },
+    {
+        "news_id": "dw_world_61561323",
+        "news_source": "dw_world",
+        "news_header": "GirlZ Off Mute - Tytt\u00f6reportterisarja",
+        "news_epoch": 1726557060.0
+    },
+    {
+        "news_id": "dw_business_70187883",
+        "news_source": "dw_business",
+        "news_header": "Kiina nuorisoty\u00f6tt\u00f6myys ja sen vaikutukset",
+        "news_epoch": 1726557000.0
+    },
+    {
+        "news_id": "dw_world_70187883",
+        "news_source": "dw_world",
+        "news_header": "Nuorisoty\u00f6tt\u00f6myys Kiinassa: Haasteet ja Mahdollisuudet",
+        "news_epoch": 1726557000.0
+    },
+    {
+        "news_id": "yle_business_7420112106",
+        "news_source": "yle_business",
+        "news_header": "Nordean tekniset h\u00e4iri\u00f6t korjattu",
+        "news_epoch": 1726556820.0
+    },
+    {
+        "news_id": "yle_world_7420112096",
+        "news_source": "yle_world",
+        "news_header": "Kreml kritisoi Metan p\u00e4\u00e4t\u00f6st\u00e4 kielt\u00e4\u00e4 Ven\u00e4j\u00e4n valtion mediat",
+        "news_epoch": 1726555200.0
+    },
+    {
+        "news_id": "yle_world_7420112094",
+        "news_source": "yle_world",
+        "news_header": "Huumausainerikoksista ep\u00e4iltyj\u00e4 uhkaa kuolemantuomio Balilla",
+        "news_epoch": 1726554780.0
+    },
+    {
+        "news_id": "dw_business_70231806",
+        "news_source": "dw_business",
+        "news_header": "Euroopan autoteollisuuden vaikeudet",
+        "news_epoch": 1726554420.0
+    },
+    {
+        "news_id": "yle_business_7420110434",
+        "news_source": "yle_business",
+        "news_header": "Kotitalousv\u00e4hennyksen leikkaukset ja niiden vaikutukset",
+        "news_epoch": 1726552800.0
+    },
+    {
+        "news_id": "dw_science_70232317",
+        "news_source": "dw_science",
+        "news_header": "Rapa Nuin Moai-patsaiden salaisuudet",
+        "news_epoch": 1726551240.0
+    },
+    {
+        "news_id": "yle_world_7420109949",
+        "news_source": "yle_world",
+        "news_header": "Henna Virkkunen EU-komission varapuheenjohtajaksi",
+        "news_epoch": 1726551000.0
+    },
+    {
+        "news_id": "dw_world_70235941",
+        "news_source": "dw_world",
+        "news_header": "Hy\u00f6kk\u00e4ys Malin p\u00e4\u00e4kaupungissa Bamakossa",
+        "news_epoch": 1726549440.0
+    },
+    {
+        "news_id": "yle_world_7420112056",
+        "news_source": "yle_world",
+        "news_header": "Boris-myrskyn aiheuttamat tulvat ja evakuointikehotus Nysassa",
+        "news_epoch": 1726549020.0
+    },
+    {
+        "news_id": "yle_world_7420112043",
+        "news_source": "yle_world",
+        "news_header": "Koala vierailee ruokakaupassa Australiassa",
+        "news_epoch": 1726546800.0
+    },
+    {
+        "news_id": "yle_business_7420112042",
+        "news_source": "yle_business",
+        "news_header": "Suomen talouden heikko ennuste",
+        "news_epoch": 1726546260.0
+    },
+    {
+        "news_id": "yle_world_7420112041",
+        "news_source": "yle_world",
+        "news_header": "Ammuskelua Bamakossa, Malissa",
+        "news_epoch": 1726546140.0
+    },
+    {
+        "news_id": "dw_world_70235288",
+        "news_source": "dw_world",
+        "news_header": "Delhi Education Minister Atishi becomes new Chief Minister",
+        "news_epoch": 1726546080.0
+    },
+    {
+        "news_id": "yle_world_7420112015",
+        "news_source": "yle_world",
+        "news_header": "Trumpin k\u00e4ytt\u00e4ytyminen murhayrityksen j\u00e4lkeen",
+        "news_epoch": 1726545600.0
+    },
+    {
+        "news_id": "dw_world_22670235130",
+        "news_source": "dw_world",
+        "news_header": "Myanmarin tulvat aiheuttavat suuria tuhoja Typhoon Yagin seurauksena",
+        "news_epoch": 1726544460.0
+    },
+    {
+        "news_id": "yle_business_7420112025",
+        "news_source": "yle_business",
+        "news_header": "S-Pankin asiakkaiden tileilt\u00e4 tehtiin luvattomia tilisiirtoja",
+        "news_epoch": 1726543680.0
+    },
+    {
+        "news_id": "yle_business_7420112001",
+        "news_source": "yle_business",
+        "news_header": "Rahahuijaukset kasvavat Suomessa",
+        "news_epoch": 1726543200.0
+    },
+    {
+        "news_id": "yle_business_7420112018",
+        "news_source": "yle_business",
+        "news_header": "Pellervon taloustutkimus varoittaa geopoliittisista riskeist\u00e4",
+        "news_epoch": 1726542240.0
+    },
+    {
+        "news_id": "yle_business_7420112011",
+        "news_source": "yle_business",
+        "news_header": "Elokuun asuntokaupat",
+        "news_epoch": 1726541340.0
+    },
+    {
+        "news_id": "yle_world_7420112008",
+        "news_source": "yle_world",
+        "news_header": "Intia aikoo j\u00e4rjest\u00e4\u00e4 v\u00e4est\u00f6nlaskennan",
+        "news_epoch": 1726540800.0
+    },
+    {
+        "news_id": "yle_world_7420111998",
+        "news_source": "yle_world",
+        "news_header": "L\u00e4nsi-Bengalin hallitus erotti poliisijohtajan ja terveysviranomaisia l\u00e4\u00e4k\u00e4rin murhan vuoksi",
+        "news_epoch": 1726538700.0
+    },
+    {
+        "news_id": "yle_world_7420111991",
+        "news_source": "yle_world",
+        "news_header": "Helikopteri katoaa Ven\u00e4j\u00e4n kaukoid\u00e4ss\u00e4",
+        "news_epoch": 1726535940.0
+    },
+    {
+        "news_id": "yle_world_7420111989",
+        "news_source": "yle_world",
+        "news_header": "Tren de Aragua -jengi luokiteltu terroristiryhm\u00e4ksi",
+        "news_epoch": 1726535100.0
+    },
+    {
+        "news_id": "dw_world_70234477",
+        "news_source": "dw_world",
+        "news_header": "Demokratian uskottavuus uhattuna globaalin \u00e4\u00e4nestysaktiivisuuden laskun vuoksi",
+        "news_epoch": 1726533540.0
+    },
+    {
+        "news_id": "yle_world_7420111986",
+        "news_source": "yle_world",
+        "news_header": "Meta kielt\u00e4\u00e4 Ven\u00e4j\u00e4n valtion mediat",
+        "news_epoch": 1726533420.0
+    },
+    {
+        "news_id": "yle_world_7420111979",
+        "news_source": "yle_world",
+        "news_header": "Sean 'Diddy' Combs pid\u00e4tetty New Yorkissa",
+        "news_epoch": 1726528500.0
+    },
+    {
+        "news_id": "yle_world_7420111368",
+        "news_source": "yle_world",
+        "news_header": "Demokratian uhka Euroopassa",
+        "news_epoch": 1726527600.0
+    },
+    {
+        "news_id": "yle_world_7420111977",
+        "news_source": "yle_world",
+        "news_header": "Yagi-taifuunin aiheuttamat tulvat Myanmarissa",
+        "news_epoch": 1726521960.0
+    },
+    {
+        "news_id": "yle_world_7420111976",
+        "news_source": "yle_world",
+        "news_header": "Kankaanp\u00e4\u00e4n ryhm\u00e4n terrorismijuttu alkaa Porissa",
+        "news_epoch": 1726519680.0
+    },
+    {
+        "news_id": "yle_world_7420111974",
+        "news_source": "yle_world",
+        "news_header": "YK:n p\u00e4\u00e4sihteeri tuomitsee Gazassa tapahtuvan kollektiivisen rankaisemisen",
+        "news_epoch": 1726514280.0
+    },
+    {
+        "news_id": "yle_world_7420111973",
+        "news_source": "yle_world",
+        "news_header": "Uuden komission salkkujaon julkistus viiv\u00e4styy",
+        "news_epoch": 1726513680.0
+    },
+    {
+        "news_id": "yle_world_7420111972",
+        "news_source": "yle_world",
+        "news_header": "Donald Trumpiin kohdistunut ep\u00e4ilty salamurhayritys golfkent\u00e4ll\u00e4",
+        "news_epoch": 1726513440.0
+    },
+    {
+        "news_id": "dw_world_1670234018",
+        "news_source": "dw_world",
+        "news_header": "Israelin ilmaiskut Gazassa",
+        "news_epoch": 1726507380.0
+    },
+    {
+        "news_id": "dw_world_70232743",
+        "news_source": "dw_world",
+        "news_header": "Mies ep\u00e4iltyn\u00e4 Donald Trumpin murhayrityksest\u00e4",
+        "news_epoch": 1726498500.0
+    },
+    {
+        "news_id": "yle_business_7420111963",
+        "news_source": "yle_business",
+        "news_header": "Nordean verkkopalveluiden hitautta ja teknisi\u00e4 ongelmia",
+        "news_epoch": 1726495140.0
+    },
+    {
+        "news_id": "yle_world_7420111962",
+        "news_source": "yle_world",
+        "news_header": "Iranin uusi presidentti lupaa siveyspoliisin muutosta",
+        "news_epoch": 1726494420.0
+    },
+    {
+        "news_id": "yle_business_7420109433",
+        "news_source": "yle_business",
+        "news_header": "Jenni Meesitin kamppailu burnoutin kanssa",
+        "news_epoch": 1726492200.0
+    },
+    {
+        "news_id": "yle_world_7420111950",
+        "news_source": "yle_world",
+        "news_header": "Gazassa yli 41 200 kuollutta sodassa",
+        "news_epoch": 1726489320.0
+    },
+    {
+        "news_id": "dw_world_70231598",
+        "news_source": "dw_world",
+        "news_header": "Kashmirin vaaliralli: Naiset vaativat muutosta",
+        "news_epoch": 1726487580.0
+    },
+    {
+        "news_id": "yle_world_7420111937",
+        "news_source": "yle_world",
+        "news_header": "Saksa aloittaa v\u00e4liaikaiset rajatarkastukset",
+        "news_epoch": 1726484640.0
+    },
+    {
+        "news_id": "yle_world_7420111904",
+        "news_source": "yle_world",
+        "news_header": "Ruotsi valmiina johtamaan Naton joukkoja Suomessa",
+        "news_epoch": 1726482780.0
+    },
+    {
+        "news_id": "dw_world_70228293",
+        "news_source": "dw_world",
+        "news_header": "Iranin naisten kohtalo ja femisidi",
+        "news_epoch": 1726482660.0
+    },
+    {
+        "news_id": "yle_world_7420111925",
+        "news_source": "yle_world",
+        "news_header": "Presidentti Stubb matkustaa New Yorkiin YK:n yleiskokoukseen",
+        "news_epoch": 1726481700.0
+    },
+    {
+        "news_id": "yle_world_7420111921",
+        "news_source": "yle_world",
+        "news_header": "Boris-myrsky ja rankkasateet Keski- ja It\u00e4-Euroopassa",
+        "news_epoch": 1726481040.0
+    },
+    {
+        "news_id": "yle_business_7420111910",
+        "news_source": "yle_business",
+        "news_header": "Javier Milei k\u00e4ytt\u00e4\u00e4 veto-oikeuttaan budjetin suojelemiseksi",
+        "news_epoch": 1726479420.0
+    },
+    {
         "news_id": "yle_world_7420111774",
         "news_source": "yle_world",
         "news_header": "Trumpin salamurhayritys golfkent\u00e4ll\u00e4",
