@@ -1,5 +1,119 @@
 [
     {
+        "news_id": "yle_world_7420112314",
+        "news_source": "yle_world",
+        "news_header": "Hakulaitteet ovat edelleen k\u00e4yt\u00f6ss\u00e4, erityisesti \u00e4\u00e4rij\u00e4rjest\u00f6jen keskuudessa, vaikka k\u00e4nnyk\u00e4t ovat korvanneet ne.",
+        "news_epoch": 1726647300.0
+    },
+    {
+        "news_id": "yle_business_7420112405",
+        "news_source": "yle_business",
+        "news_header": "Uniper ja Fortum selvitt\u00e4v\u00e4t Oskarshamn 3 -ydinreaktorin k\u00e4ytt\u00f6i\u00e4n pident\u00e4mist\u00e4.",
+        "news_epoch": 1726644480.0
+    },
+    {
+        "news_id": "yle_world_7420112405",
+        "news_source": "yle_world",
+        "news_header": "Uniper ja Fortum selvitt\u00e4v\u00e4t Oskarshamn 3 -ydinreaktorin k\u00e4ytt\u00f6i\u00e4n pident\u00e4mist\u00e4.",
+        "news_epoch": 1726644480.0
+    },
+    {
+        "news_id": "yle_world_7420112397",
+        "news_source": "yle_world",
+        "news_header": "Erdo\u011fan pahoittelee Libanonin r\u00e4j\u00e4hdyksi\u00e4.",
+        "news_epoch": 1726643160.0
+    },
+    {
+        "news_id": "yle_world_7420111822",
+        "news_source": "yle_world",
+        "news_header": "Entinen puolustusministeri Sergei \u0160oigu rakennutti Park Patriotin, mutta nyt h\u00e4nen alaisensa ovat korruptiosyytteiden kohteena.",
+        "news_epoch": 1726642920.0
+    },
+    {
+        "news_id": "yle_world_7420112379",
+        "news_source": "yle_world",
+        "news_header": "Hollanti pyyt\u00e4\u00e4 EU:lta mahdollisuutta j\u00e4tt\u00e4yty\u00e4 yhteisest\u00e4 siirtolaispolitiikasta.",
+        "news_epoch": 1726641420.0
+    },
+    {
+        "news_id": "yle_business_7420112340",
+        "news_source": "yle_business",
+        "news_header": "Amazon palaa konttorille ja lopettaa et\u00e4ty\u00f6t.",
+        "news_epoch": 1726637100.0
+    },
+    {
+        "news_id": "yle_world_7420112351",
+        "news_source": "yle_world",
+        "news_header": "Ukrainan droonihy\u00f6kk\u00e4ys iski ammusvarastoon Tverin alueella, aiheuttaen suuren r\u00e4j\u00e4hdyksen ja tulipalon.",
+        "news_epoch": 1726636980.0
+    },
+    {
+        "news_id": "yle_business_7420112293",
+        "news_source": "yle_business",
+        "news_header": "P\u00f6rssis\u00e4hk\u00f6n hinta on noussut ja m\u00e4\u00e4r\u00e4aikaiset sopimukset ovat edullisempia.",
+        "news_epoch": 1726636620.0
+    },
+    {
+        "news_id": "yle_world_7420112328",
+        "news_source": "yle_world",
+        "news_header": "Kiinan ulkoministeri\u00f6 asetti talouspakotteet yhdeks\u00e4lle amerikkalaisyhti\u00f6lle.",
+        "news_epoch": 1726634400.0
+    },
+    {
+        "news_id": "yle_business_7420111854",
+        "news_source": "yle_business",
+        "news_header": "EU:n uudet talouss\u00e4\u00e4nn\u00f6t aiheuttavat Suomelle kovat sopeutukset.",
+        "news_epoch": 1726632600.0
+    },
+    {
+        "news_id": "yle_world_7420112305",
+        "news_source": "yle_world",
+        "news_header": "Kiinalainen lentotukialus purjehti Japanin saarten v\u00e4list\u00e4.",
+        "news_epoch": 1726632300.0
+    },
+    {
+        "news_id": "yle_world_7420112296",
+        "news_source": "yle_world",
+        "news_header": "Ravintolalaivan katto romahti Berliiniss\u00e4, yhdeks\u00e4n loukkaantui.",
+        "news_epoch": 1726631100.0
+    },
+    {
+        "news_id": "yle_world_7420112289",
+        "news_source": "yle_world",
+        "news_header": "Hizbollah-johtaja Hassan Nasrallah pit\u00e4\u00e4 puheen Libanonissa.",
+        "news_epoch": 1726630200.0
+    },
+    {
+        "news_id": "yle_world_7420112273",
+        "news_source": "yle_world",
+        "news_header": "Hizbollahin hakulaitteiden r\u00e4j\u00e4hdyksess\u00e4 kuoli yhdeks\u00e4n ihmist\u00e4, ja Israelin syytet\u00e4\u00e4n olevan iskun takana.",
+        "news_epoch": 1726629060.0
+    },
+    {
+        "news_id": "yle_world_7420112281",
+        "news_source": "yle_world",
+        "news_header": "Israelin armeija raportoi nelj\u00e4n sotilaan kuolleen Gazassa.",
+        "news_epoch": 1726628700.0
+    },
+    {
+        "news_id": "yle_world_7420112280",
+        "news_source": "yle_world",
+        "news_header": "Antony Blinken vierailee Kairossa edist\u00e4\u00e4kseen Gazan sodan aseleponeuvotteluita.",
+        "news_epoch": 1726628460.0
+    },
+    {
+        "news_id": "yle_business_7420112093",
+        "news_source": "yle_business",
+        "news_header": "Rush Factory myy hallinsa velan maksamiseksi.",
+        "news_epoch": 1726628400.0
+    },
+    {
+        "news_id": "yle_world_7420112274",
+        "news_source": "yle_world",
+        "news_header": "Tupperware hakeutui yrityssaneeraukseen Yhdysvalloissa talousvaikeuksien vuoksi.",
+        "news_epoch": 1726627020.0
+    },
+    {
         "news_id": "bbc_world_7",
         "news_source": "bbc_world",
         "news_header": "Yhdeks\u00e4n ihmist\u00e4, mukaan lukien lapsi, kuoli Hezbollahin k\u00e4yt\u00f6ss\u00e4 olleiden k\u00e4sipagereiden r\u00e4j\u00e4hdyksiss\u00e4 Libanonissa.",
