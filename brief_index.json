@@ -1,15 +1,183 @@
 [
     {
+        "news_id": "dw_world_70283919",
+        "news_source": "dw_world",
+        "news_header": "Kiina pyrkii est\u00e4m\u00e4\u00e4n tai muuttamaan EU:n tuontitulleja s\u00e4hk\u00f6autoille.",
+        "news_epoch": 1726827720.0
+    },
+    {
+        "news_id": "yle_world_7420113001",
+        "news_source": "yle_world",
+        "news_header": "Hizbollah laukaisi 140 ohjusta Israeliin, ja Israel iski Beirutiin.",
+        "news_epoch": 1726827540.0
+    },
+    {
+        "news_id": "yle_world_7420112834",
+        "news_source": "yle_world",
+        "news_header": "Kiinan ja Japanin suhteet kiristyv\u00e4t Shenzenin puukotuksen vuoksi.",
+        "news_epoch": 1726827300.0
+    },
+    {
+        "news_id": "dw_world_70283271",
+        "news_source": "dw_world",
+        "news_header": "Atifete Jahjaga oli Kosovon presidentti vuosina 2011-2016 ja ensimm\u00e4inen naispuolinen valtionp\u00e4\u00e4mies maassa.",
+        "news_epoch": 1726826880.0
+    },
+    {
+        "news_id": "dw_world_70279863",
+        "news_source": "dw_world",
+        "news_header": "Yhdysvaltojen presidentinvaalit ovat k\u00e4ynniss\u00e4, ja poliittiset syyt\u00f6kset valehtelusta ja v\u00e4\u00e4r\u00e4st\u00e4 tiedosta ovat lis\u00e4\u00e4ntyneet.",
+        "news_epoch": 1726826340.0
+    },
+    {
+        "news_id": "dw_business_70192621",
+        "news_source": "dw_business",
+        "news_header": "Saksassa l\u00e4mp\u00f6pumppujen k\u00e4ytt\u00f6 on laskenut merkitt\u00e4v\u00e4sti, mik\u00e4 uhkaa hallituksen tavoitteita.",
+        "news_epoch": 1726826220.0
+    },
+    {
+        "news_id": "yle_world_7420112990",
+        "news_source": "yle_world",
+        "news_header": "Ven\u00e4j\u00e4 pyrkii kitkem\u00e4\u00e4n vapaaehtoista lapsettomuutta ja tukemaan syntyvyyden kasvua.",
+        "news_epoch": 1726825920.0
+    },
+    {
+        "news_id": "yle_business_7420112594",
+        "news_source": "yle_business",
+        "news_header": "Miljoonaluokan yt-neuvottelut k\u00e4ynniss\u00e4 hyvinvointialueilla, s\u00e4\u00e4st\u00f6tavoitteet vaihtelevat.",
+        "news_epoch": 1726824600.0
+    },
+    {
+        "news_id": "dw_world_70276260",
+        "news_source": "dw_world",
+        "news_header": "Ugandassa keskustellaan presidentin vaalij\u00e4rjestelm\u00e4n muuttamisesta parlamentaariseksi.",
+        "news_epoch": 1726823520.0
+    },
+    {
+        "news_id": "bbc_world_8877",
+        "news_source": "bbc_world",
+        "news_header": "Brittil\u00e4inen liikemies Michael Lomas on luovutettu Etel\u00e4-Afrikkaan korruptio- ja petossyytteiden vuoksi.",
+        "news_epoch": 1726823220.0
+    },
+    {
+        "news_id": "yle_world_7420112876",
+        "news_source": "yle_world",
+        "news_header": "Norjan turvallisuusviranomaiset varoittavat kiinalaisyritys Coscon aluksista, jotka voivat olla turvallisuusuhka.",
+        "news_epoch": 1726822920.0
+    },
+    {
+        "news_id": "yle_world_7420112916",
+        "news_source": "yle_world",
+        "news_header": "Mohamed al-Fayedia syytet\u00e4\u00e4n seksuaalisesta h\u00e4irinn\u00e4st\u00e4 l\u00e4hes 40 naisen toimesta.",
+        "news_epoch": 1726822260.0
+    },
+    {
+        "news_id": "yle_world_7420112971",
+        "news_source": "yle_world",
+        "news_header": "Mohamed al-Fayedin seksuaalisen h\u00e4irinn\u00e4n syyt\u00f6kset.",
+        "news_epoch": 1726820880.0
+    },
+    {
+        "news_id": "dw_world_70281051",
+        "news_source": "dw_world",
+        "news_header": "Sri Lankassa valmistellaan presidentinvaaleja kahden vuoden v\u00e4kivaltaisten mielenosoitusten j\u00e4lkeen.",
+        "news_epoch": 1726820640.0
+    },
+    {
+        "news_id": "yle_science_7420112353",
+        "news_source": "yle_science",
+        "news_header": "Jatkosodan j\u00e4lkeinen levoton aika Suomessa ja Porkkalan vuokraus Neuvostoliitolle.",
+        "news_epoch": 1726820100.0
+    },
+    {
+        "news_id": "wpj_finance_14239",
+        "news_source": "wpj_finance",
+        "news_header": "Measurabl lanseeraa ESGx Benchmarks -raportin, joka tarjoaa kiinteist\u00f6nomistajille ja sijoittajille syv\u00e4llist\u00e4 tietoa kest\u00e4vyysperformanssista.",
+        "news_epoch": 1726819800.0
+    },
+    {
+        "news_id": "wpj_finance_2024202414238",
+        "news_source": "wpj_finance",
+        "news_header": "Asuntomyynti laski elokuussa 2024 Yhdysvalloissa, mutta alhaisemmat korkotasot ja kasvava asuntotarjonta voivat nostaa myynti\u00e4 tulevaisuudessa.",
+        "news_epoch": 1726818420.0
+    },
+    {
+        "news_id": "dw_world_70265152",
+        "news_source": "dw_world",
+        "news_header": "Maidugurin kaupungissa, Nigeriassa, on tapahtunut vakavia tulvia, jotka ovat aiheuttaneet laajaa tuhoa ja inhimillist\u00e4 kriisi\u00e4.",
+        "news_epoch": 1726817700.0
+    },
+    {
+        "news_id": "yle_world_7420112942",
+        "news_source": "yle_world",
+        "news_header": "Rankkasateet yleistyv\u00e4t L\u00e4nsi-Afrikassa, erityisesti Sahelin alueella, aiheuttaen tulvia ja tuhoja.",
+        "news_epoch": 1726816800.0
+    },
+    {
+        "news_id": "yle_world_7420112943",
+        "news_source": "yle_world",
+        "news_header": "Ruotsissa varautuminen vaarallisen ammoniumnitraatin kuljettavan aluksen saapumiseen.",
+        "news_epoch": 1726816500.0
+    },
+    {
+        "news_id": "yle_business_7420112889",
+        "news_source": "yle_business",
+        "news_header": "Nordean pankkipalveluissa on ollut jatkuvia h\u00e4iri\u00f6it\u00e4 syyskuussa.",
+        "news_epoch": 1726814700.0
+    },
+    {
+        "news_id": "yle_world_7420112476",
+        "news_source": "yle_world",
+        "news_header": "Trumpin vaalistrategia uhkaa vaarantua Pohjois-Carolinassa, jossa Harris on noussut tasoihin.",
+        "news_epoch": 1726814400.0
+    },
+    {
+        "news_id": "yle_business_7420112904",
+        "news_source": "yle_business",
+        "news_header": "DNA aloittaa muutosneuvottelut, jotka koskevat 60 ty\u00f6paikkaa Pietarsaaressa.",
+        "news_epoch": 1726812960.0
+    },
+    {
+        "news_id": "yle_business_7420112909",
+        "news_source": "yle_business",
+        "news_header": "Osuuspankki ilmoittaa huoltot\u00f6ist\u00e4, mutta OP-Visa-korttien ostot toimivat normaalisti.",
+        "news_epoch": 1726812540.0
+    },
+    {
+        "news_id": "yle_world_7420112826",
+        "news_source": "yle_world",
+        "news_header": "EU-komission puheenjohtaja Ursula von der Leyen lupaa kymmenen miljardia euroa Boris-myrskyn aiheuttamien vahinkojen korjaamiseen Keski-Euroopassa.",
+        "news_epoch": 1726810920.0
+    },
+    {
+        "news_id": "dw_science_70273835",
+        "news_source": "dw_science",
+        "news_header": "Starlinkin satelliittiverkosto h\u00e4iritsee astronomista tutkimusta radioaaltojen vuoksi.",
+        "news_epoch": 1726810740.0
+    },
+    {
         "news_id": "yle_world_7420112895",
         "news_source": "yle_world",
         "news_header": "Kiina lievent\u00e4\u00e4 tuontikieltoa Japanin kalatuotteille.",
         "news_epoch": 1726810560.0
     },
     {
+        "news_id": "bbc_world_47310",
+        "news_source": "bbc_world",
+        "news_header": "Titan-aluksen tukialuksen j\u00e4sen kertoi tuntemuksistaan tutkinnassa.",
+        "news_epoch": 1726810500.0
+    },
+    {
         "news_id": "bbc_business_39404",
         "news_source": "bbc_business",
         "news_header": "Elokuussa hallituksen lainat nousivat korkeimmalle tasolle Covid-pandemian j\u00e4lkeen.",
         "news_epoch": 1726808400.0
+    },
+    {
+        "news_id": "bbc_world_25",
+        "news_source": "bbc_world",
+        "news_header": "Intia on hyl\u00e4nnyt uutisraportin, joka v\u00e4itt\u00e4\u00e4 hallituksen ep\u00e4onnistuneen est\u00e4m\u00e4\u00e4n eurooppalaisten ostajien siirt\u00e4m\u00e4st\u00e4 intialaisia tykist\u00f6n ammuksia Ukrainaan.",
+        "news_epoch": 1726808340.0
     },
     {
         "news_id": "dw_world_70278674",
