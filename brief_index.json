@@ -1,5 +1,491 @@
 [
     {
+        "news_id": "yle_world_7420113298",
+        "news_source": "yle_world",
+        "news_header": "Paavi Franciscus perui esiintymiset flunssan vuoksi.",
+        "news_epoch": 1727065680.0
+    },
+    {
+        "news_id": "bbc_world_8117",
+        "news_source": "bbc_world",
+        "news_header": "Kamala Harrisin kommunistisyyt\u00f6kset her\u00e4tt\u00e4v\u00e4t pelkoja latinoyhteis\u00f6iss\u00e4 Yhdysvalloissa.",
+        "news_epoch": 1727062980.0
+    },
+    {
+        "news_id": "yle_world_7420113274",
+        "news_source": "yle_world",
+        "news_header": "Britannian talousministeri Rachel Reeves ilmoitti julkisten menojen kasvavan Labour-puolueen hallituskaudella.",
+        "news_epoch": 1727062380.0
+    },
+    {
+        "news_id": "yle_business_7420110722",
+        "news_source": "yle_business",
+        "news_header": "Palveluh\u00e4vikki tarkoittaa turhien palveluiden tilaamista, mik\u00e4 on yleist\u00e4 sosiaalisen median vuoksi.",
+        "news_epoch": 1727061540.0
+    },
+    {
+        "news_id": "yle_world_7420113267",
+        "news_source": "yle_world",
+        "news_header": "Sri Lankan ensimm\u00e4inen vasemmistolainen presidentti Anura Kumara Dissanayaka vannoi virkavalansa.",
+        "news_epoch": 1727060640.0
+    },
+    {
+        "news_id": "yle_world_7420113264",
+        "news_source": "yle_world",
+        "news_header": "Israel kehotti ihmisi\u00e4 siirtym\u00e4\u00e4n Hizbollahin rakennusten l\u00e4heisyydest\u00e4.",
+        "news_epoch": 1727060040.0
+    },
+    {
+        "news_id": "yle_world_7420113260",
+        "news_source": "yle_world",
+        "news_header": "Iranin vallankumouskaarti on keskeytt\u00e4nyt viestint\u00e4laitteiden k\u00e4yt\u00f6n turvallisuussyist\u00e4.",
+        "news_epoch": 1727059140.0
+    },
+    {
+        "news_id": "dw_world_70297993",
+        "news_source": "dw_world",
+        "news_header": "Anura Kumara Dissanayake vannoi Sri Lankan presidentiksi voittaen vaalit.",
+        "news_epoch": 1727057820.0
+    },
+    {
+        "news_id": "bbc_business_00",
+        "news_source": "bbc_business",
+        "news_header": "Tesco on hinnoitellut useita tuotteitaan vastaamaan Aldi-hintoja, mutta BBC Panorama on l\u00f6yt\u00e4nyt eroja ainesosien m\u00e4\u00e4riss\u00e4.",
+        "news_epoch": 1727056860.0
+    },
+    {
+        "news_id": "bbc_world_034",
+        "news_source": "bbc_world",
+        "news_header": "Sri Lankan uusi presidentti Anura Kumara Dissanayake vannoi virkavalansa, lupaten puhdasta politiikkaa talouskriisin j\u00e4lkeen.",
+        "news_epoch": 1727056080.0
+    },
+    {
+        "news_id": "yle_world_7420113241",
+        "news_source": "yle_world",
+        "news_header": "Israel iskee Hizbollah-j\u00e4rjest\u00f6n asemiin Libanonissa.",
+        "news_epoch": 1727053500.0
+    },
+    {
+        "news_id": "bbc_business_982851",
+        "news_source": "bbc_business",
+        "news_header": "Australian kilpailu- ja kuluttajaviranomainen haastaa oikeuteen Colesin ja Woolworthsin, v\u00e4itt\u00e4en niiden v\u00e4\u00e4ristelleen hintatietoja.",
+        "news_epoch": 1727050800.0
+    },
+    {
+        "news_id": "bbc_world_982851",
+        "news_source": "bbc_world",
+        "news_header": "Australian kilpailuviranomainen haastaa oikeuteen suurimmat ruokakauppaketjut, Colesin ja Woolworthsin, v\u00e4itt\u00e4en niiden v\u00e4\u00e4ristelleen hintatietoja.",
+        "news_epoch": 1727050800.0
+    },
+    {
+        "news_id": "yle_business_7420112350",
+        "news_source": "yle_business",
+        "news_header": "Algoritmit ja teko\u00e4ly parantavat ty\u00f6ntekoa, mutta her\u00e4tt\u00e4v\u00e4t huolta ty\u00f6ntekij\u00f6iden hyvinvoinnista.",
+        "news_epoch": 1727049600.0
+    },
+    {
+        "news_id": "bbc_world_530244467",
+        "news_source": "bbc_world",
+        "news_header": "Ukrainan presidentti Volodymyr Zelensky esittelee 'voitto-suunnitelmansa' Yhdysvaltain presidentille Joe Bidenille ja kongressille.",
+        "news_epoch": 1727049000.0
+    },
+    {
+        "news_id": "yle_world_7420113234",
+        "news_source": "yle_world",
+        "news_header": "Islamilainen vastarinta iski Israelin tarkkailuasemaan Golanin kukkuloilla.",
+        "news_epoch": 1727048760.0
+    },
+    {
+        "news_id": "yle_world_7420112682",
+        "news_source": "yle_world",
+        "news_header": "Uusi tietovuoto paljastaa Ven\u00e4j\u00e4n vaikutusoperaation eurovaaleissa ja Yhdysvaltain presidentinvaaleissa.",
+        "news_epoch": 1727047200.0
+    },
+    {
+        "news_id": "yle_world_7420113230",
+        "news_source": "yle_world",
+        "news_header": "Rankkasateet ja tulvat Japanissa aiheuttavat kuolemia ja katoamisia.",
+        "news_epoch": 1727045760.0
+    },
+    {
+        "news_id": "yle_world_7420113229",
+        "news_source": "yle_world",
+        "news_header": "Yhdysvaltain kongressi saavutti sopimuksen liittovaltion rahoituksen jatkamisesta.",
+        "news_epoch": 1727043540.0
+    },
+    {
+        "news_id": "yle_world_7420113227",
+        "news_source": "yle_world",
+        "news_header": "SPD voitti Brandenburgin maap\u00e4iv\u00e4vaalit, mik\u00e4 oli suuri helpotus liittokansleri Scholzille.",
+        "news_epoch": 1727040900.0
+    },
+    {
+        "news_id": "bbc_business_2805",
+        "news_source": "bbc_business",
+        "news_header": "Oasisin lipunhinnat ovat nousseet huomattavasti vuodesta 2009, mik\u00e4 heijastaa laajempaa trendi\u00e4 konserttilippujen hintojen nousussa.",
+        "news_epoch": 1727039220.0
+    },
+    {
+        "news_id": "yle_world_7420113228",
+        "news_source": "yle_world",
+        "news_header": "Ampuminen Birminghamissa, Alabamassa, johti nelj\u00e4n kuolemaan ja kymmenien haavoittumiseen.",
+        "news_epoch": 1727039160.0
+    },
+    {
+        "news_id": "bbc_world_085",
+        "news_source": "bbc_world",
+        "news_header": "Nelj\u00e4 perheenj\u00e4sent\u00e4, mukaan lukien kaksi nuorta lasta, kuoli kaasur\u00e4j\u00e4hdyksess\u00e4 Etel\u00e4-Italiassa.",
+        "news_epoch": 1727038260.0
+    },
+    {
+        "news_id": "bbc_business_90",
+        "news_source": "bbc_business",
+        "news_header": "Rachel Reeves lupaa 'budjetin Britannian uudelleenrakentamiseksi' Labourin puoluekokouksessa Liverpoolissa.",
+        "news_epoch": 1727038020.0
+    },
+    {
+        "news_id": "dw_world_70296505",
+        "news_source": "dw_world",
+        "news_header": "Kaksikerroksinen rakennus romahti Napolin provinssissa, mik\u00e4 johti kolmen perheenj\u00e4senen kuolemaan.",
+        "news_epoch": 1727038020.0
+    },
+    {
+        "news_id": "bbc_world_92",
+        "news_source": "bbc_world",
+        "news_header": "Donald Trump ei odota ehdokkaaksi vuonna 2028, jos h\u00e4n h\u00e4vi\u00e4\u00e4 marraskuun vaaleissa.",
+        "news_epoch": 1727034540.0
+    },
+    {
+        "news_id": "yle_world_7420113225",
+        "news_source": "yle_world",
+        "news_header": "Donald Trump torjui CNN:n v\u00e4ittelykutsun, mutta Kamala Harris hyv\u00e4ksyi sen.",
+        "news_epoch": 1727033160.0
+    },
+    {
+        "news_id": "bbc_world_748",
+        "news_source": "bbc_world",
+        "news_header": "Ecuadorissa on aloitettu suunnitellut s\u00e4hk\u00f6katkot kuivan kauden vuoksi.",
+        "news_epoch": 1727030880.0
+    },
+    {
+        "news_id": "bbc_world_29649",
+        "news_source": "bbc_world",
+        "news_header": "Birminghamissa, Alabamassa tapahtui joukkoampuminen, jossa nelj\u00e4 ihmist\u00e4 kuoli ja 18 loukkaantui.",
+        "news_epoch": 1727030280.0
+    },
+    {
+        "news_id": "dw_world_70296208",
+        "news_source": "dw_world",
+        "news_header": "Tutkijat ovat rekonstruoineet Etel\u00e4-Afrikasta l\u00f6ydetyt vanhimmat ihmisen genomiit noin 10 000 vuoden takaa.",
+        "news_epoch": 1727030160.0
+    },
+    {
+        "news_id": "bbc_world_43937",
+        "news_source": "bbc_world",
+        "news_header": "Israelin ja Hezbollahin v\u00e4linen j\u00e4nnitys kasvaa, kun molemmat osapuolet uhkaavat lis\u00e4t\u00e4 rajat ylitt\u00e4vi\u00e4 hy\u00f6kk\u00e4yksi\u00e4.",
+        "news_epoch": 1727026860.0
+    },
+    {
+        "news_id": "yle_world_7420113222",
+        "news_source": "yle_world",
+        "news_header": "Ukrainan presidentti Volodymyr Zelenskyi vierailee Yhdysvalloissa osallistuakseen YK:n kokouksiin ja esitell\u00e4kseen voitonsuunnitelmansa.",
+        "news_epoch": 1727023440.0
+    },
+    {
+        "news_id": "bbc_business_2880",
+        "news_source": "bbc_business",
+        "news_header": "Peter Jay, entinen BBC:n taloustoimittaja, on kuollut 87-vuotiaana.",
+        "news_epoch": 1727018880.0
+    },
+    {
+        "news_id": "dw_world_70295770",
+        "news_source": "dw_world",
+        "news_header": "Tiemme r\u00e4j\u00e4hdys tappoi pakistanilaisen poliisin ja haavoitti kolmea muuta, kun he saattivat ulkomaalaisia diplomaattikulkueita.",
+        "news_epoch": 1727018160.0
+    },
+    {
+        "news_id": "bbc_world_78",
+        "news_source": "bbc_world",
+        "news_header": "Abban Bj\u00f6rn Ulvaeus on mennyt naimisiin Christina Sas'n kanssa.",
+        "news_epoch": 1727016720.0
+    },
+    {
+        "news_id": "bbc_world_0401",
+        "news_source": "bbc_world",
+        "news_header": "Ven\u00e4j\u00e4n shakkijoukkue pysyy kansainv\u00e4lisiss\u00e4 kilpailuissa kiellettyn\u00e4.",
+        "news_epoch": 1727016660.0
+    },
+    {
+        "news_id": "yle_business_7420113188",
+        "news_source": "yle_business",
+        "news_header": "Nordealla on ollut jatkuvia ongelmia verkkopankissa ja mobiilipankissa viikon ajan.",
+        "news_epoch": 1727016660.0
+    },
+    {
+        "news_id": "yle_business_7420112423",
+        "news_source": "yle_business",
+        "news_header": "Talousasiantuntijat ennustavat synkkyytt\u00e4 syksyksi, mutta my\u00f6s merkkej\u00e4 talouskasvusta on havaittavissa.",
+        "news_epoch": 1727015400.0
+    },
+    {
+        "news_id": "bbc_world_2431518",
+        "news_source": "bbc_world",
+        "news_header": "Saksan liittokansleri Olaf Scholz v\u00e4ltti nolostumisen, kun h\u00e4nen puolueensa voitti Brandenburgin osavaltion vaalit.",
+        "news_epoch": 1727015220.0
+    },
+    {
+        "news_id": "bbc_world_778860",
+        "news_source": "bbc_world",
+        "news_header": "Israelin joukot ovat sulkeneet Al Jazeeran toimiston Ramallahissa 45 p\u00e4iv\u00e4ksi.",
+        "news_epoch": 1727012580.0
+    },
+    {
+        "news_id": "yle_world_7420113213",
+        "news_source": "yle_world",
+        "news_header": "Tutkijat l\u00f6ysiv\u00e4t aiemmin tuntemattoman Mozartin teoksen, joka sai nimen Ganz kleine Nachtmusik.",
+        "news_epoch": 1727012400.0
+    },
+    {
+        "news_id": "dw_world_70295441",
+        "news_source": "dw_world",
+        "news_header": "Kansainv\u00e4linen yhteis\u00f6 hyv\u00e4ksyi New Yorkissa 'Paktin tulevaisuudelle', joka k\u00e4sittelee 21. vuosisadan haasteita.",
+        "news_epoch": 1727012340.0
+    },
+    {
+        "news_id": "yle_world_7420113214",
+        "news_source": "yle_world",
+        "news_header": "YK:n j\u00e4senvaltiot hyv\u00e4ksyiv\u00e4t tulevaisuussopimuksen, joka vahvistaa monenkeskist\u00e4 yhteisty\u00f6t\u00e4 ja vastaa 2000-luvun haasteisiin.",
+        "news_epoch": 1727010120.0
+    },
+    {
+        "news_id": "dw_world_70295079",
+        "news_source": "dw_world",
+        "news_header": "Keski-Japanissa tapahtuneet tulvat ja maanvy\u00f6rym\u00e4t ovat aiheuttaneet yhden kuoleman ja v\u00e4hint\u00e4\u00e4n 11 henkil\u00f6n katoamisen.",
+        "news_epoch": 1727008260.0
+    },
+    {
+        "news_id": "dw_world_70295253",
+        "news_source": "dw_world",
+        "news_header": "Sveitsiss\u00e4 j\u00e4rjestettiin kansan\u00e4\u00e4nestys biodiversiteetin suojelusta ja el\u00e4kerahoituksen uudistamisesta.",
+        "news_epoch": 1727008020.0
+    },
+    {
+        "news_id": "bbc_world_38",
+        "news_source": "bbc_world",
+        "news_header": "Hezbollah laukaisi raketti-iskuja Israelin alueelle, ja Iranin presidentti Ebrahim Raisi kuoli helikopterionnettomuudessa.",
+        "news_epoch": 1727003880.0
+    },
+    {
+        "news_id": "yle_world_7420113173",
+        "news_source": "yle_world",
+        "news_header": "Ranskan uusi hallitus kallistuu oikealle ja saa kritiikki\u00e4 vasemmistolta.",
+        "news_epoch": 1727003460.0
+    },
+    {
+        "news_id": "dw_world_70294284",
+        "news_source": "dw_world",
+        "news_header": "Sri Lankan vaaliviranomainen ilmoitti, ett\u00e4 Anura Kumara Dissanayake voitti vaalit 42,31 % \u00e4\u00e4nist\u00e4.",
+        "news_epoch": 1727001960.0
+    },
+    {
+        "news_id": "yle_world_7420113197",
+        "news_source": "yle_world",
+        "news_header": "Ven\u00e4j\u00e4 on saattanut testata mannertenv\u00e4list\u00e4 ballistista ydinohjusta, Sarmat, ep\u00e4onnistuneen asekokeen seurauksena.",
+        "news_epoch": 1726998360.0
+    },
+    {
+        "news_id": "bbc_world_30",
+        "news_source": "bbc_world",
+        "news_header": "Kenya l\u00e4hett\u00e4\u00e4 600 poliisia Haitiin auttamaan jengiv\u00e4kivallan torjunnassa.",
+        "news_epoch": 1726996680.0
+    },
+    {
+        "news_id": "yle_world_7420113186",
+        "news_source": "yle_world",
+        "news_header": "Euroopan unionin ensimm\u00e4inen puolustuskomissaariehdokas Andrius Kubilius haluaa parantaa j\u00e4senmaiden puolustusvalmiuksia.",
+        "news_epoch": 1726993620.0
+    },
+    {
+        "news_id": "yle_world_7420113183",
+        "news_source": "yle_world",
+        "news_header": "Israel ei halua sotaa Libanonin kanssa, sanoo presidentti Herzog.",
+        "news_epoch": 1726992000.0
+    },
+    {
+        "news_id": "bbc_world_24020",
+        "news_source": "bbc_world",
+        "news_header": "Kaasuputken aiheuttama r\u00e4j\u00e4hdys hiilikaivoksessa It\u00e4-Iranissa on tappanut v\u00e4hint\u00e4\u00e4n 51 ihmist\u00e4.",
+        "news_epoch": 1726987380.0
+    },
+    {
+        "news_id": "yle_world_7420113152",
+        "news_source": "yle_world",
+        "news_header": "Kaasuonnettomuus Iranin hiilikaivoksessa vaati 51 kaivosty\u00f6l\u00e4isen hengen.",
+        "news_epoch": 1726984620.0
+    },
+    {
+        "news_id": "yle_world_7420113170",
+        "news_source": "yle_world",
+        "news_header": "Vaurioituneen rahtilaivan matka It\u00e4mereen on keskeytynyt.",
+        "news_epoch": 1726984620.0
+    },
+    {
+        "news_id": "yle_world_7420113155",
+        "news_source": "yle_world",
+        "news_header": "Ranskan presidentti Emmanuel Macron nimesi uuden hallituksen, jota johtaa p\u00e4\u00e4ministeri Michel Barnier.",
+        "news_epoch": 1726981980.0
+    },
+    {
+        "news_id": "yle_science_7420113167",
+        "news_source": "yle_science",
+        "news_header": "Suomalaiset tutkijat osallistuvat Mars-planeetan tutkimukseen, keskittyen kaasukeh\u00e4\u00e4n ja veden kiertoon.",
+        "news_epoch": 1726981680.0
+    },
+    {
+        "news_id": "yle_world_7420113163",
+        "news_source": "yle_world",
+        "news_header": "Trump torjui v\u00e4ittelykutsun Harrisin kanssa.",
+        "news_epoch": 1726980600.0
+    },
+    {
+        "news_id": "yle_world_7420113159",
+        "news_source": "yle_world",
+        "news_header": "Israel siirt\u00e4\u00e4 sairaaloita ja peruu koulut Pohjois-Israelissa taisteluiden vuoksi.",
+        "news_epoch": 1726979400.0
+    },
+    {
+        "news_id": "yle_business_7420111939",
+        "news_source": "yle_business",
+        "news_header": "Turun telakka ja Royal Caribbean sopivat nelj\u00e4nnest\u00e4 Icon-luokan aluksesta, mutta rahoitus on viel\u00e4 j\u00e4rjestett\u00e4v\u00e4.",
+        "news_epoch": 1726978500.0
+    },
+    {
+        "news_id": "yle_world_7420113154",
+        "news_source": "yle_world",
+        "news_header": "Irakilainen aseistettujen ryhmien liittouma v\u00e4itt\u00e4\u00e4 tehneens\u00e4 drooni-iskun Israeliin.",
+        "news_epoch": 1726977000.0
+    },
+    {
+        "news_id": "dw_world_70290551",
+        "news_source": "dw_world",
+        "news_header": "Iranin presidentti Masoud Pezeshkianin kommentit moraalipoliisista her\u00e4ttiv\u00e4t kiivasta keskustelua.",
+        "news_epoch": 1726974240.0
+    },
+    {
+        "news_id": "yle_world_7420113151",
+        "news_source": "yle_world",
+        "news_header": "Sri Lankassa presidentinvaalit jatkuvat kahden ehdokkaan v\u00e4lill\u00e4 ilman suoraa voittajaa.",
+        "news_epoch": 1726974060.0
+    },
+    {
+        "news_id": "yle_business_7420111888",
+        "news_source": "yle_business",
+        "news_header": "Vastuullinen kuluttaminen kasvaa, mutta kotimaiset vaatemerkit kamppailevat vaikeuksissa.",
+        "news_epoch": 1726971300.0
+    },
+    {
+        "news_id": "yle_world_7420113147",
+        "news_source": "yle_world",
+        "news_header": "Libanonista ammuttiin yli sata rakettia Israeliin, mik\u00e4 johti tulipaloihin ja haavoittumisiin.",
+        "news_epoch": 1726970460.0
+    },
+    {
+        "news_id": "yle_world_7420110698",
+        "news_source": "yle_world",
+        "news_header": "Lee So-yeon kertoo tuskallisesta yrityksest\u00e4\u00e4n pelastaa poikansa Pohjois-Koreasta, jossa h\u00e4n on ollut vangittuna 16 vuotta.",
+        "news_epoch": 1726967700.0
+    },
+    {
+        "news_id": "dw_world_70291803",
+        "news_source": "dw_world",
+        "news_header": "Joe Biden kritisoi Kiinan aggressiivista k\u00e4yt\u00f6st\u00e4 Quad-huippukokouksessa.",
+        "news_epoch": 1726965660.0
+    },
+    {
+        "news_id": "yle_science_7420113145",
+        "news_source": "yle_science",
+        "news_header": "Syysp\u00e4iv\u00e4ntasaus merkitsee p\u00e4iv\u00e4ntasaajan valoa ja lyhenevi\u00e4 p\u00e4ivi\u00e4.",
+        "news_epoch": 1726960320.0
+    },
+    {
+        "news_id": "yle_world_7420113144",
+        "news_source": "yle_world",
+        "news_header": "Suomen valtuuskunta osallistuu tulevaisuushuippukokoukseen New Yorkissa.",
+        "news_epoch": 1726959600.0
+    },
+    {
+        "news_id": "dw_world_70291723",
+        "news_source": "dw_world",
+        "news_header": "Brasilian korkein oikeus vaatii lis\u00e4\u00e4 asiakirjoja Elon Muskilta ja X:lt\u00e4.",
+        "news_epoch": 1726956540.0
+    },
+    {
+        "news_id": "bbc_business_9376",
+        "news_source": "bbc_business",
+        "news_header": "Kilpailevat n\u00e4kemykset et\u00e4ty\u00f6n ja toimistoty\u00f6n tehokkuudesta.",
+        "news_epoch": 1726951860.0
+    },
+    {
+        "news_id": "bbc_world_912",
+        "news_source": "bbc_world",
+        "news_header": "Donald Trump ei osallistu toiseen TV-keskusteluun ennen presidentinvaaleja.",
+        "news_epoch": 1726949520.0
+    },
+    {
+        "news_id": "bbc_world_852018",
+        "news_source": "bbc_world",
+        "news_header": "Ranskan presidentti Emmanuel Macron esitteli uuden hallituksensa, joka siirtyy oikealle huolimatta vasemmistoliiton enemmist\u00f6st\u00e4 parlamentissa.",
+        "news_epoch": 1726944300.0
+    },
+    {
+        "news_id": "bbc_world_417",
+        "news_source": "bbc_world",
+        "news_header": "Liittoutuneiden sotilaiden muistojumpit toistettiin 80 vuotta my\u00f6hemmin Alankomaissa.",
+        "news_epoch": 1726940520.0
+    },
+    {
+        "news_id": "dw_world_70291188",
+        "news_source": "dw_world",
+        "news_header": "Ranskan uusi hallitus nimettiin poliittisen ep\u00e4varmuuden j\u00e4lkeen.",
+        "news_epoch": 1726937700.0
+    },
+    {
+        "news_id": "bbc_world_032724",
+        "news_source": "bbc_world",
+        "news_header": "Vladimir Kara-Murza, Ven\u00e4j\u00e4lt\u00e4 vapautettu dissidentti, aikoo palata maahansa.",
+        "news_epoch": 1726933680.0
+    },
+    {
+        "news_id": "yle_science_7420112856",
+        "news_source": "yle_science",
+        "news_header": "Carl von Linn\u00e9n 1700-luvulla tekem\u00e4 tutkimus selvitti, mit\u00e4 kasveja kotiel\u00e4imet sy\u00f6v\u00e4t mieluiten.",
+        "news_epoch": 1726932000.0
+    },
+    {
+        "news_id": "yle_business_7420112360",
+        "news_source": "yle_business",
+        "news_header": "Suomen saunapresidentti kutsui Japanin saunakuninkaan tutustumaan suomalaisiin saunoihin.",
+        "news_epoch": 1726928280.0
+    },
+    {
+        "news_id": "yle_business_7420108307",
+        "news_source": "yle_business",
+        "news_header": "Ravitsemusasiantuntija arvioi rahkojen terveellisyytt\u00e4 ja suosituimpia vaihtoehtoja.",
+        "news_epoch": 1726898340.0
+    },
+    {
+        "news_id": "bbc_business_0729",
+        "news_source": "bbc_business",
+        "news_header": "ISG:n UK-toiminnot kaatuivat, ja 2200 ty\u00f6ntekij\u00e4\u00e4 menetti ty\u00f6paikkansa.",
+        "news_epoch": 1726839720.0
+    },
+    {
+        "news_id": "bbc_business_2527",
+        "news_source": "bbc_business",
+        "news_header": "Microsoft on solminut 20 vuoden sopimuksen Three Mile Islandin ydinvoimalan kanssa, joka avataan uudelleen vuonna 2028.",
+        "news_epoch": 1726835040.0
+    },
+    {
         "news_id": "dw_world_70283919",
         "news_source": "dw_world",
         "news_header": "Kiina pyrkii est\u00e4m\u00e4\u00e4n tai muuttamaan EU:n tuontitulleja s\u00e4hk\u00f6autoille.",
