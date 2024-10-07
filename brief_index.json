@@ -1,5 +1,1439 @@
 [
     {
+        "news_id": "dw_world_70425224",
+        "news_source": "dw_world",
+        "news_header": "Intialainen painit\u00e4hti Vinesh Phogat uskoo, ett\u00e4 todellisen muutoksen aikaansaamiseksi h\u00e4nen on osallistuttava politiikkaan yht\u00e4 energisesti kuin painimatolla.",
+        "news_epoch": 1728294960.0
+    },
+    {
+        "news_id": "dw_world_70425302",
+        "news_source": "dw_world",
+        "news_header": "Koreat kirist\u00e4v\u00e4t kire\u00e4\u00e4 retoriikkaansa, uhkaillen ydinaseilla ja hallinnon tuhoamisella.",
+        "news_epoch": 1728294480.0
+    },
+    {
+        "news_id": "yle_world_7420116382",
+        "news_source": "yle_world",
+        "news_header": "Saksan teollisuuden tilaukset laskivat elokuussa 5,8 prosenttia hein\u00e4kuusta.",
+        "news_epoch": 1728292200.0
+    },
+    {
+        "news_id": "bbc_world_80849",
+        "news_source": "bbc_world",
+        "news_header": "Floridan asukkaita kehotetaan valmistautumaan suurimpaan evakuointiin vuosikausiin uuden hurrikaanin l\u00e4hestyess\u00e4.",
+        "news_epoch": 1728291060.0
+    },
+    {
+        "news_id": "yle_world_7420116367",
+        "news_source": "yle_world",
+        "news_header": "Ukrainalaishakkerit hy\u00f6kk\u00e4siv\u00e4t VGRTK:n verkkol\u00e4hetyksiin.",
+        "news_epoch": 1728290640.0
+    },
+    {
+        "news_id": "yle_world_7420116342",
+        "news_source": "yle_world",
+        "news_header": "Muistotilaisuuksia Israelin tukemiseksi ja Hamasin hy\u00f6kk\u00e4yksen muistoksi.",
+        "news_epoch": 1728290460.0
+    },
+    {
+        "news_id": "wpj_finance_2024202414257",
+        "news_source": "wpj_finance",
+        "news_header": "Yhdysvaltojen asuntolainahakemukset laskivat 1,3 prosenttia viikolla, joka p\u00e4\u00e4ttyi 27. syyskuuta 2024.",
+        "news_epoch": 1728289980.0
+    },
+    {
+        "news_id": "bbc_world_98102",
+        "news_source": "bbc_world",
+        "news_header": "Ukrainan armeija iski \u00f6ljyterminaaliin Krimin niemimaan rannikolla.",
+        "news_epoch": 1728287880.0
+    },
+    {
+        "news_id": "yle_business_7420115148",
+        "news_source": "yle_business",
+        "news_header": "Filippiinil\u00e4isten maahanmuutto Suomeen kasvaa hallituksen rekrytointipolitiikan my\u00f6t\u00e4.",
+        "news_epoch": 1728287880.0
+    },
+    {
+        "news_id": "bbc_world_5479",
+        "news_source": "bbc_world",
+        "news_header": "72-vuotias amerikkalainen Stephen James Hubbard tuomittiin l\u00e4hes seitsem\u00e4ksi vuodeksi vankilaan Ven\u00e4j\u00e4ll\u00e4.",
+        "news_epoch": 1728287640.0
+    },
+    {
+        "news_id": "bbc_world_27207",
+        "news_source": "bbc_world",
+        "news_header": "Japanin hallitus my\u00f6nsi, ett\u00e4 uuden kabinetin virallista kuvaa oli muokattu.",
+        "news_epoch": 1728287460.0
+    },
+    {
+        "news_id": "bbc_world_20699",
+        "news_source": "bbc_world",
+        "news_header": "Sean 'Diddy' Combsin \u00e4iti puolustaa poikaansa seksikauppasyyt\u00f6ksiss\u00e4.",
+        "news_epoch": 1728285960.0
+    },
+    {
+        "news_id": "dw_business_70418862",
+        "news_source": "dw_business",
+        "news_header": "Saksalainen talous on ollut kriisiss\u00e4 kahden vuoden ajan, ja haasteet ovat kasvaneet.",
+        "news_epoch": 1728285900.0
+    },
+    {
+        "news_id": "dw_world_70418862",
+        "news_source": "dw_world",
+        "news_header": "Saksalainen talous on ollut kriisiss\u00e4 kahden vuoden ajan, ja haasteet ovat lis\u00e4\u00e4ntyneet.",
+        "news_epoch": 1728285900.0
+    },
+    {
+        "news_id": "bbc_world_79979",
+        "news_source": "bbc_world",
+        "news_header": "Nobel-palkinto fysiologian tai l\u00e4\u00e4ketieteen alalla 2024 my\u00f6nnettiin Yhdysvaltojen tutkijoille Victor Ambrosille ja Gary Ruvkunille mikro-RNA:sta tehtyjen l\u00f6yt\u00f6jen vuoksi.",
+        "news_epoch": 1728285660.0
+    },
+    {
+        "news_id": "yle_world_7420116337",
+        "news_source": "yle_world",
+        "news_header": "Hurrikaani Milton rantautumassa Floridaan.",
+        "news_epoch": 1728285300.0
+    },
+    {
+        "news_id": "bbc_world_00789",
+        "news_source": "bbc_world",
+        "news_header": "Ranskalais-kamerunilainen kirjailija Charles Onana on oikeudenk\u00e4ynniss\u00e4 Pariisissa, syytettyn\u00e4 Ruandan kansanmurhan kiist\u00e4misest\u00e4.",
+        "news_epoch": 1728284760.0
+    },
+    {
+        "news_id": "bbc_business_6213650",
+        "news_source": "bbc_business",
+        "news_header": "Keskiarvoisen brittitalon hinta nousi l\u00e4hes enn\u00e4tyslukemiin syyskuussa, kun asuntolainojen korot laskivat.",
+        "news_epoch": 1728283320.0
+    },
+    {
+        "news_id": "dw_science_70374530",
+        "news_source": "dw_science",
+        "news_header": "Victor Ambros ja Gary Ruvkun saivat Nobelin l\u00e4\u00e4ketieteen tai fysiologian palkinnon mikroRNA:n l\u00f6yt\u00e4misest\u00e4.",
+        "news_epoch": 1728283020.0
+    },
+    {
+        "news_id": "yle_business_7420116318",
+        "news_source": "yle_business",
+        "news_header": "Rush Factory -tapahtumayhti\u00f6n konkurssihakemus peruttiin, kun velat maksettiin.",
+        "news_epoch": 1728282900.0
+    },
+    {
+        "news_id": "yle_world_7420116313",
+        "news_source": "yle_world",
+        "news_header": "Vuonna 2023 enn\u00e4tyskuumuus pahensi jokiin liittyvi\u00e4 ongelmia ja vesikriisi\u00e4.",
+        "news_epoch": 1728281880.0
+    },
+    {
+        "news_id": "yle_science_7420115371",
+        "news_source": "yle_science",
+        "news_header": "Nobel-viikko jatkuu fysiikan ja kemian palkinnoilla, ja l\u00e4\u00e4ketieteen Nobel-palkinto my\u00f6nnettiin Victor Ambrosille ja Gary Ruvkunille mikro-RNA:n tutkimuksesta.",
+        "news_epoch": 1728280800.0
+    },
+    {
+        "news_id": "yle_world_7420115371",
+        "news_source": "yle_world",
+        "news_header": "Nobel-palkintojen jakaminen alkaa, l\u00e4\u00e4ketieteen palkinto my\u00f6nnettiin Victor Ambrosille ja Gary Ruvkunille mikro-RNA:n tutkimuksesta.",
+        "news_epoch": 1728280800.0
+    },
+    {
+        "news_id": "yle_world_7420116306",
+        "news_source": "yle_world",
+        "news_header": "Robert Gilman sai yli seitsem\u00e4n vuoden vankeustuomion v\u00e4kivallasta viranomaisia kohtaan Ven\u00e4j\u00e4ll\u00e4.",
+        "news_epoch": 1728280080.0
+    },
+    {
+        "news_id": "dw_world_70421307",
+        "news_source": "dw_world",
+        "news_header": "Malediivien presidentti Mohamed Muizzu keskustelee Intian p\u00e4\u00e4ministerin Narendra Modin kanssa suhteiden parantamiseksi.",
+        "news_epoch": 1728279660.0
+    },
+    {
+        "news_id": "bbc_world_3130",
+        "news_source": "bbc_world",
+        "news_header": "Madonna muistelee velje\u00e4\u00e4n Christopher Cicconea, joka kuoli 63-vuotiaana sy\u00f6p\u00e4\u00e4n.",
+        "news_epoch": 1728279540.0
+    },
+    {
+        "news_id": "bbc_world_08401",
+        "news_source": "bbc_world",
+        "news_header": "Kaksi kiinalaista kansalaista kuoli ja kymmenen loukkaantui itsemurhaiskussa Karachi-lentokent\u00e4n l\u00e4hell\u00e4 Pakistanissa.",
+        "news_epoch": 1728277200.0
+    },
+    {
+        "news_id": "yle_world_7420116271",
+        "news_source": "yle_world",
+        "news_header": "Anti-Defamation League raportoi yli 10 000 antisemitistist\u00e4 tapausta Yhdysvalloissa vuoden aikana.",
+        "news_epoch": 1728276300.0
+    },
+    {
+        "news_id": "yle_business_7420114453",
+        "news_source": "yle_business",
+        "news_header": "Yli 900 Suomessa vakavista rikoksista syytetty\u00e4 henkil\u00f6\u00e4 toimii Virossa, kiert\u00e4en liiketoimintakieltoja ja piilottaen varallisuuttaan.",
+        "news_epoch": 1728275100.0
+    },
+    {
+        "news_id": "yle_world_7420116273",
+        "news_source": "yle_world",
+        "news_header": "R\u00e4j\u00e4hdys l\u00e4hell\u00e4 Israelin suurl\u00e4hetyst\u00f6\u00e4 K\u00f6\u00f6penhaminassa.",
+        "news_epoch": 1728274920.0
+    },
+    {
+        "news_id": "yle_business_7420116264",
+        "news_source": "yle_business",
+        "news_header": "Kelan etuuksien maksut voivat viiv\u00e4sty\u00e4 pankkien ongelmien vuoksi.",
+        "news_epoch": 1728273720.0
+    },
+    {
+        "news_id": "dw_world_770362921",
+        "news_source": "dw_world",
+        "news_header": "EU:n ja Israelin suhteet ovat j\u00e4nnitteisi\u00e4 vuoden kuluttua Hamasin hy\u00f6kk\u00e4yksest\u00e4.",
+        "news_epoch": 1728273480.0
+    },
+    {
+        "news_id": "yle_world_7420116257",
+        "news_source": "yle_world",
+        "news_header": "Norjan hallitus elvytt\u00e4\u00e4 taloutta \u00f6ljyrahastolla vaalivuonna.",
+        "news_epoch": 1728273060.0
+    },
+    {
+        "news_id": "bbc_world_8083399",
+        "news_source": "bbc_world",
+        "news_header": "Meksikolaisen kaupungin pormestari murhattiin vain kuusi p\u00e4iv\u00e4\u00e4 virkaanastumisensa j\u00e4lkeen.",
+        "news_epoch": 1728272520.0
+    },
+    {
+        "news_id": "bbc_world_6257",
+        "news_source": "bbc_world",
+        "news_header": "Hamasin hy\u00f6kk\u00e4yksest\u00e4 Israeliin on kulunut vuosi, ja tilanne Gazassa ja Libanonissa on edelleen kriittinen.",
+        "news_epoch": 1728272220.0
+    },
+    {
+        "news_id": "yle_business_7420116246",
+        "news_source": "yle_business",
+        "news_header": "Kojamon toimitusjohtaja Jani Nieminen eroaa teht\u00e4v\u00e4st\u00e4\u00e4n.",
+        "news_epoch": 1728271560.0
+    },
+    {
+        "news_id": "dw_world_70394892",
+        "news_source": "dw_world",
+        "news_header": "Sheikh Hasina erosi Bangladeshin p\u00e4\u00e4ministerin teht\u00e4v\u00e4st\u00e4 ja pakeni Intiaan elokuussa. H\u00e4nen eronsa seurasi kuukauden kest\u00e4neit\u00e4 v\u00e4kivaltaisia protesteja.",
+        "news_epoch": 1728269340.0
+    },
+    {
+        "news_id": "yle_business_7420116235",
+        "news_source": "yle_business",
+        "news_header": "Verohallinto ottaa k\u00e4ytt\u00f6\u00f6n ilmoituspalvelun positiivisessa luottorekisteriss\u00e4.",
+        "news_epoch": 1728268380.0
+    },
+    {
+        "news_id": "yle_world_7420116228",
+        "news_source": "yle_world",
+        "news_header": "Ven\u00e4l\u00e4inen oppositioaktivisti Ildar Dadin kuoli taistelussa Ukrainan puolella.",
+        "news_epoch": 1728267900.0
+    },
+    {
+        "news_id": "dw_science_70346756",
+        "news_source": "dw_science",
+        "news_header": "Nobel-palkinnot her\u00e4tt\u00e4v\u00e4t kysymyksi\u00e4 niiden merkityksest\u00e4 ja monimuotoisuudesta.",
+        "news_epoch": 1728267660.0
+    },
+    {
+        "news_id": "bbc_business_34634",
+        "news_source": "bbc_business",
+        "news_header": "BBC:n salainen tutkimus paljasti, ett\u00e4 monet yritykset esitt\u00e4v\u00e4t virheellisi\u00e4 elintarvikkeiden hygienia-arvioita, mik\u00e4 on laaja ongelma L\u00e4nsi-Lontoossa.",
+        "news_epoch": 1728265140.0
+    },
+    {
+        "news_id": "yle_business_7420115502",
+        "news_source": "yle_business",
+        "news_header": "Helsingin Tukkutorin pakastamo suljetaan, mik\u00e4 vaikuttaa alueen yritt\u00e4jiin ja heid\u00e4n toimintaansa.",
+        "news_epoch": 1728263400.0
+    },
+    {
+        "news_id": "yle_business_7420115165",
+        "news_source": "yle_business",
+        "news_header": "Perint\u00f6veron lakkauttaminen voisi johtaa miljardin euron veronkiristyksiin.",
+        "news_epoch": 1728261900.0
+    },
+    {
+        "news_id": "yle_world_7420116221",
+        "news_source": "yle_world",
+        "news_header": "Melania Trumpin aborttikanta on ristiriidassa Donald Trumpin kanssa.",
+        "news_epoch": 1728260400.0
+    },
+    {
+        "news_id": "yle_business_7420115056",
+        "news_source": "yle_business",
+        "news_header": "Alustaty\u00f6t kiinnostavat erityisesti maahanmuuttajia ja opiskelijoita, mutta niihin liittyy my\u00f6s ep\u00e4varmuutta.",
+        "news_epoch": 1728260100.0
+    },
+    {
+        "news_id": "yle_world_7420113588",
+        "news_source": "yle_world",
+        "news_header": "\u00d6kyrikkaiden miljard\u00f6\u00f6rien vaikutus Yhdysvaltain politiikassa on kasvanut, erityisesti presidentinvaalien rahoituksessa.",
+        "news_epoch": 1728256800.0
+    },
+    {
+        "news_id": "bbc_business_938",
+        "news_source": "bbc_business",
+        "news_header": "Englannissa on asuntokriisi, jossa yli miljoona perhett\u00e4 odottaa sosiaalista asuntoa.",
+        "news_epoch": 1728249060.0
+    },
+    {
+        "news_id": "bbc_world_943",
+        "news_source": "bbc_world",
+        "news_header": "Montenegro on ottanut vastaan yli 200 000 ukrainalaista pakolaista ja ven\u00e4l\u00e4ist\u00e4 maanpakolaista, tarjoten heille tilap\u00e4ist\u00e4 suojaa ja apua.",
+        "news_epoch": 1728247080.0
+    },
+    {
+        "news_id": "yle_world_7420116216",
+        "news_source": "yle_world",
+        "news_header": "Floridassa varaudutaan laajimpiin evakuointeihin hurrikaani Miltonin vuoksi.",
+        "news_epoch": 1728246360.0
+    },
+    {
+        "news_id": "bbc_world_51",
+        "news_source": "bbc_world",
+        "news_header": "Ven\u00e4l\u00e4inen oppositioaktivisti Ildar Dadin on kuollut taistelussa Ukrainassa.",
+        "news_epoch": 1728246120.0
+    },
+    {
+        "news_id": "bbc_business_1850",
+        "news_source": "bbc_business",
+        "news_header": "Yhdysvalloissa ja muualla maailmassa kokeillaan 1 dollarin koteja kaupunkien rappeutumisen torjumiseksi.",
+        "news_epoch": 1728246060.0
+    },
+    {
+        "news_id": "yle_world_7420116215",
+        "news_source": "yle_world",
+        "news_header": "Tunisiassa presidentti Kais Saied saa valtavan \u00e4\u00e4nivy\u00f6ryn vaaleissa, mik\u00e4 her\u00e4tt\u00e4\u00e4 huolta demokratian tilasta.",
+        "news_epoch": 1728244200.0
+    },
+    {
+        "news_id": "yle_world_7420116214",
+        "news_source": "yle_world",
+        "news_header": "T\u00e4n\u00e4\u00e4n julkistetaan l\u00e4\u00e4ketieteen Nobel-palkinnon saaja Tukholmassa.",
+        "news_epoch": 1728243240.0
+    },
+    {
+        "news_id": "bbc_world_4170",
+        "news_source": "bbc_world",
+        "news_header": "Useimmat r\u00e4j\u00e4hdykset ja Israelin ilmaiskut j\u00e4rkytt\u00e4v\u00e4t Beirutia.",
+        "news_epoch": 1728241080.0
+    },
+    {
+        "news_id": "dw_world_70418754",
+        "news_source": "dw_world",
+        "news_header": "Kaksi ihmist\u00e4 kuoli ja useita loukkaantui r\u00e4j\u00e4hdyksess\u00e4 Karachi Lentokent\u00e4n ulkopuolella.",
+        "news_epoch": 1728236100.0
+    },
+    {
+        "news_id": "yle_world_7420116209",
+        "news_source": "yle_world",
+        "news_header": "Pakistanilainen separatistij\u00e4rjest\u00f6 BLA on ilmoittanut pommi-iskusta, joka kohdistui Kiinan kansalaisiin Karachissa.",
+        "news_epoch": 1728234360.0
+    },
+    {
+        "news_id": "yle_world_7420116207",
+        "news_source": "yle_world",
+        "news_header": "Ampumav\u00e4likohtaus Kungsbackan ostoskeskuksessa, ep\u00e4ilty alle 15-vuotias.",
+        "news_epoch": 1728229860.0
+    },
+    {
+        "news_id": "dw_world_70412318",
+        "news_source": "dw_world",
+        "news_header": "Sukupuoleen perustuva v\u00e4kivalta on laajalle levinnyt ongelma, joka vaatii poliittisia ja oikeudellisia muutoksia.",
+        "news_epoch": 1728228600.0
+    },
+    {
+        "news_id": "dw_world_770416959",
+        "news_source": "dw_world",
+        "news_header": "Pro-Palestiinalaiset ja pro-Israelin mielenosoitukset ymp\u00e4ri maailmaa.",
+        "news_epoch": 1728226560.0
+    },
+    {
+        "news_id": "bbc_world_7813918",
+        "news_source": "bbc_world",
+        "news_header": "Satojen miljoonien ihmisten unelmat rauhasta ja turvallisuudesta L\u00e4hi-id\u00e4ss\u00e4 ovat yh\u00e4 kaukana, kun poliittiset ja uskonnolliset j\u00e4nnitteet syvenev\u00e4t sodan my\u00f6t\u00e4.",
+        "news_epoch": 1728225960.0
+    },
+    {
+        "news_id": "dw_world_770314584",
+        "news_source": "dw_world",
+        "news_header": "DJ Artifex, Israelin Supernova-festivaalin selviytyj\u00e4, jakaa kokemuksiaan ja musiikkiaan traagisen hy\u00f6kk\u00e4yksen j\u00e4lkeen.",
+        "news_epoch": 1728225000.0
+    },
+    {
+        "news_id": "yle_science_7420115406",
+        "news_source": "yle_science",
+        "news_header": "Avaruusj\u00e4rjest\u00f6t tekev\u00e4t yhteisty\u00f6t\u00e4 pelastaakseen Maan tulevalta asteroidilta.",
+        "news_epoch": 1728222840.0
+    },
+    {
+        "news_id": "yle_world_7420116197",
+        "news_source": "yle_world",
+        "news_header": "Bangladeshissa on tulvia, jotka ovat aiheuttaneet kuolemia ja evakuointeja.",
+        "news_epoch": 1728221400.0
+    },
+    {
+        "news_id": "bbc_business_153052",
+        "news_source": "bbc_business",
+        "news_header": "Yli 40 yrityst\u00e4 pyyt\u00e4\u00e4 Lontoon pormestaria laajentamaan s\u00e4hk\u00f6pakettiautojen ruuhkamaksuhelpotusta.",
+        "news_epoch": 1728217440.0
+    },
+    {
+        "news_id": "yle_business_7420115166",
+        "news_source": "yle_business",
+        "news_header": "Mainostajien pako sosiaalisen median palvelusta X jatkuu, kun Maailmanpankki vet\u00e4ytyi rasistisen sis\u00e4ll\u00f6n vuoksi.",
+        "news_epoch": 1728212400.0
+    },
+    {
+        "news_id": "yle_world_7420115166",
+        "news_source": "yle_world",
+        "news_header": "Mainostajien pako X:st\u00e4 jatkuu, kun Maailmanpankki vet\u00e4ytyi rasismisyyt\u00f6sten vuoksi.",
+        "news_epoch": 1728212400.0
+    },
+    {
+        "news_id": "yle_world_7420116185",
+        "news_source": "yle_world",
+        "news_header": "Ranskasta Britanniaan pyrki 973 ihmist\u00e4, ja nelj\u00e4 kuoli onnettomuuksissa.",
+        "news_epoch": 1728211140.0
+    },
+    {
+        "news_id": "yle_business_7420116167",
+        "news_source": "yle_business",
+        "news_header": "Autokaupassa syys- ja lokakuu ovat myyntikampanjoiden aikaa, mutta korkotarjoukset ovat olleet koko vuoden ilmi\u00f6.",
+        "news_epoch": 1728210600.0
+    },
+    {
+        "news_id": "yle_world_7420116181",
+        "news_source": "yle_world",
+        "news_header": "Tunisiassa pidet\u00e4\u00e4n kolmannet presidentinvaalit arabikev\u00e4\u00e4n j\u00e4lkeen.",
+        "news_epoch": 1728209940.0
+    },
+    {
+        "news_id": "yle_business_7420116174",
+        "news_source": "yle_business",
+        "news_header": "Rikollisryhm\u00e4t kykenev\u00e4t toteuttamaan palvelunestohy\u00f6kk\u00e4yksi\u00e4, erityisesti pankkeja vastaan.",
+        "news_epoch": 1728208860.0
+    },
+    {
+        "news_id": "bbc_business_7485359",
+        "news_source": "bbc_business",
+        "news_header": "Lord O'Donnell kritisoi ylipalkattua kabinetin sihteerin teht\u00e4v\u00e4\u00e4.",
+        "news_epoch": 1728206940.0
+    },
+    {
+        "news_id": "yle_world_7420116164",
+        "news_source": "yle_world",
+        "news_header": "Israel kuunteli Hizbollahin viestint\u00e4\u00e4 l\u00e4hes kymmenen vuotta salaisilla radiopuhelimilla.",
+        "news_epoch": 1728201540.0
+    },
+    {
+        "news_id": "yle_business_7420116159",
+        "news_source": "yle_business",
+        "news_header": "Nordealla on ollut teknisi\u00e4 ongelmia, jotka vaikuttivat maksimissaan tuhanteen asiakkaaseen.",
+        "news_epoch": 1728200400.0
+    },
+    {
+        "news_id": "yle_world_7420116170",
+        "news_source": "yle_world",
+        "news_header": "Marseillessa tapahtui poikkeuksellisen julma murha, jossa 15-vuotias poika puukotettiin ja sytytettiin tuleen.",
+        "news_epoch": 1728200220.0
+    },
+    {
+        "news_id": "yle_world_7420116153",
+        "news_source": "yle_world",
+        "news_header": "Viikonvaihteena tuhannet ihmiset osallistuivat palestiinalaisia tukevien mielenosoitusten sarjaan.",
+        "news_epoch": 1728192180.0
+    },
+    {
+        "news_id": "yle_world_7420116154",
+        "news_source": "yle_world",
+        "news_header": "Kiina ja Pohjois-Korea tiivist\u00e4v\u00e4t yhteisty\u00f6t\u00e4\u00e4n kansainv\u00e4listen talouspakotteiden kiert\u00e4miseksi.",
+        "news_epoch": 1728186900.0
+    },
+    {
+        "news_id": "bbc_business_4509",
+        "news_source": "bbc_business",
+        "news_header": "Ofgem p\u00e4\u00e4tt\u00e4\u00e4 tuesta s\u00e4hk\u00f6yhteydelle Skotlannin ja Pohjois-Irlannin v\u00e4lill\u00e4.",
+        "news_epoch": 1728183900.0
+    },
+    {
+        "news_id": "yle_business_7420115310",
+        "news_source": "yle_business",
+        "news_header": "Arto Autio, etsint\u00e4kuulutettu liikemies, kohtaa vakavia rikossyytteit\u00e4 ja kymmenien miljoonien vahingonkorvausvaatimuksia Nuorisos\u00e4\u00e4ti\u00f6lt\u00e4.",
+        "news_epoch": 1728183600.0
+    },
+    {
+        "news_id": "yle_world_7420116145",
+        "news_source": "yle_world",
+        "news_header": "Ven\u00e4j\u00e4n S-70-drooni mahdollisesti tuhoutui It\u00e4-Ukrainassa.",
+        "news_epoch": 1728181980.0
+    },
+    {
+        "news_id": "yle_business_7420116147",
+        "news_source": "yle_business",
+        "news_header": "Nordealla on ollut ongelmia mobiili- ja verkkopankkipalveluissa.",
+        "news_epoch": 1728181320.0
+    },
+    {
+        "news_id": "yle_business_7420115110",
+        "news_source": "yle_business",
+        "news_header": "Uusien asuntojen kauppa Suomessa piristyy mahdollisesti ensi kev\u00e4\u00e4n\u00e4, kun myym\u00e4tt\u00f6mien asuntojen m\u00e4\u00e4r\u00e4 on kasvanut.",
+        "news_epoch": 1728180000.0
+    },
+    {
+        "news_id": "yle_world_7420115438",
+        "news_source": "yle_world",
+        "news_header": "Shani Levy selviytyi Hamasin hy\u00f6kk\u00e4yksest\u00e4, mutta h\u00e4nen kaksoissisarensa Amit kuoli.",
+        "news_epoch": 1728178200.0
+    },
+    {
+        "news_id": "yle_world_7420116140",
+        "news_source": "yle_world",
+        "news_header": "Trooppinen myrsky Milton voimistumassa hurrikaaniksi ja l\u00e4hestyy Floridaa.",
+        "news_epoch": 1728169440.0
+    },
+    {
+        "news_id": "bbc_business_77156",
+        "news_source": "bbc_business",
+        "news_header": "Katie Smith on koukussa Rightmove-sovellukseen, vaikka h\u00e4n ei aio muuttaa.",
+        "news_epoch": 1728160560.0
+    },
+    {
+        "news_id": "yle_world_7420116137",
+        "news_source": "yle_world",
+        "news_header": "Donald Trump puhui kampanjatapahtumassa Butlerissa, Pennsylvaniassa, luodinkest\u00e4v\u00e4n suojan takana ja k\u00e4sitteli aiempaa salamurhayrityst\u00e4.",
+        "news_epoch": 1728157080.0
+    },
+    {
+        "news_id": "bbc_world_2880",
+        "news_source": "bbc_world",
+        "news_header": "Hezbollahin raketti-iskut Israelissa ja Yhdysvaltojen kansalaisvankien vapautus Ven\u00e4j\u00e4lt\u00e4.",
+        "news_epoch": 1728147420.0
+    },
+    {
+        "news_id": "dw_science_70343435",
+        "news_source": "dw_science",
+        "news_header": "Saksalainen avaruusj\u00e4rjest\u00f6 DLR ja Euroopan avaruusj\u00e4rjest\u00f6 ESA esitteliv\u00e4t LUNA Analog Facility -laitteen, joka simuloi kuun olosuhteita.",
+        "news_epoch": 1728137700.0
+    },
+    {
+        "news_id": "yle_science_7420108979",
+        "news_source": "yle_science",
+        "news_header": "Suomessa disinformaatiota levitet\u00e4\u00e4n teko\u00e4lyty\u00f6kaluilla, mik\u00e4 mahdollistaa harhaanjohtavan sis\u00e4ll\u00f6n tuotannon.",
+        "news_epoch": 1728134880.0
+    },
+    {
+        "news_id": "yle_science_7420114448",
+        "news_source": "yle_science",
+        "news_header": "Runar G\u00e5sstr\u00f6m, Neuvostoliiton kansalainen, oli osalistunut Suomeen 1946 ja liittyi Helsingin yliopiston fysiikan laitokseen, mutta h\u00e4nen taustansa her\u00e4tti ep\u00e4ilyksi\u00e4.",
+        "news_epoch": 1728107400.0
+    },
+    {
+        "news_id": "bbc_business_068600",
+        "news_source": "bbc_business",
+        "news_header": "Entinen Harrodsin johtaja v\u00e4itt\u00e4\u00e4, ett\u00e4 h\u00e4nen tarjouksensa Fenwickin toimitusjohtajaksi peruttiin Mohamed Al Fayedin ty\u00f6skentelyn vuoksi.",
+        "news_epoch": 1728055860.0
+    },
+    {
+        "news_id": "bbc_business_10924",
+        "news_source": "bbc_business",
+        "news_header": "\u00d6ljyn hinnat nousevat L\u00e4hi-id\u00e4n konfliktin my\u00f6t\u00e4.",
+        "news_epoch": 1728053640.0
+    },
+    {
+        "news_id": "dw_science_64724490",
+        "news_source": "dw_science",
+        "news_header": "Ruanda on varuillaan Marburg-viruksen aiheuttamien sairastapausten vuoksi.",
+        "news_epoch": 1728035220.0
+    },
+    {
+        "news_id": "dw_business_70388582",
+        "news_source": "dw_business",
+        "news_header": "Ranskan p\u00e4\u00e4ministeri Michel Barnier kohtaa haasteen saada 2025 budjetti l\u00e4pi parlamentista ilman enemmist\u00f6\u00e4.",
+        "news_epoch": 1728034380.0
+    },
+    {
+        "news_id": "dw_science_70375872",
+        "news_source": "dw_science",
+        "news_header": "Asteroidi 2024 ON ohitti Maan turvallisesti.",
+        "news_epoch": 1728033000.0
+    },
+    {
+        "news_id": "bbc_science_43728",
+        "news_source": "bbc_science",
+        "news_header": "Suuri auringonpurkaus havaittu, mahdollisuus revontulille.",
+        "news_epoch": 1728032340.0
+    },
+    {
+        "news_id": "wpj_finance_202420242024202414256",
+        "news_source": "wpj_finance",
+        "news_header": "Yhdysvaltojen asuntomarkkinoilla on alhaisin omistajuuden vaihtuvuus 30 vuoteen.",
+        "news_epoch": 1728027480.0
+    },
+    {
+        "news_id": "bbc_science_433",
+        "news_source": "bbc_science",
+        "news_header": "Havaijilla sijaitseva teleskooppi tallensi harvinaisen komeetan, Tsuchinshan-ATLASin, ohittaessa Maapallon.",
+        "news_epoch": 1727982120.0
+    },
+    {
+        "news_id": "wpj_finance_14255",
+        "news_source": "wpj_finance",
+        "news_header": "Michael Gerrity ilmoittaa, ett\u00e4 World Property Venturesin tyt\u00e4ryhti\u00f6 World Property Markets aloittaa merkitt\u00e4v\u00e4n 350 miljoonan dollarin yhteisrahoituskierroksen.",
+        "news_epoch": 1727975520.0
+    },
+    {
+        "news_id": "wpj_finance_14254",
+        "news_source": "wpj_finance",
+        "news_header": "Uudet muutokset komissiorakenteessa her\u00e4tt\u00e4v\u00e4t huolta kiinteist\u00f6nv\u00e4litt\u00e4jien keskuudessa.",
+        "news_epoch": 1727942700.0
+    },
+    {
+        "news_id": "bbc_science_620400",
+        "news_source": "bbc_science",
+        "news_header": "Tutkijat ovat vahvistaneet, ett\u00e4 dinosauruksia tuhoamaan johtaneen asteroidin lis\u00e4ksi toinen, pienempi asteroidi iski maahan 66 miljoonaa vuotta sitten.",
+        "news_epoch": 1727936100.0
+    },
+    {
+        "news_id": "bbc_science_0071",
+        "news_source": "bbc_science",
+        "news_header": "Tutkijat ovat kartoittaneet ensimm\u00e4ist\u00e4 kertaa hedelm\u00e4k\u00e4rp\u00e4sen aivojen 130 000 solua ja 50 miljoonaa yhteytt\u00e4.",
+        "news_epoch": 1727870400.0
+    },
+    {
+        "news_id": "dw_business_70385852",
+        "news_source": "dw_business",
+        "news_header": "Iranin ja Israelin v\u00e4liset j\u00e4nnitteet ovat lis\u00e4\u00e4ntyneet, mik\u00e4 on nostanut \u00f6ljyn hintoja ja uhkaa laajentaa konfliktia.",
+        "news_epoch": 1727864820.0
+    },
+    {
+        "news_id": "wpj_finance_20242024202414253",
+        "news_source": "wpj_finance",
+        "news_header": "Yhdysvaltojen asuntomarkkinoiden kohtuuhintaisuus jatkuu haasteena, vaikka pieni\u00e4 parannuksia on n\u00e4ht\u00e4viss\u00e4.",
+        "news_epoch": 1727856540.0
+    },
+    {
+        "news_id": "dw_business_70383508",
+        "news_source": "dw_business",
+        "news_header": "Yhdysvalloissa satamaty\u00f6l\u00e4iset lakkoilevat, mik\u00e4 voi vaikuttaa globaaleihin toimitusketjuihin ja saksalaisten autovalmistajien vientiin.",
+        "news_epoch": 1727855460.0
+    },
+    {
+        "news_id": "dw_business_70376035",
+        "news_source": "dw_business",
+        "news_header": "Portugali on yll\u00e4tt\u00e4en lopettanut laittomasti maahan saapuneiden siirtoty\u00f6l\u00e4isten oleskelun sallimisen ty\u00f6luvan hakemisen ajaksi.",
+        "news_epoch": 1727851020.0
+    },
+    {
+        "news_id": "dw_science_70346661",
+        "news_source": "dw_science",
+        "news_header": "Wegovy ja Ozempic ovat saaneet suuren suosion painonpudotusteollisuudessa COVID-19-pandemian aikana.",
+        "news_epoch": 1727848680.0
+    },
+    {
+        "news_id": "yle_science_7420115272",
+        "news_source": "yle_science",
+        "news_header": "Maria Peltolan tutkimus yhdist\u00e4\u00e4 keliakian ja vaikeahoitoisen epilepsian.",
+        "news_epoch": 1727838960.0
+    },
+    {
+        "news_id": "yle_science_7420114338",
+        "news_source": "yle_science",
+        "news_header": "CERN juhlii 70-vuotista taivaltaan ja lopettaa yhteisty\u00f6n ven\u00e4l\u00e4isten tutkimuslaitosten kanssa.",
+        "news_epoch": 1727783880.0
+    },
+    {
+        "news_id": "dw_business_70367168",
+        "news_source": "dw_business",
+        "news_header": "Claudia Sheinbaum aloittaa Meksikon ensimm\u00e4isen\u00e4 nais presidenttin\u00e4, mutta Donald Trumpin uhkaukset korkeista tulleista ja oikeusreformi her\u00e4tt\u00e4v\u00e4t huolta taloudesta.",
+        "news_epoch": 1727772900.0
+    },
+    {
+        "news_id": "wpj_finance_2024202414252",
+        "news_source": "wpj_finance",
+        "news_header": "Monacon asuntomarkkinat kokevat kasvua ja haasteita, kun ultra-rikkaiden m\u00e4\u00e4r\u00e4 kasvaa ja asuntotarve kasvaa.",
+        "news_epoch": 1727768580.0
+    },
+    {
+        "news_id": "wpj_finance_14251",
+        "news_source": "wpj_finance",
+        "news_header": "Uusi kirja tutkii teko\u00e4lyn sovelluksia kiinteist\u00f6alalla.",
+        "news_epoch": 1727762940.0
+    },
+    {
+        "news_id": "yle_science_7420114951",
+        "news_source": "yle_science",
+        "news_header": "S\u00e4\u00e4ti\u00f6t tukivat tiedett\u00e4, taidetta ja kansalaistoimintaa Suomessa 538 miljoonalla eurolla.",
+        "news_epoch": 1727721600.0
+    },
+    {
+        "news_id": "wpj_finance_2024202414250",
+        "news_source": "wpj_finance",
+        "news_header": "Asuntohintojen nousu Irlannissa kolmannella nelj\u00e4nneksell\u00e4 2024.",
+        "news_epoch": 1727690700.0
+    },
+    {
+        "news_id": "bbc_science_535738",
+        "news_source": "bbc_science",
+        "news_header": "Yhdistynyt kuningaskunta lopettaa hiilen k\u00e4yt\u00f6n s\u00e4hk\u00f6ntuotannossa.",
+        "news_epoch": 1727679720.0
+    },
+    {
+        "news_id": "bbc_science_1",
+        "news_source": "bbc_science",
+        "news_header": "SpaceX:n Dragon-kapseli on saapunut ISS:lle noutamaan kahta astronauttia.",
+        "news_epoch": 1727649780.0
+    },
+    {
+        "news_id": "bbc_science_3985",
+        "news_source": "bbc_science",
+        "news_header": "Viisi ihmist\u00e4 matkalla Titanicin hylylle koki traagisen onnettomuuden syv\u00e4ll\u00e4 meress\u00e4.",
+        "news_epoch": 1727530740.0
+    },
+    {
+        "news_id": "yle_science_7420114405",
+        "news_source": "yle_science",
+        "news_header": "Franklinin retkikunnan j\u00e4senist\u00e4 on tunnistettu kaksi miest\u00e4 DNA-tutkimuksen avulla.",
+        "news_epoch": 1727447460.0
+    },
+    {
+        "news_id": "wpj_finance_14249",
+        "news_source": "wpj_finance",
+        "news_header": "Kiinteist\u00f6markkinoiden trendit vaikuttavat kysynt\u00e4\u00e4n ja energiatehokkaat ikkunat ovat t\u00e4rkeit\u00e4.",
+        "news_epoch": 1727442900.0
+    },
+    {
+        "news_id": "dw_business_70341661",
+        "news_source": "dw_business",
+        "news_header": "Beirutin valuuttakauppias Farouk Khoury seuraa Israelin ja Hezbollahin v\u00e4list\u00e4 konfliktia, joka vaikuttaa h\u00e4nen liiketoimintaansa ja Libanonin talouteen.",
+        "news_epoch": 1727427540.0
+    },
+    {
+        "news_id": "wpj_finance_2024202414248",
+        "news_source": "wpj_finance",
+        "news_header": "Yhdysvaltojen asuntomyynti nousi hieman elokuussa 2024, mutta alueelliset erot ovat suuria.",
+        "news_epoch": 1727422620.0
+    },
+    {
+        "news_id": "yle_science_7420112395",
+        "news_source": "yle_science",
+        "news_header": "Kouluterveyskyselyt tarjoavat tietoa nuorten hyvinvoinnista, mutta niiden tulisi erottua tieteellisest\u00e4 tutkimuksesta.",
+        "news_epoch": 1727397900.0
+    },
+    {
+        "news_id": "dw_business_70301293",
+        "news_source": "dw_business",
+        "news_header": "Turkin strateginen laajentuminen Afrikassa keskittyy Somaliin, jossa maa tutkii \u00f6ljykentti\u00e4 ja parantaa sotilaallista yhteisty\u00f6t\u00e4.",
+        "news_epoch": 1727347800.0
+    },
+    {
+        "news_id": "yle_science_7420112493",
+        "news_source": "yle_science",
+        "news_header": "Tutkimus vanhuuden toimintakyvyst\u00e4 ja sen resilienssist\u00e4.",
+        "news_epoch": 1727340540.0
+    },
+    {
+        "news_id": "dw_business_70243489",
+        "news_source": "dw_business",
+        "news_header": "Oleg Stavitsky kritisoi EU:n s\u00e4\u00e4ntely\u00e4, joka est\u00e4\u00e4 teko\u00e4lyalan kehityst\u00e4 ja johtaa yritysten siirtymiseen Yhdysvaltoihin.",
+        "news_epoch": 1727254740.0
+    },
+    {
+        "news_id": "bbc_business_20",
+        "news_source": "bbc_business",
+        "news_header": "Kiina tutkii PVH-yhti\u00f6t\u00e4, joka omistaa Tommy Hilfigerin ja Calvin Kleinin, ep\u00e4iltyjen syrjivien toimenpiteiden vuoksi Xinjiangin puuvillayrityksi\u00e4 vastaan.",
+        "news_epoch": 1727240040.0
+    },
+    {
+        "news_id": "yle_world_7420113838",
+        "news_source": "yle_world",
+        "news_header": "Berliinin ja Pariisin v\u00e4linen junayhteys nopeutuu joulukuussa.",
+        "news_epoch": 1727238600.0
+    },
+    {
+        "news_id": "bbc_business_414",
+        "news_source": "bbc_business",
+        "news_header": "Huelin harhaanjohtava mainos kiellettiin terveysv\u00e4itteiden vuoksi.",
+        "news_epoch": 1727237340.0
+    },
+    {
+        "news_id": "yle_world_7420113828",
+        "news_source": "yle_world",
+        "news_header": "Donald Trump kommentoi Iranin uhkaa X:ss\u00e4.",
+        "news_epoch": 1727236680.0
+    },
+    {
+        "news_id": "bbc_world_484390",
+        "news_source": "bbc_world",
+        "news_header": "Kiina on onnistuneesti laukaisemassa interkontinentaalisen ballistisen ohjuksen Tyynellemerelle.",
+        "news_epoch": 1727236560.0
+    },
+    {
+        "news_id": "yle_world_7420113796",
+        "news_source": "yle_world",
+        "news_header": "Nuoren ty\u00f6ntekij\u00e4n kuolema her\u00e4tt\u00e4\u00e4 keskustelua Intian ty\u00f6skentelykulttuurista.",
+        "news_epoch": 1727236500.0
+    },
+    {
+        "news_id": "dw_science_7070298947",
+        "news_source": "dw_science",
+        "news_header": "CERN juhlii 70-vuotisjuhliaan ja on ollut keskeinen paikka tieteellisille l\u00e4pimurroille, kuten Higgsin bosonin l\u00f6yt\u00e4miselle.",
+        "news_epoch": 1727235060.0
+    },
+    {
+        "news_id": "bbc_world_023942",
+        "news_source": "bbc_world",
+        "news_header": "Donald Trump on saanut Yhdysvaltojen tiedustelulta tietoja Iranin uhista h\u00e4nen murhaamisekseen.",
+        "news_epoch": 1727234220.0
+    },
+    {
+        "news_id": "yle_world_7420113783",
+        "news_source": "yle_world",
+        "news_header": "Libanonissa siviilien h\u00e4t\u00e4 on ilmeinen Israelin iskujen vuoksi.",
+        "news_epoch": 1727233080.0
+    },
+    {
+        "news_id": "yle_world_7420113806",
+        "news_source": "yle_world",
+        "news_header": "Iranin presidentti Masoud Pezeshkian on valmis yhteisty\u00f6h\u00f6n l\u00e4nnen kanssa ydinohjelman osalta.",
+        "news_epoch": 1727232840.0
+    },
+    {
+        "news_id": "yle_business_7420113803",
+        "news_source": "yle_business",
+        "news_header": "Raision Nokian myllyss\u00e4 syttyi tulipalo, mutta vahingot j\u00e4iv\u00e4t pieniksi.",
+        "news_epoch": 1727231580.0
+    },
+    {
+        "news_id": "yle_business_7420113799",
+        "news_source": "yle_business",
+        "news_header": "Fingrid nostaa kantaverkkopalvelun maksuja 8 prosenttia ensi vuoden alusta.",
+        "news_epoch": 1727230260.0
+    },
+    {
+        "news_id": "bbc_business_58567",
+        "news_source": "bbc_business",
+        "news_header": "Keir Starmer uskoo, ett\u00e4 pitk\u00e4aikaissairauskorvauksia saavat ihmiset pit\u00e4isi velvoittaa etsim\u00e4\u00e4n ty\u00f6t\u00e4.",
+        "news_epoch": 1727230200.0
+    },
+    {
+        "news_id": "bbc_world_0361",
+        "news_source": "bbc_world",
+        "news_header": "Thaimaa hyv\u00e4ksyi avioliittotasa-arvolain, joka tunnustaa samaa sukupuolta olevien liitot.",
+        "news_epoch": 1727229900.0
+    },
+    {
+        "news_id": "yle_world_7420113795",
+        "news_source": "yle_world",
+        "news_header": "Hizbollah yritti iske\u00e4 Mossadin p\u00e4\u00e4majaan, mutta isku torjuttiin.",
+        "news_epoch": 1727229840.0
+    },
+    {
+        "news_id": "yle_world_7420113784",
+        "news_source": "yle_world",
+        "news_header": "Pesto-pingviini on viraali someilmi\u00f6 Melbournessa, painaen yli 23 kiloa.",
+        "news_epoch": 1727228700.0
+    },
+    {
+        "news_id": "yle_world_7420113790",
+        "news_source": "yle_world",
+        "news_header": "Presidentti Alexander Stubb keskusteli rauhansuunnitelmista palestiinalaishallinnon presidentti Mahmoud Abbasin kanssa.",
+        "news_epoch": 1727228460.0
+    },
+    {
+        "news_id": "bbc_business_70364",
+        "news_source": "bbc_business",
+        "news_header": "Boeingin ty\u00f6ntekij\u00f6iden ammattiliitto ilmoittaa, ett\u00e4 j\u00e4senet eiv\u00e4t ole kiinnostuneita yhti\u00f6n uudesta palkkatarjouksesta.",
+        "news_epoch": 1727228280.0
+    },
+    {
+        "news_id": "yle_world_7420113780",
+        "news_source": "yle_world",
+        "news_header": "Kiina testasi mannertenv\u00e4list\u00e4 ballistista ohjusta Tyynell\u00e4 valtamerell\u00e4.",
+        "news_epoch": 1727226180.0
+    },
+    {
+        "news_id": "yle_world_7420113775",
+        "news_source": "yle_world",
+        "news_header": "Iran toimii v\u00e4litt\u00e4j\u00e4n\u00e4 Ven\u00e4j\u00e4n ja Jemenin huthikapinallisten neuvotteluissa.",
+        "news_epoch": 1727224020.0
+    },
+    {
+        "news_id": "bbc_science_525",
+        "news_source": "bbc_science",
+        "news_header": "Keski-Euroopan tuhoisat tulvat pahenivat ilmastonmuutoksen vuoksi, mik\u00e4 ennustaa tulevaisuutta nopeimmin l\u00e4mpenev\u00e4ll\u00e4 mantereella.",
+        "news_epoch": 1727222760.0
+    },
+    {
+        "news_id": "bbc_world_525",
+        "news_source": "bbc_world",
+        "news_header": "Keski-Euroopan tuhoisat tulvat pahenivat ilmastonmuutoksen vuoksi, mik\u00e4 ennustaa tulevaisuutta nopeimmin l\u00e4mpenev\u00e4ll\u00e4 mantereella.",
+        "news_epoch": 1727222760.0
+    },
+    {
+        "news_id": "bbc_world_03528",
+        "news_source": "bbc_world",
+        "news_header": "Hip-hop-moguli Sean 'Diddy' Combs on pid\u00e4tetty liittovaltion vankilassa syytettyn\u00e4 rikollisj\u00e4rjest\u00f6toiminnasta ja seksikaupasta.",
+        "news_epoch": 1727222460.0
+    },
+    {
+        "news_id": "yle_business_7420113769",
+        "news_source": "yle_business",
+        "news_header": "Lehto Group luopuu rakennusliiketoiminnasta ja keskittyy energiaratkaisuihin.",
+        "news_epoch": 1727221980.0
+    },
+    {
+        "news_id": "dw_world_70318065",
+        "news_source": "dw_world",
+        "news_header": "Donald Trump on saanut Yhdysvaltojen tiedustelupalvelulta tietoa Iranista tulevista kuolemanuhista.",
+        "news_epoch": 1727220720.0
+    },
+    {
+        "news_id": "yle_world_7420113342",
+        "news_source": "yle_world",
+        "news_header": "Leonid Volkovin pahoinpitely her\u00e4tti keskustelua Ven\u00e4j\u00e4n oppositiosta ja sen sis\u00e4isist\u00e4 ristiriidoista.",
+        "news_epoch": 1727220000.0
+    },
+    {
+        "news_id": "yle_world_7420113765",
+        "news_source": "yle_world",
+        "news_header": "Britannia siirt\u00e4\u00e4 700 sotilasta Kyprokselle Libanonin tilanteen vuoksi.",
+        "news_epoch": 1727218500.0
+    },
+    {
+        "news_id": "bbc_world_38729",
+        "news_source": "bbc_world",
+        "news_header": "Fidel Castron mukaan Kuuba oli maailman turvallisin maa, mutta nuorten v\u00e4kivalta ja huumeongelmat kyseenalaistavat t\u00e4m\u00e4n v\u00e4itteen.",
+        "news_epoch": 1727216760.0
+    },
+    {
+        "news_id": "yle_world_7420113764",
+        "news_source": "yle_world",
+        "news_header": "Yhdysvaltain tiedustelupalvelu varoitti Trumpia Iranin uhista.",
+        "news_epoch": 1727215980.0
+    },
+    {
+        "news_id": "bbc_world_078112",
+        "news_source": "bbc_world",
+        "news_header": "Ukrainan presidentti Volodymyr Zelensky esittelee voitto-suunnitelmansa Yhdysvaltain presidentti Joe Bidenille, etsien vahvaa tukea ennen Bidenin l\u00e4ht\u00f6\u00e4 Valkoisesta talosta.",
+        "news_epoch": 1727211600.0
+    },
+    {
+        "news_id": "dw_world_70317946",
+        "news_source": "dw_world",
+        "news_header": "Ryan R. syytet\u00e4\u00e4n Donald Trumpin murhayrityksest\u00e4 ja muista rikoksista.",
+        "news_epoch": 1727210700.0
+    },
+    {
+        "news_id": "bbc_business_0984",
+        "news_source": "bbc_business",
+        "news_header": "Yhdysvaltojen SEC:n puheenjohtaja varoittaa kryptovaluuttateollisuudesta, joka on t\u00e4ynn\u00e4 petoksia ja lainrikkomuksia.",
+        "news_epoch": 1727208660.0
+    },
+    {
+        "news_id": "bbc_business_0593238",
+        "news_source": "bbc_business",
+        "news_header": "Yhdysvallat on nostanut kanteen Visaa vastaan kilpailun rajoittamisesta.",
+        "news_epoch": 1727208540.0
+    },
+    {
+        "news_id": "bbc_world_0593238",
+        "news_source": "bbc_world",
+        "news_header": "Yhdysvallat on nostanut kanteen Visaa vastaan kilpailun rajoittamisesta.",
+        "news_epoch": 1727208540.0
+    },
+    {
+        "news_id": "bbc_business_38",
+        "news_source": "bbc_business",
+        "news_header": "Nike ja Sky mainokset kiellettiin harhaanjohtavina.",
+        "news_epoch": 1727208240.0
+    },
+    {
+        "news_id": "yle_world_7420113762",
+        "news_source": "yle_world",
+        "news_header": "Libanonissa l\u00e4hes puoli miljoonaa ihmist\u00e4 on paennut Israelin iskuja, jotka ovat aiheuttaneet kuolemia ja tuhoa.",
+        "news_epoch": 1727206740.0
+    },
+    {
+        "news_id": "yle_world_7420113761",
+        "news_source": "yle_world",
+        "news_header": "Mies, joka v\u00e4ijyi Donald Trumpia, on saanut syytteen salamurhan yrityksest\u00e4.",
+        "news_epoch": 1727206680.0
+    },
+    {
+        "news_id": "yle_world_7420113760",
+        "news_source": "yle_world",
+        "news_header": "Presidentti Stubb tapasi Zelenskyin ja keskusteli Suomen tuesta Ukrainalle.",
+        "news_epoch": 1727203560.0
+    },
+    {
+        "news_id": "bbc_world_512",
+        "news_source": "bbc_world",
+        "news_header": "YK:n pakolaisj\u00e4rjest\u00f6n ty\u00f6ntekij\u00e4 ja h\u00e4nen lapsensa kuolivat Israelin ilmaiskussa Libanonissa.",
+        "news_epoch": 1727202780.0
+    },
+    {
+        "news_id": "bbc_business_2343",
+        "news_source": "bbc_business",
+        "news_header": "CrowdStrike kohtasi tiukkaa kritiikki\u00e4 roolistaan hein\u00e4kuun globaalissa IT-h\u00e4iri\u00f6ss\u00e4 Yhdysvaltain kongressissa.",
+        "news_epoch": 1727202120.0
+    },
+    {
+        "news_id": "bbc_world_2343",
+        "news_source": "bbc_world",
+        "news_header": "CrowdStrike kohtasi tiukkaa kritiikki\u00e4 kongressissa hein\u00e4kuun globaalin IT-h\u00e4iri\u00f6n vuoksi.",
+        "news_epoch": 1727202120.0
+    },
+    {
+        "news_id": "yle_world_7420113759",
+        "news_source": "yle_world",
+        "news_header": "YK:n turvallisuusneuvosto kokoontuu h\u00e4t\u00e4kokoukseen Libanonin tilanteen vuoksi.",
+        "news_epoch": 1727199660.0
+    },
+    {
+        "news_id": "bbc_world_931",
+        "news_source": "bbc_world",
+        "news_header": "Israelin hy\u00f6kk\u00e4ys Hezbollahia vastaan on edistynyt, mutta se on aiheuttanut suurta tuhoa Libanonissa ja her\u00e4tt\u00e4nyt kansainv\u00e4list\u00e4 kritiikki\u00e4.",
+        "news_epoch": 1727196960.0
+    },
+    {
+        "news_id": "wpj_finance_14244",
+        "news_source": "wpj_finance",
+        "news_header": "David Weekley Homes avasi Crescent Pointe -yhteis\u00f6n klubitalon, joka palvelee 55+ asukkaita.",
+        "news_epoch": 1727196480.0
+    },
+    {
+        "news_id": "bbc_world_0505",
+        "news_source": "bbc_world",
+        "news_header": "Sri Lankan president Anura Kumara Dissanayake on the verge of a snap election and appoints Harini Amarasuriya as the new prime minister.",
+        "news_epoch": 1727196000.0
+    },
+    {
+        "news_id": "yle_world_7420113756",
+        "news_source": "yle_world",
+        "news_header": "Hamas ei osallistu uusiin neuvotteluihin aselevosta.",
+        "news_epoch": 1727195880.0
+    },
+    {
+        "news_id": "yle_world_7420113554",
+        "news_source": "yle_world",
+        "news_header": "\u00c4ht\u00e4rin el\u00e4inpuiston pandojen palautus Kiinaan ei heikenn\u00e4 Suomen ja Kiinan diplomaattisuhteita.",
+        "news_epoch": 1727191080.0
+    },
+    {
+        "news_id": "dw_world_170314117",
+        "news_source": "dw_world",
+        "news_header": "Sveitsin Schaffhausenissa useita henkil\u00f6it\u00e4 pid\u00e4tettiin ja kuollut vietiin ruumiinavausta varten Sarco-kapselin k\u00e4yt\u00f6n j\u00e4lkeen.",
+        "news_epoch": 1727189340.0
+    },
+    {
+        "news_id": "yle_world_7420113752",
+        "news_source": "yle_world",
+        "news_header": "Ecuadorin hallitus ottaa k\u00e4ytt\u00f6\u00f6n \u00f6isi\u00e4 s\u00e4hk\u00f6katkoksia s\u00e4hk\u00f6pulasta johtuen.",
+        "news_epoch": 1727188920.0
+    },
+    {
+        "news_id": "bbc_world_530",
+        "news_source": "bbc_world",
+        "news_header": "Saksalainen iso\u00e4iti ja h\u00e4nen viisi kuukautta vanha lapsenlapsensa ovat kadonneet tulvan j\u00e4lkeen Toscanassa.",
+        "news_epoch": 1727186880.0
+    },
+    {
+        "news_id": "bbc_world_480874",
+        "news_source": "bbc_world",
+        "news_header": "Ghanassa tunnetun toimittajan ja kuninkaan v\u00e4linen riita her\u00e4tt\u00e4\u00e4 huomiota.",
+        "news_epoch": 1727186340.0
+    },
+    {
+        "news_id": "yle_business_7420113451",
+        "news_source": "yle_business",
+        "news_header": "Nordean verkkopankin h\u00e4iri\u00f6t ovat aiheuttaneet asiakkaille ongelmia, mukaan lukien perheen matkan peruuntuminen.",
+        "news_epoch": 1727185860.0
+    },
+    {
+        "news_id": "bbc_business_93794",
+        "news_source": "bbc_business",
+        "news_header": "Yhdistyneen kuningaskunnan hallitus on vahvistanut, ett\u00e4 Aberdeenista tulee uusi valtion omistama energiayhti\u00f6.",
+        "news_epoch": 1727183940.0
+    },
+    {
+        "news_id": "yle_world_7420113709",
+        "news_source": "yle_world",
+        "news_header": "Viron yleisradio sai \u00e4\u00e4nitteen Newnew Polar Bear -aluksen ja viranomaisten v\u00e4lisest\u00e4 keskustelusta ennen putki- ja kaapelituhoja.",
+        "news_epoch": 1727183940.0
+    },
+    {
+        "news_id": "yle_world_7420113744",
+        "news_source": "yle_world",
+        "news_header": "Rahtilaiva Ruby matkalla kohti Maltaa, mutta satamalupa ev\u00e4tty.",
+        "news_epoch": 1727183460.0
+    },
+    {
+        "news_id": "yle_business_7420113731",
+        "news_source": "yle_business",
+        "news_header": "S\u00e4\u00e4t\u00f6s\u00e4hk\u00f6n tarve kasvaa s\u00e4\u00e4n vaihteluiden vuoksi, mik\u00e4 johtaa korkeisiin hintoihin.",
+        "news_epoch": 1727182020.0
+    },
+    {
+        "news_id": "bbc_world_24505",
+        "news_source": "bbc_world",
+        "news_header": "Ven\u00e4j\u00e4 iski asuinkerrostaloon Harkovissa, Ukrainassa, surmaten v\u00e4hint\u00e4\u00e4n kolme ihmist\u00e4 ja haavoittaen 31 muuta.",
+        "news_epoch": 1727181660.0
+    },
+    {
+        "news_id": "yle_world_7420113624",
+        "news_source": "yle_world",
+        "news_header": "Israel on k\u00e4ynnist\u00e4nyt laajoja ilmaiskuja Libanoniin, mik\u00e4 voi johtaa t\u00e4ysimittaiseen sotaan Hizbollahin kanssa.",
+        "news_epoch": 1727181540.0
+    },
+    {
+        "news_id": "yle_world_7420113677",
+        "news_source": "yle_world",
+        "news_header": "Kiinalaiset seuraavat tarkasti pandojen el\u00e4m\u00e4\u00e4 ulkomailla, erityisesti \u00c4ht\u00e4rin el\u00e4inpuiston palauttaessa Lumi ja Pyry -pandat Kiinaan.",
+        "news_epoch": 1727179140.0
+    },
+    {
+        "news_id": "dw_world_70313033",
+        "news_source": "dw_world",
+        "news_header": "L\u00e4nsi- ja Keski-Afrikan konfliktit ovat h\u00e4irinneet noin 2,8 miljoonan lapsen koulutusta.",
+        "news_epoch": 1727178540.0
+    },
+    {
+        "news_id": "dw_world_70312958",
+        "news_source": "dw_world",
+        "news_header": "Israelin p\u00e4\u00e4ministeri Benjamin Netanyahu puolustaa hy\u00f6kk\u00e4yksi\u00e4 Libanonissa Hezbollahia vastaan.",
+        "news_epoch": 1727178420.0
+    },
+    {
+        "news_id": "yle_world_7420113739",
+        "news_source": "yle_world",
+        "news_header": "Yhdysvaltain presidentti Biden vaatii diplomaattista ratkaisua Israelin ja Hizbollahin konfliktiin.",
+        "news_epoch": 1727178360.0
+    },
+    {
+        "news_id": "dw_world_2770314510",
+        "news_source": "dw_world",
+        "news_header": "Albanian p\u00e4\u00e4ministeri Edi Rama ilmoitti suunnitelmasta perustaa itsen\u00e4inen valtio Bektashi-ordille Tiranaan.",
+        "news_epoch": 1727177820.0
+    },
+    {
+        "news_id": "bbc_world_64732",
+        "news_source": "bbc_world",
+        "news_header": "Zambian president Hakainde Hichilema on suspendoinut kolme tuomaria v\u00e4itetyst\u00e4 oikeudellisesta v\u00e4\u00e4rink\u00e4yt\u00f6ksest\u00e4.",
+        "news_epoch": 1727177340.0
+    },
+    {
+        "news_id": "yle_world_7420113735",
+        "news_source": "yle_world",
+        "news_header": "Ven\u00e4j\u00e4n opposition j\u00e4seni\u00e4 uhkaavat mielivaltaiset rangaistukset.",
+        "news_epoch": 1727177040.0
+    },
+    {
+        "news_id": "dw_world_70313182",
+        "news_source": "dw_world",
+        "news_header": "Intian hallitseva BJP-puolue aikoo toteuttaa 'Yksi kansa, yksi vaali' -aloitetta, joka yhdist\u00e4\u00e4 eri vaalit viiden vuoden v\u00e4lein.",
+        "news_epoch": 1727175000.0
+    },
+    {
+        "news_id": "bbc_world_89",
+        "news_source": "bbc_world",
+        "news_header": "Israelin pommitukset etel\u00e4isess\u00e4 Libanonissa pakottavat tuhansia siviilej\u00e4 pakenemaan kodeistaan.",
+        "news_epoch": 1727174820.0
+    },
+    {
+        "news_id": "yle_world_7420113727",
+        "news_source": "yle_world",
+        "news_header": "EU tukee tulvista k\u00e4rsineit\u00e4 j\u00e4senmaita.",
+        "news_epoch": 1727174520.0
+    },
+    {
+        "news_id": "bbc_business_106",
+        "news_source": "bbc_business",
+        "news_header": "TSB pahoittelee asiakkaitaan maksujen viiv\u00e4stymisest\u00e4 teknisen ongelman vuoksi.",
+        "news_epoch": 1727173560.0
+    },
+    {
+        "news_id": "bbc_world_81449",
+        "news_source": "bbc_world",
+        "news_header": "Sveitsiss\u00e4 poliisi teki useita pid\u00e4tyksi\u00e4 naisen itsemurhan j\u00e4lkeen, joka tapahtui niin sanotun itsemurhapodin avulla.",
+        "news_epoch": 1727171760.0
+    },
+    {
+        "news_id": "yle_world_7420113706",
+        "news_source": "yle_world",
+        "news_header": "Sveitsiss\u00e4 useita pid\u00e4tyksi\u00e4 avustetun itsemurhan yhteydess\u00e4.",
+        "news_epoch": 1727171400.0
+    },
+    {
+        "news_id": "yle_world_7420113362",
+        "news_source": "yle_world",
+        "news_header": "Britannian ty\u00f6v\u00e4enpuolueen hallituskausi on alkanut ongelmilla ja kritiikill\u00e4.",
+        "news_epoch": 1727170740.0
+    },
+    {
+        "news_id": "bbc_business_5492",
+        "news_source": "bbc_business",
+        "news_header": "CrowdStrikein IT-h\u00e4iri\u00f6 vaikutti miljooniin k\u00e4ytt\u00e4jiin ja aiheutti ongelmia terveydenhuollossa ja matkustamisessa.",
+        "news_epoch": 1727168940.0
+    },
+    {
+        "news_id": "dw_world_70309674",
+        "news_source": "dw_world",
+        "news_header": "Enel suunnittelee vet\u00e4ytyv\u00e4ns\u00e4 Vietnamista, mik\u00e4 heijastaa huolia maan uusiutuvan energian sektorista.",
+        "news_epoch": 1727167740.0
+    },
+    {
+        "news_id": "wpj_finance_202414243",
+        "news_source": "wpj_finance",
+        "news_header": "Kalifornian asuntomarkkinoilla myynti laski elokuussa 2024, vaikka korkotaso oli alhaisin sitten kev\u00e4\u00e4n 2024.",
+        "news_epoch": 1727167320.0
+    },
+    {
+        "news_id": "yle_world_7420113664",
+        "news_source": "yle_world",
+        "news_header": "Israelin ilmaiskut Libanoniin ovat aiheuttaneet satoja kuolemia ja pakottaneet tuhansia evakkoon.",
+        "news_epoch": 1727163300.0
+    },
+    {
+        "news_id": "dw_world_370308695",
+        "news_source": "dw_world",
+        "news_header": "Keski-Vietnamissa on tapahtunut tuhoisia tulvia, joissa on kuollut ainakin kolme ihmist\u00e4 ja yli 10 000 on evakuoitu.",
+        "news_epoch": 1727162220.0
+    },
+    {
+        "news_id": "yle_business_7420113652",
+        "news_source": "yle_business",
+        "news_header": "Tupakkaveron korotus lis\u00e4\u00e4 verotuloja ja v\u00e4hent\u00e4\u00e4 valtion nettolainanoton tarvetta.",
+        "news_epoch": 1727161440.0
+    },
+    {
+        "news_id": "bbc_business_361",
+        "news_source": "bbc_business",
+        "news_header": "Superdryn toimitusjohtaja Julian Dunkerton kritisoi Sheinin veronkiertoa ja vaatii hallitusta puuttumaan asiaan.",
+        "news_epoch": 1727161140.0
+    },
+    {
+        "news_id": "dw_business_70250391",
+        "news_source": "dw_business",
+        "news_header": "Kiina ja EU keskustelevat s\u00e4hk\u00f6autojen tuontitulleista.",
+        "news_epoch": 1727159880.0
+    },
+    {
+        "news_id": "bbc_business_503",
+        "news_source": "bbc_business",
+        "news_header": "Kiinan keskuspankki esitteli toimenpiteit\u00e4 talouden elvytt\u00e4miseksi.",
+        "news_epoch": 1727158980.0
+    },
+    {
+        "news_id": "bbc_world_503",
+        "news_source": "bbc_world",
+        "news_header": "Kiinan keskuspankki julkisti toimenpiteit\u00e4 talouden elvytt\u00e4miseksi.",
+        "news_epoch": 1727158980.0
+    },
+    {
+        "news_id": "dw_world_202470265707",
+        "news_source": "dw_world",
+        "news_header": "Yvonne Aki-Sawyerr, Freetownin pormestari, on saanut tunnustusta kest\u00e4v\u00e4st\u00e4 kaupunkikehityksest\u00e4 ja paikallisesta osallistumisesta.",
+        "news_epoch": 1727154000.0
+    },
+    {
+        "news_id": "yle_business_7420113589",
+        "news_source": "yle_business",
+        "news_header": "Ruoan hinnat laskevat t\u00e4n\u00e4 vuonna, mutta nousevat ensi vuonna.",
+        "news_epoch": 1727151000.0
+    },
+    {
+        "news_id": "yle_business_7420113366",
+        "news_source": "yle_business",
+        "news_header": "Rakennusteollisuus k\u00e4rsii tuotannon laskusta ja ty\u00f6tt\u00f6myyden kasvusta.",
+        "news_epoch": 1727150400.0
+    },
+    {
+        "news_id": "yle_science_7420113574",
+        "news_source": "yle_science",
+        "news_header": "Tutkimus paljastaa GDNF-hermokasvutekij\u00e4n vaihtelun vaikutukset suoliston toimintaan ja mahdolliset hoitokeinot Alzheimerin tautiin.",
+        "news_epoch": 1727149740.0
+    },
+    {
+        "news_id": "dw_science_70300263",
+        "news_source": "dw_science",
+        "news_header": "Muistot voivat olla v\u00e4\u00e4ristyneit\u00e4 ja vaikuttaa identiteettiimme.",
+        "news_epoch": 1727149260.0
+    },
+    {
+        "news_id": "bbc_business_447451",
+        "news_source": "bbc_business",
+        "news_header": "Vesiyhti\u00f6 SWW:n kokeilu vesimaksujen muuttamisesta her\u00e4tt\u00e4\u00e4 vastustusta, koska asiakkaat eiv\u00e4t voi kielt\u00e4yty\u00e4 osallistumasta.",
+        "news_epoch": 1727143500.0
+    },
+    {
+        "news_id": "yle_business_7420113532",
+        "news_source": "yle_business",
+        "news_header": "Kiinan keskuspankki ilmoitti toimenpiteist\u00e4 talouden elvytt\u00e4miseksi.",
+        "news_epoch": 1727140620.0
+    },
+    {
+        "news_id": "dw_world_70306602",
+        "news_source": "dw_world",
+        "news_header": "Boeingin uusi tarjous 30% palkankorotuksesta ei riit\u00e4 ammattiliiton vaatimuksiin.",
+        "news_epoch": 1727138880.0
+    },
+    {
+        "news_id": "dw_world_70306344",
+        "news_source": "dw_world",
+        "news_header": "Japani nosti tsunami-varoituksen et\u00e4isilt\u00e4 saarilta voimakkaan maanj\u00e4ristyksen j\u00e4lkeen.",
+        "news_epoch": 1727137200.0
+    },
+    {
+        "news_id": "yle_science_7420108682",
+        "news_source": "yle_science",
+        "news_header": "Fossiilisten vesivarojen ehtyminen uhkaa veden saatavuutta ja ruoantuotantoa globaalisti.",
+        "news_epoch": 1727136360.0
+    },
+    {
+        "news_id": "bbc_business_9252851",
+        "news_source": "bbc_business",
+        "news_header": "Boeingin ty\u00f6ntekij\u00f6iden ammattiliitto kritisoi yhti\u00f6n uutta palkkaehdotusta, joka ei ollut neuvoteltu liiton kanssa.",
+        "news_epoch": 1727132640.0
+    },
+    {
+        "news_id": "yle_business_7420113520",
+        "news_source": "yle_business",
+        "news_header": "Yhdysvaltojen p\u00f6rssit nousivat enn\u00e4tyksiin.",
+        "news_epoch": 1727125920.0
+    },
+    {
+        "news_id": "dw_world_470306276",
+        "news_source": "dw_world",
+        "news_header": "V\u00e4hint\u00e4\u00e4n nelj\u00e4 ihmist\u00e4 kuoli, kun pieni vene, joka kuljetti siirtolaisia Turkista, upposi Samos-saaren l\u00e4hell\u00e4.",
+        "news_epoch": 1727122980.0
+    },
+    {
+        "news_id": "bbc_business_6",
+        "news_source": "bbc_business",
+        "news_header": "Margaret ja David Fee menettiv\u00e4t tuhansia punta Safe Hands Plans Ltd:n konkurssin vuoksi, kun heid\u00e4n ennakkomaksulliset hautajaissuunnitelmansa romahtivat.",
+        "news_epoch": 1727121780.0
+    },
+    {
+        "news_id": "bbc_business_8078",
+        "news_source": "bbc_business",
+        "news_header": "Entinen Harrodsin toimitusjohtaja James McArthur todistaa Mohamed Al Fayedin 'inhottavasta' k\u00e4yt\u00f6ksest\u00e4, mutta ei seksuaalisesta hyv\u00e4ksik\u00e4yt\u00f6st\u00e4.",
+        "news_epoch": 1727121720.0
+    },
+    {
+        "news_id": "yle_business_7420113514",
+        "news_source": "yle_business",
+        "news_header": "Suomalaisyritykset suunnittelevat teko\u00e4lyn k\u00e4ytt\u00f6\u00f6nottoa ty\u00f6teht\u00e4viss\u00e4.",
+        "news_epoch": 1727118000.0
+    },
+    {
+        "news_id": "bbc_business_86",
+        "news_source": "bbc_business",
+        "news_header": "Kalifornian p\u00e4\u00e4syytt\u00e4j\u00e4 haastoi ExxonMobilin oikeuteen v\u00e4itt\u00e4en, ett\u00e4 yhti\u00f6 on harhauttanut yleis\u00f6\u00e4 muovien kierr\u00e4tyksen tehokkuudesta.",
+        "news_epoch": 1727115180.0
+    },
+    {
+        "news_id": "bbc_world_173",
+        "news_source": "bbc_world",
+        "news_header": "Kaksi ven\u00e4l\u00e4ist\u00e4 kosmonauttia j\u00e4tti Kansainv\u00e4lisen avaruusasemaan ja teki enn\u00e4tyksen pisimm\u00e4st\u00e4 oleskelusta avaruudessa.",
+        "news_epoch": 1727115180.0
+    },
+    {
+        "news_id": "bbc_business_349",
+        "news_source": "bbc_business",
+        "news_header": "ISG:n romahdus vaikuttaa vakavasti rakennusalaan ja voi johtaa muiden yritysten kaatumiseen.",
+        "news_epoch": 1727113920.0
+    },
+    {
+        "news_id": "wpj_finance_14242",
+        "news_source": "wpj_finance",
+        "news_header": "Toronto's housing market faces challenges due to zoning laws and affordability issues.",
+        "news_epoch": 1727102460.0
+    },
+    {
+        "news_id": "yle_business_7420113498",
+        "news_source": "yle_business",
+        "news_header": "Ammattiliittoraportti syytt\u00e4\u00e4 suuria yrityksi\u00e4, kuten ExxonMobilia ja Blackstonea, ilmastokriisin rahoittamisesta ja demokratian heikent\u00e4misest\u00e4.",
+        "news_epoch": 1727100840.0
+    },
+    {
+        "news_id": "yle_business_7420113323",
+        "news_source": "yle_business",
+        "news_header": "Ven\u00e4j\u00e4n kaasutoimitusten v\u00e4hent\u00e4minen nosti s\u00e4hk\u00f6n hintoja Euroopassa, mutta ylim\u00e4\u00e4r\u00e4isen veron tuotot j\u00e4iv\u00e4t odotuksia pienemmiksi.",
+        "news_epoch": 1727094960.0
+    },
+    {
+        "news_id": "bbc_business_66567",
+        "news_source": "bbc_business",
+        "news_header": "Postitoimiston alihankkijat kokevat edelleen ongelmia Horizon IT -j\u00e4rjestelm\u00e4ss\u00e4.",
+        "news_epoch": 1727093820.0
+    },
+    {
+        "news_id": "bbc_business_0124",
+        "news_source": "bbc_business",
+        "news_header": "Selfridgesin toimitusjohtaja Andre Maeder kiist\u00e4\u00e4 tiet\u00e4neens\u00e4 Mohamed Al Fayedin v\u00e4itetyst\u00e4 seksuaalisesta v\u00e4kivallasta Harrodsissa.",
+        "news_epoch": 1727093160.0
+    },
+    {
+        "news_id": "bbc_world_8701224",
+        "news_source": "bbc_world",
+        "news_header": "Israelin ilmaiskut Libanonissa aiheuttivat yli 270 kuolemaa ja satoja vammoja.",
+        "news_epoch": 1727092140.0
+    },
+    {
+        "news_id": "bbc_business_550512",
+        "news_source": "bbc_business",
+        "news_header": "Kanslerin puhe ty\u00f6v\u00e4enpuolueen konferenssissa merkitsi selke\u00e4\u00e4 muutosta hallituksen talouslinjassa.",
+        "news_epoch": 1727087640.0
+    },
+    {
+        "news_id": "bbc_science_78194498",
+        "news_source": "bbc_science",
+        "news_header": "OceanGatein toimitusjohtaja Stockton Rush vakuutti vuonna 2018, ettei kukaan kuole h\u00e4nen valvonnassaan, huolimatta turvallisuushuolista.",
+        "news_epoch": 1727085060.0
+    },
+    {
+        "news_id": "bbc_business_59475735",
+        "news_source": "bbc_business",
+        "news_header": "Isoimmat asuntolainojen tarjoajat houkuttelevat ensiasunnon ostajia tarjoamalla korkeampia lainasummia.",
+        "news_epoch": 1727082720.0
+    },
+    {
+        "news_id": "yle_business_7420113353",
+        "news_source": "yle_business",
+        "news_header": "Valtiovarainministeri\u00f6 ennustaa talouskasvua, mutta julkinen talous on riskirajoilla.",
+        "news_epoch": 1727080500.0
+    },
+    {
+        "news_id": "yle_business_7420113389",
+        "news_source": "yle_business",
+        "news_header": "Northvolt suunnittelee irtisanovansa 1\u00a0600 ty\u00f6ntekij\u00e4\u00e4 Ruotsissa talousvaikeuksien vuoksi.",
+        "news_epoch": 1727080200.0
+    },
+    {
+        "news_id": "dw_business_70295769",
+        "news_source": "dw_business",
+        "news_header": "Brandenburgin vaaleissa AfD sai l\u00e4hes 29,2 % \u00e4\u00e4nist\u00e4, mik\u00e4 her\u00e4tt\u00e4\u00e4 huolta taloudesta ja osaajapulasta.",
+        "news_epoch": 1727078520.0
+    },
+    {
+        "news_id": "wpj_finance_20242024202414240",
+        "news_source": "wpj_finance",
+        "news_header": "Miami Beachin asuntomarkkinoilla myynnit laskeneet, mutta yksitt\u00e4isten perheiden talojen myynniss\u00e4 pieni nousu.",
+        "news_epoch": 1727076300.0
+    },
+    {
+        "news_id": "wpj_finance_14241",
+        "news_source": "wpj_finance",
+        "news_header": "Erityinen CRM-j\u00e4rjestelm\u00e4 kansainv\u00e4liseen kiinteist\u00f6hallintaan parantaa asiakassuhteita ja liiketoiminnan tehokkuutta.",
+        "news_epoch": 1727075400.0
+    },
+    {
         "news_id": "yle_world_7420113298",
         "news_source": "yle_world",
         "news_header": "Paavi Franciscus perui esiintymiset flunssan vuoksi.",
