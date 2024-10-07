@@ -1,5 +1,83 @@
 [
     {
+        "news_id": "bbc_business_240",
+        "news_source": "bbc_business",
+        "news_header": "TGI Fridaysin Yhdistyneen kuningaskunnan yli 1 000 ty\u00f6ntekij\u00e4\u00e4 irtisanotaan, vaikka pelastussopimus on tehty.",
+        "news_epoch": 1728302700.0
+    },
+    {
+        "news_id": "yle_business_7420116260",
+        "news_source": "yle_business",
+        "news_header": "Ruotsalainen Locus Energy ostaa vanhoja vesivoimaloita Suomessa ja modernisoi niit\u00e4 vihre\u00e4n energian tuottamiseksi.",
+        "news_epoch": 1728302520.0
+    },
+    {
+        "news_id": "bbc_world_90943",
+        "news_source": "bbc_world",
+        "news_header": "Israelin ilmaisku etel\u00e4isess\u00e4 Libanonissa tappoi v\u00e4hint\u00e4\u00e4n 10 palomiest\u00e4 ja aiheutti laajaa tuhoa.",
+        "news_epoch": 1728302280.0
+    },
+    {
+        "news_id": "yle_world_7420116425",
+        "news_source": "yle_world",
+        "news_header": "Ruotsidemokraattien puheenjohtaja Jimmie \u00c5kesson selitt\u00e4\u00e4 yhteyksi\u00e4\u00e4n moottoripy\u00f6r\u00e4jengin johtajaan h\u00e4iden yhteydess\u00e4.",
+        "news_epoch": 1728300960.0
+    },
+    {
+        "news_id": "bbc_science_6945",
+        "news_source": "bbc_science",
+        "news_header": "Hera-avaruusalus matkustaa Dimorphos-asteroidille osana kansainv\u00e4list\u00e4 hanketta.",
+        "news_epoch": 1728299940.0
+    },
+    {
+        "news_id": "bbc_world_6945",
+        "news_source": "bbc_world",
+        "news_header": "Hera-avaruusalus matkustaa Dimorphos-asteroidille, jota Nasa ohjasi vuonna 2022.",
+        "news_epoch": 1728299940.0
+    },
+    {
+        "news_id": "dw_world_70405971",
+        "news_source": "dw_world",
+        "news_header": "Maputon, Mosambikin p\u00e4\u00e4kaupungin, kadut ovat t\u00e4ynn\u00e4 FRELIMO-puolueen punaisia bannereita vaalien alla.",
+        "news_epoch": 1728299820.0
+    },
+    {
+        "news_id": "bbc_world_4401086",
+        "news_source": "bbc_world",
+        "news_header": "Etiopian parlamentti on hyv\u00e4ksynyt uuden presidentin nimityksen, joka korvasi ensimm\u00e4isen naispresidentin Sahle-Work Zewden.",
+        "news_epoch": 1728299400.0
+    },
+    {
+        "news_id": "bbc_world_4322",
+        "news_source": "bbc_world",
+        "news_header": "Marseillessa tapahtui kaksi nuorten v\u00e4kivaltarikosta, jotka liittyv\u00e4t j\u00e4rjest\u00e4ytyneeseen rikollisuuteen ja huumev\u00e4kivaltaan.",
+        "news_epoch": 1728299340.0
+    },
+    {
+        "news_id": "yle_business_7420113864",
+        "news_source": "yle_business",
+        "news_header": "S\u00e4hk\u00f6verkkoyhti\u00f6t lykk\u00e4\u00e4v\u00e4t investointeja kasvavasta s\u00e4hk\u00f6n kysynn\u00e4st\u00e4 huolimatta.",
+        "news_epoch": 1728298860.0
+    },
+    {
+        "news_id": "dw_world_70425841",
+        "news_source": "dw_world",
+        "news_header": "Kaksi kiinalaista kuoli ja yksi haavoittui pommi-iskussa Karachissa.",
+        "news_epoch": 1728297600.0
+    },
+    {
+        "news_id": "yle_world_7420116412",
+        "news_source": "yle_world",
+        "news_header": "Ukrainan sotilastiedustelu v\u00e4itt\u00e4\u00e4 sabotoineensa ven\u00e4l\u00e4isen miinanraivaajan Baltijiskiss\u00e4.",
+        "news_epoch": 1728297180.0
+    },
+    {
+        "news_id": "dw_science_68929058",
+        "news_source": "dw_science",
+        "news_header": "Vesivoima on t\u00e4rke\u00e4 uusiutuvan energian l\u00e4hde, mutta ilmastonmuutos tuo haasteita.",
+        "news_epoch": 1728296460.0
+    },
+    {
         "news_id": "dw_world_70425224",
         "news_source": "dw_world",
         "news_header": "Intialainen painit\u00e4hti Vinesh Phogat uskoo, ett\u00e4 todellisen muutoksen aikaansaamiseksi h\u00e4nen on osallistuttava politiikkaan yht\u00e4 energisesti kuin painimatolla.",
@@ -82,6 +160,12 @@
         "news_source": "dw_world",
         "news_header": "Saksalainen talous on ollut kriisiss\u00e4 kahden vuoden ajan, ja haasteet ovat lis\u00e4\u00e4ntyneet.",
         "news_epoch": 1728285900.0
+    },
+    {
+        "news_id": "bbc_science_79979",
+        "news_source": "bbc_science",
+        "news_header": "Nobel-palkinto fysiologian tai l\u00e4\u00e4ketieteen alalla 2024 my\u00f6nnettiin amerikkalaisille tutkijoille Victor Ambrosille ja Gary Ruvkunille mikro-RNA:sta tehtyjen l\u00f6yt\u00f6jen vuoksi.",
+        "news_epoch": 1728285660.0
     },
     {
         "news_id": "bbc_world_79979",
