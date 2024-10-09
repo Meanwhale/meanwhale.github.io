@@ -1,0 +1,12 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_6250400",
+    "news_header": "The US government is considering breaking up Google to address its search engine monopoly, following a court ruling that found the company engaged in illegal practices to maintain dominance.",
+    "news_text": "The US Department of Justice (DoJ) is contemplating asking a judge to break up Google to prevent it from maintaining its internet search monopoly. This consideration follows a significant court ruling in August that determined Google used illegal practices to dominate online search. The DoJ may propose structural changes to limit Google's use of products like Chrome, Play, and Android to favor its search engine. Google has warned that these changes could negatively impact US businesses and consumers, calling the recommendations 'government overreach.' The DoJ plans to submit detailed proposals by November 20, while Google can submit its own remedies by December 20. This legal action is part of broader efforts by US authorities to enhance competition among major technology firms, including pending lawsuits against Meta, Amazon, and Apple.",
+    "news_url": "https://www.bbc.com/news/articles/c62504lv00do",
+    "news_time": "2024/10/9/5/9",
+    "news_categories": [
+        "lang_en",
+        "business"
+    ]
+}

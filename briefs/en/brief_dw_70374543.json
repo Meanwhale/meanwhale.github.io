@@ -1,0 +1,12 @@
+{
+    "news_source": "dw",
+    "news_id": "dw_70374543",
+    "news_header": "David Baker, Demis Hassabis, and John M. Jumper won the Nobel Prize in Chemistry for their groundbreaking work in computational protein design and structure prediction, significantly aided by advancements in AI.",
+    "news_text": "David Baker, Demis Hassabis, and John M. Jumper have been awarded the Nobel Prize in Chemistry for their research in computational protein design and protein structure prediction, a field once deemed impossible. The Nobel Committee highlighted the significance of their work, emphasizing proteins as essential building blocks of bodily functions. Baker expressed gratitude to his fellow researchers and acknowledged the impact of AI and machine learning on their achievements. Their efforts, particularly through the development of the AlphaFold AI tool, have dramatically improved the accuracy of protein structure predictions, reaching up to 90%. This advancement has enabled Baker to design new proteins, including a nasal spray targeting pandemic viruses. Their research holds promise for addressing antibiotic resistance and developing new vaccines and treatments.",
+    "news_url": "https://www.dw.com/en/nobel-prize-baker-hassabis-jumper-win-award-for-chemistry/a-70374543",
+    "news_time": "2024/10/9/9/52",
+    "news_categories": [
+        "lang_en",
+        "world"
+    ]
+}

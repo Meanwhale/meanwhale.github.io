@@ -1,0 +1,12 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_02",
+    "news_header": "Professor Demis Hassabis has won a share of the Nobel Prize for Chemistry for his groundbreaking work on protein structures using artificial intelligence.",
+    "news_text": "British computer scientist Professor Demis Hassabis, co-founder of Google DeepMind, has been awarded a share of the Nobel Prize for Chemistry for his revolutionary contributions to understanding protein structures. Along with Professor John Jumper, he developed AlphaFold2, an AI tool that predicts the structures of nearly all known proteins, which has significant implications for medicine, including addressing antibiotic resistance and plastic decomposition. The Nobel committee praised AlphaFold2 as a 'complete revolution' in protein research. The other half of the prize was awarded to Professor David Baker for his achievements in designing new proteins. The announcement was made by the Royal Swedish Academy of Sciences, and the winners will share a prize fund of 11 million Swedish kronor.",
+    "news_url": "https://www.bbc.com/news/articles/czrm0p2mxvyo",
+    "news_time": "2024/10/9/9/50",
+    "news_categories": [
+        "lang_en",
+        "science"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420116722",
+    "news_header": "Customers affected by service issues at Nordea are unlikely to receive compensation due to the bank's liability limitations under the Payment Services Act.",
+    "news_text": "Denial of compensation for customers affected by service disruptions at Nordea is largely due to external factors beyond the bank's negligence. According to the Payment Services Act, a service provider is only liable for indirect damages if caused by their negligence. Paula Hannula from the Competition and Consumer Authority notes that the threshold for compensation is high for banks compared to other consumer protections. Nordea's terms state they are not liable for damages caused by unforeseen events. Customers can submit complaints through Nordea's website, and the bank plans to extend customer service hours following recent issues attributed to a failed update, not a denial-of-service attack. The bank assures that services are now functioning normally and emphasizes their long-standing relationship with customers. The Financial Supervisory Authority advises customers to first complain to the bank before escalating to alternative dispute resolution channels.",
+    "news_url": "https://yle.fi/a/74-20116722",
+    "news_time": "2024/10/8/16/35",
+    "news_categories": [
+        "lang_fi",
+        "business"
+    ]
+}

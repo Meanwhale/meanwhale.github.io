@@ -1,0 +1,68 @@
+[
+    {
+        "news_id": "yle_7420116831",
+        "news_source": "yle",
+        "news_header": "Sally Leskinen vaatii lakimuutosta hyvinvointialueiden rahoitukseen.",
+        "news_epoch": 1728475380.0
+    },
+    {
+        "news_id": "yle_7420116958",
+        "news_source": "yle",
+        "news_header": "Hirmumyrsky Milton l\u00e4hestyy Tampaa, Floridaa, ja evakuointeja on k\u00e4ynniss\u00e4.",
+        "news_epoch": 1728474540.0
+    },
+    {
+        "news_id": "dw_70440357",
+        "news_source": "dw",
+        "news_header": "Sister Rosita Milesi sai Nansen-pakolaispalkinnon, joka my\u00f6nnet\u00e4\u00e4n vuosittain YK:n pakolaisj\u00e4rjest\u00f6n toimesta.",
+        "news_epoch": 1728445560.0
+    },
+    {
+        "news_id": "yle_7420116789",
+        "news_source": "yle",
+        "news_header": "Suomi osallistuu merivalvontaan ja Islannin ilmavalvontaan Naton kautta vuonna 2025.",
+        "news_epoch": 1728444300.0
+    },
+    {
+        "news_id": "yle_7420116769",
+        "news_source": "yle",
+        "news_header": "Suomalaisten yritysten suhdannetilanne paranee.",
+        "news_epoch": 1728440280.0
+    },
+    {
+        "news_id": "bbc_6250400",
+        "news_source": "bbc",
+        "news_header": "Yhdysvaltain hallitus harkitsee Googlen jakamista kilpailun edist\u00e4miseksi.",
+        "news_epoch": 1728439740.0
+    },
+    {
+        "news_id": "dw_70425198",
+        "news_source": "dw",
+        "news_header": "Volkswagenin tilanne heikkenee myyntilukujen laskiessa, mik\u00e4 johtaa tehtaan sulkemisiin ja ty\u00f6paikkojen v\u00e4hent\u00e4miseen.",
+        "news_epoch": 1728391620.0
+    },
+    {
+        "news_id": "wpj_2024202414258",
+        "news_source": "wpj",
+        "news_header": "Las Vegasin asuntomarkkinoilla hinnat ovat nousseet enn\u00e4tyksellisiin lukemiin syyskuussa 2024.",
+        "news_epoch": 1728374820.0
+    },
+    {
+        "news_id": "dw_70374538",
+        "news_source": "dw",
+        "news_header": "John Hopfield ja Geoffrey Hinton saivat Nobelin fysiikan palkinnon teko\u00e4lyn tutkimuksesta.",
+        "news_epoch": 1728370440.0
+    },
+    {
+        "news_id": "bbc_620275",
+        "news_source": "bbc",
+        "news_header": "Nobel-palkinto fysiikassa my\u00f6nnettiin Geoffrey Hintonille ja John Hopfieldille koneoppimisen alalla.",
+        "news_epoch": 1728370320.0
+    },
+    {
+        "news_id": "yle_7420116256",
+        "news_source": "yle",
+        "news_header": "T\u00e4m\u00e4n vuoden fysiikan Nobel-palkinto my\u00f6nnettiin koneoppimisen tutkijoille John J. Hopfieldille ja Geoffrey E. Hintonille.",
+        "news_epoch": 1728368100.0
+    }
+]
