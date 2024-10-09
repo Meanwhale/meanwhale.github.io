@@ -1,0 +1,12 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_02",
+    "news_header": "Professor Demis Hassabis har vunnit en del av Nobelpriset i kemi f\u00f6r sitt banbrytande arbete med proteiner.",
+    "news_text": "Den brittiska datavetaren professor Demis Hassabis, 48, har delat Nobelpriset i kemi f\u00f6r sitt revolutionerande arbete med proteiner, livets byggstenar. Han \u00e4r medgrundare av AI-f\u00f6retaget Google DeepMind. Tillsammans med professor John Jumper och professor David Baker, som ocks\u00e5 fick priset, har de anv\u00e4nt AI f\u00f6r att f\u00f6ruts\u00e4ga strukturerna av n\u00e4stan alla k\u00e4nda proteiner och utvecklat verktyget AlphaFold2. Detta verktyg har revolutionerat f\u00f6rst\u00e5elsen av proteinstrukturer, vilket \u00e4r avg\u00f6rande f\u00f6r medicinska till\u00e4mpningar. Nobelkommitt\u00e9n kallade AlphaFold2 en 'fullst\u00e4ndig revolution'. Priset delades mellan Hassabis och Jumper, och Baker fick den andra halvan f\u00f6r sina insatser inom proteinbyggande. Hassabis, som v\u00e4xte upp i London, har en bakgrund inom datorspelsdesign och har dedikerat sitt liv \u00e5t AI.",
+    "news_url": "https://www.bbc.com/news/articles/czrm0p2mxvyo",
+    "news_time": "2024/10/9/9/50",
+    "news_categories": [
+        "lang_en",
+        "science"
+    ]
+}

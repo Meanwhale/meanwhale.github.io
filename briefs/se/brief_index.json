@@ -1,1 +1,102 @@
-[]
+[
+    {
+        "news_id": "bbc_30676",
+        "news_source": "bbc",
+        "news_header": "Rachel Reeves planerar att \u00e4ndra l\u00e5ne regler f\u00f6r att frig\u00f6ra mer pengar till stora projekt i den kommande budgeten.",
+        "news_epoch": 1728478740.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420110416",
+        "news_source": "yle",
+        "news_header": "Musiikki her\u00e4tt\u00e4\u00e4 voimakkaita tunteita ja itkua, mutta kokemukset vaihtelevat yksil\u00f6itt\u00e4in.",
+        "news_epoch": 1728478680.0,
+        "news_categories": [
+            "lang_fi",
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420116831",
+        "news_source": "yle",
+        "news_header": "Sally Leskinen, johtaja Etel\u00e4-Karjalan hyvinvointialueella, vaatii lakimuutosta rahoituksen parantamiseksi.",
+        "news_epoch": 1728475380.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_70446857",
+        "news_source": "dw",
+        "news_header": "Kashmir har valt sin f\u00f6rsta regering sedan regionen kom under direkt kontroll av New Delhi f\u00f6r fem \u00e5r sedan.",
+        "news_epoch": 1728474600.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420116958",
+        "news_source": "yle",
+        "news_header": "Hurrikaani Milton l\u00e4hestyy Tampaa, Floridaa, ja sen odotetaan iskev\u00e4n alueelle y\u00f6ll\u00e4 tai huomisaamuna.",
+        "news_epoch": 1728474540.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70437198",
+        "news_source": "dw",
+        "news_header": "Tysklands ekonomi st\u00e5r inf\u00f6r allvarliga utmaningar med f\u00f6rv\u00e4ntad recession 2024.",
+        "news_epoch": 1728457440.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_70374543",
+        "news_source": "dw",
+        "news_header": "David Baker, Demis Hassabis och John M. Jumper har tilldelats Nobelpriset i kemi f\u00f6r sin forskning om ber\u00e4kningsm\u00e4ssig proteinutformning och proteinstrukturprognos.",
+        "news_epoch": 1728456720.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_02",
+        "news_source": "bbc",
+        "news_header": "Professor Demis Hassabis har vunnit en del av Nobelpriset i kemi f\u00f6r sitt banbrytande arbete med proteiner.",
+        "news_epoch": 1728456600.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_62730",
+        "news_source": "bbc",
+        "news_header": "En ny dokument\u00e4r h\u00e4vdar att den har l\u00f6st mysteriet kring identiteten av Bitcoin-uppfinnaren, som p\u00e5st\u00e5s vara Peter Todd, vilket han sj\u00e4lv avf\u00e4rdar.",
+        "news_epoch": 1728456300.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "wpj_14259",
+        "news_source": "wpj",
+        "news_header": "Hurricane Milton hotar 500,000 bost\u00e4der i Tampa Bay och Sarasota med en \u00e5teruppbyggnadskostnad p\u00e5 123 miljarder dollar.",
+        "news_epoch": 1728452280.0,
+        "news_categories": [
+            "lang_en",
+            "finance"
+        ]
+    }
+]

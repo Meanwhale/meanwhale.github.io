@@ -1,5 +1,15 @@
 [
     {
+        "news_id": "bbc_30676",
+        "news_source": "bbc",
+        "news_header": "Rachel Reeves suunnittelee lainas\u00e4\u00e4nt\u00f6jen muuttamista, jotta voitaisiin vapauttaa miljardeja puntia suurille hankkeille tulevassa budjetissa.",
+        "news_epoch": 1728478740.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
         "news_id": "yle_7420110416",
         "news_source": "yle",
         "news_header": "Musiikki her\u00e4tt\u00e4\u00e4 voimakkaita tunteita ja voi itkett\u00e4\u00e4 eri tavoin eri ihmisiss\u00e4.",
@@ -20,6 +30,16 @@
         ]
     },
     {
+        "news_id": "dw_70446857",
+        "news_source": "dw",
+        "news_header": "Intia hallitsemassa Kashmiriassa on valittu ensimm\u00e4inen hallitus viiteen vuoteen.",
+        "news_epoch": 1728474600.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
         "news_id": "yle_7420116958",
         "news_source": "yle",
         "news_header": "Hirmumyrsky Milton l\u00e4hestyy Tampaa, Floridaa, ja evakuointeja on k\u00e4ynniss\u00e4.",
@@ -27,6 +47,56 @@
         "news_categories": [
             "lang_fi",
             "world"
+        ]
+    },
+    {
+        "news_id": "dw_70437198",
+        "news_source": "dw",
+        "news_header": "Saksalaisen talouden tilanne on huolestuttava, ja tulevaisuus n\u00e4ytt\u00e4\u00e4 synk\u00e4lt\u00e4.",
+        "news_epoch": 1728457440.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_70374543",
+        "news_source": "dw",
+        "news_header": "David Baker, Demis Hassabis ja John M. Jumper voittivat kemian Nobelin proteiinien laskennalliseen suunnitteluun ja rakenteen ennustamiseen liittyv\u00e4st\u00e4 tutkimuksesta.",
+        "news_epoch": 1728456720.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_02",
+        "news_source": "bbc",
+        "news_header": "Brittil\u00e4inen tietojenk\u00e4sittelytieteen professori Demis Hassabis on voittanut osan Nobel-palkinnosta kemian alalla proteiinien tutkimuksesta.",
+        "news_epoch": 1728456600.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_62730",
+        "news_source": "bbc",
+        "news_header": "Uusi dokumentti v\u00e4itt\u00e4\u00e4 paljastaneensa Bitcoinin keksij\u00e4n todellisen identiteetin.",
+        "news_epoch": 1728456300.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "wpj_14259",
+        "news_source": "wpj",
+        "news_header": "Hurrikaani Miltonin vuoksi noin 500 000 asuinkiinteist\u00f6\u00e4 Tampa Bayn ja Sarasota alueilla on vaarassa tulvavesille.",
+        "news_epoch": 1728452280.0,
+        "news_categories": [
+            "lang_en",
+            "finance"
         ]
     },
     {
