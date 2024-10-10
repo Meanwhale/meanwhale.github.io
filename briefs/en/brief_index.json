@@ -1,5 +1,115 @@
 [
     {
+        "news_id": "yle_7420116824",
+        "news_source": "yle",
+        "news_header": "In Finland, citizens' electronic identification is overly reliant on banks, causing significant issues when banking services fail.",
+        "news_epoch": 1728543660.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420117124",
+        "news_source": "yle",
+        "news_header": "Israel's security cabinet to decide on retaliation against Iran.",
+        "news_epoch": 1728541620.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_2241",
+        "news_source": "bbc",
+        "news_header": "British rapper Yung Filly charged with rape allegations in Australia.",
+        "news_epoch": 1728541020.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70447438",
+        "news_source": "dw",
+        "news_header": "New research reveals diverse viral communities on showerheads, highlighting untapped biodiversity and potential benefits for science and health.",
+        "news_epoch": 1728540120.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_411",
+        "news_source": "bbc",
+        "news_header": "Russian missile strikes on a civilian container ship in Ukraine's Odesa region have resulted in seven fatalities, marking the third attack on civilian vessels in four days.",
+        "news_epoch": 1728539760.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420115691",
+        "news_source": "yle",
+        "news_header": "France faces significant economic challenges as public debt surges and the government prepares budget cuts and tax increases.",
+        "news_epoch": 1728539100.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70451905",
+        "news_source": "dw",
+        "news_header": "Taiwan's President Lai Ching-te asserts Taiwan's sovereignty and commitment to resist Chinese annexation during National Day celebrations amid rising tensions with Beijing.",
+        "news_epoch": 1728538800.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_1070452224",
+        "news_source": "dw",
+        "news_header": "The Berlin Process, initiated in 2014, aims to strengthen ties between Western Balkan countries and the EU, but faces challenges in implementation and regional stability.",
+        "news_epoch": 1728538560.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420116924",
+        "news_source": "yle",
+        "news_header": "Exercise improves fat tissue quality in overweight individuals, reducing fat accumulation in the liver and heart.",
+        "news_epoch": 1728538200.0,
+        "news_categories": [
+            "lang_fi",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_98138158",
+        "news_source": "bbc",
+        "news_header": "Hurricane Milton has made landfall in Florida, causing severe damage and prompting evacuations.",
+        "news_epoch": 1728538140.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420117099",
+        "news_source": "yle",
+        "news_header": "China resumes import of Australian lobsters after a four-year diplomatic dispute.",
+        "news_epoch": 1728537600.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
         "news_id": "bbc_15314",
         "news_source": "bbc",
         "news_header": "Labour's upcoming Employment Bill aims to enhance workers' rights but faces challenges in balancing pro-worker and pro-business interests.",
@@ -27,6 +137,16 @@
         "news_categories": [
             "lang_fi",
             "world"
+        ]
+    },
+    {
+        "news_id": "bbc_625947",
+        "news_source": "bbc",
+        "news_header": "GSK to pay up to $2.2bn to settle Zantac cancer claims.",
+        "news_epoch": 1728521760.0,
+        "news_categories": [
+            "lang_en",
+            "business"
         ]
     },
     {
@@ -186,6 +306,16 @@
         "news_epoch": 1728478680.0,
         "news_categories": [
             "lang_fi",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_0967",
+        "news_source": "bbc",
+        "news_header": "128 Grazer, a mother bear, wins Fat Bear Week for the second consecutive year, overcoming challenges and tragedy.",
+        "news_epoch": 1728477780.0,
+        "news_categories": [
+            "lang_en",
             "science"
         ]
     },

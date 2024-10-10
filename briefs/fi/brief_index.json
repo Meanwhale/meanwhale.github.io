@@ -1,5 +1,125 @@
 [
     {
+        "news_id": "yle_7420116824",
+        "news_source": "yle",
+        "news_header": "Suomessa kansalaisten s\u00e4hk\u00f6inen tunnistaminen on liikaa pankkien varassa, mik\u00e4 aiheuttaa ongelmia julkisiin palveluihin p\u00e4\u00e4syss\u00e4.",
+        "news_epoch": 1728543660.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_95",
+        "news_source": "bbc",
+        "news_header": "Uuden-Seelannin puolustusministeri kritisoi naiskapteenin sukupuolen syytt\u00e4mist\u00e4 laivan uppoamisesta.",
+        "news_epoch": 1728543240.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420117124",
+        "news_source": "yle",
+        "news_header": "Israelin hallitus kokoontuu p\u00e4\u00e4tt\u00e4m\u00e4\u00e4n kostoiskusta Iraniin.",
+        "news_epoch": 1728541620.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_2241",
+        "news_source": "bbc",
+        "news_header": "Brittil\u00e4ist\u00e4 rap-artisti Yung Filly\u00e4 syytet\u00e4\u00e4n raiskauksesta Australiassa.",
+        "news_epoch": 1728541020.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70447438",
+        "news_source": "dw",
+        "news_header": "Uuden tutkimuksen mukaan suihkuissa el\u00e4\u00e4 monimuotoisia virusyhteis\u00f6j\u00e4, jotka voivat olla hy\u00f6dyllisi\u00e4.",
+        "news_epoch": 1728540120.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_411",
+        "news_source": "bbc",
+        "news_header": "Ven\u00e4j\u00e4n ohjukset iski siviilialukseen Ukrainassa, seitsem\u00e4n kuollutta.",
+        "news_epoch": 1728539760.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420115691",
+        "news_source": "yle",
+        "news_header": "Ranskan julkinen velka kasvaa ja hallitus suunnittelee leikkauksia ja veronkorotuksia.",
+        "news_epoch": 1728539100.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70451905",
+        "news_source": "dw",
+        "news_header": "Taiwanin presidentti Lai Ching-te lupasi torjua Kiinan liitt\u00e4misyritykset ja korosti Taiwanin itsen\u00e4isyytt\u00e4 Kiinaan n\u00e4hden.",
+        "news_epoch": 1728538800.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_1070452224",
+        "news_source": "dw",
+        "news_header": "Aleksandra Tomanic pohtii tarkasti, voiko h\u00e4n kutsua ihmisi\u00e4 Kosovosta Bosnia-Hertsegovinaan, koska viisumivaatimukset ovat edelleen voimassa, vaikka niiden poistamisesta on sovittu.",
+        "news_epoch": 1728538560.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420116924",
+        "news_source": "yle",
+        "news_header": "Tutkimus osoittaa, ett\u00e4 liikunta parantaa ylipainoisten rasvakudoksen laatua.",
+        "news_epoch": 1728538200.0,
+        "news_categories": [
+            "lang_fi",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_98138158",
+        "news_source": "bbc",
+        "news_header": "Hurrikaani Milton iski Floridaan, aiheuttaen tuhoja ja evakuointeja.",
+        "news_epoch": 1728538140.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420117099",
+        "news_source": "yle",
+        "news_header": "Kiina sallii Australian hummerintuonnin j\u00e4lleen.",
+        "news_epoch": 1728537600.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
         "news_id": "bbc_15314",
         "news_source": "bbc",
         "news_header": "Ty\u00f6v\u00e4enpuolueella on mahdollisuus toteuttaa vaalilupauksensa ty\u00f6ntekij\u00f6iden oikeuksista, mutta muutokset tulevat viiv\u00e4stym\u00e4\u00e4n.",
@@ -196,6 +316,16 @@
         "news_epoch": 1728478680.0,
         "news_categories": [
             "lang_fi",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_0967",
+        "news_source": "bbc",
+        "news_header": "Fat Bear Weekin voittaja on 128 Grazer, joka on voittanut kilpailun my\u00f6s aiemmin.",
+        "news_epoch": 1728477780.0,
+        "news_categories": [
+            "lang_en",
             "science"
         ]
     },
@@ -407,6 +537,26 @@
         "news_categories": [
             "lang_en",
             "business"
+        ]
+    },
+    {
+        "news_id": "dw_70388582",
+        "news_source": "dw",
+        "news_header": "Ranskan uusi p\u00e4\u00e4ministeri Michel Barnier kohtaa haasteita vuoden 2025 budjetin l\u00e4piviemisess\u00e4 parlamentissa, jossa h\u00e4nell\u00e4 ei ole enemmist\u00f6\u00e4.",
+        "news_epoch": 1728034380.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_202420242024202414256",
+        "news_source": "wpj",
+        "news_header": "Yhdysvaltojen asuntomarkkinoilla on alhaisin omistajanvaihdosaste 30 vuoteen.",
+        "news_epoch": 1728027480.0,
+        "news_categories": [
+            "lang_en",
+            "finance"
         ]
     }
 ]
