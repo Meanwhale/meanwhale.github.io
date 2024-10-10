@@ -1,5 +1,15 @@
 [
     {
+        "news_id": "bbc_15314",
+        "news_source": "bbc",
+        "news_header": "Labour-partiet har m\u00f6jlighet att inf\u00f6ra ny lagstiftning om arbetstagares r\u00e4ttigheter, men m\u00e5nga nya r\u00e4ttigheter kommer att dr\u00f6ja.",
+        "news_epoch": 1728533520.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
         "news_id": "yle_7420117055",
         "news_source": "yle",
         "news_header": "Kemianteollisuuden tuotanto v\u00e4heni eniten elokuussa.",
@@ -24,6 +34,16 @@
         "news_source": "yle",
         "news_header": "Hurrikaani-Milton heikentyi kategorian kaksi myrskyksi Floridassa.",
         "news_epoch": 1728521760.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420115720",
+        "news_source": "yle",
+        "news_header": "Artikeln diskuterar riskerna f\u00f6r Ukraina att upprepa misstag fr\u00e5n Afghanistan-kriget.",
+        "news_epoch": 1728521100.0,
         "news_categories": [
             "lang_fi",
             "world"
@@ -100,6 +120,16 @@
         ]
     },
     {
+        "news_id": "yle_7420116945",
+        "news_source": "yle",
+        "news_header": "Laboren raportti arvioi ostovoiman kehityst\u00e4 eri esimerkkiperheiss\u00e4 inflaation ja palkankorotusten vaikutuksesta.",
+        "news_epoch": 1728496860.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
         "news_id": "bbc_58354",
         "news_source": "bbc",
         "news_header": "Indiska aff\u00e4rsmagnaten Ratan Tata har avlidit vid 86 \u00e5rs \u00e5lder.",
@@ -120,10 +150,30 @@
         ]
     },
     {
+        "news_id": "dw_8670448774",
+        "news_source": "dw",
+        "news_header": "Ratan Tata, tidigare ordf\u00f6rande f\u00f6r Tata Group, avled vid 86 \u00e5rs \u00e5lder.",
+        "news_epoch": 1728489300.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
         "news_id": "dw_70447450",
         "news_source": "dw",
         "news_header": "Nordkorea meddelade att de kommer att permanent st\u00e4nga sin s\u00f6dra gr\u00e4ns och f\u00f6rst\u00e4rka omr\u00e5det som svar p\u00e5 Sydkoreas milit\u00e4r\u00f6vningar.",
         "news_epoch": 1728483540.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_98023",
+        "news_source": "bbc",
+        "news_header": "Tv\u00e5 civila d\u00f6dades och flera skadades efter att Hezbollah avfyrade minst 150 raketer mot norra Israel.",
+        "news_epoch": 1728482100.0,
         "news_categories": [
             "lang_en",
             "world"
@@ -200,6 +250,16 @@
         ]
     },
     {
+        "news_id": "yle_7420116615",
+        "news_source": "yle",
+        "news_header": "Kemian Nobel-palkinto my\u00f6nnettiin proteiinien tutkijoille, David Bakerille, Demis Hassabisille ja John M. Jumperille.",
+        "news_epoch": 1728454500.0,
+        "news_categories": [
+            "lang_fi",
+            "science"
+        ]
+    },
+    {
         "news_id": "wpj_14259",
         "news_source": "wpj",
         "news_header": "Hurricane Milton hotar 500,000 bost\u00e4der i Tampa Bay och Sarasota med en \u00e5teruppbyggnadskostnad p\u00e5 123 miljarder dollar.",
@@ -237,6 +297,36 @@
         "news_categories": [
             "lang_en",
             "science"
+        ]
+    },
+    {
+        "news_id": "dw_68929058",
+        "news_source": "dw",
+        "news_header": "Vattenkraft \u00e4r en viktig ren energik\u00e4lla, men klimatf\u00f6r\u00e4ndringar hotar dess stabilitet.",
+        "news_epoch": 1728296460.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_2024202414257",
+        "news_source": "wpj",
+        "news_header": "Nya data visar en nedg\u00e5ng i amerikanska bol\u00e5neans\u00f6kningar.",
+        "news_epoch": 1728289980.0,
+        "news_categories": [
+            "lang_en",
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_70418862",
+        "news_source": "dw",
+        "news_header": "Den tyska ekonomin k\u00e4mpar med stagnation och strukturella utmaningar, p\u00e5verkas av en nedg\u00e5ng i efterfr\u00e5gan fr\u00e5n Kina.",
+        "news_epoch": 1728285900.0,
+        "news_categories": [
+            "lang_en",
+            "business"
         ]
     }
 ]

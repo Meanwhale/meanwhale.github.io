@@ -1,5 +1,15 @@
 [
     {
+        "news_id": "bbc_15314",
+        "news_source": "bbc",
+        "news_header": "Labour's upcoming Employment Bill aims to enhance workers' rights but faces challenges in balancing pro-worker and pro-business interests.",
+        "news_epoch": 1728533520.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
         "news_id": "yle_7420117055",
         "news_source": "yle",
         "news_header": "Industrial production decreased, particularly in the chemical industry.",
@@ -24,6 +34,16 @@
         "news_source": "yle",
         "news_header": "Hurricane Milton has weakened to a Category 2 storm as it approaches Florida, where resident Jukka Palonen is prepared and staying home with his family.",
         "news_epoch": 1728521760.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420115720",
+        "news_source": "yle",
+        "news_header": "The text discusses the parallels between the Afghanistan war and the current situation in Ukraine, emphasizing the dangers of unwavering beliefs and the need for a realistic strategy in supporting Ukraine.",
+        "news_epoch": 1728521100.0,
         "news_categories": [
             "lang_fi",
             "world"
@@ -100,6 +120,16 @@
         ]
     },
     {
+        "news_id": "yle_7420116945",
+        "news_source": "yle",
+        "news_header": "A report by Labor highlights the impact of declining inflation and interest rates on the purchasing power of various hypothetical families in Finland.",
+        "news_epoch": 1728496860.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
         "news_id": "bbc_58354",
         "news_source": "bbc",
         "news_header": "Ratan Tata, the influential Indian tycoon and former chairman of Tata Group, has passed away at the age of 86.",
@@ -110,10 +140,30 @@
         ]
     },
     {
+        "news_id": "dw_8670448774",
+        "news_source": "dw",
+        "news_header": "Ratan Tata, former chairman of Tata Group, passed away at 86, leaving a significant legacy in business and philanthropy.",
+        "news_epoch": 1728489300.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
         "news_id": "dw_70447450",
         "news_source": "dw",
         "news_header": "North Korea announced plans to permanently close its southern border and cut off transportation routes to South Korea, citing self-defense against perceived threats.",
         "news_epoch": 1728483540.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_98023",
+        "news_source": "bbc",
+        "news_header": "Hezbollah's rocket attacks on northern Israel result in civilian casualties and escalating conflict.",
+        "news_epoch": 1728482100.0,
         "news_categories": [
             "lang_en",
             "world"

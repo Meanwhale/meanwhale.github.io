@@ -1,5 +1,15 @@
 [
     {
+        "news_id": "bbc_15314",
+        "news_source": "bbc",
+        "news_header": "Ty\u00f6v\u00e4enpuolueella on mahdollisuus toteuttaa vaalilupauksensa ty\u00f6ntekij\u00f6iden oikeuksista, mutta muutokset tulevat viiv\u00e4stym\u00e4\u00e4n.",
+        "news_epoch": 1728533520.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
         "news_id": "yle_7420117055",
         "news_source": "yle",
         "news_header": "Teollisuuden tuotanto v\u00e4heni elokuussa 0,9 %, erityisesti kemianteollisuudessa.",
@@ -24,6 +34,16 @@
         "news_source": "yle",
         "news_header": "Hurrikaani-Milton heikentyi kategorian kaksi hirmumyrskyksi Floridassa.",
         "news_epoch": 1728521760.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420115720",
+        "news_source": "yle",
+        "news_header": "Taipumattomuus tosiasioiden edess\u00e4 uhkaa Ukrainan tilannetta, muistuttaen Afganistanin sodasta.",
+        "news_epoch": 1728521100.0,
         "news_categories": [
             "lang_fi",
             "world"
@@ -100,6 +120,16 @@
         ]
     },
     {
+        "news_id": "yle_7420116945",
+        "news_source": "yle",
+        "news_header": "Laboren raportti arvioi ostovoiman kehityst\u00e4 eri esimerkkiperheiss\u00e4 inflaation ja palkankorotusten vaikutuksesta.",
+        "news_epoch": 1728496860.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
         "news_id": "bbc_58354",
         "news_source": "bbc",
         "news_header": "Intialainen liikemies Ratan Tata on kuollut 86-vuotiaana.",
@@ -120,10 +150,30 @@
         ]
     },
     {
+        "news_id": "dw_8670448774",
+        "news_source": "dw",
+        "news_header": "Ratan Tata, entinen Tata Groupin puheenjohtaja, kuoli 86-vuotiaana.",
+        "news_epoch": 1728489300.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
         "news_id": "dw_70447450",
         "news_source": "dw",
         "news_header": "Pohjois-Korea aikoo sulkea pysyv\u00e4sti etel\u00e4rajan ja vahvistaa puolustustaan.",
         "news_epoch": 1728483540.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_98023",
+        "news_source": "bbc",
+        "news_header": "Hezbollahin rakettihy\u00f6kk\u00e4ys Pohjois-Israeliin tappoi kaksi siviili\u00e4 ja haavoitti useita muita.",
+        "news_epoch": 1728482100.0,
         "news_categories": [
             "lang_en",
             "world"
@@ -217,6 +267,16 @@
         "news_categories": [
             "lang_en",
             "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420116615",
+        "news_source": "yle",
+        "news_header": "Ruotsin kuninkaallinen tiedeakatemia my\u00f6nsi kemian Nobel-palkinnon proteiinien tutkijoille.",
+        "news_epoch": 1728454500.0,
+        "news_categories": [
+            "lang_fi",
+            "science"
         ]
     },
     {
@@ -317,6 +377,36 @@
         "news_categories": [
             "lang_fi",
             "science"
+        ]
+    },
+    {
+        "news_id": "dw_68929058",
+        "news_source": "dw",
+        "news_header": "Vesivoima on t\u00e4rke\u00e4 uusiutuvan energian l\u00e4hde, mutta ilmastonmuutos tuo haasteita.",
+        "news_epoch": 1728296460.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_2024202414257",
+        "news_source": "wpj",
+        "news_header": "Yhdysvaltojen asuntolainahakemukset laskivat 1,3 prosenttia viikolla, joka p\u00e4\u00e4ttyi 27. syyskuuta 2024.",
+        "news_epoch": 1728289980.0,
+        "news_categories": [
+            "lang_en",
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_70418862",
+        "news_source": "dw",
+        "news_header": "Saksalainen talous on ollut kriisiss\u00e4 kahden vuoden ajan, ja haasteet, kuten korkeat energiahinnat ja heikkenev\u00e4 kysynt\u00e4 Kiinassa, vaikuttavat voimakkaasti yrityksiin.",
+        "news_epoch": 1728285900.0,
+        "news_categories": [
+            "lang_en",
+            "business"
         ]
     }
 ]
