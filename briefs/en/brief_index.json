@@ -1,5 +1,125 @@
 [
     {
+        "news_id": "yle_7420117055",
+        "news_source": "yle",
+        "news_header": "Industrial production decreased, particularly in the chemical industry.",
+        "news_epoch": 1728530100.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420117036",
+        "news_source": "yle",
+        "news_header": "Ratan Tata, a significant Indian business leader and philanthropist, has passed away at 86.",
+        "news_epoch": 1728525780.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420117025",
+        "news_source": "yle",
+        "news_header": "Hurricane Milton has weakened to a Category 2 storm as it approaches Florida, where resident Jukka Palonen is prepared and staying home with his family.",
+        "news_epoch": 1728521760.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420114346",
+        "news_source": "yle",
+        "news_header": "Nordea faces customer dissatisfaction due to recent technical issues, while competitors see an increase in new clients.",
+        "news_epoch": 1728515700.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_6387",
+        "news_source": "bbc",
+        "news_header": "The ship Endurance, lost for over a century in Antarctica, has been digitally scanned in 3D detail, revealing its well-preserved wreck and artifacts, as part of a new documentary.",
+        "news_epoch": 1728514200.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_5303",
+        "news_source": "bbc",
+        "news_header": "The WWF's Living Planet Report highlights a catastrophic loss of global wildlife, with populations declining by an average of 73% over the past 50 years due to human activities.",
+        "news_epoch": 1728509160.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_2037",
+        "news_source": "bbc",
+        "news_header": "US President Joe Biden and Israeli Prime Minister Netanyahu discussed Israel's response to Iran's missile strike in a recent phone call, with tensions escalating between Israel and Iran.",
+        "news_epoch": 1728504840.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_644",
+        "news_source": "bbc",
+        "news_header": "Chancellor Rachel Reeves faces the challenge of securing an additional \u00a316bn to fulfill pre-election promises without returning to austerity, as outlined by the Institute for Fiscal Studies.",
+        "news_epoch": 1728504240.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_3848234",
+        "news_source": "bbc",
+        "news_header": "The UK government plans to introduce an Employment Rights Bill aimed at enhancing workers' rights, including unpaid parental leave and protections from unfair dismissal from day one of employment.",
+        "news_epoch": 1728504180.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420116621",
+        "news_source": "yle",
+        "news_header": "The WWF's Living Planet Report highlights a critical decline in biodiversity, particularly in South America, where populations have decreased by an average of 95%.",
+        "news_epoch": 1728504060.0,
+        "news_categories": [
+            "lang_fi",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_58354",
+        "news_source": "bbc",
+        "news_header": "Ratan Tata, the influential Indian tycoon and former chairman of Tata Group, has passed away at the age of 86.",
+        "news_epoch": 1728496740.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70447450",
+        "news_source": "dw",
+        "news_header": "North Korea announced plans to permanently close its southern border and cut off transportation routes to South Korea, citing self-defense against perceived threats.",
+        "news_epoch": 1728483540.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
         "news_id": "bbc_30676",
         "news_source": "bbc",
         "news_header": "Rachel Reeves is proposing changes to borrowing rules to enable increased spending on major projects in the upcoming Budget, while maintaining a commitment to reduce national debt as a share of the economy.",

@@ -1,5 +1,135 @@
 [
     {
+        "news_id": "yle_7420117055",
+        "news_source": "yle",
+        "news_header": "Kemianteollisuudessa tuotanto v\u00e4heni eniten.",
+        "news_epoch": 1728530100.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420117036",
+        "news_source": "yle",
+        "news_header": "Ratan Tata, en av Indiens mest framst\u00e5ende f\u00f6retagsledare, har avlidit vid 86 \u00e5rs \u00e5lder.",
+        "news_epoch": 1728525780.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420117025",
+        "news_source": "yle",
+        "news_header": "Hurrikaani-Milton heikentyi kategorian kaksi hirmumyrskyksi ja iski Floridaan, jossa Jukka Palonen valmistautuu myrskyyn.",
+        "news_epoch": 1728521760.0,
+        "news_categories": [
+            "lang_fi",
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420114346",
+        "news_source": "yle",
+        "news_header": "Nordean tekniset ongelmat ovat johtaneet asiakasvaihtoon kilpailijoille.",
+        "news_epoch": 1728515700.0,
+        "news_categories": [
+            "lang_fi",
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_6387",
+        "news_source": "bbc",
+        "news_header": "Ernest Shackleton's ship Endurance har \u00e5terfunnits i Antarktis efter mer \u00e4n 100 \u00e5r.",
+        "news_epoch": 1728514200.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_5303",
+        "news_source": "bbc",
+        "news_header": "M\u00e4nsklig aktivitet driver en katastrofal f\u00f6rlust av arter enligt WWF, med en genomsnittlig minskning av vilda djurpopulationer med 73% de senaste 50 \u00e5ren.",
+        "news_epoch": 1728509160.0,
+        "news_categories": [
+            "lang_en",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_2037",
+        "news_source": "bbc",
+        "news_header": "Joe Biden och Benjamin Netanyahu har haft ett telefonsamtal om Israels svar p\u00e5 Irans missilattack.",
+        "news_epoch": 1728504840.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_644",
+        "news_source": "bbc",
+        "news_header": "Kansler Rachel Reeves beh\u00f6ver hitta ytterligare 16 miljarder pund f\u00f6r att uppfylla regeringens vall\u00f6ften, enligt Institute for Fiscal Studies.",
+        "news_epoch": 1728504240.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_3848234",
+        "news_source": "bbc",
+        "news_header": "Regeringen planerar en reform av arbetsr\u00e4ttigheter som ger arbetstagare r\u00e4tt till obetald f\u00f6r\u00e4ldraledighet och skydd mot osaklig upps\u00e4gning fr\u00e5n f\u00f6rsta dagen p\u00e5 jobbet.",
+        "news_epoch": 1728504180.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420116621",
+        "news_source": "yle",
+        "news_header": "WWF:n Living Planet -raportti paljastaa, ett\u00e4 luontokato on kriittisimmill\u00e4\u00e4n Etel\u00e4-Amerikassa, jossa populaatiot ovat v\u00e4hentyneet keskim\u00e4\u00e4rin 95%.",
+        "news_epoch": 1728504060.0,
+        "news_categories": [
+            "lang_fi",
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_58354",
+        "news_source": "bbc",
+        "news_header": "Indiska aff\u00e4rsmagnaten Ratan Tata har avlidit vid 86 \u00e5rs \u00e5lder.",
+        "news_epoch": 1728496740.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70440573",
+        "news_source": "dw",
+        "news_header": "Miljoner inv\u00e5nare i Florida har beordrats att evakuera inf\u00f6r orkanen Milton som f\u00f6rv\u00e4ntas n\u00e5 v\u00e4stkusten sent p\u00e5 onsdag kv\u00e4ll eller tidigt torsdag morgon.",
+        "news_epoch": 1728492300.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_70447450",
+        "news_source": "dw",
+        "news_header": "Nordkorea meddelade att de kommer att permanent st\u00e4nga sin s\u00f6dra gr\u00e4ns och f\u00f6rst\u00e4rka omr\u00e5det som svar p\u00e5 Sydkoreas milit\u00e4r\u00f6vningar.",
+        "news_epoch": 1728483540.0,
+        "news_categories": [
+            "lang_en",
+            "world"
+        ]
+    },
+    {
         "news_id": "bbc_30676",
         "news_source": "bbc",
         "news_header": "Rachel Reeves planerar att \u00e4ndra l\u00e5ne regler f\u00f6r att frig\u00f6ra mer pengar till stora projekt i den kommande budgeten.",
@@ -97,6 +227,36 @@
         "news_categories": [
             "lang_en",
             "finance"
+        ]
+    },
+    {
+        "news_id": "dw_70425198",
+        "news_source": "dw",
+        "news_header": "Volkswagen st\u00e5r inf\u00f6r stora utmaningar med nedl\u00e4ggningar av fabriker och tusentals jobb som hotas p\u00e5 grund av fallande f\u00f6rs\u00e4ljning.",
+        "news_epoch": 1728391620.0,
+        "news_categories": [
+            "lang_en",
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_2024202414258",
+        "news_source": "wpj",
+        "news_header": "Priserna f\u00f6r bostadsr\u00e4tter och radhus i Las Vegas har n\u00e5tt rekordniv\u00e5er i september 2024.",
+        "news_epoch": 1728374820.0,
+        "news_categories": [
+            "lang_en",
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_70374538",
+        "news_source": "dw",
+        "news_header": "John Hopfield och Geoffrey Hinton har tilldelats Nobelpriset i fysik f\u00f6r sin forskning om maskininl\u00e4rning med artificiella neurala n\u00e4tverk.",
+        "news_epoch": 1728370440.0,
+        "news_categories": [
+            "lang_en",
+            "science"
         ]
     }
 ]
