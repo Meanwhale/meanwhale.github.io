@@ -1,0 +1,12 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c748gn94k95o",
+    "news_header": "Google partners with Kairos Power to use small nuclear reactors for AI data centres energy needs.",
+    "news_text": "Google has signed a deal with Kairos Power to utilize small nuclear reactors for powering its AI data centres, with the first reactor expected to be operational this decade and more by 2035. This partnership aims to address the increasing energy demands of AI technologies while promoting clean and reliable energy sources. The agreement is seen as a significant step towards the commercialization of advanced nuclear energy, which is crucial for decarbonizing power grids. The plans require approval from the US Nuclear Regulatory Commission and local agencies. As global energy consumption by data centres is projected to double by the end of the decade, tech companies are increasingly turning to nuclear energy to meet their needs. Despite its benefits, critics highlight the risks associated with nuclear power and its radioactive waste.",
+    "news_url": "https://www.bbc.com/news/articles/c748gn94k95o",
+    "news_time": 1728957240.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en"
+}

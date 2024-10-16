@@ -1,10 +1,1190 @@
 [
     {
+        "news_id": "yle_7420118389",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Easter Island faces a severe plastic waste problem, with 50 times more waste than Chile despite its smaller coastline.",
+        "news_epoch": 1729076580.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70514414",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Support for military juntas in Mali, Burkina Faso, and Niger is declining due to unmet promises and harsh tactics by Russian mercenaries, leading to protests and a shift towards anti-Russian sentiments.",
+        "news_epoch": 1729075860.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70513162",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "A Spanish documentary claims Christopher Columbus was a Sephardic Jew, challenging the belief that he was Italian. However, experts question the validity of these claims due to lack of peer-reviewed evidence.",
+        "news_epoch": 1729074960.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420118379",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Fuel prices in Nigeria have surged fivefold since last year, leading to a tragic explosion that killed at least 140 people.",
+        "news_epoch": 1729074600.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420117324",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Germany has reintroduced border controls at all its borders, preventing 30,000 people from entering the country. This decision follows a rise in illegal migration and is part of a broader trend among several EU countries to enforce passport checks.",
+        "news_epoch": 1729074420.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70513438",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Prabowo Subianto is set to be inaugurated as Indonesia's president on October 20, following a populist election win. Despite past economic growth, the middle class in Indonesia is shrinking due to inflation and rising costs, posing challenges for future economic stability.",
+        "news_epoch": 1729072320.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_czrmzm3113po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "September inflation impacts benefits, pensions, and interest rates, with potential government budget cuts ahead.",
+        "news_epoch": 1729071120.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c39lmnvdzxgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "London Underground train drivers and other staff are set to strike next month over pay disputes, with significant disruptions expected.",
+        "news_epoch": 1729070760.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70512771",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tensions on the Korean Peninsula are escalating, with both North and South Korea on high military alert amid accusations and threats.",
+        "news_epoch": 1729070700.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70513978",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "EU leaders are struggling to find consensus on migration and asylum policies ahead of a summit, with various member states pushing for different reforms and some refusing to comply with EU laws.",
+        "news_epoch": 1729069800.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118349",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Stora Enso will resume timely payments to suppliers.",
+        "news_epoch": 1729069680.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70448256",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ukraine is now the most mine-contaminated country since World War II, severely impacting its agricultural sector and global food security.",
+        "news_epoch": 1729069140.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118312",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ukrainian President Zelenskyi outlines a five-point victory plan aimed at ending the war by next year, focusing on NATO membership and military strategies.",
+        "news_epoch": 1729069140.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c98y09n8201o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The UK government plans to introduce job coaches in hospitals for mental health patients to assist them in returning to work, amidst concerns from disability rights advocates about potential negative impacts on mental health.",
+        "news_epoch": 1729068780.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y9d924dw5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kylian Mbapp\u00e9, the captain of the French football team, is linked to a rape inquiry in Sweden, which he calls 'FAKE NEWS'. His lawyer asserts he has nothing to be concerned about, while Swedish authorities investigate an incident at a hotel.",
+        "news_epoch": 1729067520.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cd0z8gg5v14o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ukrainian President Zelensky presents a 'victory plan' to end the war with Russia, emphasizing military strength and international support.",
+        "news_epoch": 1729067040.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118324",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Northvolt concludes negotiations on savings measures affecting 1,600 employees amid financial difficulties.",
+        "news_epoch": 1729066860.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "wpj_114264",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Central Florida's housing inventory rises for the ninth consecutive month, while interest rates drop, creating a more balanced market.",
+        "news_epoch": 1729066680.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70512279",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "A fuel tanker explosion in Nigeria resulted in at least 94 deaths and 50 injuries.",
+        "news_epoch": 1729063080.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cgryvj4q5y7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kenya's parliament is moving to impeach Deputy President Rigathi Gachagua, facing multiple charges including corruption and inciting ethnic divisions, just two years after his election.",
+        "news_epoch": 1729061880.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70511333",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Kenya's Senate debates the impeachment of Deputy President Rigathi Gachagua following a court ruling that the process is constitutional.",
+        "news_epoch": 1729061640.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cwylzxkd5e7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A man has been charged with aggravated animal cruelty for abandoning his dog in floodwaters during Hurricane Milton.",
+        "news_epoch": 1729061520.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cj9jdgprv7ko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Chancellor Rachel Reeves plans \u00a340bn in tax rises and spending cuts to address a \u00a322bn fiscal gap inherited from the previous government, aiming to avoid real-terms cuts to public services.",
+        "news_epoch": 1729061100.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118294",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A gasoline tanker crash in Nigeria resulted in at least 94 deaths and 50 injuries.",
+        "news_epoch": 1729060980.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118006",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The challenges faced by banks, particularly Nordea, due to outdated systems and the reliance on aging technology like IBM's mainframe and Cobol programming.",
+        "news_epoch": 1729059900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70506460",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The upcoming US presidential election has significant implications for the Middle East, particularly in light of the ongoing conflict involving Israel and Hamas. The policies of either candidate, Kamala Harris or Donald Trump, could shape the region's future dynamics.",
+        "news_epoch": 1729059000.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118259",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "An extensive investigation into financial crimes related to the Icon real estate group has revealed damages of approximately EUR 9.5 million affecting around 300 investors.",
+        "news_epoch": 1729056900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118240",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Internet freedom has declined globally over the past 14 years, with Myanmar and China being the weakest countries. Myanmar's military junta has intensified censorship, while China's internet remains heavily restricted. Improvements in internet freedom are noted in some countries, particularly Zam.",
+        "news_epoch": 1729056720.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cx2kv219d2go",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A Georgia judge has blocked a hand-counting order for ballots in the upcoming presidential election, citing inadequate training for poll workers and potential chaos.",
+        "news_epoch": 1729055580.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118254",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Italy has transported asylum seekers to Albania under a new agreement.",
+        "news_epoch": 1729054560.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_czxde3779lxo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "UK inflation unexpectedly dropped to 1.7% in September, the lowest in three-and-a-half years, driven by lower airfares and petrol prices.",
+        "news_epoch": 1729051860.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118217",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Flight departures from Finland have increased significantly this summer.",
+        "news_epoch": 1729050780.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70509671",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Two beaches in Sydney were closed due to mysterious black balls found on the shore.",
+        "news_epoch": 1729050540.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a62130848",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "A supermoon occurs when the moon is closest to Earth, appearing larger and brighter than usual. It is a full moon that can be seen more vividly during specific times.",
+        "news_epoch": 1729049820.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420118198",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Elon Musk, a billionaire and supporter of Donald Trump, has founded a Super PAC named America PAC to enhance Republican voter support in key states, particularly Pennsylvania.",
+        "news_epoch": 1729047180.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c30l4gp6z6mo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Over 10 Indian flights faced hoax bomb threats in 48 hours, causing delays and diversions, with authorities investigating the incidents.",
+        "news_epoch": 1729046580.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c23k5jdgppgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "South Korean footballer Hwang Ui-jo apologizes for secretly filming sexual encounters without consent.",
+        "news_epoch": 1729045920.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118192",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Non-alcoholic beverage sales rise as alcoholic beverage sales decline.",
+        "news_epoch": 1729045320.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118188",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Private consumption in Finland is increasing, with economists predicting a 0.5% decline in the economy for this year but a 2% growth next year.",
+        "news_epoch": 1729044900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70507958",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Gisele Pelicot's rape trial in France has sparked nationwide demonstrations and discussions on toxic masculinity and consent, inspiring many survivors to speak out.",
+        "news_epoch": 1729044240.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c4g9wve5k19o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Georgian Dream's election campaign emphasizes peace over war amidst rising tensions with Russia and a controversial foreign influence law, while the opposition seeks to secure Georgia's European future.",
+        "news_epoch": 1729044120.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118183",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "HK Foods is selling its Danish business for EUR 44.6 million, ending its operations in Denmark and previously abandoning Sweden.",
+        "news_epoch": 1729044060.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cwylepd79d5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Residents near the Runcorn waste incinerator face severe pollution and disturbances, highlighting environmental and social injustices in waste management.",
+        "news_epoch": 1729043100.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c9wk0e8zey2o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The US has warned Israel to improve humanitarian aid access in Gaza within 30 days or risk military assistance cuts amid ongoing Israeli offensives causing civilian casualties.",
+        "news_epoch": 1729042560.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cwy9l7k40kgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Boeing seeks $35bn in funding amid ongoing worker strike and plans to lay off 17,000 employees.",
+        "news_epoch": 1729041960.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cd7xlll39l5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Alexei Moskalev, detained in Russia after his daughter drew an anti-war picture, has been released from a penal colony after serving time for discrediting the army.",
+        "news_epoch": 1729040160.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118169",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "North Korea's recent border explosions have heightened tensions with South Korea and prompted warnings from Japan about escalating conflict.",
+        "news_epoch": 1729038900.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70508473",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "A robot artist named Ai-Da will have a portrait of Alan Turing auctioned at Sotheby's, marking a historic sale for a robot-created artwork.",
+        "news_epoch": 1729035120.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70508554",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Record early voting turnout in Georgia for the upcoming presidential election, with candidates actively campaigning.",
+        "news_epoch": 1729034460.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420114447",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The use of nicotine pouches, known as 'white snuff', is rapidly increasing among Swedish youth, particularly high school girls, with concerns about marketing strategies targeting young people.",
+        "news_epoch": 1729034400.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_czxdr29lyggo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A sophisticated shoplifting gang, known as the 'champagne gang', has stolen over \u00a373,000 from UK supermarkets using organized tactics and technology to evade capture.",
+        "news_epoch": 1729030860.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cn7yn542648o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A Russian man, Mikhail Pichugin, was rescued after over two months adrift in the Sea of Okhotsk, where he lost his brother and nephew.",
+        "news_epoch": 1729028760.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70508180",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Boeing plans to raise up to $25 billion to improve its balance sheet amid ongoing worker strikes for better wages.",
+        "news_epoch": 1729026960.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118153",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Unidentified drones were spotted over U.S. military bases in Virginia, raising concerns for the Pentagon.",
+        "news_epoch": 1729005660.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118073",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The Nobel Prize in Economics was awarded to Daron Acemo\u011flu, Simon Johnson, and James A. Ainson for their research on the factors contributing to the success of nations, emphasizing the importance of democracy, good governance, and societal stability.",
+        "news_epoch": 1729003800.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c3dv3l5pvy3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The US imposed a record $4 million penalty on Lufthansa for discriminating against Jewish passengers on a 2022 flight due to mask compliance issues.",
+        "news_epoch": 1729003440.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118148",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Southern Africa faces a historic drought, leading to national emergencies in several countries and worsening food shortages.",
+        "news_epoch": 1729002000.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y5d33dmepo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "An Israeli air strike on a tent camp in a Gaza hospital compound resulted in multiple casualties, including women and children, igniting widespread horror among witnesses.",
+        "news_epoch": 1728999720.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118140",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Anora's CEO Jacek Pa.zka announces his resignation.",
+        "news_epoch": 1728997020.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70499104",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Hyundai launched its IPO in India, raising $3.3 billion, marking the country's largest stock market debut.",
+        "news_epoch": 1728992520.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118124",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Mets\u00e4 Fibre initiates arbitration against Valmet Technologies over financial claims.",
+        "news_epoch": 1728990600.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_crm2remkekdo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "UK businesses express concerns over potential National Insurance tax rise on employers, fearing it could hinder job creation and economic growth.",
+        "news_epoch": 1728990540.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_explainers63635185",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The UK government will not raise income tax or National Insurance rates ahead of the Budget, but may increase employer NI rates to address a \u00a322bn deficit.",
+        "news_epoch": 1728987840.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420117210",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The text discusses the common regrets associated with job changes, highlighting personal experiences and survey findings in Finland.",
+        "news_epoch": 1728984780.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114263",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Hong Kong's property market shows mixed signals with recent rate cuts and rising stock prices, but economic weakness and cautious developer pricing persist.",
+        "news_epoch": 1728981360.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "bbc_ce3w7dqn454o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Expectations for a UK interest rate cut have increased due to slowing wage growth, with analysts predicting a reduction to 4.75% next month despite rising pay still outpacing inflation.",
+        "news_epoch": 1728980220.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118046",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Errors in credit reports have led to inflated income figures due to ignored reductions.",
+        "news_epoch": 1728979500.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420112174",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tapio Schneider, a climate scientist with Finnish, German, and American nationalities, discusses the impacts of air pollution on climate change and the importance of reducing pollution for a sustainable future.",
+        "news_epoch": 1728968820.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c748gn94k95o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Google partners with Kairos Power to use small nuclear reactors for AI data centres energy needs.",
+        "news_epoch": 1728957240.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cp3wxgje5pwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A BBC analysis reveals that burning household rubbish in incinerators is now the dirtiest method of power generation in the UK, producing greenhouse gases equivalent to coal power.",
+        "news_epoch": 1728956700.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c4gvnym0j0xo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Senegal launches its first satellite, GaindeSAT-1A, marking a significant step for African space technology and potential independence in satellite data access.",
+        "news_epoch": 1728936060.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c1482xzrge1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "NASA's Europa Clipper spacecraft has launched to explore Jupiter's moon Europa for signs of alien life, aiming to arrive in 2030.",
+        "news_epoch": 1728911700.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70465441",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "A study using AI identified over 160,000 previously unknown RNA viruses, highlighting the vastness of the virosphere.",
+        "news_epoch": 1728908520.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114262",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "U.S. construction input prices fell by 0.9% in September 2024, driven by a decline in oil prices, while some materials saw price increases.",
+        "news_epoch": 1728900600.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70484442",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Daron Acemoglu, Simon Johnson, and James A. Robinson won the 2024 Nobel Prize in Economics for their research on economic success and failure among nations.",
+        "news_epoch": 1728892800.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
         "news_id": "yle_7420113579",
         "news_source": "yle",
         "news_source_lang": "fi",
         "news_header": "NASA's Europa Clipper mission aims to investigate the icy moon Europa for potential signs of life beneath its surface.",
         "news_epoch": 1728885600.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117674",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "NASA is launching a mission to explore Jupiter's moon Europa for signs of liquid water and potential life.",
+        "news_epoch": 1728873120.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117671",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A study reveals that explorer Christoffer Columbus was a Western European Sephardian based on DNA analysis.",
+        "news_epoch": 1728872160.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117610",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "SpaceX successfully conducted the fifth flight test of the Starship rocket in Texas, achieving successful landings for both the Super Heavy Booster and the Starship.",
+        "news_epoch": 1728809940.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70433820",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tensions escalate between Iran and Israel following missile strikes, with potential implications for global oil prices and regional stability.",
+        "news_epoch": 1728793200.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70446933",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Saline solution is in short supply in German hospitals and pharmacies, affecting medical procedures and outpatient care.",
+        "news_epoch": 1728786840.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y87l79d02o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Comet A3 (Tsuchinshan-ATLAS), visible from Earth for the first time in 80,000 years, may be seen with the naked eye in the UK this Saturday evening.",
+        "news_epoch": 1728743160.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70475675",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Boeing plans to cut 17,000 jobs, 10% of its workforce, due to a machinists' strike and expected financial losses.",
+        "news_epoch": 1728673260.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420117356",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A geomagnetic storm affecting Finland is caused by solar activity, creating challenges for satellite operations and visibility of auroras due to cloud cover.",
+        "news_epoch": 1728655380.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117066",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The comet Tsuchinshan-ATLAS is best viewed on the night between Saturday and Sunday, with optimal conditions for the following weeks.",
+        "news_epoch": 1728647100.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_cden551l7kko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The 2023 hurricane season has been marked by an unusual pattern of storm activity, with Hurricanes Helene and Milton causing significant damage in the southeastern U.S. after a period of few storms despite warm ocean conditions.",
+        "news_epoch": 1728646920.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70454889",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Russia and Turkey have banned Discord due to concerns over its use for illegal activities and failure to comply with content removal requests.",
+        "news_epoch": 1728634980.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114261",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "The California Association of Realtors forecasts a favorable housing market in 2025 with increased sales and prices due to lower interest rates and improved inventory.",
+        "news_epoch": 1728634680.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70239817",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Klaus Eberhardt's unconventional approach to business succession involved having his employees collectively buy out his technology firm, iteratec, as many family-owned businesses in Germany face challenges in finding successors.",
+        "news_epoch": 1728624360.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a67233959",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tropical storm seasons are worsening, with recent hurricanes causing significant damage in Florida and raising concerns about climate change's impact on storm intensity.",
+        "news_epoch": 1728550140.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114260",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "The Q3 2024 U.S. Foreclosure Market Report indicates a decrease in foreclosure filings and starts, with notable declines in several states. However, economic changes could impact future trends.",
+        "news_epoch": 1728548760.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70447438",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "New research reveals diverse communities of viruses, particularly bacteriophages, inhabit showerheads and toothbrushes in American homes, suggesting potential benefits for bacterial infection treatments.",
+        "news_epoch": 1728540120.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420116924",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Exercise improves fat tissue quality in overweight individuals, reducing health risks.",
+        "news_epoch": 1728538200.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y3j0vzpl3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The WWF's Living Planet Report highlights a catastrophic decline in global wildlife populations, with an average loss of 73% over the past 50 years due to human activities, while also noting some conservation successes.",
+        "news_epoch": 1728509160.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420116621",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The Living Planet report highlights a significant decline in biodiversity, particularly in South America, where wildlife populations have dropped by 95%. The report emphasizes the urgent need for action to combat natural disasters and climate change, which threaten ecosystems worldwide.",
+        "news_epoch": 1728504060.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114259",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Hurricane Milton poses a significant risk to residential properties in the Tampa Bay and Sarasota areas, with potential reconstruction costs reaching up to $174 billion depending on the storm's intensity at landfall.",
+        "news_epoch": 1728480960.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "yle_7420110416",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Music evokes a wide range of emotions, including joy and sorrow, and can trigger crying in different ways for different people.",
+        "news_epoch": 1728478680.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70437198",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Germany's economy is facing a recession with expected GDP contraction in 2024, driven by structural issues and global challenges.",
+        "news_epoch": 1728457440.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420116615",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The Nobel Prize for Literature and Peace will be announced soon, with recent awards given for protein research and AI advancements in predicting protein structures.",
+        "news_epoch": 1728454500.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70425198",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Volkswagen faces significant challenges, including potential plant closures and job cuts, amid falling sales and rising production costs, leading to uncertainty for its workforce and implications for German politics.",
+        "news_epoch": 1728391620.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114258",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Las Vegas condo and townhome prices hit record highs in September 2024, while single-family home prices nearly matched their peak.",
+        "news_epoch": 1728374820.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "yle_7420116256",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The Nobel Prize winners for Physics and Medicine have been announced, with a focus on machine learning and gene regulation.",
+        "news_epoch": 1728368100.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420115446",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Students from Finnish universities are innovating food production for space travel by modifying E. coli to produce vitamins, competing in an international synthetic biology competition in Paris.",
+        "news_epoch": 1728365700.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c2lnrn287rgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The Sphinx snow patch in Scotland has melted for the fourth year in a row, attributed to climate change.",
+        "news_epoch": 1728353760.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114257",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "U.S. mortgage applications declined by 1.3% for the week ending September 27, 2024, with a notable increase in purchase applications compared to last year.",
+        "news_epoch": 1728289980.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70418862",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The German economy faces challenges due to stagnant growth, high energy prices, and declining demand from China, leading to job cuts and restructuring among major companies.",
+        "news_epoch": 1728285900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70388582",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "France's new Prime Minister Michel Barnier faces challenges in passing the 2025 budget amid rising public debt and a lack of parliamentary majority.",
+        "news_epoch": 1728034380.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114256",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "A Redfin report reveals that U.S. housing turnover is at its lowest in 30 years, with only 25 out of every 1,000 homes changing ownership in 2024.",
+        "news_epoch": 1728027480.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "wpj_114255",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "World Property Ventures announces a $350 million joint-venture funding round for its subsidiary, World Property Markets, focusing on innovative real estate search platforms.",
+        "news_epoch": 1727975520.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "wpj_114254",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Recent changes to the commission structure in real estate are causing concern among agents, with many predicting negative impacts on the industry and first-time home buyers.",
+        "news_epoch": 1727942700.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70385852",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tensions between Iran and Israel escalate after Iran launches missiles, impacting global oil prices and Iran's economy.",
+        "news_epoch": 1727864820.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114253",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "The latest U.S. Home Affordability Report indicates that homeownership remains financially challenging for many, with costs consuming a significant portion of wages despite slight improvements in affordability.",
+        "news_epoch": 1727856540.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "wpj_114252",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Monaco's housing market faces challenges due to high demand and limited supply, with significant new developments underway to accommodate ultra-high-net-worth individuals and local residents.",
+        "news_epoch": 1727768580.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "bbc_cn5zx2zx5xvo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Central Europe's floods, exacerbated by climate change, highlight the continent's warming future, with scientists warning of more extreme weather events.",
+        "news_epoch": 1727222760.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c05j3q07p3yo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sir David Attenborough reflects on the impact of wildlife broadcasting on conservation awareness as the BBC prepares to celebrate 90 years of broadcasting from Bristol.",
+        "news_epoch": 1726548660.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_cn8l3x9e8ezo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The Titan submersible, operated by Oceangate, tragically imploded during a dive to the Titanic wreck, killing all five aboard. A US Coast Guard hearing is set to investigate the disaster, focusing on design flaws, safety warnings, and regulatory issues.",
+        "news_epoch": 1726351680.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_cged3jd8llyo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A massive landslide in Greenland triggered a prolonged seismic wave, highlighting the impact of climate change on glacier stability.",
+        "news_epoch": 1726154220.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c74j2lz88pwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The text discusses the advancements and controversies surrounding gene editing in agriculture, particularly in the UK, where legislation has been paused amidst debates on safety, animal welfare, and regulatory alignment with the EU.",
+        "news_epoch": 1725999420.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_czx6e2x0kdyo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sellafield, a major nuclear waste site in the UK, faces challenges with its aging infrastructure and the need for a permanent waste disposal solution as it houses a significant amount of radioactive material.",
+        "news_epoch": 1725830400.0,
         "news_categories": [
             "science"
         ]

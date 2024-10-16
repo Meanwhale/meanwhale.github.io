@@ -1,10 +1,1190 @@
 [
     {
+        "news_id": "yle_7420118389",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "P\u00e4\u00e4si\u00e4issaarilla on vakava muovij\u00e4teongelma, jossa on 50 kertaa enemm\u00e4n j\u00e4tett\u00e4 kuin Chiless\u00e4 pienemm\u00e4st\u00e4 rannikosta huolimatta.",
+        "news_epoch": 1729076580.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70514414",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Sotilasjuntan tuki Malissa, Burkina Fasossa ja Nigeriss\u00e4 v\u00e4henee ven\u00e4l\u00e4isten palkkasotureiden t\u00e4ytt\u00e4mien lupausten ja ankarien taktiikoiden takia, mik\u00e4 johtaa mielenosoituksiin ja siirtymiseen Ven\u00e4j\u00e4n vastaisiin tunteisiin.",
+        "news_epoch": 1729075860.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70513162",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Espanjalainen dokumenttielokuva Christopher Columbus oli sefardinen juutalainen, joka haastaa h\u00e4nen uskonsa italiaksi. Asiantuntijat kuitenkin kyseenalaistavat v\u00e4itteiden p\u00e4tevyyden vertaisarvioidun todistusaineiston puutteen vuoksi.",
+        "news_epoch": 1729074960.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420118379",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nigeriassa polttoaineen hinnat ovat nousseet viisinkertaiseksi viime vuonna, mik\u00e4 on johtanut traagiseen r\u00e4j\u00e4hdykseen, joka tappoi ainakin 140 ihmist\u00e4.",
+        "news_epoch": 1729074600.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420117324",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Saksa on ottanut rajatarkastukset uudelleen k\u00e4ytt\u00f6\u00f6n ja est\u00e4nyt 30 000 ihmist\u00e4 p\u00e4\u00e4sem\u00e4st\u00e4 maahan. Laittoman maahanmuuton lis\u00e4\u00e4ntyminen on osa useiden EU-maiden laajempaa suuntausta passitarkastusten toteuttamiseksi.",
+        "news_epoch": 1729074420.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70513438",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Prabowo Subianto vihit\u00e4\u00e4n Indonesian presidentiksi 20. lokakuuta populistisen vaalivoiton j\u00e4lkeen. Aiemmasta talouskasvusta huolimatta Indonesian keskiluokka kutistuu inflaation ja kustannusten nousun vuoksi, mik\u00e4 aiheuttaa tulevaisuuden taloudellisen vakauden haasteita.",
+        "news_epoch": 1729072320.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_czrmzm3113po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Syyskuun inflaatio vaikuttaa etuuksiin, el\u00e4kkeisiin ja korkoihin, ja mahdolliset julkisen talouden leikkaukset ovat edess\u00e4.",
+        "news_epoch": 1729071120.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c39lmnvdzxgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Lontoo Lontoo Maanalaiset junakuljettajat ja muut henkil\u00f6t joutuvat iskem\u00e4\u00e4n ensi kuussa palkkakiistan takia.",
+        "news_epoch": 1729070760.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70512771",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "J\u00e4nnitteet Korean niemimaalla ovat kiihtyneet, kun Pohjois- ja Etel\u00e4-Korea ovat suuressa sotilaallisessa h\u00e4lytyksess\u00e4.",
+        "news_epoch": 1729070700.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70513978",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "EU:n johtajat pyrkiv\u00e4t l\u00f6yt\u00e4m\u00e4\u00e4n yhteisymm\u00e4rryksen maahanmuutto- ja turvapaikkapolitiikasta ennen huippukokousta, jossa eri j\u00e4senvaltiot pyrkiv\u00e4t erilaisiin uudistuksiin ja kielt\u00e4ytyv\u00e4t noudattamasta EU:n lakeja.",
+        "news_epoch": 1729069800.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118349",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Stora Enso jatkaa maksuja toimittajille.",
+        "news_epoch": 1729069680.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70448256",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ukraina on toisesta maailmansodasta l\u00e4htien eniten saastunut maa, joka vaikuttaa voimakkaasti maatalous- ja elintarviketurvallisuuteen.",
+        "news_epoch": 1729069140.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118312",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ukrainan presidentti Zelenskyi esittelee viiden pisteen voittosuunnitelman, jonka tarkoituksena on lopettaa sota ensi vuonna keskittyen Naton j\u00e4senyyteen ja sotilasstrategioihin.",
+        "news_epoch": 1729069140.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c98y09n8201o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ison-Britannian hallitus aikoo ottaa k\u00e4ytt\u00f6\u00f6n mielenterveyspotilaiden ty\u00f6valmentajia auttamaan heit\u00e4 palaamaan t\u00f6ihin ja vammaisten oikeuksien puolestapuhujia mahdollisista kielteisist\u00e4 vaikutuksista mielenterveyteen.",
+        "news_epoch": 1729068780.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y9d924dw5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ranskalaisen jalkapallojoukkueen kapteeni Kylian Mbapp\u00e9 liittyy raiskaustutkimukseen Ruotsissa. Asianajaja v\u00e4itt\u00e4\u00e4, ettei h\u00e4nell\u00e4 ole mit\u00e4\u00e4n syyt\u00e4 huoleen, kun taas Ruotsin viranomaiset tutkivat tapausta hotellissa.",
+        "news_epoch": 1729067520.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cd0z8gg5v14o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ukrainan presidentti Zelensky esittelee \"voittosuunnitelman\" sodan lopettamiseksi Ven\u00e4j\u00e4n kanssa, painottaen sotilaallista voimaa ja kansainv\u00e4list\u00e4 tukea.",
+        "news_epoch": 1729067040.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118324",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Northvolt neuvottelee 1 600 ty\u00f6ntekij\u00e4n s\u00e4\u00e4st\u00f6toimista taloudellisten vaikeuksien keskell\u00e4.",
+        "news_epoch": 1729066860.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "wpj_114264",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Keski-Floridan asuntovarasto nousee yhdeks\u00e4nnelle per\u00e4kk\u00e4iselle kuukaudelle, kun taas korot laskevat ja luovat tasapainoisemmat markkinat.",
+        "news_epoch": 1729066680.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70512279",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Nigeriassa polttoaines\u00e4ili\u00f6iden r\u00e4j\u00e4hdys aiheutti ainakin 94 kuolemantapausta ja 50 loukkaantumista.",
+        "news_epoch": 1729063080.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cgryvj4q5y7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kenian parlamentti aikoo syytt\u00e4\u00e4 varapresidentti Rigathi Gachaguaa useista syytteist\u00e4, kuten korruptiosta ja etnisest\u00e4 jakautumisesta, vain kaksi vuotta vaalien j\u00e4lkeen.",
+        "news_epoch": 1729061880.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70511333",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Kenian senaatti keskustelee apulaispresidentti Rigathi Gachaguan syyt\u00f6ksest\u00e4, jonka mukaan prosessi on perustuslaillinen.",
+        "news_epoch": 1729061640.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cwylzxkd5e7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Miest\u00e4 on syytetty pahenevasta el\u00e4inten julmuudesta koiran hylk\u00e4\u00e4misest\u00e4 tulvavedess\u00e4 hurrikaani Miltonin aikana.",
+        "news_epoch": 1729061520.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cj9jdgprv7ko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Liittokansleri Rachel Reeves suunnittelee 40 miljardia puntaa veronkorotuksia ja menojen leikkauksia, joilla puututaan edellisest\u00e4 hallituksesta perittyyn 22 miljardin punnan verovajeeseen, jonka tarkoituksena on v\u00e4ltt\u00e4\u00e4 julkisten palvelujen reaaliaikaiset leikkaukset.",
+        "news_epoch": 1729061100.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118294",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nigerian bensiinitankkeriturma johti ainakin 94 kuolemaan ja 50 loukkaantumiseen.",
+        "news_epoch": 1729060980.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118006",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Pankkien, erityisesti Nordean, haasteet vanhentuneiden j\u00e4rjestelmien ja ik\u00e4\u00e4ntymistekniikan, kuten IBM:n p\u00e4\u00e4kehys ja Cobol-ohjelmointi.",
+        "news_epoch": 1729059900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70506460",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "USA:n presidentinvaaleilla on merkitt\u00e4vi\u00e4 vaikutuksia L\u00e4hi-it\u00e4\u00e4n erityisesti Israelin ja Hamasin v\u00e4lisen konfliktin vuoksi. Kummankaan ehdokkaan, Kamala Harrisin tai Donald Trumpin politiikka voi muokata alueen tulevaa dynamiikkaa.",
+        "news_epoch": 1729059000.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118259",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Icon-kiinteist\u00f6ryhm\u00e4\u00e4n liittyvien taloudellisten rikosten laaja tutkimus on paljastanut noin 9,5 miljoonan euron vahingot, jotka vaikuttavat noin 300 sijoittajaan.",
+        "news_epoch": 1729056900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118240",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Internetin vapaus on v\u00e4hentynyt maailmanlaajuisesti viimeisten 14 vuoden aikana, kun Myanmar ja Kiina ovat heikoimpia maita. Myanmarin sotilasjuntta on lis\u00e4nnyt sensuuria, kun taas Kiinan internet on edelleen hyvin rajoitettu. Internetin vapauden parannuksia havaitaan joissakin maissa, erityisesti Zam.",
+        "news_epoch": 1729056720.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cx2kv219d2go",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Georgian tuomari on est\u00e4nyt \u00e4\u00e4nestysm\u00e4\u00e4r\u00e4yksen tulevissa presidentinvaaleissa, viitaten riitt\u00e4m\u00e4tt\u00f6m\u00e4\u00e4n koulutukseen kyselyty\u00f6ntekij\u00f6ille ja mahdolliseen kaaokseen.",
+        "news_epoch": 1729055580.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118254",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Italia on siirt\u00e4nyt turvapaikanhakijoita uuteen sopimukseen.",
+        "news_epoch": 1729054560.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_czxde3779lxo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ison-Britannian inflaatio laski odottamattomasti 1,7 prosenttiin syyskuussa, mik\u00e4 on alhaisin kolmen ja puolen vuoden aikana, mik\u00e4 johtui alhaisemmista lentojen hinnoista.",
+        "news_epoch": 1729051860.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118217",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Lentojen l\u00e4ht\u00f6 Suomesta on kasvanut merkitt\u00e4v\u00e4sti t\u00e4n\u00e4 kes\u00e4n\u00e4.",
+        "news_epoch": 1729050780.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70509671",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Kaksi Sydneyn rantaa suljettiin mystisten mustien pallojen takia.",
+        "news_epoch": 1729050540.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a62130848",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Supermoon syntyy, kun kuu on l\u00e4hemp\u00e4n\u00e4 Maata, n\u00e4ytt\u00e4\u00e4 suuremmalta ja kirkkaammalta kuin tavallisesti. Se on t\u00e4ysikuu, jota voidaan n\u00e4hd\u00e4 el\u00e4v\u00e4mmin tiettyin\u00e4 aikoina.",
+        "news_epoch": 1729049820.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420118198",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Donald Trumpin miljard\u00f6\u00f6ri ja kannattaja Elon Musk on perustanut Yhdysvaltain PAC-nimisen Super PAC-j\u00e4rjest\u00f6n, joka parantaa republikaanien \u00e4\u00e4nest\u00e4jien tukea keskeisiss\u00e4 valtioissa, erityisesti Pennsylvaniassa.",
+        "news_epoch": 1729047180.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c30l4gp6z6mo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Yli 10 Intian lentoa joutui pommiuhkauksiin 48 tunnin aikana, mik\u00e4 aiheutti viiv\u00e4styksi\u00e4 ja viiveit\u00e4.",
+        "news_epoch": 1729046580.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c23k5jdgppgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Etel\u00e4-Korean jalkapalloilija Hwang Ui-jo pyysi anteeksi seksuaalisten kohtaamisten salaa kuvaamista ilman suostumusta.",
+        "news_epoch": 1729045920.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118192",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Alkoholittomien juomien myynti kasvoi alkoholijuomien myynnin laskuna.",
+        "news_epoch": 1729045320.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118188",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Yksityinen kulutus Suomessa kasvaa, kun taloustieteilij\u00e4t ennustavat talouskasvun v\u00e4henev\u00e4n 0,5 prosenttia t\u00e4n\u00e4 vuonna.",
+        "news_epoch": 1729044900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70507958",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Gisele Pelicotin raiskauskokeilu Ranskassa on her\u00e4tt\u00e4nyt valtakunnallisia mielenosoituksia ja keskusteluja myrkyllisest\u00e4 maskuliinisuudesta ja suostumuksesta.",
+        "news_epoch": 1729044240.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c4g9wve5k19o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Georgian Dreamin vaalikampanjassa korostetaan rauhaa sodasta, jossa j\u00e4nnitteet nousevat Ven\u00e4j\u00e4n kanssa ja kiistanalainen ulkomainen vaikutusvalta laki, kun taas oppositio pyrkii turvaamaan Georgian tulevaisuuden.",
+        "news_epoch": 1729044120.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118183",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "HK Foods myy tanskalaista liiketoimintaansa 44,6 miljoonalla eurolla ja lopettaa toimintansa Tanskassa.",
+        "news_epoch": 1729044060.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cwylepd79d5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Runcornin j\u00e4tteenpolttoaineen l\u00e4heisyydess\u00e4 asuvat ihmiset kohtaavat vakavia pilaantumis- ja h\u00e4iri\u00f6tilanteita, joissa korostetaan ymp\u00e4rist\u00f6- ja sosiaalisia ep\u00e4oikeudenmukaisuuksia j\u00e4tehuollossa.",
+        "news_epoch": 1729043100.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c9wk0e8zey2o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Yhdysvallat on varoittanut Israelia parantamaan humanitaarisen avun saantia Gazassa 30 p\u00e4iv\u00e4n kuluessa tai vaarantamaan sotilaallisen avun leikkauksia k\u00e4ynniss\u00e4 olevien Israelin hy\u00f6kk\u00e4ysten yhteydess\u00e4.",
+        "news_epoch": 1729042560.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_cwy9l7k40kgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Boeing hakee 35 miljardin dollarin rahoitusta meneill\u00e4\u00e4n olevaan ty\u00f6lakkoon ja aikoo irtisanoa 17 000 ty\u00f6ntekij\u00e4\u00e4.",
+        "news_epoch": 1729041960.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cd7xlll39l5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Aleksei Moskalev, pid\u00e4tetty Ven\u00e4j\u00e4ll\u00e4, kun h\u00e4nen tytt\u00e4rens\u00e4 piirsi sodanvastaisen kuvan, on vapautettu rangaistussiirtokunnasta sen j\u00e4lkeen, kun h\u00e4n on palvellut aikaa armeijan hylk\u00e4\u00e4miseen.",
+        "news_epoch": 1729040160.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118169",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Pohjois-Korean viimeaikaiset rajar\u00e4j\u00e4hdykset ovat lis\u00e4nneet j\u00e4nnitteit\u00e4 Etel\u00e4-Korean kanssa ja varoittaneet Japania konfliktien kiihtymisest\u00e4.",
+        "news_epoch": 1729038900.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70508473",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ai-Da-niminen robottiartisti saa muotokuvan Alan Turingista, joka huutokaupataan Sothebyn kaupungissa, mik\u00e4 merkitsee historiallista myynti\u00e4 robottien luomaan taiteeseen.",
+        "news_epoch": 1729035120.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70508554",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Enn\u00e4t\u00e4 ennakko\u00e4\u00e4nestys Georgiassa tuleville presidentinvaaleille, joissa ehdokkaat aktiivisesti kampanjoivat.",
+        "news_epoch": 1729034460.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420114447",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nikotiinipussien k\u00e4ytt\u00f6, joka tunnetaan nimell\u00e4 \"valkoinen snuff\", kasvaa nopeasti ruotsalaisten nuorten, erityisesti lukiotytt\u00f6jen, keskuudessa.",
+        "news_epoch": 1729034400.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_czxdr29lyggo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kehittynyt shoplifting jengi, joka tunnetaan nimell\u00e4 champagne jengi, on varastanut yli 73 000 puntaa Britannian supermarketeista k\u00e4ytt\u00e4en j\u00e4rjest\u00e4ytynytt\u00e4 taktiikkaa ja teknologiaa.",
+        "news_epoch": 1729030860.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cn7yn542648o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ven\u00e4l\u00e4inen mies Mihail Pichugin pelastettiin kahden kuukauden kuluttua Okhotskin merest\u00e4, jossa h\u00e4n menetti veljens\u00e4 ja veljenpoikansa.",
+        "news_epoch": 1729028760.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "dw_a70508180",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Boeing aikoo nostaa jopa 25 miljardia dollaria parantaakseen tasettaan ty\u00f6l\u00e4islakkojen avulla.",
+        "news_epoch": 1729026960.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118153",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tunnistamattomat lennokit havaittiin Yhdysvaltain sotilastukikohdista Virginiassa, mik\u00e4 her\u00e4tt\u00e4\u00e4 huolta Pentagonista.",
+        "news_epoch": 1729005660.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118073",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Taloustieteen Nobel-palkinto my\u00f6nnettiin Daron Acemo\u011flulle, Simon Johnsonille ja James Ainsonille tutkimuksistaan kansojen menestykseen vaikuttavista tekij\u00f6ist\u00e4, jotka korostavat demokratian, hyv\u00e4n hallinnon ja yhteiskunnan vakautta.",
+        "news_epoch": 1729003800.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c3dv3l5pvy3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Yhdysvallat m\u00e4\u00e4r\u00e4si Lufthansalle enn\u00e4tyksellisen 4 miljoonan dollarin rangaistuksen juutalaisten matkustajien syrjinn\u00e4st\u00e4 vuonna 2022.",
+        "news_epoch": 1729003440.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118148",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Etel\u00e4-Afrikka on historiallinen kuivuus, joka johtaa kansallisiin h\u00e4t\u00e4tilanteisiin useissa maissa ja pahentaa ruokapula.",
+        "news_epoch": 1729002000.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y5d33dmepo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Israelin ilmalakko telttaleirill\u00e4 Gazan sairaalan yhdisteess\u00e4 johti useisiin uhreihin, mukaan lukien naiset ja lapset, jotka sytyttiv\u00e4t laajan kauhun todistajien keskuudessa.",
+        "news_epoch": 1728999720.0,
+        "news_categories": [
+            "world"
+        ]
+    },
+    {
+        "news_id": "yle_7420118140",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Anoran toimitusjohtaja Jacek Pa.zka ilmoitti erostaan.",
+        "news_epoch": 1728997020.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70499104",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Hyundai lanseerasi IPO:nsa Intiassa ja ker\u00e4si 3,3 miljardia dollaria, mik\u00e4 merkitsi maan suurinta osakemarkkinoiden debyytti\u00e4.",
+        "news_epoch": 1728992520.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118124",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Mets\u00e4 Fibre aloittaa v\u00e4limiesmenettelyn Valmet Technologiesia vastaan.",
+        "news_epoch": 1728990600.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_crm2remkekdo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Yhdistyneen kuningaskunnan yritykset ovat huolissaan mahdollisista kansallisen vakuutuksen veronkorotuksista ty\u00f6nantajille ja pelk\u00e4\u00e4v\u00e4t, ett\u00e4 se voi est\u00e4\u00e4 ty\u00f6paikkojen luomisen ja talouskasvun.",
+        "news_epoch": 1728990540.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_explainers63635185",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ison-Britannian hallitus ei nosta tuloveroa tai kansallista vakuutusmaksua ennen talousarviota, mutta se voi nostaa ty\u00f6nantajan NI-prosentteja 22 miljardin punnan alij\u00e4\u00e4m\u00e4n korjaamiseksi.",
+        "news_epoch": 1728987840.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420117210",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tekstiss\u00e4 k\u00e4sitell\u00e4\u00e4n ty\u00f6el\u00e4m\u00e4n muutoksiin liittyvi\u00e4 yleisi\u00e4 katumuksia, joissa korostetaan henkil\u00f6kohtaisia kokemuksia ja tutkimustuloksia Suomessa.",
+        "news_epoch": 1728984780.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114263",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Hongkongin kiinteist\u00f6markkinat osoittavat sekavia signaaleja viimeaikaisilla hintojen leikkauksilla ja nousevilla osakkeiden hinnoilla, mutta taloudellinen heikkous ja varovainen kehitt\u00e4j\u00e4hinnoittelu jatkuvat.",
+        "news_epoch": 1728981360.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "bbc_ce3w7dqn454o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ison-Britannian korkojen leikkauksen odotukset ovat nousseet palkkojen kasvun hidastumisen vuoksi, ja analyytikot ennustavat, ett\u00e4 ensi kuussa maksetaan 4,75 prosenttia, vaikka palkankorotus on edelleen ohi.",
+        "news_epoch": 1728980220.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420118046",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Luottoraporttien virheet ovat johtaneet tulolukuihin, jotka johtuvat huomioimattomista v\u00e4hennyksist\u00e4.",
+        "news_epoch": 1728979500.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420112174",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tapio Schneider, suomalainen, saksalainen ja amerikkalainen kansalaisuus, keskustelee ilmansaasteiden vaikutuksista ilmastonmuutokseen ja saastumisen v\u00e4hent\u00e4misen t\u00e4rkeydest\u00e4 kest\u00e4v\u00e4\u00e4n tulevaisuuteen.",
+        "news_epoch": 1728968820.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c748gn94k95o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Google tekee yhteisty\u00f6t\u00e4 Kairos Powerin kanssa pienten ydinreaktoreiden k\u00e4ytt\u00e4miseksi AI-datakeskuksissa.",
+        "news_epoch": 1728957240.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_cp3wxgje5pwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "BBC-analyysi paljastaa, ett\u00e4 kotitalouksien roskan polttaminen polttolaitoksissa on nyt likaisin s\u00e4hk\u00f6ntuotantomenetelm\u00e4 Isossa-Britanniassa.",
+        "news_epoch": 1728956700.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c4gvnym0j0xo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Senegal lanseeraa ensimm\u00e4isen satelliittinsa GaindeSAT-1A:n, joka on merkitt\u00e4v\u00e4 askel afrikkalaiselle avaruusteknologialle ja satelliittidatan mahdolliselle riippumattomuudelle.",
+        "news_epoch": 1728936060.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c1482xzrge1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "NASA:n Europa Clipper -avaruusalus on laukaissut tutkimaan Jupiterin kuuta Europaa avaruusolentojen merkkien parissa.",
+        "news_epoch": 1728911700.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70465441",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Teko\u00e4lytutkimuksessa tunnistettiin yli 160 000 aiemmin tuntematonta RNA-virusta, jotka korostivat virosf\u00e4\u00e4rin laajuutta.",
+        "news_epoch": 1728908520.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114262",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "USA:n rakennuspaikkojen hinnat laskivat syyskuussa 2024 0,9 prosenttia, mik\u00e4 johtui \u00f6ljyn hinnan laskusta, kun taas osa materiaaleista kasvoi.",
+        "news_epoch": 1728900600.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70484442",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Daron Acemoglu, Simon Johnson ja James A. Robinson voittivat taloustieteen Nobelin palkinnon vuonna 2024 tutkimalla maiden taloudellista menestyst\u00e4 ja ep\u00e4onnistumista.",
+        "news_epoch": 1728892800.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
         "news_id": "yle_7420113579",
         "news_source": "yle",
         "news_source_lang": "fi",
         "news_header": "NASA:n Europa Clipper -teht\u00e4v\u00e4n tarkoituksena on tutkia Europa-kuuta mahdollisista el\u00e4m\u00e4n merkkeist\u00e4 pinnan alla.",
         "news_epoch": 1728885600.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117674",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "NASA k\u00e4ynnist\u00e4\u00e4 teht\u00e4v\u00e4n tutkia Jupiterin kuu Europaa nestem\u00e4isen veden ja mahdollisen el\u00e4m\u00e4n merkkej\u00e4 varten.",
+        "news_epoch": 1728873120.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117671",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tutkimus paljasti, ett\u00e4 tutkija Christoffer Columbus oli L\u00e4nsi-Euroopan Sephardian, joka perustuu DNA-analyysiin.",
+        "news_epoch": 1728872160.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117610",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Space Space Space Space X suoritti menestyksekk\u00e4\u00e4sti Texasin Starship-raketin viidennen lentokokeen, joka onnistui sek\u00e4 Super Heavy Boosterille ett\u00e4 Starshipille.",
+        "news_epoch": 1728809940.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70433820",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "J\u00e4nnitteet kiihtyv\u00e4t Iranin ja Israelin v\u00e4lill\u00e4 ohjusiskujen j\u00e4lkeen, ja ne voivat vaikuttaa maailmanlaajuiseen \u00f6ljyn hintaan ja alueelliseen vakauteen.",
+        "news_epoch": 1728793200.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70446933",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Saline-ratkaisu on lyhyess\u00e4 toimituksessa saksalaisissa sairaaloissa ja apteekeissa, jotka vaikuttavat l\u00e4\u00e4ketieteellisiin toimenpiteisiin ja avohoitoon.",
+        "news_epoch": 1728786840.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y87l79d02o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Komeetta A3 (Tsuchinshan-ATLAS), joka n\u00e4kyy Maasta ensimm\u00e4ist\u00e4 kertaa 80 000 vuoteen, voidaan n\u00e4hd\u00e4 alastoman silm\u00e4n Britanniassa lauantaina.",
+        "news_epoch": 1728743160.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70475675",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Boeing aikoo leikata 17 000 ty\u00f6paikkaa, 10 prosenttia ty\u00f6voimastaan, johtuen koneiden lakosta ja taloudellisista tappioista.",
+        "news_epoch": 1728673260.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420117356",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Suomeen vaikuttava geomagneettinen myrsky johtuu aurinkotoiminnasta, joka luo haasteita satelliittitoiminnalle ja n\u00e4kyvyytt\u00e4 auroralle pilvipeitteen vuoksi.",
+        "news_epoch": 1728655380.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420117066",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tsuchinshan-ATLAS-komeetta n\u00e4hd\u00e4\u00e4n parhaiten lauantain ja sunnuntain v\u00e4lisen\u00e4 y\u00f6n\u00e4, ja se on optimaalinen seuraavien viikkojen suhteen.",
+        "news_epoch": 1728647100.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_cden551l7kko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Vuoden 2023 hurrikaanikausi on merkitty ep\u00e4tavallinen myrskyaktiivisuus, jossa hurrikaanit Helene ja Milton aiheuttavat merkitt\u00e4vi\u00e4 vaurioita kaakkois-Yhdysvalloissa muutaman myrskyn j\u00e4lkeen l\u00e4mpimist\u00e4 meriolosuhteista huolimatta.",
+        "news_epoch": 1728646920.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70454889",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ven\u00e4j\u00e4 ja Turkki ovat kielt\u00e4neet Discordin, koska se on huolissaan laittomasta toiminnastaan ja sis\u00e4ll\u00f6n poistamista koskevien pyynt\u00f6jen noudattamatta j\u00e4tt\u00e4misest\u00e4.",
+        "news_epoch": 1728634980.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114261",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Kalifornian Realtors-yhdistys ennustaa edullisia asuntomarkkinoita vuonna 2025, jolloin myynti ja hinnat nousivat alhaisempien korkojen ja parannetun varaston ansiosta.",
+        "news_epoch": 1728634680.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70239817",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Klaus Eberhardtin ep\u00e4tavanomainen l\u00e4hestymistapa liiketoiminnalliseen perint\u00f6\u00f6n, jossa h\u00e4nen ty\u00f6ntekij\u00e4ns\u00e4 ostavat yhdess\u00e4 teknologiayrityst\u00e4\u00e4n, iteratecia, koska monet Saksan perheomisteiset yritykset kohtaavat haasteita seuraajien l\u00f6yt\u00e4misess\u00e4.",
+        "news_epoch": 1728624360.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a67233959",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Trooppiset myrskykaudet pahenevat, viimeaikaiset hurrikaanit aiheuttavat merkitt\u00e4vi\u00e4 vahinkoja Floridassa ja her\u00e4tt\u00e4v\u00e4t huolta ilmastonmuutoksen vaikutuksesta myrskyn voimakkuuteen.",
+        "news_epoch": 1728550140.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114260",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "U.S. Foreclosure Market Report -raportissa todetaan sulkemishakemusten v\u00e4heneminen ja se k\u00e4ynnistyy useissa osavaltioissa merkitt\u00e4v\u00e4sti. Taloudelliset muutokset voivat vaikuttaa tulevaisuuden trendeihin.",
+        "news_epoch": 1728548760.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70447438",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Uudessa tutkimuksessa paljastuu monia viruksia, erityisesti bakteereja, asuu suihkussa ja hammasharjoituksia Amerikan kodeissa, mik\u00e4 viittaa mahdollisiin hy\u00f6tyihin bakteeri-infektio hoitoja.",
+        "news_epoch": 1728540120.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420116924",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Liikunta parantaa rasvakudoksen laatua ylipainoisilla ihmisill\u00e4, mik\u00e4 v\u00e4hent\u00e4\u00e4 terveysriskej\u00e4.",
+        "news_epoch": 1728538200.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c5y3j0vzpl3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "WWF:n El\u00e4v\u00e4n planeetan raportissa korostetaan maailman villiel\u00e4inpopulaatioiden katastrofaalista laskua, jonka keskim\u00e4\u00e4r\u00e4inen menetys on 73 prosenttia viimeisen 50 vuoden aikana ihmisen toiminnan takia.",
+        "news_epoch": 1728509160.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420116621",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "El\u00e4v\u00e4 planeetta korostaa luonnon monimuotoisuuden merkitt\u00e4v\u00e4\u00e4 v\u00e4henemist\u00e4 erityisesti Etel\u00e4-Amerikassa, jossa villiel\u00e4inten m\u00e4\u00e4r\u00e4 on laskenut 95 prosenttia. Raportissa korostetaan tarvetta toimia luonnonkatastrofien ja ilmastonmuutoksen torjumiseksi, mik\u00e4 uhkaa ekosysteemej\u00e4 maailmanlaajuisesti.",
+        "news_epoch": 1728504060.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114259",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Hurrikaani Milton aiheuttaa merkitt\u00e4v\u00e4n riskin asuinkiinteist\u00f6ille Tampan lahden ja Sarasotan alueilla, ja mahdolliset j\u00e4lleenrakennuskustannukset nousevat jopa 174 miljardiin dollariin riippuen myrskyn voimakkuudesta kaatopaikoilla.",
+        "news_epoch": 1728480960.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "yle_7420110416",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Musiikki her\u00e4tt\u00e4\u00e4 monenlaisia tunteita, kuten iloa ja surua, ja voi laukaista itkua eri tavoin.",
+        "news_epoch": 1728478680.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70437198",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Saksan talous on taantumassa odotetulla bruttokansantuotteen supistumisella vuonna 2024, jonka taustalla ovat rakenteelliset ongelmat ja globaalit haasteet.",
+        "news_epoch": 1728457440.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "yle_7420116615",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nobelin kirjallisuus- ja rauhanpalkinto julkistetaan pian, ja palkintoja my\u00f6nnet\u00e4\u00e4n proteiinitutkimuksesta ja teko\u00e4lyn etenemisest\u00e4 proteiinirakenteiden ennustamisessa.",
+        "news_epoch": 1728454500.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "dw_a70425198",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Volkswagenilla on merkitt\u00e4vi\u00e4 haasteita, mukaan lukien mahdolliset tehtaiden sulkemiset ja ty\u00f6paikkojen leikkaukset, myynnin heikkenemisen ja tuotantokustannusten nousun seurauksena ty\u00f6voiman ep\u00e4varmuus ja vaikutukset Saksan politiikkaan.",
+        "news_epoch": 1728391620.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114258",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Las Vegasin kondo- ja kaupunkien hinnat osuivat enn\u00e4tyskorkeuksiin syyskuussa 2024, kun taas yhden perheen asuntojen hinnat l\u00e4hes vastaavat niiden huippua.",
+        "news_epoch": 1728374820.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "yle_7420116256",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Fysiikan ja l\u00e4\u00e4ketieteen Nobel-palkinnon voittajat on julkistettu keskittyen koneoppimiseen ja geenis\u00e4\u00e4ntelyyn.",
+        "news_epoch": 1728368100.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "yle_7420115446",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Suomalaisten yliopistojen opiskelijat innovoivat avaruusmatkojen ruoantuotantoa muuttamalla E. colia vitamiinien tuottamiseksi, kilpailemalla kansainv\u00e4lisess\u00e4 synteettisess\u00e4 biologiakilpailussa Pariisissa.",
+        "news_epoch": 1728365700.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c2lnrn287rgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Skotlannin Sphinx-lumilaastari on sulanut nelj\u00e4tt\u00e4 vuotta per\u00e4kk\u00e4in ilmastonmuutoksen vuoksi.",
+        "news_epoch": 1728353760.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "wpj_114257",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Yhdysvaltain asuntolainahakemukset laskivat 1,3 prosenttia 27.9.2024 p\u00e4\u00e4ttyneell\u00e4 viikolla, ja ostoshakemusten m\u00e4\u00e4r\u00e4 kasvoi merkitt\u00e4v\u00e4sti viime vuoteen verrattuna.",
+        "news_epoch": 1728289980.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70418862",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Saksan talous kohtaa haasteita, jotka johtuvat nopeasta kasvusta, korkeasta energian hinnasta ja Kiinan kysynn\u00e4n heikkenemisest\u00e4, mik\u00e4 johtaa ty\u00f6paikkojen leikkauksiin ja suuryritysten uudelleenj\u00e4rjestelyihin.",
+        "news_epoch": 1728285900.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "dw_a70388582",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ranskan uusi p\u00e4\u00e4ministeri Michel Barnierilla on edess\u00e4\u00e4n haasteita vuoden 2025 talousarvion ohittamisesta julkisen velan ja enemmist\u00f6n puutteen vuoksi.",
+        "news_epoch": 1728034380.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114256",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Redfin-raportin mukaan Yhdysvaltojen asuntojen liikevaihto on alhaisimmillaan 30 vuoteen, vain 25 jokaisesta tuhannesta asunnosta vuonna 2024.",
+        "news_epoch": 1728027480.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "wpj_114255",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Maailman omaisuus Ventures julkistaa 350 miljoonan dollarin yhteisyrityksen rahoituskierroksen tyt\u00e4ryhti\u00f6lleen World Property Marketsille, joka keskittyy innovatiivisiin kiinteist\u00f6hakualustoihin.",
+        "news_epoch": 1727975520.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "wpj_114254",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Viimeaikaiset muutokset kiinteist\u00f6jen komissiorakenteeseen aiheuttavat huolta toimijoiden keskuudessa, ja monet ennustavat kielteisi\u00e4 vaikutuksia teollisuuteen ja ensiasunnon ostajille.",
+        "news_epoch": 1727942700.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "dw_a70385852",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "J\u00e4nnitteet Iranin ja Israelin v\u00e4lill\u00e4 kiihtyv\u00e4t sen j\u00e4lkeen, kun Iran laukaisee ohjuksia ja vaikuttaa \u00f6ljyn hintoihin ja Iranin talouteen.",
+        "news_epoch": 1727864820.0,
+        "news_categories": [
+            "business"
+        ]
+    },
+    {
+        "news_id": "wpj_114253",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "U.S. Home Affordability Report kertoo, ett\u00e4 asunnon omistaminen on monille taloudellisesti haastavaa, ja kustannukset kuluttavat merkitt\u00e4v\u00e4n osan palkoista huolimatta edullisuudesta.",
+        "news_epoch": 1727856540.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "wpj_114252",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Monacon asuntomarkkinat kohtaavat haasteita, jotka johtuvat suuresta kysynn\u00e4st\u00e4 ja rajallisesta tarjonnasta, ja merkitt\u00e4v\u00e4st\u00e4 uudesta kehityksest\u00e4 mahtuu ultra-high-net-arvoisia yksil\u00f6it\u00e4 ja paikallisia asukkaita.",
+        "news_epoch": 1727768580.0,
+        "news_categories": [
+            "finance"
+        ]
+    },
+    {
+        "news_id": "bbc_cn5zx2zx5xvo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Keski-Euroopan tulvat, jotka pahenevat ilmastonmuutosta, korostavat maanosan l\u00e4mpenev\u00e4\u00e4 tulevaisuutta, tutkijat varoittavat \u00e4\u00e4rimm\u00e4isist\u00e4 s\u00e4\u00e4ilmi\u00f6ist\u00e4.",
+        "news_epoch": 1727222760.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c05j3q07p3yo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sir David Attenborough pohtii luonnonvaraisten l\u00e4hetysten vaikutusta suojelutietoisuuteen, kun BBC valmistautuu juhlistamaan 90 vuotta Bristolista.",
+        "news_epoch": 1726548660.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_cn8l3x9e8ezo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Titanin submersible, Oceangaten operoima, traagisesti implodoitu sukellus Titanicin hylkyyn tappaen kaikki viisi aluksella. Yhdysvaltain rannikkovartioston kuuleminen tutkii katastrofia, keskittyy suunnitteluvirheisiin, turvallisuusvaroituksiin ja s\u00e4\u00e4ntelyyn.",
+        "news_epoch": 1726351680.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_cged3jd8llyo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Gr\u00f6nlannissa massiivinen maanvy\u00f6ry laukaistiin seismisen aallon, jossa korostettiin ilmastonmuutoksen vaikutusta j\u00e4\u00e4tik\u00f6n vakauteen.",
+        "news_epoch": 1726154220.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_c74j2lz88pwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Tekstiss\u00e4 k\u00e4sitell\u00e4\u00e4n maanviljelyn geenien muokkaamista koskevia edistysaskelia ja kiistaa erityisesti Iso-Britanniassa, jossa lains\u00e4\u00e4d\u00e4nt\u00f6 on keskeytetty turvallisuutta, el\u00e4inten hyvinvointia ja s\u00e4\u00e4ntely\u00e4 koskevien keskustelujen keskell\u00e4.",
+        "news_epoch": 1725999420.0,
+        "news_categories": [
+            "science"
+        ]
+    },
+    {
+        "news_id": "bbc_czx6e2x0kdyo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sellafield, merkitt\u00e4v\u00e4 ydinj\u00e4telaitos Iso-Britanniassa, joutuu haasteisiin ik\u00e4\u00e4ntyv\u00e4n infrastruktuurin ja pysyv\u00e4n j\u00e4tteen loppusijoitusratkaisun tarpeessa, sill\u00e4 siin\u00e4 on huomattava m\u00e4\u00e4r\u00e4 radioaktiivista materiaalia.",
+        "news_epoch": 1725830400.0,
         "news_categories": [
             "science"
         ]

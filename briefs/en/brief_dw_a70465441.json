@@ -1,0 +1,12 @@
+{
+    "news_source": "dw",
+    "news_id": "dw_a70465441",
+    "news_header": "A study using AI identified over 160,000 previously unknown RNA viruses, highlighting the vastness of the virosphere.",
+    "news_text": "Researchers have discovered more than 160,000 new RNA viruses using an AI program called LucaProt, which analyzed genetic material from various ecosystems. This study, the largest of its kind, emphasizes the extensive diversity of viruses on Earth. The AI identified previously unrecognized viral RNA in metagenomic samples, revealing a significant amount of 'dark matter' genetic information. While these viruses are unlikely to pose threats to humans, understanding their existence is crucial for studying emerging infectious diseases. The findings suggest that the true scale of the virosphere is much larger than currently known.",
+    "news_url": "https://www.dw.com/en/ai-research-uncovers-160-000-new-rna-viruses/a-70465441",
+    "news_time": 1728908520.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en"
+}

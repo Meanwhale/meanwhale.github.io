@@ -1,0 +1,12 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420118006",
+    "news_header": "The challenges faced by banks, particularly Nordea, due to outdated systems and the reliance on aging technology like IBM's mainframe and Cobol programming.",
+    "news_text": "Nordea's online banking service has recently lost customer accounts, highlighting issues within the banking sector related to outdated technology. The IBM mainframe, developed in the late 1950s and still in use, relies on the Cobol programming language, which is becoming increasingly difficult to support as experts age. Banking reforms are costly and often fail, leading to significant losses. The transition from old systems to modern technologies poses challenges, particularly in transferring account information accurately. Cyber threats also complicate the situation, with recent attacks affecting various Nordic banks. Nordea has faced difficulties due to its complex history of mergers and system integrations, prompting scrutiny from regulatory bodies. Despite these challenges, Nordea continues to work on improving its IT infrastructure.",
+    "news_url": "https://yle.fi/a/74-20118006",
+    "news_time": 1729059900.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en"
+}

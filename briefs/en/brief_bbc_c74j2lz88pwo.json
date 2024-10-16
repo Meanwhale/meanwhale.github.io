@@ -1,0 +1,12 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c74j2lz88pwo",
+    "news_header": "The text discusses the advancements and controversies surrounding gene editing in agriculture, particularly in the UK, where legislation has been paused amidst debates on safety, animal welfare, and regulatory alignment with the EU.",
+    "news_text": "Genetic engineering has evolved from traditional cross-breeding to modern gene editing, allowing precise DNA modifications in crops and animals. While proponents argue it can lead to more productive and disease-resistant species, critics raise concerns about safety and animal welfare. In the UK, a law permitting gene-edited food sales is currently stalled, with scientists urging swift action to avoid falling behind other countries. The EU's strict regulations on genetically modified organisms (GMOs) complicate the situation, as gene editing is often grouped with GM technology despite differences. Advocates emphasize the potential benefits for animal welfare and climate change, while opponents worry about intensifying farming practices. The future of gene editing in agriculture hinges on public trust and regulatory frameworks that ensure ethical practices.",
+    "news_url": "https://www.bbc.com/news/articles/c74j2lz88pwo",
+    "news_time": 1725999420.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en"
+}
