@@ -8,5 +8,6 @@
     "news_categories": [
         "world"
     ],
-    "news_source_lang": "en"
+    "news_source_lang": "en",
+    "news_group": 148
 }

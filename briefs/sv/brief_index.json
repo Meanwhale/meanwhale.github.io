@@ -7,7 +7,8 @@
         "news_epoch": 1729137240.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70489263",
@@ -17,7 +18,8 @@
         "news_epoch": 1729133220.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 144
     },
     {
         "news_id": "yle_7420118440",
@@ -27,7 +29,8 @@
         "news_epoch": 1729132380.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118439",
@@ -37,7 +40,8 @@
         "news_epoch": 1729132260.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cx2kzy2klyko",
@@ -47,7 +51,8 @@
         "news_epoch": 1729131840.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118430",
@@ -57,7 +62,8 @@
         "news_epoch": 1729130100.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cdrj70dynk1o",
@@ -67,7 +73,8 @@
         "news_epoch": 1729129740.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118258",
@@ -77,7 +84,8 @@
         "news_epoch": 1729128060.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118423",
@@ -87,7 +95,8 @@
         "news_epoch": 1729127040.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70519229",
@@ -97,7 +106,8 @@
         "news_epoch": 1729125180.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c1wnxp970pdo",
@@ -107,7 +117,8 @@
         "news_epoch": 1729123920.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 142
     },
     {
         "news_id": "bbc_cx2kv219d2go",
@@ -117,7 +128,8 @@
         "news_epoch": 1729122060.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420117092",
@@ -127,7 +139,8 @@
         "news_epoch": 1729120800.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118416",
@@ -137,7 +150,8 @@
         "news_epoch": 1729119720.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 144
     },
     {
         "news_id": "bbc_c870vyd9z0go",
@@ -147,7 +161,8 @@
         "news_epoch": 1729114860.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118414",
@@ -157,7 +172,8 @@
         "news_epoch": 1729113180.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118413",
@@ -167,7 +183,8 @@
         "news_epoch": 1729113000.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70518579",
@@ -177,7 +194,8 @@
         "news_epoch": 1729112820.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 142
     },
     {
         "news_id": "bbc_cx2mzvj4051o",
@@ -187,7 +205,8 @@
         "news_epoch": 1729112100.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 145
     },
     {
         "news_id": "bbc_c8j7nrppny2o",
@@ -197,7 +216,8 @@
         "news_epoch": 1729109400.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118411",
@@ -207,7 +227,8 @@
         "news_epoch": 1729108020.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 148
     },
     {
         "news_id": "yle_7420118409",
@@ -217,7 +238,8 @@
         "news_epoch": 1729107240.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 142
     },
     {
         "news_id": "dw_a70518325",
@@ -227,7 +249,8 @@
         "news_epoch": 1729103460.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c62rmv63069o",
@@ -237,7 +260,8 @@
         "news_epoch": 1729102080.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cd0z8gg5v14o",
@@ -247,7 +271,8 @@
         "news_epoch": 1729100040.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c4gl73r031xo",
@@ -257,7 +282,8 @@
         "news_epoch": 1729099620.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c3e9q4nylwjo",
@@ -267,7 +293,8 @@
         "news_epoch": 1729097400.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70502836",
@@ -277,7 +304,8 @@
         "news_epoch": 1729092780.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70464950",
@@ -287,7 +315,8 @@
         "news_epoch": 1729091820.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118404",
@@ -297,7 +326,8 @@
         "news_epoch": 1729089180.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cdrj7xx7dg8o",
@@ -307,7 +337,8 @@
         "news_epoch": 1729089060.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cd7x9eprvvwo",
@@ -317,7 +348,8 @@
         "news_epoch": 1729089060.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cy43z81nnvlo",
@@ -327,7 +359,8 @@
         "news_epoch": 1729087860.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c4gl5zye65ro",
@@ -337,7 +370,8 @@
         "news_epoch": 1729087080.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 150
     },
     {
         "news_id": "dw_a70516830",
@@ -347,7 +381,8 @@
         "news_epoch": 1729084380.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118355",
@@ -357,7 +392,8 @@
         "news_epoch": 1729083360.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118278",
@@ -367,7 +403,8 @@
         "news_epoch": 1729082760.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c756q166gd9o",
@@ -377,7 +414,8 @@
         "news_epoch": 1729080300.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70512279",
@@ -387,7 +425,8 @@
         "news_epoch": 1729080060.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 150
     },
     {
         "news_id": "bbc_czxde3779lxo",
@@ -397,7 +436,8 @@
         "news_epoch": 1729078620.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": 143
     },
     {
         "news_id": "yle_7420118223",
@@ -407,7 +447,8 @@
         "news_epoch": 1729078200.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118389",
@@ -417,7 +458,8 @@
         "news_epoch": 1729076580.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70514414",
@@ -427,7 +469,8 @@
         "news_epoch": 1729075860.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70513162",
@@ -437,7 +480,8 @@
         "news_epoch": 1729074960.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": 141
     },
     {
         "news_id": "yle_7420117324",
@@ -447,7 +491,8 @@
         "news_epoch": 1729074420.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70513438",
@@ -457,7 +502,8 @@
         "news_epoch": 1729072320.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c39lmnvdzxgo",
@@ -467,7 +513,8 @@
         "news_epoch": 1729070760.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70513978",
@@ -477,7 +524,8 @@
         "news_epoch": 1729069800.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": 145
     },
     {
         "news_id": "yle_7420118349",
@@ -487,7 +535,8 @@
         "news_epoch": 1729069680.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70448256",
@@ -497,7 +546,8 @@
         "news_epoch": 1729069140.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c98y09n8201o",
@@ -507,7 +557,8 @@
         "news_epoch": 1729068780.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c5y9d924dw5o",
@@ -517,7 +568,8 @@
         "news_epoch": 1729067520.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118324",
@@ -527,7 +579,8 @@
         "news_epoch": 1729066860.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114264",
@@ -537,7 +590,8 @@
         "news_epoch": 1729066680.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70511333",
@@ -547,7 +601,8 @@
         "news_epoch": 1729061640.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cwylzxkd5e7o",
@@ -557,7 +612,8 @@
         "news_epoch": 1729061520.0,
         "news_categories": [
             "world"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cj9jdgprv7ko",
@@ -567,7 +623,8 @@
         "news_epoch": 1729061100.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118006",
@@ -577,7 +634,8 @@
         "news_epoch": 1729059900.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118259",
@@ -587,7 +645,8 @@
         "news_epoch": 1729056900.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a62130848",
@@ -597,7 +656,8 @@
         "news_epoch": 1729049820.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118188",
@@ -607,7 +667,8 @@
         "news_epoch": 1729044900.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118183",
@@ -617,7 +678,8 @@
         "news_epoch": 1729044060.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cwy9l7k40kgo",
@@ -627,7 +689,8 @@
         "news_epoch": 1729041960.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": 146
     },
     {
         "news_id": "bbc_czxdr29lyggo",
@@ -637,7 +700,8 @@
         "news_epoch": 1729030860.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118073",
@@ -647,7 +711,8 @@
         "news_epoch": 1729003800.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c3dv3l5pvy3o",
@@ -657,7 +722,8 @@
         "news_epoch": 1729003440.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118140",
@@ -667,7 +733,8 @@
         "news_epoch": 1728997020.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70499104",
@@ -677,7 +744,8 @@
         "news_epoch": 1728992520.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118124",
@@ -687,7 +755,8 @@
         "news_epoch": 1728990600.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_crm2remkekdo",
@@ -697,7 +766,8 @@
         "news_epoch": 1728990540.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_explainers63635185",
@@ -707,7 +777,8 @@
         "news_epoch": 1728987840.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114263",
@@ -717,7 +788,8 @@
         "news_epoch": 1728981360.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_ce3w7dqn454o",
@@ -727,7 +799,8 @@
         "news_epoch": 1728980220.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": 143
     },
     {
         "news_id": "yle_7420112174",
@@ -737,7 +810,8 @@
         "news_epoch": 1728968820.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c748gn94k95o",
@@ -747,7 +821,8 @@
         "news_epoch": 1728957240.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cp3wxgje5pwo",
@@ -757,7 +832,8 @@
         "news_epoch": 1728956700.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": 147
     },
     {
         "news_id": "bbc_c20myx1erl6o",
@@ -767,7 +843,8 @@
         "news_epoch": 1728938040.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c1482xzrge1o",
@@ -777,7 +854,8 @@
         "news_epoch": 1728911700.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": 149
     },
     {
         "news_id": "dw_a70465441",
@@ -787,7 +865,8 @@
         "news_epoch": 1728908520.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114262",
@@ -797,7 +876,8 @@
         "news_epoch": 1728900600.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70484442",
@@ -807,7 +887,8 @@
         "news_epoch": 1728892800.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420113579",
@@ -817,7 +898,8 @@
         "news_epoch": 1728885600.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": 149
     },
     {
         "news_id": "yle_7420117674",
@@ -827,7 +909,8 @@
         "news_epoch": 1728873120.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": 149
     },
     {
         "news_id": "yle_7420117671",
@@ -837,7 +920,8 @@
         "news_epoch": 1728872160.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": 141
     },
     {
         "news_id": "yle_7420117610",
@@ -847,7 +931,8 @@
         "news_epoch": 1728809940.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70433820",
@@ -857,7 +942,8 @@
         "news_epoch": 1728793200.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70446933",
@@ -867,7 +953,8 @@
         "news_epoch": 1728786840.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70475675",
@@ -877,7 +964,8 @@
         "news_epoch": 1728673260.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": 146
     },
     {
         "news_id": "yle_7420117356",
@@ -887,7 +975,8 @@
         "news_epoch": 1728655380.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420117066",
@@ -897,7 +986,8 @@
         "news_epoch": 1728647100.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cden551l7kko",
@@ -907,7 +997,8 @@
         "news_epoch": 1728646920.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114261",
@@ -917,7 +1008,8 @@
         "news_epoch": 1728634680.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70239817",
@@ -927,7 +1019,8 @@
         "news_epoch": 1728624360.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420116924",
@@ -937,7 +1030,8 @@
         "news_epoch": 1728538200.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420116621",
@@ -947,7 +1041,8 @@
         "news_epoch": 1728504060.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114259",
@@ -957,7 +1052,8 @@
         "news_epoch": 1728480960.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420110416",
@@ -967,7 +1063,8 @@
         "news_epoch": 1728478680.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70437198",
@@ -977,7 +1074,8 @@
         "news_epoch": 1728457440.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420116615",
@@ -987,7 +1085,8 @@
         "news_epoch": 1728454500.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70425198",
@@ -997,7 +1096,8 @@
         "news_epoch": 1728391620.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114258",
@@ -1007,7 +1107,8 @@
         "news_epoch": 1728374820.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420116256",
@@ -1017,7 +1118,8 @@
         "news_epoch": 1728368100.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420115446",
@@ -1027,7 +1129,8 @@
         "news_epoch": 1728365700.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c2lnrn287rgo",
@@ -1037,7 +1140,8 @@
         "news_epoch": 1728353760.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114257",
@@ -1047,7 +1151,8 @@
         "news_epoch": 1728289980.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70418862",
@@ -1057,7 +1162,8 @@
         "news_epoch": 1728285900.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420115371",
@@ -1067,7 +1173,8 @@
         "news_epoch": 1728280800.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "yle_7420115406",
@@ -1077,7 +1184,8 @@
         "news_epoch": 1728222840.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70388582",
@@ -1087,7 +1195,8 @@
         "news_epoch": 1728034380.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114256",
@@ -1097,7 +1206,8 @@
         "news_epoch": 1728027480.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114255",
@@ -1107,7 +1217,8 @@
         "news_epoch": 1727975520.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114254",
@@ -1117,7 +1228,8 @@
         "news_epoch": 1727942700.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70385852",
@@ -1127,7 +1239,8 @@
         "news_epoch": 1727864820.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114253",
@@ -1137,7 +1250,8 @@
         "news_epoch": 1727856540.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "dw_a70367168",
@@ -1147,7 +1261,8 @@
         "news_epoch": 1727772900.0,
         "news_categories": [
             "business"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114252",
@@ -1157,7 +1272,8 @@
         "news_epoch": 1727768580.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114251",
@@ -1167,7 +1283,8 @@
         "news_epoch": 1727762940.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "wpj_114250",
@@ -1177,7 +1294,8 @@
         "news_epoch": 1727690700.0,
         "news_categories": [
             "finance"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cn5zx2zx5xvo",
@@ -1187,7 +1305,8 @@
         "news_epoch": 1727222760.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c05j3q07p3yo",
@@ -1197,7 +1316,8 @@
         "news_epoch": 1726548660.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cn8l3x9e8ezo",
@@ -1207,7 +1327,8 @@
         "news_epoch": 1726351680.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cged3jd8llyo",
@@ -1217,7 +1338,8 @@
         "news_epoch": 1726154220.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_c74j2lz88pwo",
@@ -1227,7 +1349,8 @@
         "news_epoch": 1725999420.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_czx6e2x0kdyo",
@@ -1237,7 +1360,8 @@
         "news_epoch": 1725830400.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_cwy5dwlwkwro",
@@ -1247,7 +1371,8 @@
         "news_epoch": 1725518400.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     },
     {
         "news_id": "bbc_crkm82enkgko",
@@ -1257,6 +1382,7 @@
         "news_epoch": 1725215340.0,
         "news_categories": [
             "science"
-        ]
+        ],
+        "news_group": -1
     }
 ]

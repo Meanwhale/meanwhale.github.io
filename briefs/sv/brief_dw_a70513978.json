@@ -8,5 +8,6 @@
     "news_categories": [
         "world"
     ],
-    "news_source_lang": "sv"
+    "news_source_lang": "sv",
+    "news_group": 145
 }
