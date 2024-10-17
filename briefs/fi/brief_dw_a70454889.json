@@ -1,12 +1,13 @@
 {
     "news_source": "dw",
     "news_id": "dw_a70454889",
-    "news_header": "Ven\u00e4j\u00e4 ja Turkki ovat kielt\u00e4neet Discordin, koska se on huolissaan laittomasta toiminnastaan ja sis\u00e4ll\u00f6n poistamista koskevien pyynt\u00f6jen noudattamatta j\u00e4tt\u00e4misest\u00e4.",
-    "news_text": "Ven\u00e4l\u00e4inen televiestint\u00e4viranomainen Roskomnadzor on kielt\u00e4nyt Discordin mainitsemalla sen kyvytt\u00f6myyden est\u00e4\u00e4 sovelluksen k\u00e4ytt\u00f6\u00e4 terrorismissa, huumeiden myynniss\u00e4 ja laittomassa tiedonjaossa. P\u00e4\u00e4t\u00f6ksess\u00e4 noudatettiin aiempaa sakkoa, jolla ei poistettu kielletty\u00e4 sis\u00e4lt\u00f6\u00e4. Kielto on kohdannut kritiikki\u00e4 sotilaallisilta bloggaajilta, jotka v\u00e4itt\u00e4v\u00e4t sen haittaavan Ven\u00e4j\u00e4n joukkojen koordinaatiota Ukrainassa. Vastaavasti Turkin BTK-viestint\u00e4viranomainen esti Discordin suojelemasta lapsia verkkohy\u00f6kk\u00e4yksilt\u00e4 kiristyksen ja haitallisen sis\u00e4ll\u00f6n tutkinnan j\u00e4lkeen. Discord on joutunut tutkimaan USA:n roolia alaik\u00e4isten hoidossa ja rikollisen toiminnan helpottamiseksi. Alustaa, jolla on yli 150 miljoonaa k\u00e4ytt\u00e4j\u00e4\u00e4, on kritisoitu sen maltillisista k\u00e4yt\u00e4nn\u00f6ist\u00e4 ja se on yhdistetty erilaisiin rikosasioihin ja \u00e4\u00e4riliikkeisiin.",
+    "news_header": "Ven\u00e4j\u00e4 ja Turkki ovat kielt\u00e4neet Discordin, koska se on huolissaan laittomasta toiminnastaan ja haitallisen sis\u00e4ll\u00f6n poistamisesta.",
+    "news_text": "Ven\u00e4l\u00e4inen televiestint\u00e4viranomainen Roskomnadzor on kielt\u00e4nyt Discordin, joka viittaa siihen, ettei se voi est\u00e4\u00e4 terroristitoiminnan, huumeiden myynnin ja laittoman sis\u00e4ll\u00f6n viestinn\u00e4n. T\u00e4m\u00e4 johti aiempaan sakkoon, jossa ei ollut kielletty\u00e4 materiaalia. Kielto on kohdannut kritiikki\u00e4 erityisesti sotilaallisilta bloggaajilta, jotka ovat huomanneet sen k\u00e4yt\u00f6n Ukrainassa. Turkin BTK on my\u00f6s est\u00e4nyt riita-asian, joka viittaa tarpeeseen suojella lapsia verkossa. Discord on joutunut tutkimaan Yhdysvaltoja sen roolista holhous alaik\u00e4isi\u00e4 ja helpottaa rikollista toimintaa. Viestinn\u00e4n ominaisuuksista suosittua alustaa on kritisoitu lax-sis\u00e4ll\u00f6n maltillisuudesta, mik\u00e4 mahdollistaa \u00e4\u00e4riryhmien kukoistamisen.",
     "news_url": "https://www.dw.com/en/discord-why-the-messaging-app-is-under-scrutiny/a-70454889",
     "news_time": 1728634980.0,
     "news_categories": [
         "business"
     ],
-    "news_source_lang": "fi"
+    "news_source_lang": "fi",
+    "news_group": -1
 }

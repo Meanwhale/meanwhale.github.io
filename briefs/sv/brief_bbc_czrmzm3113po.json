@@ -1,12 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_czrmzm3113po",
-    "news_header": "September inflation p\u00e5verkar f\u00f6rm\u00e5ner, pensioner och r\u00e4ntor, med potentiella offentliga budgetnedsk\u00e4rningar fram\u00e5t.",
-    "news_text": "Inflationssiffran i september, som \u00e4r 1,7%, kommer att p\u00e5verka \u00f6kningen av f\u00f6rm\u00e5ner och statliga pensioner samt r\u00e4ntor och butikspriser. Detta kommer strax f\u00f6re regeringens f\u00f6rsta budget, d\u00e4r sv\u00e5ra beslut om v\u00e4lf\u00e4rd och skatt f\u00f6rv\u00e4ntas. F\u00f6rdelar som universella kredit- och handikappbetalningar kommer sannolikt att \u00f6ka i linje med inflationen, men \u00f6kningen \u00e4r mindre \u00e4n f\u00f6rra \u00e5ret. Statspensionen kommer att \u00f6ka med 4,1% p\u00e5 grund av vinsttillv\u00e4xt, men m\u00e5nga pension\u00e4rer kommer att f\u00f6rlora vinterbr\u00e4nslebetalningar. L\u00e4gre inflation kan leda till r\u00e4ntes\u00e4nkningar, gynnar l\u00e5ntagare men potentiellt skadar sparare. Oron kvarst\u00e5r om den kommande budgeten, med rapporter om potentiella skatteh\u00f6jningar och nedsk\u00e4rningar p\u00e5 totalt 40 miljarder pund.",
+    "news_header": "Septembers inflationstakt p\u00e5verkar f\u00f6rm\u00e5ner, pensioner och r\u00e4ntor, med potentiella offentliga budgetnedsk\u00e4rningar fram\u00e5t.",
+    "news_text": "Inflationssiffran p\u00e5 1,7% kommer att p\u00e5verka \u00f6kningen av f\u00f6rm\u00e5ner och statliga pensioner samt r\u00e4ntor och butikspriser. Detta kommer strax f\u00f6re regeringens f\u00f6rsta budget, d\u00e4r sv\u00e5ra beslut om v\u00e4lf\u00e4rd och skatter f\u00f6rv\u00e4ntas. F\u00f6rdelar som universell kredit kommer sannolikt att \u00f6ka i linje med inflationen, men \u00f6kningen blir mindre \u00e4n f\u00f6rra \u00e5ret. Statspensionen kommer att \u00f6ka med den h\u00f6gsta av 2,5%, inflation eller vinsttillv\u00e4xt, med vinsttillv\u00e4xt f\u00f6r n\u00e4rvarande p\u00e5 4,1%. L\u00e4gre inflation kan leda till r\u00e4ntes\u00e4nkningar, vilket p\u00e5verkar l\u00e5nekostnader och potentiellt l\u00e4tta hyrestryck. Oro kvarst\u00e5r dock f\u00f6r den kommande budgeten och dess konsekvenser f\u00f6r skatt och utgifter.",
     "news_url": "https://www.bbc.com/news/articles/czrmzm3113po",
     "news_time": 1729071120.0,
     "news_categories": [
         "business"
     ],
-    "news_source_lang": "sv"
+    "news_source_lang": "sv",
+    "news_group": -1
 }

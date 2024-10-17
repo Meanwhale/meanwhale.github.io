@@ -1,37 +1,8 @@
 {
     "news_source": "wpj",
     "news_id": "wpj_114260",
-    "news_header": "The Q3 2024 U.S. Foreclosure Market Report shows a decrease in foreclosure filings and starts, with notable declines in several states, while some areas continue to face challenges.",
-    "news_text": {
-        "total_foreclosures": 87108,
-        "quarterly_change": "-2%",
-        "annual_change": "-13%",
-        "foreclosures_in_september": 29668,
-        "foreclosure_starts": 62380,
-        "notable_state_declines": {
-            "North_Carolina": "-44%",
-            "Georgia": "-29%",
-            "Maryland": "-22%",
-            "New_Jersey": "-20%",
-            "South_Carolina": "-19%"
-        },
-        "highest_foreclosure_rates": {
-            "Illinois": "1 in 904",
-            "Nevada": "1 in 922",
-            "Florida": "1 in 971"
-        },
-        "average_foreclosure_timeline": "815 days",
-        "states_with_longest_timelines": {
-            "Louisiana": "3520 days",
-            "Hawaii": "2531 days",
-            "New_York": "2087 days"
-        },
-        "states_with_shortest_timelines": {
-            "New_Hampshire": "165 days",
-            "Minnesota": "172 days",
-            "Texas": "181 days"
-        }
-    },
+    "news_header": "The Q3 2024 U.S. Foreclosure Market Report shows a decline in foreclosure filings and starts, with a notable decrease in several states, while highlighting areas with high foreclosure rates and longer timelines.",
+    "news_text": "According to ATTOM's Q3 2024 U.S. Foreclosure Market Report, foreclosure filings decreased to 87,108, down 2% from the previous quarter and 13% from last year. In September 2024, filings were 29,668, also down 2% from August. Rob Barber, CEO of ATTOM, cautions that economic disruptions could alter this trend. The report notes a 10% annual decline in foreclosure starts, with significant drops in states like North Carolina and Georgia. Major cities with high foreclosure starts include New York and Chicago. Illinois, Nevada, and Florida have the highest foreclosure rates. Lenders repossessed 8,795 properties, a 12% decline from last year. The average foreclosure process took 815 days, with Louisiana having the longest timeline. Overall, while foreclosure levels appear low, localized increases may occur in struggling areas.",
     "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/irvine/real-estate-news-attom-q3-2024-us-foreclosure-market-report-2024-foreclosure-filings-data-rob-barber-home-foreclosure-data-for-2024-14260.php",
     "news_time": 1728548760.0,
     "news_categories": [

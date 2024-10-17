@@ -1,12 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_czrmzm3113po",
-    "news_header": "September inflation impacts benefits, pensions, and interest rates, with potential government budget cuts ahead.",
-    "news_text": "The September inflation figure, which is 1.7%, will influence the rise in benefits and state pensions, as well as interest rates and shop prices. This comes just before the government's first Budget, where difficult decisions on welfare and tax are expected. Benefits such as universal credit and disability payments will likely increase in line with inflation, but the rise is smaller than last year. The state pension will rise by 4.1% due to earnings growth, but many pensioners will lose winter fuel payments. Lower inflation may lead to interest rate cuts, benefiting borrowers but potentially harming savers. Concerns remain about the upcoming Budget, with reports of potential tax rises and spending cuts totaling \u00a340bn.",
+    "news_header": "September's inflation rate impacts benefits, pensions, and interest rates, with potential government budget cuts ahead.",
+    "news_text": "The September inflation figure of 1.7% will influence the rise in benefits and state pensions, as well as interest rates and shop prices. This comes just before the government's first Budget, where difficult decisions on welfare and taxes are expected. Benefits such as universal credit are likely to increase in line with inflation, but the increase will be smaller than last year. The state pension will rise by the highest of 2.5%, inflation, or earnings growth, with earnings growth currently at 4.1%. Lower inflation may lead to interest rate cuts, affecting borrowing costs and potentially easing rent pressures. However, concerns remain about the upcoming Budget and its implications for tax and spending.",
     "news_url": "https://www.bbc.com/news/articles/czrmzm3113po",
     "news_time": 1729071120.0,
     "news_categories": [
         "business"
     ],
-    "news_source_lang": "en"
+    "news_source_lang": "en",
+    "news_group": -1
 }

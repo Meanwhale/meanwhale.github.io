@@ -1,5 +1,173 @@
 [
     {
+        "news_id": "dw_a70521077",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "ECB har s\u00e4nkt sin referensr\u00e4nta till 3,25 % f\u00f6r tredje g\u00e5ngen i \u00e5r, eftersom inflationen i eurozonen saktar till 1,7 %.",
+        "news_epoch": 1729157340.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/european-central-bank-cuts-key-interest-rate-to-3-25/a-70521077",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70517319",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Anna Engombas resa med hiv lyfter fram stigmatiseringen och utmaningarna som de som lever med viruset i Namibia st\u00e5r inf\u00f6r, medan framstegen i behandlingen och f\u00f6rebyggandet ger hopp om framtiden.",
+        "news_epoch": 1729155720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/hiv-treatment-breakthroughs-namibia-s-success-story/a-70517319",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118455",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Forskare varnar f\u00f6r att den globala vattencykeln \u00e4r obalanserad p\u00e5 grund av klimatf\u00f6r\u00e4ndringar och d\u00e5lig styrning, hotar livsmedelsproduktion och ekonomisk stabilitet.",
+        "news_epoch": 1729155540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118455",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70522172",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Shagufta Rashids familj st\u00e5r inf\u00f6r stigma och h\u00e4lsofr\u00e5gor relaterade till konsanguineous \u00e4ktenskap efter hennes dotters synproblem, belyser riskerna och f\u00f6r\u00e4ndrade attityder mot s\u00e5dana \u00e4ktenskap i det brittiska pakistanska samh\u00e4llet.",
+        "news_epoch": 1729154160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/uk-more-and-more-pakistanis-reject-cousin-marriage/a-70522172",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118543",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Petteri Orpo betonar behovet av EU-lagstiftning f\u00f6r att reglera instrumentell migration och belysa Finlands begr\u00e4nsningar och diskutera asylpolitiken vid ett EU-toppm\u00f6te.",
+        "news_epoch": 1729153020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118543",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70522302",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "En studie avsl\u00f6jar att depression f\u00f6r\u00e4ndrar hj\u00e4rnkommunikation, ut\u00f6kar salience-n\u00e4tverket redan innan symtomen visas, vilket potentiellt fungerar som en f\u00f6ruts\u00e4gelse f\u00f6r framtida depression.",
+        "news_epoch": 1729152180.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.dw.com/en/depression-remaps-people-s-attention-brain-networks/a-70522302",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118320",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "ECB har beslutat att s\u00e4nka sina r\u00e4ntor, vilket \u00e4r f\u00f6rdelaktigt f\u00f6r finl\u00e4ndska inteckning innehavare.",
+        "news_epoch": 1729152000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118320",
+        "news_group": -1
+    },
+    {
+        "news_id": "wpj_114265",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Fastighetspriserna \u00f6kar i Latinamerika, med Colombia och Mexiko som leder tillv\u00e4xten.",
+        "news_epoch": 1729152000.0,
+        "news_categories": [
+            "finance"
+        ],
+        "news_url": "https://www.worldpropertyjournal.com/real-estate-news/brazil/rio-de-janeiro-real-estate-news/latin-america-real-estate-news-knight-frank-global-house-price-index-2024-latin-america-home-price-data-for-2024-colombia-home-sales-data-mexico-home--14265.php",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70519777",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "EU:s ledare m\u00f6ts i Bryssel f\u00f6r att diskutera irregulj\u00e4r migrationspolitik mitt i en bakgrund av stigande h\u00f6gerns k\u00e4nslor i Europa.",
+        "news_epoch": 1729150320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/eu-summit-focuses-on-migration-amid-rise-of-far-right/a-70519777",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118209",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Europeiska centralbanken st\u00e5r inf\u00f6r utmaningar n\u00e4r det g\u00e4ller att hantera r\u00e4ntorna bland en k\u00e4mpande tysk ekonomi, med politisk os\u00e4kerhet och oenighet bland europeiska ledare som hindrar ett effektivt beslutsfattande.",
+        "news_epoch": 1729148880.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118209",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118546",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Bangladesh utf\u00e4rdar arresteringsorder f\u00f6r Sheikh Hasina och 45 andra under sommarprotester som resulterar i hundratals d\u00f6dsfall.",
+        "news_epoch": 1729147020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118546",
+        "news_group": 161
+    },
+    {
+        "news_id": "dw_a70189997",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Amerikansk-tyska relationer har m\u00f6tt utmaningar och f\u00f6r\u00e4ndringar sedan Bidens presidentskap, s\u00e4rskilt n\u00e4r det g\u00e4ller milit\u00e4ra utgifter, energiberoende och svar p\u00e5 globala konflikter.",
+        "news_epoch": 1729145100.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/how-close-are-the-us-and-germany/a-70189997",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70520028",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "En bangladesh-domstol har utf\u00e4rdat en arresteringsorder f\u00f6r den tidigare premi\u00e4rministern Sheikh Hasina om brott mot m\u00e4nskligheten, efter att hon avtog v\u00e5ldsamma protester.",
+        "news_epoch": 1729143720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/bangladesh-court-orders-arrest-of-ex-leader-sheikh-hasina/a-70520028",
+        "news_group": 161
+    },
+    {
+        "news_id": "yle_7420118256",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tvister \u00f6ver produktm\u00e4rkning i modelag lyfts fram, med fokus p\u00e5 S-gruppens f\u00f6rs\u00e4ljning av handv\u00e4skor som liknar lyxvarum\u00e4rken som Longchamp och Louis Vuitton.",
+        "news_epoch": 1729137660.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118256",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c0r8e421y5po",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -12,6 +180,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_c1e85l701y3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En 13-\u00e5rig pojke greps f\u00f6r skjutskott utanf\u00f6r ett israeliskt teknikf\u00f6retag i G\u00f6teborg, mitt i stigande g\u00e4ngv\u00e5ld i Sverige som involverade unga brottslingar och potentiellt utl\u00e4ndskt inflytande.",
+        "news_epoch": 1729134360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1e85l701y3o",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70489263",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -21,7 +201,19 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/biden-in-germany-is-he-the-last-transatlantic-us-president/a-70489263",
-        "news_group": 144
+        "news_group": 155
+    },
+    {
+        "news_id": "yle_7420118443",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "F-Secure inleder f\u00f6r\u00e4ndringsf\u00f6rhandlingar som kan leda till arbetsf\u00f6rluster.",
+        "news_epoch": 1729132680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118443",
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118440",
@@ -84,6 +276,18 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420118405",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "F\u00f6rsvarsministrarna m\u00f6ts i Bryssel f\u00f6r att diskutera Ukrainas situation och Natos st\u00f6d under p\u00e5g\u00e5ende krig.",
+        "news_epoch": 1729129200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118405",
+        "news_group": 159
+    },
+    {
         "news_id": "yle_7420118258",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -108,6 +312,30 @@
         "news_group": -1
     },
     {
+        "news_id": "dw_a70519276",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Vicepresident Kamala Harris engagerade sig i en uppv\u00e4rmd intervju p\u00e5 Fox News, som behandlar invandring och hennes vision f\u00f6r ett framtida presidentskap samtidigt som han f\u00f6rs\u00f6kte n\u00e5 republikanska v\u00e4ljare f\u00f6re valet.",
+        "news_epoch": 1729126740.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/harris-seeks-to-lure-winnable-republicans-in-fox-interview/a-70519276",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c07nlvmyl05o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "FTC har implementerat en \"klicka f\u00f6r att avbryta\" regel f\u00f6r att f\u00f6renkla abonnemangsavbokningar och f\u00f6rnyelser, vilket kr\u00e4ver att f\u00f6retagen g\u00f6r processen enkel och transparent.",
+        "news_epoch": 1729125240.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c07nlvmyl05o",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70519229",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -129,7 +357,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1wnxp970pdo",
-        "news_group": 142
+        "news_group": 156
     },
     {
         "news_id": "bbc_cx2kv219d2go",
@@ -165,7 +393,19 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118416",
-        "news_group": 144
+        "news_group": 155
+    },
+    {
+        "news_id": "yle_7420118415",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "UNICEF rapporterar att eskalerande brott har f\u00f6rskjutit 1,2 miljoner m\u00e4nniskor, inklusive 400 000 barn, med betydande f\u00f6rluster fr\u00e5n de senaste attackerna.",
+        "news_epoch": 1729116660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118415",
+        "news_group": -1
     },
     {
         "news_id": "bbc_c870vyd9z0go",
@@ -213,7 +453,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/one-direction-singer-liam-payne-dies-in-hotel-balcony-fall/a-70518579",
-        "news_group": 142
+        "news_group": 156
     },
     {
         "news_id": "bbc_cx2mzvj4051o",
@@ -225,7 +465,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2mzvj4051o",
-        "news_group": 145
+        "news_group": 158
     },
     {
         "news_id": "bbc_c8j7nrppny2o",
@@ -249,7 +489,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118411",
-        "news_group": 148
+        "news_group": 159
     },
     {
         "news_id": "yle_7420118409",
@@ -261,7 +501,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118409",
-        "news_group": 142
+        "news_group": 156
     },
     {
         "news_id": "dw_a70518325",
@@ -309,7 +549,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl73r031xo",
-        "news_group": -1
+        "news_group": 162
     },
     {
         "news_id": "bbc_c3e9q4nylwjo",
@@ -396,6 +636,18 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420110567",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "I Finland anv\u00e4nds organ som doneras f\u00f6r vetenskap f\u00f6r att utbilda medicinska studenter vid olika universitet. Processen, beh\u00f6righeten och f\u00f6rdelarna med kroppsdonation f\u00f6rklaras.",
+        "news_epoch": 1729087320.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20110567",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c4gl5zye65ro",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -405,7 +657,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl5zye65ro",
-        "news_group": 150
+        "news_group": 153
     },
     {
         "news_id": "dw_a70516830",
@@ -465,7 +717,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/nigeria-more-than-140-dead-in-fuel-tanker-explosion/a-70512279",
-        "news_group": 150
+        "news_group": 153
     },
     {
         "news_id": "bbc_czxde3779lxo",
@@ -477,7 +729,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/czxde3779lxo",
-        "news_group": 143
+        "news_group": 151
     },
     {
         "news_id": "yle_7420118223",
@@ -525,7 +777,19 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/sensational-claim-on-columbus-ethnicity-can-t-be-verified-say-independent-experts/a-70513162",
-        "news_group": 141
+        "news_group": 157
+    },
+    {
+        "news_id": "yle_7420118379",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nigeria st\u00e5r inf\u00f6r stigande br\u00e4nslepriser och d\u00f6dliga incidenter relaterade till br\u00e4nsleinsamling.",
+        "news_epoch": 1729074600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118379",
+        "news_group": 153
     },
     {
         "news_id": "yle_7420117324",
@@ -552,6 +816,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_czrmzm3113po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Septembers inflationstakt p\u00e5verkar f\u00f6rm\u00e5ner, pensioner och r\u00e4ntor, med potentiella offentliga budgetnedsk\u00e4rningar fram\u00e5t.",
+        "news_epoch": 1729071120.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/czrmzm3113po",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c39lmnvdzxgo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -564,6 +840,18 @@
         "news_group": -1
     },
     {
+        "news_id": "dw_a70512771",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Sp\u00e4nningar p\u00e5 Koreahalv\u00f6n har eskalerat, med b\u00e5de Nord- och Sydkorea \u00f6kande milit\u00e4r beredskap bland anklagelser och hot. Analytiker uttrycker oro \u00f6ver risken f\u00f6r oavsiktlig konflikt, medan Nordkorea st\u00e5r inf\u00f6r interna kamper och en f\u00f6r\u00e4nderlig dynamik med sina allierade.",
+        "news_epoch": 1729070700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/north-south-korea-flare-up-why-is-it-alarming/a-70512771",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70513978",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -573,7 +861,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/eu-seeks-to-accelerate-return-of-migrants/a-70513978",
-        "news_group": 145
+        "news_group": 158
     },
     {
         "news_id": "yle_7420118349",
@@ -708,6 +996,18 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420118217",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "\u00d6ka flyg fr\u00e5n Finland under sommaren.",
+        "news_epoch": 1729050780.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118217",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a62130848",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -744,6 +1044,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_cwylepd79d5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Inv\u00e5nare n\u00e4ra Storbritanniens st\u00f6rsta avfallsf\u00f6rbr\u00e4nnare i Runcorn st\u00e5r inf\u00f6r sv\u00e5ra f\u00f6roreningar och st\u00f6rningar, med m\u00e5nga k\u00e4nslor marginaliserade och r\u00f6stl\u00f6sa inf\u00f6r milj\u00f6fr\u00e5gor.",
+        "news_epoch": 1729043100.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cwylepd79d5o",
+        "news_group": 160
+    },
+    {
         "news_id": "bbc_cwy9l7k40kgo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -753,7 +1065,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwy9l7k40kgo",
-        "news_group": 146
+        "news_group": 154
     },
     {
         "news_id": "bbc_czxdr29lyggo",
@@ -873,7 +1185,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce3w7dqn454o",
-        "news_group": 143
+        "news_group": 151
     },
     {
         "news_id": "yle_7420112174",
@@ -909,7 +1221,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp3wxgje5pwo",
-        "news_group": 147
+        "news_group": 160
     },
     {
         "news_id": "bbc_c20myx1erl6o",
@@ -933,7 +1245,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1482xzrge1o",
-        "news_group": 149
+        "news_group": 152
     },
     {
         "news_id": "dw_a70465441",
@@ -981,7 +1293,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20113579",
-        "news_group": 149
+        "news_group": 152
     },
     {
         "news_id": "yle_7420117674",
@@ -993,7 +1305,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117674",
-        "news_group": 149
+        "news_group": 152
     },
     {
         "news_id": "yle_7420117671",
@@ -1005,7 +1317,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117671",
-        "news_group": 141
+        "news_group": 157
     },
     {
         "news_id": "yle_7420117610",
@@ -1044,6 +1356,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_c5y87l79d02o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Comet A3 (Tsuchinshan-ATLAS) kan synas i Storbritannien denna l\u00f6rdag kv\u00e4ll efter att ha setts fr\u00e5n jorden f\u00f6r f\u00f6rsta g\u00e5ngen p\u00e5 80 000 \u00e5r.",
+        "news_epoch": 1728743160.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c5y87l79d02o",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70475675",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1053,7 +1377,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/boeing-to-lay-off-10-of-staff-delay-first-777x-delivery/a-70475675",
-        "news_group": 146
+        "news_group": 154
     },
     {
         "news_id": "yle_7420117356",
@@ -1092,6 +1416,18 @@
         "news_group": -1
     },
     {
+        "news_id": "dw_a70454889",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ryssland och Turkiet har f\u00f6rbjudit Discord p\u00e5 grund av oro \u00f6ver anv\u00e4ndningen av olaglig verksamhet och underl\u00e5tenhet att ta bort skadligt inneh\u00e5ll.",
+        "news_epoch": 1728634980.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/discord-why-the-messaging-app-is-under-scrutiny/a-70454889",
+        "news_group": -1
+    },
+    {
         "news_id": "wpj_114261",
         "news_source": "wpj",
         "news_source_lang": "en",
@@ -1113,6 +1449,18 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/wanted-in-germany-heirs-for-family-owned-businesses/a-70239817",
+        "news_group": -1
+    },
+    {
+        "news_id": "wpj_114260",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Q3 2024 US Foreclosure Market Report visar en nedg\u00e5ng i avsk\u00e4rmningsans\u00f6kningar och b\u00f6rjar, med en anm\u00e4rkningsv\u00e4rd minskning i flera stater, samtidigt som man markerar omr\u00e5den med h\u00f6g avsk\u00e4rmning och l\u00e4ngre tidslinjer.",
+        "news_epoch": 1728548760.0,
+        "news_categories": [
+            "finance"
+        ],
+        "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/irvine/real-estate-news-attom-q3-2024-us-foreclosure-market-report-2024-foreclosure-filings-data-rob-barber-home-foreclosure-data-for-2024-14260.php",
         "news_group": -1
     },
     {
@@ -1365,6 +1713,30 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/irvine/real-estate-news-attom-2024-home-affordability-report-home-affordability-data-for-2024-rob-barber-attom-home-price-data-for-2024-14253.php",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70383508",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "En strejk av 45 000 hamnarbetare p\u00e5 \u00f6st- och vikenkusten i USA kan st\u00f6ra leveranskedjor och p\u00e5verka tillg\u00e5ngen p\u00e5 varor, inklusive tyska bilexporter.",
+        "news_epoch": 1727855460.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/how-will-german-carmakers-be-affected-by-us-port-strikes/a-70383508",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70376035",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Portugal har avslutat praxis att till\u00e5ta illegalt anl\u00e4nde migrerande arbetstagare att stanna medan de ans\u00f6ker om arbetstillst\u00e5nd, med h\u00e4nvisning till anpassning till europeiska regler. Detta drag har dragit kritik fr\u00e5n icke-statliga organisationer, som ser det som en koncession till h\u00f6gerpopulister och en reflektion av oorganiserad invandringspolitik.",
+        "news_epoch": 1727851020.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/portugal-tightens-migrant-labor-law-amid-populist-pressure/a-70376035",
         "news_group": -1
     },
     {

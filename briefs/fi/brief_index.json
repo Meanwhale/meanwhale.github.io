@@ -1,5 +1,173 @@
 [
     {
+        "news_id": "dw_a70521077",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "EKP on laskenut vertailukorkoaan 3,25 prosenttiin t\u00e4n\u00e4 vuonna, kun euroalueen inflaatio hidastuu 1,7 prosenttiin.",
+        "news_epoch": 1729157340.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/european-central-bank-cuts-key-interest-rate-to-3-25/a-70521077",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70517319",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Anna Engomban hiv-matka korostaa Namibian viruksen kanssa el\u00e4vien ihmisten stigmaa ja haasteita, kun taas hoidon ja ehk\u00e4isyn eteneminen tarjoaa toivoa tulevaisuudelle.",
+        "news_epoch": 1729155720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/hiv-treatment-breakthroughs-namibia-s-success-story/a-70517319",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118455",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tutkijat varoittavat, ett\u00e4 maailman vesikierto on ep\u00e4tasapainossa ilmastonmuutoksen ja huonon hallinnon, elintarviketuotannon ja taloudellisen vakauden vuoksi.",
+        "news_epoch": 1729155540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118455",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70522172",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Shagufta Rashidin perheess\u00e4 on stigma- ja terveyskysymyksi\u00e4, jotka liittyv\u00e4t konsanguiniin avioliittoon tytt\u00e4rens\u00e4 visio-ongelmien j\u00e4lkeen, korostaen riskej\u00e4 ja muuttaen asenteita t\u00e4llaisiin avioliittoihin.",
+        "news_epoch": 1729154160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/uk-more-and-more-pakistanis-reject-cousin-marriage/a-70522172",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118543",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Petteri Orpo korostaa EU:n lains\u00e4\u00e4d\u00e4nn\u00f6n tarvetta s\u00e4\u00e4nnell\u00e4 muuttoliikett\u00e4, korostaa Suomen rajoituksia ja keskustella turvapaikkapolitiikasta EU-huippukokouksessa.",
+        "news_epoch": 1729153020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118543",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70522302",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tutkimuksessa paljastuu, ett\u00e4 masennus muuttaa aivojen viestint\u00e4\u00e4, laajentaa sykeverkostoa jo ennen oireiden ilmaantumista, mahdollisesti toimia ennustajana tulevalle masennukselle.",
+        "news_epoch": 1729152180.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.dw.com/en/depression-remaps-people-s-attention-brain-networks/a-70522302",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118320",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "EKP on p\u00e4\u00e4tt\u00e4nyt alentaa korkojaan, mik\u00e4 hy\u00f6dytt\u00e4\u00e4 suomalaisia asuntolainan haltijoita.",
+        "news_epoch": 1729152000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118320",
+        "news_group": -1
+    },
+    {
+        "news_id": "wpj_114265",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Kiinteist\u00f6jen hinnat nousevat Latinalaisessa Amerikassa, ja Meksiko ja Kolumbia johtavat kasvua.",
+        "news_epoch": 1729152000.0,
+        "news_categories": [
+            "finance"
+        ],
+        "news_url": "https://www.worldpropertyjournal.com/real-estate-news/brazil/rio-de-janeiro-real-estate-news/latin-america-real-estate-news-knight-frank-global-house-price-index-2024-latin-america-home-price-data-for-2024-colombia-home-sales-data-mexico-home--14265.php",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70519777",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "EU:n johtajat kokoontuvat Brysseliss\u00e4 keskustelemaan ep\u00e4s\u00e4\u00e4nn\u00f6llisist\u00e4 muuttoliikkeist\u00e4 Euroopassa.",
+        "news_epoch": 1729150320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/eu-summit-focuses-on-migration-amid-rise-of-far-right/a-70519777",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118209",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Euroopan keskuspankilla on edess\u00e4\u00e4n haasteita korkojen hallinnassa Saksan talouden kamppailun keskell\u00e4, poliittisella ep\u00e4varmuudella ja erimielisyyksill\u00e4 Euroopan johtajien kesken.",
+        "news_epoch": 1729148880.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118209",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118546",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Bangladeshin pid\u00e4tysm\u00e4\u00e4r\u00e4ykset Sheikh Hasinalle ja 45 muulle kes\u00e4n mielenosoituksissa, jotka aiheuttivat satoja kuolemantapauksia.",
+        "news_epoch": 1729147020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118546",
+        "news_group": 161
+    },
+    {
+        "news_id": "dw_a70189997",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "USA:n ja Saksan suhteet ovat kohdanneet haasteita ja muutoksia Bidenin puheenjohtajuuden j\u00e4lkeen, erityisesti sotilasmenojen, energiariippuvuuden ja maailmanlaajuisten konfliktien suhteen.",
+        "news_epoch": 1729145100.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/how-close-are-the-us-and-germany/a-70189997",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70520028",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Bangladeshin tuomioistuin on antanut pid\u00e4tysm\u00e4\u00e4r\u00e4yksen entiselle p\u00e4\u00e4ministerille Sheikh Hasinalle ihmisyytt\u00e4 vastaan tehdyist\u00e4 rikoksista, kun h\u00e4n on eronnut v\u00e4kivaltaisista mielenosoituksista.",
+        "news_epoch": 1729143720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/bangladesh-court-orders-arrest-of-ex-leader-sheikh-hasina/a-70520028",
+        "news_group": 161
+    },
+    {
+        "news_id": "yle_7420118256",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Kiistat tuotemerkinn\u00f6ist\u00e4 muotilains\u00e4\u00e4d\u00e4nn\u00f6ss\u00e4 korostuvat, keskittyen S-ryhm\u00e4n myyntiin k\u00e4silaukut muistuttavat luksusmerkkej\u00e4 kuten Longchamp ja Louis Vuitton.",
+        "news_epoch": 1729137660.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118256",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c0r8e421y5po",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -12,6 +180,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_c1e85l701y3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "13-vuotias poika pid\u00e4tettiin ampumisesta israelilaisen G\u00f6teborgissa sijaitsevan teknologiayrityksen ulkopuolella, kun Ruotsissa oli lis\u00e4\u00e4ntynyt jengiv\u00e4kivalta.",
+        "news_epoch": 1729134360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1e85l701y3o",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70489263",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -21,7 +201,19 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/biden-in-germany-is-he-the-last-transatlantic-us-president/a-70489263",
-        "news_group": 144
+        "news_group": 155
+    },
+    {
+        "news_id": "yle_7420118443",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "F-Secure aloittaa muutosneuvottelut, jotka voivat johtaa ty\u00f6paikkojen menetykseen.",
+        "news_epoch": 1729132680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118443",
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118440",
@@ -84,6 +276,18 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420118405",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Puolustusministerit kokoontuvat Brysseliss\u00e4 keskustelemaan Ukrainan tilanteesta ja Naton tuesta.",
+        "news_epoch": 1729129200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118405",
+        "news_group": 159
+    },
+    {
         "news_id": "yle_7420118258",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -108,6 +312,30 @@
         "news_group": -1
     },
     {
+        "news_id": "dw_a70519276",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Varapresidentti Kamala Harris osallistui Fox News -haastatteluun, jossa h\u00e4n puhui maahanmuutosta ja tulevasta presidenttikaudesta yritt\u00e4en tavoittaa republikaanien \u00e4\u00e4nest\u00e4ji\u00e4 ennen vaaleja.",
+        "news_epoch": 1729126740.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/harris-seeks-to-lure-winnable-republicans-in-fox-interview/a-70519276",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c07nlvmyl05o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "FTC on ottanut k\u00e4ytt\u00f6\u00f6n \"klikkaa peruuttaakseen\" -s\u00e4\u00e4nn\u00f6n, jolla yksinkertaistetaan tilausten peruutuksia ja uudistuksia, mik\u00e4 edellytt\u00e4\u00e4, ett\u00e4 yritykset tekev\u00e4t prosessista yksinkertaisen ja l\u00e4pin\u00e4kyv\u00e4n.",
+        "news_epoch": 1729125240.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c07nlvmyl05o",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70519229",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -129,7 +357,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1wnxp970pdo",
-        "news_group": 142
+        "news_group": 156
     },
     {
         "news_id": "bbc_cx2kv219d2go",
@@ -165,7 +393,19 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118416",
-        "news_group": 144
+        "news_group": 155
+    },
+    {
+        "news_id": "yle_7420118415",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "YK:n pakolaisj\u00e4rjest\u00f6 UNICEF:n mukaan rikollisuuden lis\u00e4\u00e4ntyminen on karkottanut 1,2 miljoonaa ihmist\u00e4, mukaan lukien 400 000 lasta, ja viimeaikaiset iskut ovat aiheuttaneet merkitt\u00e4vi\u00e4 uhreja.",
+        "news_epoch": 1729116660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118415",
+        "news_group": -1
     },
     {
         "news_id": "bbc_c870vyd9z0go",
@@ -213,7 +453,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/one-direction-singer-liam-payne-dies-in-hotel-balcony-fall/a-70518579",
-        "news_group": 142
+        "news_group": 156
     },
     {
         "news_id": "bbc_cx2mzvj4051o",
@@ -225,7 +465,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2mzvj4051o",
-        "news_group": 145
+        "news_group": 158
     },
     {
         "news_id": "bbc_c8j7nrppny2o",
@@ -249,7 +489,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118411",
-        "news_group": 148
+        "news_group": 159
     },
     {
         "news_id": "yle_7420118409",
@@ -261,7 +501,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118409",
-        "news_group": 142
+        "news_group": 156
     },
     {
         "news_id": "dw_a70518325",
@@ -309,7 +549,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl73r031xo",
-        "news_group": -1
+        "news_group": 162
     },
     {
         "news_id": "bbc_c3e9q4nylwjo",
@@ -396,6 +636,18 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420110567",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tieteelle lahjoitettuja elimi\u00e4 k\u00e4ytet\u00e4\u00e4n kouluttamaan l\u00e4\u00e4ketieteen opiskelijoita eri yliopistoissa. Prosessi, kelpoisuus ja hy\u00f6dyt kehon lahjoituksesta on selvitetty.",
+        "news_epoch": 1729087320.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20110567",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c4gl5zye65ro",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -405,7 +657,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl5zye65ro",
-        "news_group": 150
+        "news_group": 153
     },
     {
         "news_id": "dw_a70516830",
@@ -465,7 +717,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/nigeria-more-than-140-dead-in-fuel-tanker-explosion/a-70512279",
-        "news_group": 150
+        "news_group": 153
     },
     {
         "news_id": "bbc_czxde3779lxo",
@@ -477,7 +729,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/czxde3779lxo",
-        "news_group": 143
+        "news_group": 151
     },
     {
         "news_id": "yle_7420118223",
@@ -525,7 +777,19 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/sensational-claim-on-columbus-ethnicity-can-t-be-verified-say-independent-experts/a-70513162",
-        "news_group": 141
+        "news_group": 157
+    },
+    {
+        "news_id": "yle_7420118379",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nigeriassa polttoaineen hinnat nousevat ja polttoaineen ker\u00e4\u00e4miseen liittyv\u00e4t vaaratilanteet.",
+        "news_epoch": 1729074600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118379",
+        "news_group": 153
     },
     {
         "news_id": "yle_7420117324",
@@ -552,6 +816,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_czrmzm3113po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Syyskuun inflaatiovauhti vaikuttaa etuuksiin, el\u00e4kkeisiin ja korkoihin, ja hallituksen mahdolliset budjettileikkaukset ovat edess\u00e4.",
+        "news_epoch": 1729071120.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/czrmzm3113po",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c39lmnvdzxgo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -564,6 +840,18 @@
         "news_group": -1
     },
     {
+        "news_id": "dw_a70512771",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "J\u00e4nnitteet Korean niemimaalla ovat lis\u00e4\u00e4ntyneet, kun sek\u00e4 Pohjois- ett\u00e4 Etel\u00e4-Korea ovat lis\u00e4\u00e4neet sotilaallista valmiutta syyt\u00f6ksiin ja uhkiin. Analyytikot ovat huolissaan onnettomuuksien mahdollisesta konfliktista, kun taas Pohjois-Korea kohtaa sis\u00e4isi\u00e4 taisteluja ja dynamiikkaa liittolaistensa kanssa.",
+        "news_epoch": 1729070700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/north-south-korea-flare-up-why-is-it-alarming/a-70512771",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70513978",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -573,7 +861,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/eu-seeks-to-accelerate-return-of-migrants/a-70513978",
-        "news_group": 145
+        "news_group": 158
     },
     {
         "news_id": "yle_7420118349",
@@ -708,6 +996,18 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420118217",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Lentojen kasvu Suomessa kes\u00e4ll\u00e4.",
+        "news_epoch": 1729050780.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118217",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a62130848",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -744,6 +1044,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_cwylepd79d5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Isossa-Britanniassa sijaitsevan Runcornin suurimman j\u00e4tteenpolttajan l\u00e4heisyydess\u00e4 asuvat ihmiset kohtaavat vakavia saasteita ja h\u00e4iri\u00f6it\u00e4, ja monet tuntevat itsens\u00e4 syrj\u00e4ytyneiksi ja \u00e4\u00e4nett\u00f6miksi ymp\u00e4rist\u00f6ongelmien edess\u00e4.",
+        "news_epoch": 1729043100.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cwylepd79d5o",
+        "news_group": 160
+    },
+    {
         "news_id": "bbc_cwy9l7k40kgo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -753,7 +1065,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwy9l7k40kgo",
-        "news_group": 146
+        "news_group": 154
     },
     {
         "news_id": "bbc_czxdr29lyggo",
@@ -873,7 +1185,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce3w7dqn454o",
-        "news_group": 143
+        "news_group": 151
     },
     {
         "news_id": "yle_7420112174",
@@ -909,7 +1221,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp3wxgje5pwo",
-        "news_group": 147
+        "news_group": 160
     },
     {
         "news_id": "bbc_c20myx1erl6o",
@@ -933,7 +1245,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1482xzrge1o",
-        "news_group": 149
+        "news_group": 152
     },
     {
         "news_id": "dw_a70465441",
@@ -981,7 +1293,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20113579",
-        "news_group": 149
+        "news_group": 152
     },
     {
         "news_id": "yle_7420117674",
@@ -993,7 +1305,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117674",
-        "news_group": 149
+        "news_group": 152
     },
     {
         "news_id": "yle_7420117671",
@@ -1005,7 +1317,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117671",
-        "news_group": 141
+        "news_group": 157
     },
     {
         "news_id": "yle_7420117610",
@@ -1044,6 +1356,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_c5y87l79d02o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Komeetta A3 (Tsuchinshan-ATLAS) on n\u00e4ht\u00e4viss\u00e4 Iso-Britanniassa lauantai-iltana, kun se on ensimm\u00e4ist\u00e4 kertaa n\u00e4hty Maasta 80 000 vuoteen.",
+        "news_epoch": 1728743160.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c5y87l79d02o",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70475675",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1053,7 +1377,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/boeing-to-lay-off-10-of-staff-delay-first-777x-delivery/a-70475675",
-        "news_group": 146
+        "news_group": 154
     },
     {
         "news_id": "yle_7420117356",
@@ -1092,6 +1416,18 @@
         "news_group": -1
     },
     {
+        "news_id": "dw_a70454889",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ven\u00e4j\u00e4 ja Turkki ovat kielt\u00e4neet Discordin, koska se on huolissaan laittomasta toiminnastaan ja haitallisen sis\u00e4ll\u00f6n poistamisesta.",
+        "news_epoch": 1728634980.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/discord-why-the-messaging-app-is-under-scrutiny/a-70454889",
+        "news_group": -1
+    },
+    {
         "news_id": "wpj_114261",
         "news_source": "wpj",
         "news_source_lang": "en",
@@ -1113,6 +1449,18 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/wanted-in-germany-heirs-for-family-owned-businesses/a-70239817",
+        "news_group": -1
+    },
+    {
+        "news_id": "wpj_114260",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "U.S. Foreclosure Market Report -raportissa todetaan, ett\u00e4 sulkemishakemusten m\u00e4\u00e4r\u00e4 v\u00e4henee merkitt\u00e4v\u00e4sti useissa osavaltioissa ja korostetaan alueita, joilla on korkeat sulkemisasteet ja pidemm\u00e4t aikataulut.",
+        "news_epoch": 1728548760.0,
+        "news_categories": [
+            "finance"
+        ],
+        "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/irvine/real-estate-news-attom-q3-2024-us-foreclosure-market-report-2024-foreclosure-filings-data-rob-barber-home-foreclosure-data-for-2024-14260.php",
         "news_group": -1
     },
     {
@@ -1365,6 +1713,30 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/irvine/real-estate-news-attom-2024-home-affordability-report-home-affordability-data-for-2024-rob-barber-attom-home-price-data-for-2024-14253.php",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70383508",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "45 000 satamaty\u00f6ntekij\u00e4n lakko Yhdysvaltain it\u00e4rannikolla ja Persianlahden rannikolla saattaa h\u00e4irit\u00e4 toimitusketjuja ja vaikuttaa tavaroiden saatavuuteen, mukaan lukien Saksan autovientiin.",
+        "news_epoch": 1727855460.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/how-will-german-carmakers-be-affected-by-us-port-strikes/a-70383508",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70376035",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Portugali on p\u00e4\u00e4tt\u00e4nyt k\u00e4yt\u00e4nt\u00f6ns\u00e4 sallia laittomasti saapuvien siirtoty\u00f6l\u00e4isten j\u00e4\u00e4d\u00e4 hakiessaan ty\u00f6lupia ja viitaten Euroopan lains\u00e4\u00e4d\u00e4nt\u00f6\u00f6n. T\u00e4m\u00e4 on nostanut kritiikki\u00e4 kansalaisj\u00e4rjest\u00f6ilt\u00e4, jotka pit\u00e4v\u00e4t sit\u00e4 my\u00f6nnytyksen\u00e4 oikeistopopulisteille ja heijastelevat ep\u00e4j\u00e4rjest\u00e4ytynytt\u00e4 maahanmuuttopolitiikkaa.",
+        "news_epoch": 1727851020.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/portugal-tightens-migrant-labor-law-amid-populist-pressure/a-70376035",
         "news_group": -1
     },
     {

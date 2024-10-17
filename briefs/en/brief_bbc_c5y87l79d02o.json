@@ -1,12 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c5y87l79d02o",
-    "news_header": "Comet A3 (Tsuchinshan-ATLAS), visible from Earth for the first time in 80,000 years, may be seen with the naked eye in the UK this Saturday evening.",
-    "news_text": "The Royal Astronomical Society (RAS) announced that Comet A3 (Tsuchinshan-ATLAS), referred to as the 'comet of the century', could be visible in the UK on Saturday night as it approaches within 70 million km of Earth. Dr. Robert Massey from RAS advised viewers to look west after sunset from higher ground, as skies are expected to clear. The comet was first seen in the southern hemisphere in early October and will be visible until October 30. Its nucleus is estimated to be 2 km long, and while comets can sometimes be disappointing, this one appears to meet predictions. The comet follows a recent display of the Northern Lights across the UK, which Dr. Massey described as a coincidence.",
+    "news_header": "Comet A3 (Tsuchinshan-ATLAS) may be visible in the UK this Saturday evening after being seen from Earth for the first time in 80,000 years.",
+    "news_text": "The Royal Astronomical Society (RAS) announced that Comet A3 (Tsuchinshan-ATLAS), dubbed the 'comet of the century', could be visible to the naked eye in the UK on Saturday evening. Expected to come within 70 million km of Earth, the comet was first seen in the southern hemisphere last month and will be visible until October 30. Dr. Robert Massey from RAS advised viewers to look west after sunset from higher ground and suggested using binoculars. He noted that the comet's nucleus is approximately 2 km long and encouraged people to enjoy the viewing experience. Additionally, the UK recently experienced the Northern Lights, which Dr. Massey described as a coincidence.",
     "news_url": "https://www.bbc.com/news/articles/c5y87l79d02o",
     "news_time": 1728743160.0,
     "news_categories": [
         "science"
     ],
-    "news_source_lang": "en"
+    "news_source_lang": "en",
+    "news_group": -1
 }

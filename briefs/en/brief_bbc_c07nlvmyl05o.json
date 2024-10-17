@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c07nlvmyl05o",
+    "news_header": "The FTC has implemented a 'click to cancel' rule to simplify subscription cancellations and renewals, requiring businesses to make the process straightforward and transparent.",
+    "news_text": "The US Federal Trade Commission (FTC) has introduced a 'click to cancel' rule aimed at simplifying the process of ending subscriptions. This rule mandates that companies must make both signing up for and canceling subscriptions equally easy. Businesses will need to obtain customer consent before renewing subscriptions or converting free trials into paid memberships. The rule prohibits companies from requiring customers to navigate chatbots or agents for cancellations initiated through apps or websites. For in-person sign-ups, cancellation options must include phone or online methods. This initiative follows the FTC's legal actions against Amazon and Adobe for deceptive practices related to subscription renewals and cancellation processes. Similar legislation has been introduced in the UK to combat subscription traps.",
+    "news_url": "https://www.bbc.com/news/articles/c07nlvmyl05o",
+    "news_time": 1729125240.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

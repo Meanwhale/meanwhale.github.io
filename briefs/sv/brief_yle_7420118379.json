@@ -1,12 +1,13 @@
 {
     "news_source": "yle",
     "news_id": "yle_7420118379",
-    "news_header": "Br\u00e4nslepriserna i Nigeria har \u00f6kat femfaldigt sedan f\u00f6rra \u00e5ret, vilket leder till en tragisk explosion som d\u00f6dade minst 140 personer.",
-    "news_text": "Trots stora oljereserver har Nigeria upplevt en betydande \u00f6kning av br\u00e4nslepriserna, vilket har \u00f6kat fem g\u00e5nger sedan f\u00f6rra \u00e5ret. En ny explosion fr\u00e5n en br\u00e4nsletank i Jigawa resulterade i minst 140 d\u00f6dsfall och m\u00e5nga skador, med d\u00f6dssiffran f\u00f6rv\u00e4ntas stiga. Denna incident utl\u00f6stes av en trafikolycka som involverar en br\u00e4nsletankare. S\u00e5dana explosioner \u00e4r vanliga i Nigeria, d\u00e4r inv\u00e5narna ofta f\u00f6rs\u00f6ker samla br\u00e4nsle fr\u00e5n olycksplatser i en allvarlig ekonomisk kris.",
+    "news_header": "Nigeria st\u00e5r inf\u00f6r stigande br\u00e4nslepriser och d\u00f6dliga incidenter relaterade till br\u00e4nsleinsamling.",
+    "news_text": "Trots stora oljereserver har Nigeria sett br\u00e4nslepriserna \u00f6ka fem g\u00e5nger under det senaste \u00e5ret. En nyligen br\u00e4nsletank explosion i Jigawa resulterade i minst 140 d\u00f6dsfall och m\u00e5nga skador, med d\u00f6dssiffran f\u00f6rv\u00e4ntas stiga. Explosionen f\u00f6ljde en trafikolycka med en br\u00e4nsletank lastbil, och m\u00e5nga offer f\u00f6rs\u00f6kte samla br\u00e4nsle fr\u00e5n vraket. S\u00e5dana incidenter \u00e4r vanliga i Nigeria, d\u00e4r ekonomiska kriser leder inv\u00e5narna att samla br\u00e4nsle fr\u00e5n olyckor.",
     "news_url": "https://yle.fi/a/74-20118379",
     "news_time": 1729074600.0,
     "news_categories": [
         "world"
     ],
-    "news_source_lang": "sv"
+    "news_source_lang": "sv",
+    "news_group": 153
 }

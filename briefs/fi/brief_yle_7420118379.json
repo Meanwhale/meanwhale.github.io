@@ -1,12 +1,13 @@
 {
     "news_source": "yle",
     "news_id": "yle_7420118379",
-    "news_header": "Nigeriassa polttoaineen hinnat ovat nousseet viisinkertaiseksi viime vuonna, mik\u00e4 on johtanut traagiseen r\u00e4j\u00e4hdykseen, joka tappoi ainakin 140 ihmist\u00e4.",
-    "news_text": "Suurista \u00f6ljyvarannoista huolimatta Nigeria on noussut merkitt\u00e4v\u00e4sti polttoaineen hintojen nousussa, mik\u00e4 on kasvanut viisi kertaa viime vuoden j\u00e4lkeen. Hiljattain r\u00e4j\u00e4hdys Jigawan polttoaines\u00e4ili\u00f6st\u00e4 aiheutti ainakin 140 kuolemantapausta ja useita vammoja. Tapahtuma sai alkunsa tieonnettomuudesta, johon liittyi polttoainetankkeri. T\u00e4llaiset r\u00e4j\u00e4hdykset ovat yleisi\u00e4 Nigeriassa, jossa asukkaat yritt\u00e4v\u00e4t ker\u00e4t\u00e4 polttoainetta onnettomuuksista vakavan talouskriisin keskell\u00e4.",
+    "news_header": "Nigeriassa polttoaineen hinnat nousevat ja polttoaineen ker\u00e4\u00e4miseen liittyv\u00e4t vaaratilanteet.",
+    "news_text": "Huolimatta suurista \u00f6ljyvarannoista, Nigeria on n\u00e4hnyt polttoaineen hinnan nousevan viisi kertaa viime vuonna. Viimeaikainen polttoaines\u00e4ili\u00f6n r\u00e4j\u00e4hdys Jigawassa aiheutti ainakin 140 kuolemantapausta ja lukuisia vammoja. R\u00e4j\u00e4hdys seurasi polttoainetankkikuorma-autoon liittyv\u00e4\u00e4 liikenneonnettomuutta, ja monet uhrit yrittiv\u00e4t ker\u00e4t\u00e4 polttoainetta. T\u00e4llaiset tapaukset ovat yleisi\u00e4 Nigeriassa, jossa talouskriisit johtavat asukkaiden ker\u00e4\u00e4m\u00e4\u00e4n polttoainetta onnettomuuksista.",
     "news_url": "https://yle.fi/a/74-20118379",
     "news_time": 1729074600.0,
     "news_categories": [
         "world"
     ],
-    "news_source_lang": "fi"
+    "news_source_lang": "fi",
+    "news_group": 153
 }

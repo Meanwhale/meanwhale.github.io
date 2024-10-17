@@ -1,12 +1,13 @@
 {
     "news_source": "dw",
     "news_id": "dw_a70512771",
-    "news_header": "Tensions on the Korean Peninsula are escalating, with both North and South Korea on high military alert amid accusations and threats.",
-    "news_text": "Recent events on the Korean Peninsula have heightened regional tensions, with both North and South Korea increasing military readiness. North Korea accused the South of sending drones and propaganda leaflets, leading to retaliatory threats from both sides. Analysts note that while North Korea's regime is facing economic difficulties, it is using aggressive rhetoric to rally domestic support. The situation is complicated by North Korea's alliance with Russia, which some believe emboldens Pyongyang. Despite the heightened tensions, experts suggest that North Korea is unlikely to engage in a full-scale war due to its weakened conventional forces, although nuclear weapons remain a significant factor in the conflict.",
+    "news_header": "Tensions on the Korean Peninsula have escalated, with both North and South Korea increasing military readiness amid accusations and threats. Analysts express concern over the potential for accidental conflict, while North Korea faces internal struggles and a changing dynamic with its allies.",
+    "news_text": "Recent events on the Korean Peninsula have raised alarm, with both North and South Korea placing their militaries on heightened alert. Former South Korean politician Kim Sang-woo noted that while daily life in Seoul remains unchanged, the situation is precarious, with fears of accidental clashes escalating into major conflict. North Korea accused the South of drone incursions and responded with military meetings and threats, while the South prepared its defenses. Analysts highlight North Korea's internal economic struggles and its reliance on propaganda to maintain control, suggesting that the regime's aggressive posturing may be a tactic to rally support amid growing discontent. The alliance with Russia is seen as a temporary boost for North Korea, but questions remain about its long-term stability and military capabilities.",
     "news_url": "https://www.dw.com/en/north-south-korea-flare-up-why-is-it-alarming/a-70512771",
     "news_time": 1729070700.0,
     "news_categories": [
         "world"
     ],
-    "news_source_lang": "en"
+    "news_source_lang": "en",
+    "news_group": -1
 }

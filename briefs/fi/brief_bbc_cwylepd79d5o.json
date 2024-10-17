@@ -1,12 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cwylepd79d5o",
-    "news_header": "Runcornin j\u00e4tteenpolttoaineen l\u00e4heisyydess\u00e4 asuvat ihmiset kohtaavat vakavia pilaantumis- ja h\u00e4iri\u00f6tilanteita, joissa korostetaan ymp\u00e4rist\u00f6- ja sosiaalisia ep\u00e4oikeudenmukaisuuksia j\u00e4tehuollossa.",
-    "news_text": "Mandy Royle, joka asuu Isossa-Britanniassa Runcornissa, Cheshiressa sijaitsevan suurimman j\u00e4tteenpolttajan l\u00e4heisyydess\u00e4, kuvailee k\u00e4rp\u00e4sten, rottien ja laitoksen aiheuttamia hirvitt\u00e4vi\u00e4 elinolosuhteita, joka polttaa l\u00e4hes miljoona tonnia j\u00e4tett\u00e4 vuosittain. BBC-analyysi paljastaa, ett\u00e4 riistettyj\u00e4 alueita, kuten Runcornia, rasitetaan suhteettoman paljon j\u00e4tteenpolttoaineista. Monet paikalliset perheet saivat 1 miljoonan punnan ratkaisun h\u00e4iri\u00f6ist\u00e4, mutta heid\u00e4n t\u00e4ytyi allekirjoittaa salassapitosopimukset ja rajoittaa heid\u00e4n kyky\u00e4\u00e4n puhua. Runcornin polttolaite on rikkonut ilmanlaadunvalvontaa useita kertoja, mik\u00e4 edist\u00e4\u00e4 ymp\u00e4rist\u00f6\u00f6n liittyvi\u00e4 ongelmia. J\u00e4tteet kuljetetaan usein pitki\u00e4 matkoja polttoa, p\u00e4\u00e4st\u00f6jen lis\u00e4\u00e4mist\u00e4 ja paikallista saastumista. Asukkaat ilmaisevat turhautumista taloudellisten hy\u00f6tyjen puutteesta ja n\u00e4iden tilojen l\u00e4hist\u00f6ll\u00e4 asuvien henkisten tullien k\u00e4yt\u00f6st\u00e4 kyseenalaistamalla k\u00f6yhempiin yhteis\u00f6ihin kohdistuvien j\u00e4tehuoltok\u00e4yt\u00e4nt\u00f6jen oikeudenmukaisuuden.",
+    "news_header": "Isossa-Britanniassa sijaitsevan Runcornin suurimman j\u00e4tteenpolttajan l\u00e4heisyydess\u00e4 asuvat ihmiset kohtaavat vakavia saasteita ja h\u00e4iri\u00f6it\u00e4, ja monet tuntevat itsens\u00e4 syrj\u00e4ytyneiksi ja \u00e4\u00e4nett\u00f6miksi ymp\u00e4rist\u00f6ongelmien edess\u00e4.",
+    "news_text": "Mandy Royle, joka asuu Runcornin polttoaineen l\u00e4heisyydess\u00e4, kuvaa kauhistuttavia elinolosuhteita, jotka johtuvat lennoista, rotista ja melusta laitokselta, joka polttaa l\u00e4hes miljoona tonnia j\u00e4tett\u00e4 vuosittain. BBC-analyysi paljastaa, ett\u00e4 Runcornin kaltaisilla syrj\u00e4ytetyill\u00e4 alueilla on suhteettoman suuri vaikutus j\u00e4tteenpolttoaineisiin, jotka ovat lis\u00e4\u00e4ntyneet neuvostojen etsiess\u00e4 kaatopaikkavaihtoehtoja. Monet paikalliset perheet saivat 1 miljoonan punnan ratkaisun saastumish\u00e4iri\u00f6ist\u00e4, mutta heid\u00e4n oli allekirjoitettava salassapitosopimukset ja rajoitettava niiden kyky\u00e4 puhua. Valitukset ilmanlaadusta ovat nousseet, Runcornin polttoluparajoitukset ovat useita kertoja. Pitk\u00e4n matkan j\u00e4tteiden liikkuminen edist\u00e4\u00e4 hiilip\u00e4\u00e4st\u00f6j\u00e4 ja paikallista pilaantumista, her\u00e4tt\u00e4\u00e4 huolta asukkaiden ymp\u00e4rist\u00f6vaikutuksista ja niiden puutteesta. Paikalliset johtajat ilmaisevat turhautumista siit\u00e4, ett\u00e4 heid\u00e4n yhteis\u00f6ns\u00e4 joutuvat muilta alueilta per\u00e4isin olevan j\u00e4tteen polkumyyntiin.",
     "news_url": "https://www.bbc.com/news/articles/cwylepd79d5o",
     "news_time": 1729043100.0,
     "news_categories": [
         "science"
     ],
-    "news_source_lang": "fi"
+    "news_source_lang": "fi",
+    "news_group": 160
 }

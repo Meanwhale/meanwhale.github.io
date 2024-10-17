@@ -1,12 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cwylepd79d5o",
-    "news_header": "Residents near the Runcorn waste incinerator face severe pollution and disturbances, highlighting environmental and social injustices in waste management.",
-    "news_text": "Mandy Royle, a resident near the UK's largest waste incinerator in Runcorn, Cheshire, describes the horrendous living conditions caused by flies, rats, and pollution from the facility, which burns nearly a million tonnes of waste annually, much of it from distant areas. A BBC analysis reveals that deprived areas like Runcorn are disproportionately burdened with energy-from-waste incinerators. Many local families received a \u00a31m settlement for disturbances but had to sign non-disclosure agreements, limiting their ability to speak out. The Runcorn incinerator has breached air quality controls multiple times, contributing to environmental concerns. Waste is often transported long distances for incineration, increasing carbon emissions and local pollution. Residents express frustration over the lack of economic benefits and the mental toll of living near such facilities, questioning the fairness of waste management practices that target poorer communities.",
+    "news_header": "Residents near the UK's largest waste incinerator in Runcorn face severe pollution and disturbances, with many feeling marginalized and voiceless in the face of environmental issues.",
+    "news_text": "Mandy Royle, a resident near the Runcorn incinerator, describes the horrendous living conditions due to flies, rats, and noise from the facility, which burns nearly a million tonnes of waste annually, much of it from distant areas. A BBC analysis reveals that deprived areas like Runcorn are disproportionately affected by energy-from-waste incinerators, which have increased in number as councils seek alternatives to landfill. Many local families received a \u00a31m settlement for pollution disturbances but had to sign non-disclosure agreements, limiting their ability to speak out. Complaints about air quality have risen, with Runcorn's incinerator breaching permit limits multiple times. The movement of waste across long distances contributes to carbon emissions and local pollution, raising concerns among residents about the environmental impact and their lack of benefits from the facilities. Local leaders express frustration over their communities becoming dumping grounds for waste from other regions.",
     "news_url": "https://www.bbc.com/news/articles/cwylepd79d5o",
     "news_time": 1729043100.0,
     "news_categories": [
         "science"
     ],
-    "news_source_lang": "en"
+    "news_source_lang": "en",
+    "news_group": 160
 }
