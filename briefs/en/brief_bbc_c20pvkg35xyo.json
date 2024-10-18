@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c20pvkg35xyo",
+    "news_header": "Eric Council Jr, 25, was arrested for hacking the SEC's X account to post false information about Bitcoin, causing its price to surge. He searched for signs of FBI investigation and used aliases online.",
+    "news_text": "Eric Council Jr, a 25-year-old from Athens, Georgia, was arrested for his involvement in a hack of the Securities and Exchange Commission's (SEC) X account, where a fake post about Bitcoin led to a significant price surge. Court documents reveal that he searched for information on being investigated by the FBI and used various online aliases. The hack, which occurred in January, exploited a lack of security measures after the SEC had removed multi-factor authentication. Council is charged with conspiracy to commit aggravated identity theft and access device fraud, facing up to five years in prison if convicted.",
+    "news_url": "https://www.bbc.com/news/articles/c20pvkg35xyo",
+    "news_time": 1729235280.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

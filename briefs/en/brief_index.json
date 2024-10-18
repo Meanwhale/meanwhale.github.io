@@ -1,5 +1,269 @@
 [
     {
+        "news_id": "dw_a70485037",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The Chaplin Office in Paris manages Charlie Chaplin's legacy, overseeing copyrights, licensing, and memorabilia nearly 47 years after his death.",
+        "news_epoch": 1729246680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/charlie-chaplin-keeping-a-comedy-genius-in-business/a-70485037",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70526237",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "SpaceX successfully caught its rocket booster during landing, marking progress towards reusable launch systems and reducing space debris.",
+        "news_epoch": 1729245900.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118749",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Yahia Sinwar's death is a significant setback for Hamas, but the organization remains active. His death was confirmed by both the Israeli army and Hamas spokespersons, with implications for the ongoing conflict and hostage negotiations.",
+        "news_epoch": 1729245660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118749",
+        "news_group": 184
+    },
+    {
+        "news_id": "bbc_crkdynj42ldo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Boohoo plans to restructure and potentially sell brands like Debenhams and Karen Millen due to struggles against competitors and declining sales.",
+        "news_epoch": 1729245180.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/crkdynj42ldo",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420114143",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Pensions will see a smaller increase next year due to reduced inflation, leading to higher taxpayer costs and potential tax impacts on pensioners.",
+        "news_epoch": 1729243800.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20114143",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cly4kwep3kwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "UK government plans to prioritize ready wind and solar projects for electricity grid connections to accelerate decarbonization efforts.",
+        "news_epoch": 1729243080.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cly4kwep3kwo",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cly24q16ev0o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Venezuelan authorities arrested five foreign nationals, including three Americans, in connection with an alleged anti-government plot following the contested July presidential election.",
+        "news_epoch": 1729242780.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cly24q16ev0o",
+        "news_group": -1
+    },
+    {
+        "news_id": "wpj_114266",
+        "news_source": "wpj",
+        "news_source_lang": "en",
+        "news_header": "Asia Pacific hotel investments are set to reach $12.2 billion in 2024, driven by favorable economic conditions and strong investor interest.",
+        "news_epoch": 1729242720.0,
+        "news_categories": [
+            "finance"
+        ],
+        "news_url": "https://www.worldpropertyjournal.com/real-estate-news/singapore/vacation-real-estate-news-2024-asia-pacific-hotel-investment-data-jll-asia-pacific-hotel-investment-report-nihat-ercan-14266.php",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70532084",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The article discusses the alarming prevalence of sexual violence against minors, particularly girls, in Madhya Pradesh, India, highlighting individual cases and systemic issues within the justice system.",
+        "news_epoch": 1729242600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/india-rape-victims-struggle-to-get-justice/a-70532084",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70533454",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "French President Emmanuel Macron addresses the challenges facing the European automotive industry due to competition from China and the introduction of tariffs on Chinese electric cars.",
+        "news_epoch": 1729242480.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/decoding-china-beijing-bracing-for-trade-war-on-all-fronts/a-70533454",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118651",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A debate is ongoing in Finland regarding the regulation of nicotine products, with entrepreneurs expressing concerns about potential restrictions and their impact on the market.",
+        "news_epoch": 1729242300.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118651",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118856",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "In September, the number of bankruptcies decreased compared to the previous year.",
+        "news_epoch": 1729241940.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118856",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c3vkqwe9wwdo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "North Korea has reportedly sent troops to support Russia in Ukraine, raising security concerns in South Korea.",
+        "news_epoch": 1729241520.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c3vkqwe9wwdo",
+        "news_group": 190
+    },
+    {
+        "news_id": "yle_7420118733",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Texas has initiated its first prosecution against a doctor for unlawful transgender treatment of minors, following a new law prohibiting such practices.",
+        "news_epoch": 1729241520.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118733",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118847",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tom Hagen, a wealthy Norwegian, was cleared of involvement in his wife's disappearance after four years of suspicion, but the investigation continues.",
+        "news_epoch": 1729239960.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118847",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118839",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "President Biden receives Germany's highest award for his commitment to NATO and leadership in Europe.",
+        "news_epoch": 1729237620.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118839",
+        "news_group": 180
+    },
+    {
+        "news_id": "yle_7420118763",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The Finnish Financial Supervisory Authority investigated prolonged service disruptions at Nordea Bank due to organized denial of service attacks, potentially linked to state actors.",
+        "news_epoch": 1729235400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118763",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c20pvkg35xyo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Eric Council Jr, 25, was arrested for hacking the SEC's X account to post false information about Bitcoin, causing its price to surge. He searched for signs of FBI investigation and used aliases online.",
+        "news_epoch": 1729235280.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c20pvkg35xyo",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118811",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "OyJ continues its efficiency program aiming for annual savings of EUR 7 million by restructuring its media groups and operations.",
+        "news_epoch": 1729233360.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118811",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118809",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Olli Rehn is applying for a new term at the Bank of Finland.",
+        "news_epoch": 1729232580.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118809",
+        "news_group": 193
+    },
+    {
+        "news_id": "yle_7420118803",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "North Korea has sent 12,000 troops to support Russia in the Ukraine war, marking its first military involvement in a foreign conflict.",
+        "news_epoch": 1729231800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118803",
+        "news_group": 190
+    },
+    {
+        "news_id": "yle_7420118800",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Denial of service attacks have severely impacted Norway and Finland's financial sectors, prompting criminal investigations.",
+        "news_epoch": 1729231500.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118800",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420118794",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -9,7 +273,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118794",
-        "news_group": 163
+        "news_group": 180
     },
     {
         "news_id": "bbc_cyvyll3d1r8o",
@@ -57,7 +321,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/czrmzzkdk1do",
-        "news_group": 168
+        "news_group": 185
     },
     {
         "news_id": "yle_7420118777",
@@ -105,7 +369,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118758",
-        "news_group": -1
+        "news_group": 193
     },
     {
         "news_id": "yle_7420118750",
@@ -201,7 +465,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118573",
-        "news_group": 164
+        "news_group": 181
     },
     {
         "news_id": "yle_7420117973",
@@ -225,7 +489,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118645",
-        "news_group": 173
+        "news_group": 191
     },
     {
         "news_id": "bbc_czj9zzz8xm7o",
@@ -237,7 +501,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/czj9zzz8xm7o",
-        "news_group": 167
+        "news_group": 184
     },
     {
         "news_id": "yle_7420115441",
@@ -285,7 +549,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118696",
-        "news_group": 178
+        "news_group": 197
     },
     {
         "news_id": "yle_7420118695",
@@ -297,7 +561,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118695",
-        "news_group": 175
+        "news_group": 194
     },
     {
         "news_id": "yle_7420118694",
@@ -309,7 +573,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118694",
-        "news_group": 173
+        "news_group": 191
     },
     {
         "news_id": "bbc_c1e8q4j1yygo",
@@ -369,7 +633,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cvglym337plo",
-        "news_group": 178
+        "news_group": 197
     },
     {
         "news_id": "bbc_cm24q3204y3o",
@@ -381,7 +645,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cm24q3204y3o",
-        "news_group": 167
+        "news_group": 184
     },
     {
         "news_id": "bbc_c8el3z910r9o",
@@ -405,7 +669,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118675",
-        "news_group": 164
+        "news_group": 181
     },
     {
         "news_id": "yle_7420118686",
@@ -417,7 +681,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118686",
-        "news_group": 164
+        "news_group": 181
     },
     {
         "news_id": "yle_7420118673",
@@ -429,7 +693,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118673",
-        "news_group": 167
+        "news_group": 184
     },
     {
         "news_id": "dw_a70524393",
@@ -441,7 +705,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/hamas-leader-yahya-sinwar-killed-in-gaza-israel/a-70524393",
-        "news_group": 167
+        "news_group": 184
     },
     {
         "news_id": "bbc_cvgdyzq3wz5o",
@@ -465,7 +729,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/ukraine-war-zelenskyy-presents-victory-plan-to-eu-leaders/a-70525567",
-        "news_group": 164
+        "news_group": 181
     },
     {
         "news_id": "bbc_cew19r27xr7o",
@@ -489,7 +753,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118643",
-        "news_group": 173
+        "news_group": 191
     },
     {
         "news_id": "yle_7420118665",
@@ -513,7 +777,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/can-india-fend-off-us-uk-pressure-over-canada-row/a-70524932",
-        "news_group": 165
+        "news_group": 182
     },
     {
         "news_id": "yle_7420118407",
@@ -633,7 +897,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118543",
-        "news_group": 166
+        "news_group": 183
     },
     {
         "news_id": "dw_a70522302",
@@ -705,7 +969,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118546",
-        "news_group": 170
+        "news_group": 187
     },
     {
         "news_id": "dw_a70189997",
@@ -729,7 +993,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/bangladesh-court-orders-arrest-of-ex-leader-sheikh-hasina/a-70520028",
-        "news_group": 170
+        "news_group": 187
     },
     {
         "news_id": "yle_7420118260",
@@ -789,7 +1053,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/biden-in-germany-is-he-the-last-transatlantic-us-president/a-70489263",
-        "news_group": 163
+        "news_group": 180
     },
     {
         "news_id": "yle_7420118443",
@@ -873,7 +1137,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118405",
-        "news_group": 175
+        "news_group": 194
     },
     {
         "news_id": "yle_7420118258",
@@ -885,7 +1149,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118258",
-        "news_group": 166
+        "news_group": 183
     },
     {
         "news_id": "yle_7420118423",
@@ -945,7 +1209,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1wnxp970pdo",
-        "news_group": 169
+        "news_group": 186
     },
     {
         "news_id": "bbc_cx2kv219d2go",
@@ -981,7 +1245,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118416",
-        "news_group": 163
+        "news_group": 180
     },
     {
         "news_id": "yle_7420118415",
@@ -1041,7 +1305,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/one-direction-singer-liam-payne-dies-in-hotel-balcony-fall/a-70518579",
-        "news_group": 169
+        "news_group": 186
     },
     {
         "news_id": "bbc_cx2mzvj4051o",
@@ -1053,7 +1317,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2mzvj4051o",
-        "news_group": 173
+        "news_group": 191
     },
     {
         "news_id": "dw_a70518641",
@@ -1065,7 +1329,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/trudeau-says-india-violated-canada-s-sovereignty/a-70518641",
-        "news_group": 165
+        "news_group": 182
     },
     {
         "news_id": "bbc_c8j7nrppny2o",
@@ -1089,7 +1353,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118411",
-        "news_group": 175
+        "news_group": 194
     },
     {
         "news_id": "yle_7420118409",
@@ -1101,7 +1365,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118409",
-        "news_group": 169
+        "news_group": 186
     },
     {
         "news_id": "dw_a70518325",
@@ -1137,7 +1401,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cd0z8gg5v14o",
-        "news_group": 164
+        "news_group": 181
     },
     {
         "news_id": "bbc_c4gl73r031xo",
@@ -1149,7 +1413,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl73r031xo",
-        "news_group": 165
+        "news_group": 182
     },
     {
         "news_id": "bbc_c3e9q4nylwjo",
@@ -1257,7 +1521,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl5zye65ro",
-        "news_group": 172
+        "news_group": 189
     },
     {
         "news_id": "dw_a70516830",
@@ -1317,7 +1581,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/nigeria-more-than-140-dead-in-fuel-tanker-explosion/a-70512279",
-        "news_group": 172
+        "news_group": 189
     },
     {
         "news_id": "bbc_czxde3779lxo",
@@ -1329,7 +1593,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/czxde3779lxo",
-        "news_group": 177
+        "news_group": 196
     },
     {
         "news_id": "yle_7420118223",
@@ -1377,7 +1641,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/sensational-claim-on-columbus-ethnicity-can-t-be-verified-say-independent-experts/a-70513162",
-        "news_group": 179
+        "news_group": 198
     },
     {
         "news_id": "yle_7420118379",
@@ -1389,7 +1653,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118379",
-        "news_group": 172
+        "news_group": 189
     },
     {
         "news_id": "yle_7420117324",
@@ -1461,7 +1725,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/eu-seeks-to-accelerate-return-of-migrants/a-70513978",
-        "news_group": 173
+        "news_group": 191
     },
     {
         "news_id": "yle_7420118349",
@@ -1545,7 +1809,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/kenya-senate-begins-debate-on-deputy-president-impeachment/a-70511333",
-        "news_group": 168
+        "news_group": 185
     },
     {
         "news_id": "bbc_cwylzxkd5e7o",
@@ -1665,7 +1929,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwylepd79d5o",
-        "news_group": 171
+        "news_group": 188
     },
     {
         "news_id": "bbc_cwy9l7k40kgo",
@@ -1677,7 +1941,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwy9l7k40kgo",
-        "news_group": 176
+        "news_group": 195
     },
     {
         "news_id": "bbc_czxdr29lyggo",
@@ -1740,6 +2004,18 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_c62d9zp9074o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The video discusses the future of space exploration and its possibilities over the next 50 years.",
+        "news_epoch": 1728990660.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/videos/c62d9zp9074o",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420118124",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1797,7 +2073,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce3w7dqn454o",
-        "news_group": 177
+        "news_group": 196
     },
     {
         "news_id": "yle_7420112174",
@@ -1833,7 +2109,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp3wxgje5pwo",
-        "news_group": 171
+        "news_group": 188
     },
     {
         "news_id": "bbc_c20myx1erl6o",
@@ -1857,7 +2133,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1482xzrge1o",
-        "news_group": 174
+        "news_group": 192
     },
     {
         "news_id": "dw_a70465441",
@@ -1905,7 +2181,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20113579",
-        "news_group": 174
+        "news_group": 192
     },
     {
         "news_id": "yle_7420117674",
@@ -1917,7 +2193,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117674",
-        "news_group": 174
+        "news_group": 192
     },
     {
         "news_id": "yle_7420117671",
@@ -1929,7 +2205,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117671",
-        "news_group": 179
+        "news_group": 198
     },
     {
         "news_id": "yle_7420117610",
@@ -1989,7 +2265,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/boeing-to-lay-off-10-of-staff-delay-first-777x-delivery/a-70475675",
-        "news_group": 176
+        "news_group": 195
     },
     {
         "news_id": "yle_7420117356",
