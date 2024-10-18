@@ -1,0 +1,13 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420118260",
+    "news_header": "Nordea is facing a systematic attack on the Nordic banking system, believed to be orchestrated by an organized group, raising concerns about social stability and national security.",
+    "news_text": "Nordea has reported a series of strong and prolonged attacks on its services, suggesting a coordinated effort by an organized actor. The bank's Director, Sara Mella, indicated that similar attacks are occurring against other major banks in the region, potentially due to Nordea's status as the largest bank in the Nordic countries. Over 360 attacks have been recorded in the past month alone, with indications that bot networks, possibly utilizing compromised home routers, are involved. Experts warn that if a state actor is behind these attacks, the threat could extend beyond Nordea to other institutions. Authorities, including the Cybersecurity Centre and Supo, are monitoring the situation but have not publicly commented on the causes or implications. The vulnerability of home IoT devices is highlighted as a significant risk factor, necessitating public awareness and action to secure personal networks.",
+    "news_url": "https://yle.fi/a/74-20118260",
+    "news_time": 1729143060.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

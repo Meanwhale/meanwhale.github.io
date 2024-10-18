@@ -1,5 +1,581 @@
 [
     {
+        "news_id": "yle_7420118794",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "President Biden visits Germany, meeting key leaders.",
+        "news_epoch": 1729230360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118794",
+        "news_group": 163
+    },
+    {
+        "news_id": "bbc_cyvyll3d1r8o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sean 'Diddy' Combs, once a celebrated figure in the entertainment industry, now faces serious legal troubles including federal charges of sex trafficking and numerous civil lawsuits alleging sexual misconduct.",
+        "news_epoch": 1729230000.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cyvyll3d1r8o",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420117788",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Maire Lankinen's journey from Finland to working at Buckingham Palace during Princess Margaret's wedding is chronicled in a new book by his son, Nazzareno Sifo.",
+        "news_epoch": 1729229760.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20117788",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cvglyxn0444o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The Treasury plans to change its debt rules to allow borrowing for infrastructure projects, introducing independent checks to ensure efficient spending and avoid past financial issues.",
+        "news_epoch": 1729229400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvglyxn0444o",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_czrmzzkdk1do",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kenyan senators voted to impeach Deputy President Rigathi Gachagua, who failed to appear at his trial due to health issues. His removal consolidates President Ruto's power.",
+        "news_epoch": 1729229160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/czrmzzkdk1do",
+        "news_group": 168
+    },
+    {
+        "news_id": "yle_7420118777",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "President Xi Jinping to attend Brics summit in Kazan, Russia from October 22-24.",
+        "news_epoch": 1729228500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118777",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118311",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The text discusses how Donald Trump's immigration policy may influence his chances of winning the upcoming presidential elections, highlighting the growing critical attitudes towards immigration among Americans.",
+        "news_epoch": 1729227660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118311",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cq5exj06vg6o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Netflix is raising subscription prices in some regions as subscriber growth slows, despite recent gains and strong revenue.",
+        "news_epoch": 1729227420.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cq5exj06vg6o",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118758",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The Bank of Finland is initiating the application process for a new Chairman of the Board of Directors, whose term lasts seven years, starting from July 12, 2025.",
+        "news_epoch": 1729224540.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118758",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118750",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Olli Rehn, CEO of the Bank of Finland, emphasizes the uncertainty in the euro area economy and the need for data-driven interest rate decisions.",
+        "news_epoch": 1729223820.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118750",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cm2949p14k4o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A former Indian intelligence officer has been charged in the US for allegedly orchestrating a plot to assassinate a pro-Khalistan activist, implicating the Indian government in the incident.",
+        "news_epoch": 1729222320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cm2949p14k4o",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118737",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Elisa's operating profit increased while net sales decreased in Q3.",
+        "news_epoch": 1729220880.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118737",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118725",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nokia restructures its communication and social relations activities, appointing new directors and announcing departures from the Group Management Team.",
+        "news_epoch": 1729217700.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118725",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118706",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "China's economy grew by 4.6% in Q3, slightly down from 4.7% in Q2, driven by a 5% growth target.",
+        "news_epoch": 1729212540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118706",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_crr54x00857o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "China's economy grew by 4.6% in Q3, the slowest since early last year, falling short of the government's 5% target amidst ongoing challenges.",
+        "news_epoch": 1729212420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/crr54x00857o",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118526",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The upcoming U.S. presidential election poses uncertainties, particularly regarding Donald Trump's potential victory and its implications for global politics and security.",
+        "news_epoch": 1729212300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118526",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118573",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ukrainian President Volodymyr Zelenskyi outlines a victory plan for Ukraine's future security, emphasizing NATO membership as a key goal, while facing skepticism about its feasibility amidst ongoing war.",
+        "news_epoch": 1729210800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118573",
+        "news_group": 164
+    },
+    {
+        "news_id": "yle_7420117973",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A recent study revealed deficiencies in discount pricing information among e-commerce stores, leading to consumer confusion about actual discounts.",
+        "news_epoch": 1729209600.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20117973",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118645",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The EU Summit reflects a significant shift in attitudes towards migration, with discussions on asylum processes and the challenges posed by recent refugee crises.",
+        "news_epoch": 1729209480.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118645",
+        "news_group": 173
+    },
+    {
+        "news_id": "bbc_czj9zzz8xm7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Israeli forces confirmed the death of Hamas leader Yahya Sinwar after a firefight in southern Gaza, marking a significant moment in the ongoing conflict.",
+        "news_epoch": 1729208160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/czj9zzz8xm7o",
+        "news_group": 167
+    },
+    {
+        "news_id": "yle_7420115441",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A video depicting the impact of war on Gaza.",
+        "news_epoch": 1729207200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20115441",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c04p620xy47o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A report highlights urgent flaws in the US Secret Service that could lead to more assassination attempts, following a shooting incident at a Trump rally.",
+        "news_epoch": 1729203660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c04p620xy47o",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c30l5e562leo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A Texas judge has temporarily blocked the execution of Robert Roberson, the first man on death row for murder related to shaken baby syndrome, just before his scheduled execution.",
+        "news_epoch": 1729203600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c30l5e562leo",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118696",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "One Direction members release statement on Liam Payne's death.",
+        "news_epoch": 1729200780.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118696",
+        "news_group": 178
+    },
+    {
+        "news_id": "yle_7420118695",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "NATO defense ministers' meeting in Brussels continues with key attendees.",
+        "news_epoch": 1729196580.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118695",
+        "news_group": 175
+    },
+    {
+        "news_id": "yle_7420118694",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "EU leaders are discussing new legislation to manage migration and enhance border control in response to increased entries from Russia and Belarus.",
+        "news_epoch": 1729196400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118694",
+        "news_group": 173
+    },
+    {
+        "news_id": "bbc_c1e8q4j1yygo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A team of international scientists is set to drill into the Krafla volcano in Iceland to study magma behavior and enhance geothermal energy production.",
+        "news_epoch": 1729195380.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1e8q4j1yygo",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cglk7dlpwl5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Fraud cases in the UK have increased by 16%, with criminals stealing over \u00a33m daily, despite a slight decrease in total losses. New regulations aim to combat APP fraud.",
+        "news_epoch": 1729195260.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cglk7dlpwl5o",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cz04z0155kko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The Hunter's Moon is the third supermoon of the year, appearing larger and brighter. Meanwhile, significant events include a category five storm, updates from the ISS, and various environmental observations.",
+        "news_epoch": 1729194360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/cz04z0155kko",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118693",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "U.S. man charged in assassination attempt against Sikh leader in NYC.",
+        "news_epoch": 1729191180.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118693",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cvglym337plo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Liam Payne, former One Direction member, passed away at 31, leaving his bandmates and family heartbroken.",
+        "news_epoch": 1729189860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvglym337plo",
+        "news_group": 178
+    },
+    {
+        "news_id": "bbc_cm24q3204y3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The death of Yahya Sinwar marks a significant victory for Israel in its ongoing war against Hamas, but the conflict continues as key objectives remain unmet.",
+        "news_epoch": 1729187640.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cm24q3204y3o",
+        "news_group": 167
+    },
+    {
+        "news_id": "bbc_c8el3z910r9o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The government plans to increase inheritance tax revenue in the upcoming Budget, considering changes to existing exemptions and reliefs, while facing a significant fiscal shortfall.",
+        "news_epoch": 1729186800.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c8el3z910r9o",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118675",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ukrainian President Zelensky's victory plan faces skepticism regarding its realism and feasibility, as experts highlight inadequate capacities and insufficient Western support.",
+        "news_epoch": 1729181940.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118675",
+        "news_group": 164
+    },
+    {
+        "news_id": "yle_7420118686",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "NATO ministers are set to discuss Ukraine's plan for NATO membership amid ongoing conflict with Russia.",
+        "news_epoch": 1729178820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118686",
+        "news_group": 164
+    },
+    {
+        "news_id": "yle_7420118673",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Yahya Sinwar, a key Hamas leader and planner of the October 7, 2023 terrorist attack, was killed by Israeli forces, marking a significant achievement for Israel and a potential shift in Gaza's control.",
+        "news_epoch": 1729173360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118673",
+        "news_group": 167
+    },
+    {
+        "news_id": "dw_a70524393",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Yahya Sinwar, leader of Hamas, was killed in an Israeli military operation, confirmed by Israeli officials.",
+        "news_epoch": 1729173360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/hamas-leader-yahya-sinwar-killed-in-gaza-israel/a-70524393",
+        "news_group": 167
+    },
+    {
+        "news_id": "bbc_cvgdyzq3wz5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Meta workers have been fired for misusing meal vouchers, with reports of job cuts across the company.",
+        "news_epoch": 1729171680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvgdyzq3wz5o",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70525567",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ukrainian President Zelenskyy presents his 'victory plan' to EU leaders, seeking NATO membership and longer-range weapons while emphasizing the need for continued support against Russia.",
+        "news_epoch": 1729169880.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/ukraine-war-zelenskyy-presents-victory-plan-to-eu-leaders/a-70525567",
+        "news_group": 164
+    },
+    {
+        "news_id": "bbc_cew19r27xr7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The US has sanctioned two Chinese companies and a Russian intermediary for their involvement in drone production for Russia's war in Ukraine, while Ukraine's President Zelensky presented a 'victory plan' to the EU Council, emphasizing military pressure on Russia and seeking NATO membership.",
+        "news_epoch": 1729169400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cew19r27xr7o",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118643",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Italy, Denmark, and the Netherlands held a meeting to discuss innovative solutions for migration, focusing on asylum policies and potential repatriation centers.",
+        "news_epoch": 1729166220.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118643",
+        "news_group": 173
+    },
+    {
+        "news_id": "yle_7420118665",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Valio plans to consolidate operations by transferring jobs from Vantaa and Pit\u00e4j\u00e4nm\u00e4ki to Joensuu and Riihim\u00e4ki/Tuusula, affecting nearly 350 employees.",
+        "news_epoch": 1729165680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118665",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70524932",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The US and UK are pressuring India to cooperate with Canada regarding the investigation into the assassination of Sikh separatist Hardeep Singh Nijjar, which Canada alleges was carried out by Indian agents. Despite the tensions, experts believe India's relations with the US and UK will remain strong.",
+        "news_epoch": 1729163100.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/can-india-fend-off-us-uk-pressure-over-canada-row/a-70524932",
+        "news_group": 165
+    },
+    {
+        "news_id": "yle_7420118407",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A documentary series follows Jusa Harju, a father and cryptocurrency investor, exploring his journey and the world of digital currency.",
+        "news_epoch": 1729162740.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118407",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cy80z1ppnjno",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Protests in Martinique over high living costs lead to a deal to reduce food prices, but protesters reject it, demanding broader changes.",
+        "news_epoch": 1729159440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cy80z1ppnjno",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70523122",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Russian lawmakers approved a bill banning child-free propaganda to protect traditional family values.",
+        "news_epoch": 1729159080.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/russian-lawmakers-push-through-ban-on-childless-propaganda/a-70523122",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70505887",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "A US federal court ruled that Google holds a monopoly in internet search, leading to potential government actions to curb its market dominance.",
+        "news_epoch": 1729158840.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/will-google-finally-cave-in-under-us-regulatory-pressure/a-70505887",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118448",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nokia faces challenges in mobile networks and is rumored to be exploring a sale, while also searching for a new CEO amidst a backdrop of market difficulties and layoffs.",
+        "news_epoch": 1729157760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118448",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70521077",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -57,7 +633,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118543",
-        "news_group": -1
+        "news_group": 166
     },
     {
         "news_id": "dw_a70522302",
@@ -72,18 +648,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420118320",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "The ECB has decided to lower its interest rates, which is beneficial for Finnish mortgage holders.",
-        "news_epoch": 1729152000.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20118320",
-        "news_group": -1
-    },
-    {
         "news_id": "wpj_114265",
         "news_source": "wpj",
         "news_source_lang": "en",
@@ -93,6 +657,18 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/brazil/rio-de-janeiro-real-estate-news/latin-america-real-estate-news-knight-frank-global-house-price-index-2024-latin-america-home-price-data-for-2024-colombia-home-sales-data-mexico-home--14265.php",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118320",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The ECB has decided to lower its interest rates, which is beneficial for Finnish mortgage holders.",
+        "news_epoch": 1729152000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118320",
         "news_group": -1
     },
     {
@@ -129,7 +705,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118546",
-        "news_group": 161
+        "news_group": 170
     },
     {
         "news_id": "dw_a70189997",
@@ -153,7 +729,19 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/bangladesh-court-orders-arrest-of-ex-leader-sheikh-hasina/a-70520028",
-        "news_group": 161
+        "news_group": 170
+    },
+    {
+        "news_id": "yle_7420118260",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nordea is facing a systematic attack on the Nordic banking system, believed to be orchestrated by an organized group, raising concerns about social stability and national security.",
+        "news_epoch": 1729143060.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118260",
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118256",
@@ -201,7 +789,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/biden-in-germany-is-he-the-last-transatlantic-us-president/a-70489263",
-        "news_group": 155
+        "news_group": 163
     },
     {
         "news_id": "yle_7420118443",
@@ -285,7 +873,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118405",
-        "news_group": 159
+        "news_group": 175
     },
     {
         "news_id": "yle_7420118258",
@@ -297,7 +885,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118258",
-        "news_group": -1
+        "news_group": 166
     },
     {
         "news_id": "yle_7420118423",
@@ -357,7 +945,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1wnxp970pdo",
-        "news_group": 156
+        "news_group": 169
     },
     {
         "news_id": "bbc_cx2kv219d2go",
@@ -393,7 +981,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118416",
-        "news_group": 155
+        "news_group": 163
     },
     {
         "news_id": "yle_7420118415",
@@ -453,7 +1041,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/one-direction-singer-liam-payne-dies-in-hotel-balcony-fall/a-70518579",
-        "news_group": 156
+        "news_group": 169
     },
     {
         "news_id": "bbc_cx2mzvj4051o",
@@ -465,7 +1053,19 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2mzvj4051o",
-        "news_group": 158
+        "news_group": 173
+    },
+    {
+        "news_id": "dw_a70518641",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Canadian Prime Minister Justin Trudeau addressed a parliamentary inquiry regarding tensions with India over the alleged murder of a Sikh activist, asserting India's involvement and expelling Indian diplomats.",
+        "news_epoch": 1729111860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/trudeau-says-india-violated-canada-s-sovereignty/a-70518641",
+        "news_group": 165
     },
     {
         "news_id": "bbc_c8j7nrppny2o",
@@ -489,7 +1089,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118411",
-        "news_group": 159
+        "news_group": 175
     },
     {
         "news_id": "yle_7420118409",
@@ -501,7 +1101,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118409",
-        "news_group": 156
+        "news_group": 169
     },
     {
         "news_id": "dw_a70518325",
@@ -537,7 +1137,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cd0z8gg5v14o",
-        "news_group": -1
+        "news_group": 164
     },
     {
         "news_id": "bbc_c4gl73r031xo",
@@ -549,7 +1149,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl73r031xo",
-        "news_group": 162
+        "news_group": 165
     },
     {
         "news_id": "bbc_c3e9q4nylwjo",
@@ -657,7 +1257,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl5zye65ro",
-        "news_group": 153
+        "news_group": 172
     },
     {
         "news_id": "dw_a70516830",
@@ -717,7 +1317,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/nigeria-more-than-140-dead-in-fuel-tanker-explosion/a-70512279",
-        "news_group": 153
+        "news_group": 172
     },
     {
         "news_id": "bbc_czxde3779lxo",
@@ -729,7 +1329,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/czxde3779lxo",
-        "news_group": 151
+        "news_group": 177
     },
     {
         "news_id": "yle_7420118223",
@@ -777,7 +1377,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/sensational-claim-on-columbus-ethnicity-can-t-be-verified-say-independent-experts/a-70513162",
-        "news_group": 157
+        "news_group": 179
     },
     {
         "news_id": "yle_7420118379",
@@ -789,7 +1389,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118379",
-        "news_group": 153
+        "news_group": 172
     },
     {
         "news_id": "yle_7420117324",
@@ -861,7 +1461,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/eu-seeks-to-accelerate-return-of-migrants/a-70513978",
-        "news_group": 158
+        "news_group": 173
     },
     {
         "news_id": "yle_7420118349",
@@ -945,7 +1545,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/kenya-senate-begins-debate-on-deputy-president-impeachment/a-70511333",
-        "news_group": -1
+        "news_group": 168
     },
     {
         "news_id": "bbc_cwylzxkd5e7o",
@@ -1020,6 +1620,18 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420118192",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Non-alcoholic beverage sales rise as alcoholic beverage sales decline.",
+        "news_epoch": 1729045320.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118192",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420118188",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1053,7 +1665,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwylepd79d5o",
-        "news_group": 160
+        "news_group": 171
     },
     {
         "news_id": "bbc_cwy9l7k40kgo",
@@ -1065,7 +1677,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwy9l7k40kgo",
-        "news_group": 154
+        "news_group": 176
     },
     {
         "news_id": "bbc_czxdr29lyggo",
@@ -1185,7 +1797,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce3w7dqn454o",
-        "news_group": 151
+        "news_group": 177
     },
     {
         "news_id": "yle_7420112174",
@@ -1221,7 +1833,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp3wxgje5pwo",
-        "news_group": 160
+        "news_group": 171
     },
     {
         "news_id": "bbc_c20myx1erl6o",
@@ -1245,7 +1857,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1482xzrge1o",
-        "news_group": 152
+        "news_group": 174
     },
     {
         "news_id": "dw_a70465441",
@@ -1293,7 +1905,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20113579",
-        "news_group": 152
+        "news_group": 174
     },
     {
         "news_id": "yle_7420117674",
@@ -1305,7 +1917,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117674",
-        "news_group": 152
+        "news_group": 174
     },
     {
         "news_id": "yle_7420117671",
@@ -1317,7 +1929,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117671",
-        "news_group": 157
+        "news_group": 179
     },
     {
         "news_id": "yle_7420117610",
@@ -1377,7 +1989,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/boeing-to-lay-off-10-of-staff-delay-first-777x-delivery/a-70475675",
-        "news_group": 154
+        "news_group": 176
     },
     {
         "news_id": "yle_7420117356",

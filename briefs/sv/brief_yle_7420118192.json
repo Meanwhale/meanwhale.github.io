@@ -2,11 +2,12 @@
     "news_source": "yle",
     "news_id": "yle_7420118192",
     "news_header": "Icke-alkoholisk dryckesf\u00f6rs\u00e4ljning stiger som alkoholhaltig dryckesf\u00f6rs\u00e4ljning.",
-    "news_text": "Enligt Association of Panimo och l\u00e4sk, medan f\u00f6rs\u00e4ljningen av alkoholhaltiga drycker som \u00f6l och ciders minskade i juli-september, non-alkoholhaltig dryckesf\u00f6rs\u00e4ljning s\u00e5g en betydande \u00f6kning. Specifikt sj\u00f6nk ciderf\u00f6rs\u00e4ljningen med 5,7% och milda alkoholhaltiga drycker med 7,2%, medan mjuk dryckesf\u00f6rs\u00e4ljningen \u00f6kade med 5,9% och mineralvattenf\u00f6rs\u00e4ljningen \u00f6kade med 9,2%.",
+    "news_text": "Enligt Association of Panimo och l\u00e4sk, medan f\u00f6rs\u00e4ljningen av \u00f6l, ciders och milda alkoholhaltiga drycker minskade mellan juli och september, s\u00e5g icke-alkoholhaltig dryckesf\u00f6rs\u00e4ljning en signifikant \u00f6kning. Specifikt sj\u00f6nk ciderf\u00f6rs\u00e4ljningen med 5,7%, milda alkoholhaltiga drycker med 7,2%, medan mjuk dryckesf\u00f6rs\u00e4ljningen \u00f6kade med 5,9% och mineralvattenf\u00f6rs\u00e4ljningen med 9,2%.",
     "news_url": "https://yle.fi/a/74-20118192",
     "news_time": 1729045320.0,
     "news_categories": [
         "business"
     ],
-    "news_source_lang": "sv"
+    "news_source_lang": "sv",
+    "news_group": -1
 }
