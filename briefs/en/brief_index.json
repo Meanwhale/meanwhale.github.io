@@ -1,5 +1,499 @@
 [
     {
+        "news_id": "dw_a70540410",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "North Korea claims to have found a South Korean military drone in Pyongyang, escalating tensions between the two countries.",
+        "news_epoch": 1729313220.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/north-korea-claims-to-have-found-crashed-south-korean-drone/a-70540410",
+        "news_original_title": "North Korea claims to have found crashed South Korean drone",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a69477852",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The 2024 US presidential election is set for November 5, with an increase in eligible Black voters and varying turnout rates among different demographics.",
+        "news_epoch": 1729309800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/harris-trump-and-demographics-in-the-us-election/a-69477852",
+        "news_original_title": "Harris, Trump and demographics in the US election",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118935",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Colombia's cocaine production has reached record levels, doubling in the past year.",
+        "news_epoch": 1729306980.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118935",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c9wkzv1zk91o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Dr. Ravi Kumar, an NHS consultant, lost \u00a339,000 to scammers posing as bank representatives, highlighting Revolut's inadequate response to fraud cases.",
+        "news_epoch": 1729305900.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c9wkzv1zk91o",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70527782",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Moldova is holding a referendum on whether to amend its constitution to enshrine EU membership as a strategic goal, amidst concerns of Russian interference.",
+        "news_epoch": 1729304880.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/moldova-s-eu-referendum-beset-by-alleged-russian-meddling/a-70527782",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118933",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Mexican navy seizes over eight tonnes of drugs at sea.",
+        "news_epoch": 1729303440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118933",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c79npj3eqdlo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The UK government plans to extend the freeze on income tax thresholds beyond 2028, which may raise \u00a37bn but is claimed not to breach Labour's manifesto promise.",
+        "news_epoch": 1729302600.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c79npj3eqdlo",
+        "news_original_title": "Tax threshold freeze not a pledge-breaker - Labour sources",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cz9p8455l4xo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "President Biden's brief state visit to Germany emphasized his ambitions in global leadership, particularly regarding Ukraine and European defense, amidst concerns about future U.S. support.",
+        "news_epoch": 1729301100.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cz9p8455l4xo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118932",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Cuba experienced a nationwide power outage due to a failure at its largest power plant, with efforts underway to restore electricity.",
+        "news_epoch": 1729300920.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118932",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cly5067p6p1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sydney beaches reopen after mysterious tar-like balls were found on shore.",
+        "news_epoch": 1729300680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cly5067p6p1o",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420112921",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "South Korea faces a severe low fertility crisis, with companies offering financial incentives to encourage childbearing, yet societal attitudes and economic pressures deter many from having children.",
+        "news_epoch": 1729299900.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20112921",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c8elzx8dg7zo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Cuba faces a nationwide blackout affecting 10 million people after its main energy plant failed, leading to widespread power outages and an energy emergency declaration.",
+        "news_epoch": 1729295280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c8elzx8dg7zo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cr54yqg60jvo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Donald Trump criticized Judge Tanya Chutkan after she released evidence in his election conspiracy case, calling her 'the most evil person' and claiming her actions amounted to 'election interference.'",
+        "news_epoch": 1729295220.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cr54yqg60jvo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118927",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "German Chancellor Olaf Scholz meets Turkish President Erdo\u011fan in Istanbul to discuss Middle East conflicts, Ukraine war, and arms exports amid tensions over Israel.",
+        "news_epoch": 1729292040.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118927",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cp95gjj0g8eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Geoff Payne visits tributes for his son Liam outside the hotel where he died.",
+        "news_epoch": 1729284840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/cp95gjj0g8eo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cden09n621wo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A major trial in France addresses a Kurdish smuggling gang responsible for migrant crossings, with harsh sentences proposed for the accused.",
+        "news_epoch": 1729283040.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cden09n621wo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118926",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Evacuations ordered in Northern California due to a rapidly spreading wildfire in Oakland.",
+        "news_epoch": 1729282680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118926",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c9wk01d2gvxo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Content creators in Japan are gaining attention for buying and renovating abandoned homes called akiyas, which are available at low prices, especially outside major cities.",
+        "news_epoch": 1729282560.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/c9wk01d2gvxo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70539754",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Cuba's national electrical grid failed, leaving 10 million people without power after the Antonio Guiteras power plant went offline.",
+        "news_epoch": 1729279800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/cuba-hit-by-island-wide-blackout-after-power-plant-failure/a-70539754",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118924",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Israeli airstrikes on Jabalia refugee camp in Gaza result in significant casualties, including women and children.",
+        "news_epoch": 1729277100.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118924",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70537365",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Two journalists, Konstantin Gabov and Sergey Karelin, describe the harsh conditions of their pre-trial detention in Moscow, where they are accused of supporting an extremist organization linked to Kremlin critic Alexei Navalny.",
+        "news_epoch": 1729270560.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/russia-journalists-report-inhumane-conditions-in-custody/a-70537365",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70539211",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "South Africa has requested Taiwan to relocate its unofficial embassy from Pretoria to Johannesburg, renaming it as Taipei's Trade Office, amid ongoing tensions with China.",
+        "news_epoch": 1729268280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/south-africa-asks-taiwan-to-move-embassy-out-of-capital/a-70539211",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c62dyzwze0do",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Italian Prime Minister Giorgia Meloni's migrant deal with Albania faces legal challenges as a court rules that migrants should be returned to Italy due to safety concerns about their countries of origin.",
+        "news_epoch": 1729267260.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c62dyzwze0do",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118920",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Cuba experienced a nationwide blackout due to a power plant fault.",
+        "news_epoch": 1729265520.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118920",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70536135",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The assassination of Hamas leader Yahya Sinwar has sparked mixed reactions, with Israeli officials claiming it marks the end of Hamas's rule in Gaza, while experts suggest it may not significantly weaken the organization.",
+        "news_epoch": 1729262280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/what-does-sinwar-s-death-mean-for-hamas-gaza-lebanon/a-70536135",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0qzkg0ldqzo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The UK government has ruled out an apology for its role in the transatlantic slave trade during the upcoming Commonwealth summit in Samoa, despite previous expressions of regret from King Charles.",
+        "news_epoch": 1729261440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0qzkg0ldqzo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c8xezvnyz9xo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A lifeguard rescued a missing teenager lost at sea for nearly 12 hours off Hawaii, while severe weather and Hurricane Milton impacted Florida.",
+        "news_epoch": 1729260360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/c8xezvnyz9xo",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118246",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Research reveals that children were involved in pottery production in the Bronze Age, with fingerprints on clay cups providing insights into their age and roles.",
+        "news_epoch": 1729258740.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20118246",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118781",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Haminan Energia is selling its electricity and district heating networks due to financial difficulties, raising concerns about board impartiality linked to the buyer, Capman Infra.",
+        "news_epoch": 1729258200.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118781",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c9qvzjpz18po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The Ivorian government has shut down all student unions following the murder of two students linked to the Student and School Federation (Fesci), which has been accused of running illicit activities on campus.",
+        "news_epoch": 1729257060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c9qvzjpz18po",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_crkdynj42ldo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Boohoo is undergoing a major restructure, potentially breaking up its brands like Debenhams and Karen Millen to focus on a younger market amid declining sales.",
+        "news_epoch": 1729255080.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/crkdynj42ldo",
+        "news_original_title": "Boohoo considers break-up as sales slide",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70531996",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "The debt crisis in Africa is exacerbated by rising import costs, climate change, and governance issues, with Zambia and Ghana facing significant financial challenges.",
+        "news_epoch": 1729254780.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/africa-s-debt-crisis-the-need-for-multilateral-solutions/a-70531996",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118899",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The Swedish Defence Forces report missing military equipment, including vehicles and generators, from a warehouse in Sk\u00e5ne county, blaming a local voluntary defense association.",
+        "news_epoch": 1729254720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118899",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70537438",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "An Indian intelligence official has been charged by the US Justice Department for a foiled assassination plot against Sikh separatist leader Gurpatwant Singh Pannun in New York City.",
+        "news_epoch": 1729254360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/us-charges-second-indian-over-plot-to-kill-sikh-separatist/a-70537438",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70531839",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Kenya's President William Ruto nominates Kithure Kindiki as new deputy after Rigathi Gachagua's impeachment, but a court has paused the appointment.",
+        "news_epoch": 1729252260.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/kenya-kithure-kindiki-nominated-as-new-deputy-president/a-70531839",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420116579",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "UPM has issued a profit warning due to falling pulp prices, raising concerns for forestry companies amid declining demand for printing papers.",
+        "news_epoch": 1729250340.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20116579",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70527285",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Cynthia Kodowu emphasizes the importance of mental health in the workplace, warning against the dangers of neglecting it for financial gain, amidst alarming suicide statistics in Africa.",
+        "news_epoch": 1729248840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/poor-mental-health-a-silent-drain-on-africa-s-workers/a-70527285",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118885",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Prada and Axiom Space unveil a new space suit for NASA's Artemis 3 mission in Milan.",
+        "news_epoch": 1729248120.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20118885",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70485037",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -9,6 +503,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/charlie-chaplin-keeping-a-comedy-genius-in-business/a-70485037",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -21,6 +516,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -33,19 +529,8 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118749",
+        "news_original_title": "",
         "news_group": 184
-    },
-    {
-        "news_id": "bbc_crkdynj42ldo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Boohoo plans to restructure and potentially sell brands like Debenhams and Karen Millen due to struggles against competitors and declining sales.",
-        "news_epoch": 1729245180.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/crkdynj42ldo",
-        "news_group": -1
     },
     {
         "news_id": "yle_7420114143",
@@ -57,6 +542,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20114143",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -69,6 +555,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cly4kwep3kwo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -81,6 +568,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cly24q16ev0o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -93,6 +581,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/singapore/vacation-real-estate-news-2024-asia-pacific-hotel-investment-data-jll-asia-pacific-hotel-investment-report-nihat-ercan-14266.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -105,6 +594,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/india-rape-victims-struggle-to-get-justice/a-70532084",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -117,6 +607,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/decoding-china-beijing-bracing-for-trade-war-on-all-fronts/a-70533454",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -129,6 +620,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118651",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -141,6 +633,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118856",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -153,6 +646,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c3vkqwe9wwdo",
+        "news_original_title": "",
         "news_group": 190
     },
     {
@@ -165,6 +659,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118733",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -177,6 +672,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118847",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -189,7 +685,21 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118839",
+        "news_original_title": "",
         "news_group": 180
+    },
+    {
+        "news_id": "bbc_business36014533",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The UK government is considering changes to inheritance tax to increase revenue ahead of the upcoming Budget on October 30.",
+        "news_epoch": 1729235760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.co.uk/news/business-36014533",
+        "news_original_title": "",
+        "news_group": -1
     },
     {
         "news_id": "yle_7420118763",
@@ -201,6 +711,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118763",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -213,6 +724,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20pvkg35xyo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -225,6 +737,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118811",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -237,6 +750,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118809",
+        "news_original_title": "",
         "news_group": 193
     },
     {
@@ -249,6 +763,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118803",
+        "news_original_title": "",
         "news_group": 190
     },
     {
@@ -261,6 +776,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118800",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -273,6 +789,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118794",
+        "news_original_title": "",
         "news_group": 180
     },
     {
@@ -285,6 +802,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cyvyll3d1r8o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -297,6 +815,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117788",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -309,6 +828,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cvglyxn0444o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -321,6 +841,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/czrmzzkdk1do",
+        "news_original_title": "",
         "news_group": 185
     },
     {
@@ -333,6 +854,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118777",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -345,6 +867,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118311",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -357,6 +880,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cq5exj06vg6o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -369,6 +893,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118758",
+        "news_original_title": "",
         "news_group": 193
     },
     {
@@ -381,6 +906,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118750",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -393,6 +919,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cm2949p14k4o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -405,6 +932,20 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118737",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420118101",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "empty",
+        "news_epoch": 1729218720.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20118101",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -417,6 +958,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118725",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -429,6 +971,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118706",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -441,6 +984,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/crr54x00857o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -453,6 +997,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118526",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -465,6 +1010,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118573",
+        "news_original_title": "",
         "news_group": 181
     },
     {
@@ -477,6 +1023,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20117973",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -489,6 +1036,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118645",
+        "news_original_title": "",
         "news_group": 191
     },
     {
@@ -501,6 +1049,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/czj9zzz8xm7o",
+        "news_original_title": "",
         "news_group": 184
     },
     {
@@ -513,6 +1062,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20115441",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -525,6 +1075,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c04p620xy47o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -537,6 +1088,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c30l5e562leo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -549,6 +1101,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118696",
+        "news_original_title": "",
         "news_group": 197
     },
     {
@@ -561,6 +1114,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118695",
+        "news_original_title": "",
         "news_group": 194
     },
     {
@@ -573,6 +1127,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118694",
+        "news_original_title": "",
         "news_group": 191
     },
     {
@@ -585,6 +1140,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e8q4j1yygo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -597,6 +1153,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cglk7dlpwl5o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -609,6 +1166,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/videos/cz04z0155kko",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -621,6 +1179,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118693",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -633,6 +1192,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cvglym337plo",
+        "news_original_title": "",
         "news_group": 197
     },
     {
@@ -645,6 +1205,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cm24q3204y3o",
+        "news_original_title": "",
         "news_group": 184
     },
     {
@@ -657,6 +1218,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c8el3z910r9o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -669,6 +1231,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118675",
+        "news_original_title": "",
         "news_group": 181
     },
     {
@@ -681,6 +1244,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118686",
+        "news_original_title": "",
         "news_group": 181
     },
     {
@@ -693,6 +1257,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118673",
+        "news_original_title": "",
         "news_group": 184
     },
     {
@@ -705,6 +1270,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/hamas-leader-yahya-sinwar-killed-in-gaza-israel/a-70524393",
+        "news_original_title": "",
         "news_group": 184
     },
     {
@@ -717,6 +1283,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cvgdyzq3wz5o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -729,6 +1296,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/ukraine-war-zelenskyy-presents-victory-plan-to-eu-leaders/a-70525567",
+        "news_original_title": "",
         "news_group": 181
     },
     {
@@ -741,6 +1309,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cew19r27xr7o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -753,6 +1322,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118643",
+        "news_original_title": "",
         "news_group": 191
     },
     {
@@ -765,6 +1335,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118665",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -777,6 +1348,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/can-india-fend-off-us-uk-pressure-over-canada-row/a-70524932",
+        "news_original_title": "",
         "news_group": 182
     },
     {
@@ -789,6 +1361,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118407",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -801,6 +1374,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cy80z1ppnjno",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -813,6 +1387,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/russian-lawmakers-push-through-ban-on-childless-propaganda/a-70523122",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -825,6 +1400,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/will-google-finally-cave-in-under-us-regulatory-pressure/a-70505887",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -837,6 +1413,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118448",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -849,6 +1426,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/european-central-bank-cuts-key-interest-rate-to-3-25/a-70521077",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -861,6 +1439,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/hiv-treatment-breakthroughs-namibia-s-success-story/a-70517319",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -873,6 +1452,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118455",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -885,6 +1465,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/uk-more-and-more-pakistanis-reject-cousin-marriage/a-70522172",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -897,6 +1478,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118543",
+        "news_original_title": "",
         "news_group": 183
     },
     {
@@ -909,6 +1491,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/depression-remaps-people-s-attention-brain-networks/a-70522302",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -921,6 +1504,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/brazil/rio-de-janeiro-real-estate-news/latin-america-real-estate-news-knight-frank-global-house-price-index-2024-latin-america-home-price-data-for-2024-colombia-home-sales-data-mexico-home--14265.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -933,6 +1517,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118320",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -945,6 +1530,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/eu-summit-focuses-on-migration-amid-rise-of-far-right/a-70519777",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -957,6 +1543,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118209",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -969,6 +1556,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118546",
+        "news_original_title": "",
         "news_group": 187
     },
     {
@@ -981,6 +1569,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/how-close-are-the-us-and-germany/a-70189997",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -993,6 +1582,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/bangladesh-court-orders-arrest-of-ex-leader-sheikh-hasina/a-70520028",
+        "news_original_title": "",
         "news_group": 187
     },
     {
@@ -1005,6 +1595,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118260",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1017,6 +1608,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118256",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1029,6 +1621,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c0r8e421y5po",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1041,6 +1634,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e85l701y3o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1053,6 +1647,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/biden-in-germany-is-he-the-last-transatlantic-us-president/a-70489263",
+        "news_original_title": "",
         "news_group": 180
     },
     {
@@ -1065,6 +1660,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118443",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1077,6 +1673,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118440",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1089,6 +1686,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118439",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1101,6 +1699,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2kzy2klyko",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1113,6 +1712,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118430",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1125,6 +1725,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdrj70dynk1o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1137,6 +1738,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118405",
+        "news_original_title": "",
         "news_group": 194
     },
     {
@@ -1149,6 +1751,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118258",
+        "news_original_title": "",
         "news_group": 183
     },
     {
@@ -1161,6 +1764,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118423",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1173,6 +1777,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/harris-seeks-to-lure-winnable-republicans-in-fox-interview/a-70519276",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1185,6 +1790,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c07nlvmyl05o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1197,6 +1803,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/north-korea-says-it-redefined-south-as-hostile-state/a-70519229",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1209,6 +1816,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1wnxp970pdo",
+        "news_original_title": "",
         "news_group": 186
     },
     {
@@ -1221,6 +1829,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2kv219d2go",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1233,6 +1842,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20117092",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1245,6 +1855,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118416",
+        "news_original_title": "",
         "news_group": 180
     },
     {
@@ -1257,6 +1868,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118415",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1269,6 +1881,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/videos/c870vyd9z0go",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1281,6 +1894,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118414",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1293,6 +1907,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118413",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1305,6 +1920,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/one-direction-singer-liam-payne-dies-in-hotel-balcony-fall/a-70518579",
+        "news_original_title": "",
         "news_group": 186
     },
     {
@@ -1317,6 +1933,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2mzvj4051o",
+        "news_original_title": "",
         "news_group": 191
     },
     {
@@ -1329,6 +1946,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/trudeau-says-india-violated-canada-s-sovereignty/a-70518641",
+        "news_original_title": "",
         "news_group": 182
     },
     {
@@ -1341,6 +1959,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c8j7nrppny2o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1353,6 +1972,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118411",
+        "news_original_title": "",
         "news_group": 194
     },
     {
@@ -1365,6 +1985,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118409",
+        "news_original_title": "",
         "news_group": 186
     },
     {
@@ -1377,6 +1998,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/eu-gulf-states-seek-give-and-take-on-ukraine-middle-east/a-70518325",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1389,6 +2011,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c62rmv63069o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1401,6 +2024,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cd0z8gg5v14o",
+        "news_original_title": "",
         "news_group": 181
     },
     {
@@ -1413,6 +2037,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl73r031xo",
+        "news_original_title": "",
         "news_group": 182
     },
     {
@@ -1425,6 +2050,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c3e9q4nylwjo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1437,6 +2063,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/sudan-conflict-escalates-and-exacerbates-humanitarian-situation/a-70502836",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1449,6 +2076,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/sierra-leone-eco-friendly-mayor-wins-german-africa-prize/a-70464950",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1461,18 +2089,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118404",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cd7x9eprvvwo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Niger's military government is renaming streets and monuments to sever ties with France, its former colonial power, amidst deteriorating relations following a coup.",
-        "news_epoch": 1729089060.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cd7x9eprvvwo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1485,6 +2102,20 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdrj7xx7dg8o",
+        "news_original_title": "",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cd7x9eprvvwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Niger's military government is renaming streets and monuments to sever ties with France, its former colonial power, amidst deteriorating relations following a coup.",
+        "news_epoch": 1729089060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cd7x9eprvvwo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1497,6 +2128,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cy43z81nnvlo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1509,6 +2141,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20110567",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1521,6 +2154,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gl5zye65ro",
+        "news_original_title": "",
         "news_group": 189
     },
     {
@@ -1533,6 +2167,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/ukraine-journalists-mourn-victoria-roshchyna-they-say-was-killed-by-russia/a-70516830",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1545,6 +2180,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118355",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1557,6 +2193,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118278",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1569,6 +2206,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c756q166gd9o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1581,6 +2219,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/nigeria-more-than-140-dead-in-fuel-tanker-explosion/a-70512279",
+        "news_original_title": "",
         "news_group": 189
     },
     {
@@ -1593,6 +2232,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/czxde3779lxo",
+        "news_original_title": "",
         "news_group": 196
     },
     {
@@ -1605,6 +2245,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118223",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1617,6 +2258,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118389",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1629,6 +2271,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/rising-discontent-with-military-juntas-in-the-sahel-region/a-70514414",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1641,6 +2284,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/sensational-claim-on-columbus-ethnicity-can-t-be-verified-say-independent-experts/a-70513162",
+        "news_original_title": "",
         "news_group": 198
     },
     {
@@ -1653,6 +2297,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20118379",
+        "news_original_title": "",
         "news_group": 189
     },
     {
@@ -1665,6 +2310,7 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20117324",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1677,6 +2323,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/why-is-indonesia-s-middle-class-shrinking/a-70513438",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1689,6 +2336,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/czrmzm3113po",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1701,6 +2349,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c39lmnvdzxgo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1713,6 +2362,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/north-south-korea-flare-up-why-is-it-alarming/a-70512771",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1725,6 +2375,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/eu-seeks-to-accelerate-return-of-migrants/a-70513978",
+        "news_original_title": "",
         "news_group": 191
     },
     {
@@ -1737,6 +2388,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118349",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1749,6 +2401,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/war-in-ukraine-landmines-to-hurt-food-exports-for-years/a-70448256",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1761,6 +2414,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c98y09n8201o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1773,6 +2427,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c5y9d924dw5o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1785,6 +2440,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118324",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1797,6 +2453,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/orlando-real-estate-news/orlando-real-estate-news-orlando-home-sales-data-september-2024-orlando-regional-realtor-association-housing-report-september-2024-orlando-home-price--14264.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1809,6 +2466,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/kenya-senate-begins-debate-on-deputy-president-impeachment/a-70511333",
+        "news_original_title": "",
         "news_group": 185
     },
     {
@@ -1821,6 +2479,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwylzxkd5e7o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1833,6 +2492,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cj9jdgprv7ko",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1845,6 +2505,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118006",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1857,6 +2518,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118259",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1869,6 +2531,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118217",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1881,6 +2544,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/what-is-a-supermoon/a-62130848",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1893,6 +2557,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118192",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1905,6 +2570,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118188",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1917,6 +2583,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118183",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1929,6 +2596,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwylepd79d5o",
+        "news_original_title": "",
         "news_group": 188
     },
     {
@@ -1941,6 +2609,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwy9l7k40kgo",
+        "news_original_title": "",
         "news_group": 195
     },
     {
@@ -1953,6 +2622,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/czxdr29lyggo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1965,6 +2635,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118073",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1977,6 +2648,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c3dv3l5pvy3o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -1989,6 +2661,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118140",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2001,6 +2674,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/why-hyundai-picked-india-for-record-3-3-billion-ipo/a-70499104",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2013,6 +2687,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/videos/c62d9zp9074o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2025,6 +2700,7 @@
             "business"
         ],
         "news_url": "https://yle.fi/a/74-20118124",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2037,6 +2713,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/crm2remkekdo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2049,6 +2726,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.co.uk/news/explainers-63635185",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2061,6 +2739,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/hong-kong/hong-kong-real-estate-news-china-stimulus-policy-impact-on-hong-kong-housing-in-2024-bruce-pang-jll-hong-kong-property-report-hong-kong-2024-property--14263.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2073,6 +2752,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce3w7dqn454o",
+        "news_original_title": "",
         "news_group": 196
     },
     {
@@ -2085,6 +2765,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20112174",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2097,6 +2778,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c748gn94k95o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2109,6 +2791,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp3wxgje5pwo",
+        "news_original_title": "",
         "news_group": 188
     },
     {
@@ -2121,6 +2804,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20myx1erl6o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2133,6 +2817,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c1482xzrge1o",
+        "news_original_title": "",
         "news_group": 192
     },
     {
@@ -2145,6 +2830,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/ai-research-uncovers-160-000-new-rna-viruses/a-70465441",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2157,6 +2843,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/houston-real-estate-news/real-estate-news-associated-builders-and-contractors-september-2024-producer-price-index-construction-input-price-data-september-2024-nonresidential-c-14262.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2169,6 +2856,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/nobel-prize-trio-win-2024-award-for-economics/a-70484442",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2181,6 +2869,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20113579",
+        "news_original_title": "",
         "news_group": 192
     },
     {
@@ -2193,6 +2882,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117674",
+        "news_original_title": "",
         "news_group": 192
     },
     {
@@ -2205,6 +2895,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117671",
+        "news_original_title": "",
         "news_group": 198
     },
     {
@@ -2217,6 +2908,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117610",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2229,6 +2921,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/israel-iran-a-strike-on-oil-assets-could-revive-inflation/a-70433820",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2241,6 +2934,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/what-s-behind-medication-shortages-in-germany/a-70446933",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2253,6 +2947,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c5y87l79d02o",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2265,6 +2960,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/boeing-to-lay-off-10-of-staff-delay-first-777x-delivery/a-70475675",
+        "news_original_title": "",
         "news_group": 195
     },
     {
@@ -2277,6 +2973,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117356",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2289,6 +2986,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20117066",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2301,6 +2999,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cden551l7kko",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2313,6 +3012,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/discord-why-the-messaging-app-is-under-scrutiny/a-70454889",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2325,6 +3025,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/los-angeles-real-estate-news/california-real-estate-news-california-association-of-realtors-2025-california-housing-market-forecast-california-2024-housing-data-los-angeles-2024-h-14261.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2337,6 +3038,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/wanted-in-germany-heirs-for-family-owned-businesses/a-70239817",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2349,6 +3051,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/irvine/real-estate-news-attom-q3-2024-us-foreclosure-market-report-2024-foreclosure-filings-data-rob-barber-home-foreclosure-data-for-2024-14260.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2361,6 +3064,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20116924",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2373,6 +3077,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20116621",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2385,6 +3090,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/tampa-real-estate-news/hurricane-milton-storm-surge-data-corelogic-storm-surge-damage-from-hurricane-milton-total-property-losses-from-hurricane-milton-14259.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2397,6 +3103,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20110416",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2409,6 +3116,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/germany-s-prolonged-recession-makes-firms-takeover-targets/a-70437198",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2421,6 +3129,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20116615",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2433,6 +3142,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/volkswagen-employees-add-to-german-carmaker-s-headaches/a-70425198",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2445,6 +3155,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/las-vegas/las-vegas-real-estate-news-las-vegas-realtors-las-vegas-home-sales-data-september-2024-las-vegas-home-price-data-september-2024-las-vegas-condo-sales--14258.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2457,6 +3168,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20116256",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2469,6 +3181,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20115446",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2481,6 +3194,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/videos/c2lnrn287rgo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2493,6 +3207,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/washington-dc-real-estate-news/real-estate-news-mortgage-bankers-association-weekly-applications-survey-september-2024-mike-fratantoni-2024-mortgage-data-14257.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2505,6 +3220,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/can-germany-s-economy-benefit-from-china-s-stimulus-plan/a-70418862",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2517,6 +3233,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20115371",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2529,6 +3246,7 @@
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20115406",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2541,6 +3259,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/can-france-cut-spending-without-stoking-recession/a-70388582",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2553,6 +3272,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/seattle/real-estate-news-2024-home-sales-data-number-of-homes-sold-in-2024-redfin-home-sales-report-for-2024-number-of-condos-sold-in-2024-elijah-de-la-campa-14256.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2565,6 +3285,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/miami-real-estate-news/world-property-markets-global-listings-world-property-search-better-mls-michael-gerrity-real-estate-search-engines-14255.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2577,6 +3298,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/chicago-real-estate-news/real-estate-news-clever-real-estate-nar-lawsuit-report-national-association-of-realtors-doj-commission-lawsuit-against-nar-how-many-real-estate-agents-14254.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2589,6 +3311,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/iran-and-the-cost-of-a-war-with-israel/a-70385852",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2601,6 +3324,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/united-states/irvine/real-estate-news-attom-2024-home-affordability-report-home-affordability-data-for-2024-rob-barber-attom-home-price-data-for-2024-14253.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2613,6 +3337,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/how-will-german-carmakers-be-affected-by-us-port-strikes/a-70383508",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2625,6 +3350,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/portugal-tightens-migrant-labor-law-amid-populist-pressure/a-70376035",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2637,6 +3363,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/mexico-claudia-sheinbaum-faces-economic-challenges/a-70367168",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2649,6 +3376,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/monaco/monaco-real-estate-news-monaco-2024-housing-price-data-knight-frank-monaco-housing-report-james-davies-monaco-home-sales-data-for-2024-le-tour-odeon-14252.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2661,6 +3389,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/press-releases/artificial-intelligence-applications-throughout-the-real-estate-industry-book-by-gil-castle-ai-real-estate-book-srikant-hemmady-real-estate-ai-books-t-14251.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2673,6 +3402,7 @@
             "finance"
         ],
         "news_url": "https://www.worldpropertyjournal.com/real-estate-news/ireland/dublin/ireland-real-estate-news-ireland-home-price-data-in-2024-ronan-lyons-trinity-college-dublin-ireland-2024-home-sales-data-14250.php",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2685,6 +3415,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cn5zx2zx5xvo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2697,6 +3428,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c05j3q07p3yo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2709,6 +3441,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cn8l3x9e8ezo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2721,6 +3454,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cged3jd8llyo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2733,6 +3467,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c74j2lz88pwo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2745,6 +3480,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/czx6e2x0kdyo",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2757,6 +3493,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwy5dwlwkwro",
+        "news_original_title": "",
         "news_group": -1
     },
     {
@@ -2769,6 +3506,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/crkm82enkgko",
+        "news_original_title": "",
         "news_group": -1
     }
 ]
