@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cg565mrdz7zo",
+    "news_header": "Meta introduces facial recognition technology to combat celebrity endorsement scams on Facebook and Instagram.",
+    "news_text": "Meta, the owner of Facebook and Instagram, is implementing facial recognition technology to combat scams that fraudulently use celebrity endorsements, including those of Elon Musk and Martin Lewis. The technology will compare images from flagged ads with celebrities' profile photos to identify and delete fraudulent content. This follows ongoing issues with celebrity scams, which have become more sophisticated, often utilizing deepfake technology. Meta has previously faced legal pressure regarding these scams and is now also testing facial recognition for account recovery. While the use of facial recognition raises privacy concerns, Meta assures that data will be encrypted and securely stored. The new system will not be available in regions lacking regulatory approval, such as the UK and EU.",
+    "news_url": "https://www.bbc.com/news/articles/cg565mrdz7zo",
+    "news_time": 1729584180.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cg565mrdz7zo",
+    "news_header": "Meta introducerar ansiktsigenk\u00e4nningsteknik f\u00f6r att bek\u00e4mpa bedr\u00e4gerier med k\u00e4ndisst\u00f6d p\u00e5 Facebook och Instagram.",
+    "news_text": "Meta, \u00e4gare av Facebook och Instagram, implementerar ansiktsigenk\u00e4nningsteknik f\u00f6r att bek\u00e4mpa bedr\u00e4gerier som bedr\u00e4gligt anv\u00e4nder k\u00e4ndisst\u00f6d, inklusive Elon Musk och Martin Lewis. Tekniken kommer att j\u00e4mf\u00f6ra bilder fr\u00e5n flaggade annonser med k\u00e4ndisars profilfoton f\u00f6r att identifiera och radera bedr\u00e4gligt inneh\u00e5ll. Detta f\u00f6ljer p\u00e5g\u00e5ende problem med k\u00e4ndisbedr\u00e4gerier, som har blivit mer sofistikerade och ofta anv\u00e4nder deepfake-teknik. Meta har tidigare m\u00f6tt juridiskt tryck ang\u00e5ende dessa bedr\u00e4gerier och testar nu ocks\u00e5 ansiktsigenk\u00e4nning f\u00f6r konto\u00e5terst\u00e4llning. Medan anv\u00e4ndningen av ansiktsigenk\u00e4nning v\u00e4cker oro f\u00f6r integriteten, f\u00f6rs\u00e4krar Meta att data kommer att krypteras och lagras s\u00e4kert. Det nya systemet kommer inte att vara tillg\u00e4ngligt i regioner som saknar godk\u00e4nnande fr\u00e5n myndigheter, s\u00e5som Storbritannien och EU.",
+    "news_url": "https://www.bbc.com/news/articles/cg565mrdz7zo",
+    "news_time": 1729584180.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "sv",
+    "news_group": -1
+}
