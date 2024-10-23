@@ -1,0 +1,13 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420118242",
+    "news_header": "Tech giants Apple, Google, and Microsoft aim to eliminate passwords by promoting key codes for secure logins, emphasizing device reliance and potential security issues.",
+    "news_text": "Apple, Google, and Microsoft are working towards eliminating passwords in favor of key codes for secure logins, as highlighted by the FIDO Alliance's recent findings. The technology, which has been in development since 2022, is already being implemented in various services, including Google accounts. Experts like Janne Lindqvist and Petri Suvila note the potential benefits of this shift, such as improved security and reduced password-related issues. However, they also caution against over-reliance on a single device, which could pose risks if the device is lost or compromised. The collaboration among tech companies is seen as crucial for widespread adoption, similar to the successful electronic identification standards established by Finnish banks. Despite the promise of key codes, there are concerns about increased technology dependence and the need for multi-factor authentication in certain environments.",
+    "news_url": "https://yle.fi/a/74-20118242",
+    "news_time": 1729663440.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

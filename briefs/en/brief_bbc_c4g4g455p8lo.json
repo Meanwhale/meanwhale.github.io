@@ -1,13 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c4g4g455p8lo",
-    "news_header": "A massive meteorite impact three billion years ago caused unprecedented tsunamis and ocean boiling, but also fostered early life on Earth.",
-    "news_text": "Scientists have discovered that a massive meteorite, S2, which struck Earth three billion years ago, was 40-60 km wide and caused a tsunami larger than any in recorded history, boiling the oceans and creating a 500 km crater. Despite the devastation, research led by Prof. Nadja Drabon from Harvard University indicates that such impacts may have actually helped early life thrive by churning up essential nutrients like phosphorus and iron. The findings suggest that after these catastrophic events, life was resilient and quickly rebounded, benefiting from the conditions created by the impacts. The research highlights a new perspective on the relationship between asteroid impacts and the development of early life on Earth.",
+    "news_header": "A massive meteorite impact three billion years ago caused unprecedented tsunamis and ocean boiling, but also promoted early life on Earth.",
+    "news_text": "Scientists discovered that a meteorite, 200 times larger than the one that caused the dinosaur extinction, struck Earth three billion years ago, creating a massive tsunami and boiling the oceans. The impact site in South Africa revealed that despite the destruction, early life thrived due to the nutrients churned up by the impact. The research indicates that such catastrophic events may have actually facilitated the growth of simple organisms by providing essential nutrients like phosphorus and iron. The findings suggest that early life was resilient and benefited from the violent impacts, which acted like a giant fertilizer for the planet.",
     "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
     "news_time": 1729540920.0,
     "news_categories": [
-        "world"
+        "science"
     ],
     "news_source_lang": "en",
-    "news_group": 201
+    "news_group": 9
 }
