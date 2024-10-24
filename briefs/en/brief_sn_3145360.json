@@ -1,0 +1,13 @@
+{
+    "news_source": "sn",
+    "news_id": "sn_3145360",
+    "news_header": "A new implantable device called the Naloximeter could potentially save lives by detecting opioid overdoses and administering naloxone automatically.",
+    "news_text": "The Naloximeter is an innovative implantable device designed to combat opioid overdoses by detecting the onset of an overdose and releasing naloxone directly into the bloodstream, while also alerting first responders. Currently tested only in animals, the device aims to assist high-risk individuals, particularly those newly sober, who are at increased risk of overdose. The Naloximeter functions by measuring oxygen levels in the blood and can deliver naloxone within 60 seconds of detecting an overdose. Researchers emphasize the need for such harm reduction technologies, especially as opioid-related deaths continue to rise in the U.S.",
+    "news_url": "https://www.sciencenews.org/article/implant-reverses-drug-overdoses",
+    "news_time": 1729695600.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
