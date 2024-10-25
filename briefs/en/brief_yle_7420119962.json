@@ -1,0 +1,13 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420119962",
+    "news_header": "Danish researchers are developing an AI algorithm to monitor animal welfare, particularly for pigs, to help investors improve conditions for livestock.",
+    "news_text": "The researchers aim to create an app that enables investors to enhance animal welfare. They have developed an AI algorithm based on audio samples of pigs, analyzing sounds made in various contexts, such as isolation or competition for food. The study, co-authored by Elodie Mandel-Briefer from the University of Copenhagen, found that short sounds often indicate positive feelings, while longer sounds suggest discomfort. High-pitched sounds are typically associated with stress. This research, which began in 2016, highlights the importance of mental health in animal welfare. The algorithm has shown that pigs with more freedom exhibit less stress compared to those raised in traditional settings. The methodology may also be applicable to other mammals.",
+    "news_url": "https://yle.fi/a/74-20119962",
+    "news_time": 1729761000.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

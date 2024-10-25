@@ -1,0 +1,13 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420120002",
+    "news_header": "A New York University study reveals that the human brain can quickly process certain phrases in as little as 125 milliseconds, challenging traditional theories of word comprehension.",
+    "news_text": "Research from New York University indicates that the human brain can recognize specific phrases almost instantaneously, contradicting the traditional belief that words are understood sequentially. The study found that participants could identify matching phrases in just 125 milliseconds, particularly when the phrases followed a typical structure (subject, verb, object). Responses were slower for atypical structures or grammatically incorrect phrases. The findings suggest that rapid comprehension may rely more on language structure than on the individual meanings of words. This study involved 29 native English speakers and was published in the journal Science.",
+    "news_url": "https://yle.fi/a/74-20120002",
+    "news_time": 1729780440.0,
+    "news_categories": [
+        "world"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
