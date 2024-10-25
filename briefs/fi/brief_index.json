@@ -49,7 +49,7 @@
         ],
         "news_url": "https://www.dw.com/en/uganda-ex-lra-rebel-commander-gets-40-year-sentence/a-70598776",
         "news_original_title": "Uganda: Ex-LRA rebel commander gets 40-year sentence",
-        "news_group": 66
+        "news_group": 74
     },
     {
         "news_id": "bbc_c20g6n6eg5po",
@@ -62,7 +62,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g6n6eg5po",
         "news_original_title": "Ex-rebel gets 40-year jail term in landmark Ugandan case",
-        "news_group": 66
+        "news_group": 74
     },
     {
         "news_id": "yle_7420119426",
@@ -88,7 +88,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/crr957ee559o",
         "news_original_title": "Kurdish militant group behind attack on Turkish aerospace firm",
-        "news_group": 61
+        "news_group": 69
     },
     {
         "news_id": "bbc_c4g2eplxgklo",
@@ -153,7 +153,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120219",
         "news_original_title": "Kurdien aseellinen PKK-j\u00e4rjest\u00f6 ilmoittautui Turkin terrori-iskun tekij\u00e4ksi",
-        "news_group": 61
+        "news_group": 69
     },
     {
         "news_id": "dw_a70595432",
@@ -283,7 +283,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120109",
         "news_original_title": "Ven\u00e4j\u00e4-asiantuntija: Uusi rautaesirippu Euroopassa voisi vahvistaa demokratioita",
-        "news_group": 62
+        "news_group": 70
     },
     {
         "news_id": "yle_7420120191",
@@ -296,7 +296,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120191",
         "news_original_title": "Turkin presidentti Erdo\u011fan: Ankaran alkuviikon terrori-iskun tekij\u00e4t syyrialaisia",
-        "news_group": 61
+        "news_group": 69
     },
     {
         "news_id": "yle_7420120187",
@@ -322,7 +322,7 @@
         ],
         "news_url": "https://www.dw.com/en/georgia-s-path-to-the-eu-looms-large-in-2024-election/a-70590398",
         "news_original_title": "Georgia's path to the EU looms large in 2024 election",
-        "news_group": 62
+        "news_group": 70
     },
     {
         "news_id": "yle_7420120179",
@@ -348,7 +348,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cvglmv4lgx0o",
         "news_original_title": "Top LA prosecutor backs Menendez brothers being released on parole",
-        "news_group": 63
+        "news_group": 71
     },
     {
         "news_id": "bbc_c0lp8wen9zgo",
@@ -374,7 +374,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120025",
         "news_original_title": "Analyysi: Trump on noussut ennakkosuosikiksi, koska h\u00e4nen kampanjointinsa on Harrisia kekseli\u00e4\u00e4mp\u00e4\u00e4",
-        "news_group": 64
+        "news_group": 72
     },
     {
         "news_id": "dw_a70596245",
@@ -400,7 +400,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120145",
         "news_original_title": "Yhdysvalloissa syytt\u00e4j\u00e4 haluaa vapauttaa vanhempiensa murhista tuomitut veljekset \u2013 tuore Netflix-dokumentti nosti tapauksen pinnalle",
-        "news_group": 63
+        "news_group": 71
     },
     {
         "news_id": "yle_7420120157",
@@ -478,7 +478,7 @@
         ],
         "news_url": "https://www.bbc.com/news/videos/c0qdz1349yxo",
         "news_original_title": "Menendez brothers: Murder case that has divided America takes new turn",
-        "news_group": 63
+        "news_group": 71
     },
     {
         "news_id": "bbc_cly2verz8ggo",
@@ -504,7 +504,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120136",
         "news_original_title": "J\u00e4rjest\u00f6n mukaan ainakin 27 siviili\u00e4 kuollut Turkin iskuissa Syyrian puolelle",
-        "news_group": 61
+        "news_group": 69
     },
     {
         "news_id": "yle_7420120090",
@@ -712,7 +712,7 @@
         ],
         "news_url": "https://www.dw.com/en/in-a-knife-edge-us-election-will-pollsters-get-it-right/a-70568746",
         "news_original_title": "In a knife-edge US election, will pollsters get it right?",
-        "news_group": 64
+        "news_group": 72
     },
     {
         "news_id": "yle_7420084993",
@@ -868,7 +868,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 67
+        "news_group": 75
     },
     {
         "news_id": "bbc_cx279nypygvo",
@@ -907,7 +907,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
         "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 67
+        "news_group": 75
     },
     {
         "news_id": "sn_3145360",
@@ -1115,7 +1115,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 65
+        "news_group": 73
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1128,7 +1128,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 65
+        "news_group": 73
     },
     {
         "news_id": "dw_a70512276",
@@ -1310,7 +1310,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 68
+        "news_group": 76
     },
     {
         "news_id": "yle_7420117788",
@@ -1440,7 +1440,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 68
+        "news_group": 76
     },
     {
         "news_id": "bbc_cden551l7kko",
