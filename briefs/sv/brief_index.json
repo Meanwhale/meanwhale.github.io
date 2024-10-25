@@ -1,5 +1,70 @@
 [
     {
+        "news_id": "bbc_cpvz2rzm4k0o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Tre journalister d\u00f6dades i en israelisk luftstrejk p\u00e5 en byggnadsbostadsreporter i Libanon, vilket ledde till anklagelser om en avsiktlig attack mot pressen.",
+        "news_epoch": 1729847700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cpvz2rzm4k0o",
+        "news_original_title": "Three Lebanese journalists killed in Israeli strike",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0j8w73pdn8o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "F\u00f6renade kungariket kommer att tillk\u00e4nnage fem nya freeports och en investeringszon f\u00f6r att \u00f6ka den ekonomiska tillv\u00e4xten och skapandet av arbetstillf\u00e4llen, med premi\u00e4rminister Sir Keir Starmer som betonar behovet av lokal inblandning och f\u00f6rb\u00e4ttringar av den befintliga freeport-modellen.",
+        "news_epoch": 1729846920.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0j8w73pdn8o",
+        "news_original_title": "UK pledges thousands of new jobs in freeports plan",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cdrdj030d40o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Barack Obama ledde en rally f\u00f6r Kamala Harris i Georgien, som betonade vikten av v\u00e4rderingar och svarta v\u00e4ljarst\u00f6d inf\u00f6r valet.",
+        "news_epoch": 1729845540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cdrdj030d40o",
+        "news_original_title": "Obama and stars help Democrats shore up Georgia votes",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70598776",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "En f\u00f6re detta LRA-bef\u00e4lhavare, Thomas Kwoyelo, d\u00f6mdes till 40 \u00e5rs f\u00e4ngelse f\u00f6r krigsbrott och brott mot m\u00e4nskligheten i Uganda.",
+        "news_epoch": 1729845420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/uganda-ex-lra-rebel-commander-gets-40-year-sentence/a-70598776",
+        "news_original_title": "Uganda: Ex-LRA rebel commander gets 40-year sentence",
+        "news_group": 58
+    },
+    {
+        "news_id": "bbc_c20g6n6eg5po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En ugandisk domstol d\u00f6mde tidigare LRA-bef\u00e4lhavare Thomas Kwoyelo till 40 \u00e5rs f\u00e4ngelse f\u00f6r krigsf\u00f6rbrytelser, vilket markerade en betydande r\u00e4ttslig milstolpe.",
+        "news_epoch": 1729845300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c20g6n6eg5po",
+        "news_original_title": "Ex-rebel gets 40-year jail term in landmark Ugandan case",
+        "news_group": 58
+    },
+    {
         "news_id": "yle_7420119426",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -13,17 +78,17 @@
         "news_group": -1
     },
     {
-        "news_id": "dw_a70598776",
-        "news_source": "dw",
+        "news_id": "bbc_crr957ee559o",
+        "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "En f\u00f6re detta LRA-bef\u00e4lhavare, Thomas Kwoyelo, d\u00f6mdes till 40 \u00e5rs f\u00e4ngelse f\u00f6r krigsbrott och brott mot m\u00e4nskligheten i Uganda.",
-        "news_epoch": 1729844580.0,
+        "news_header": "En kurdisk militant grupp, PKK, h\u00e4vdade ansvaret f\u00f6r en attack mot turkiska flygindustrin n\u00e4ra Ankara, vilket resulterade i fem d\u00f6dsfall och 22 skador.",
+        "news_epoch": 1729844460.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.dw.com/en/uganda-ex-lra-rebel-commander-gets-40-year-sentence/a-70598776",
-        "news_original_title": "Uganda: Ex-LRA rebel commander gets 40-year sentence",
-        "news_group": -1
+        "news_url": "https://www.bbc.com/news/articles/crr957ee559o",
+        "news_original_title": "Kurdish militant group behind attack on Turkish aerospace firm",
+        "news_group": 53
     },
     {
         "news_id": "bbc_c4g2eplxgklo",
@@ -88,7 +153,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120219",
         "news_original_title": "Kurdien aseellinen PKK-j\u00e4rjest\u00f6 ilmoittautui Turkin terrori-iskun tekij\u00e4ksi",
-        "news_group": 46
+        "news_group": 53
     },
     {
         "news_id": "dw_a70595432",
@@ -208,19 +273,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_cpvz2rzm4k0o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tre journalister d\u00f6dades i en israelisk luftstrejk p\u00e5 en byggnadsbostadsreporter i Libanon, vilket ledde till anklagelser om en avsiktlig attack mot pressen.",
-        "news_epoch": 1729836420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cpvz2rzm4k0o",
-        "news_original_title": "Three Lebanese journalists killed in Israeli strike",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420120109",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -231,7 +283,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120109",
         "news_original_title": "Ven\u00e4j\u00e4-asiantuntija: Uusi rautaesirippu Euroopassa voisi vahvistaa demokratioita",
-        "news_group": 47
+        "news_group": 54
     },
     {
         "news_id": "yle_7420120191",
@@ -244,7 +296,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120191",
         "news_original_title": "Turkin presidentti Erdo\u011fan: Ankaran alkuviikon terrori-iskun tekij\u00e4t syyrialaisia",
-        "news_group": 46
+        "news_group": 53
     },
     {
         "news_id": "yle_7420120187",
@@ -270,7 +322,7 @@
         ],
         "news_url": "https://www.dw.com/en/georgia-s-path-to-the-eu-looms-large-in-2024-election/a-70590398",
         "news_original_title": "Georgia's path to the EU looms large in 2024 election",
-        "news_group": 47
+        "news_group": 54
     },
     {
         "news_id": "yle_7420120179",
@@ -296,7 +348,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cvglmv4lgx0o",
         "news_original_title": "Top LA prosecutor backs Menendez brothers being released on parole",
-        "news_group": 48
+        "news_group": 55
     },
     {
         "news_id": "bbc_c0lp8wen9zgo",
@@ -322,7 +374,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120025",
         "news_original_title": "Analyysi: Trump on noussut ennakkosuosikiksi, koska h\u00e4nen kampanjointinsa on Harrisia kekseli\u00e4\u00e4mp\u00e4\u00e4",
-        "news_group": 49
+        "news_group": 56
     },
     {
         "news_id": "dw_a70596245",
@@ -348,7 +400,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120145",
         "news_original_title": "Yhdysvalloissa syytt\u00e4j\u00e4 haluaa vapauttaa vanhempiensa murhista tuomitut veljekset \u2013 tuore Netflix-dokumentti nosti tapauksen pinnalle",
-        "news_group": 48
+        "news_group": 55
     },
     {
         "news_id": "yle_7420120157",
@@ -426,7 +478,7 @@
         ],
         "news_url": "https://www.bbc.com/news/videos/c0qdz1349yxo",
         "news_original_title": "Menendez brothers: Murder case that has divided America takes new turn",
-        "news_group": 48
+        "news_group": 55
     },
     {
         "news_id": "bbc_cly2verz8ggo",
@@ -452,7 +504,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120136",
         "news_original_title": "J\u00e4rjest\u00f6n mukaan ainakin 27 siviili\u00e4 kuollut Turkin iskuissa Syyrian puolelle",
-        "news_group": 46
+        "news_group": 53
     },
     {
         "news_id": "yle_7420120090",
@@ -546,19 +598,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_ce31w8dzepno",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Kamala Harris, den demokratiska presidentkandidaten, st\u00e5r inf\u00f6r utmaningar n\u00e4r valdagen n\u00e4rmar sig, med \u00e5tstramningsunders\u00f6kningar och oro \u00f6ver hennes f\u00f6rm\u00e5ga attrahera os\u00e4kra v\u00e4ljare.",
-        "news_epoch": 1729814880.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce31w8dzepno",
-        "news_original_title": "Harris's run started at a blazing pace. It will end with her fighting for every vote",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420119997",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -595,19 +634,6 @@
         ],
         "news_url": "https://yle.fi/a/74-20118167",
         "news_original_title": "Yle tapasi ven\u00e4l\u00e4isi\u00e4 sotavankeja Ukrainassa: \u201dKaikki tiet\u00e4v\u00e4t, ett\u00e4 Ven\u00e4j\u00e4 t\u00e4m\u00e4n sodan aloitti\u201d",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c624m4kgrg3o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Venezuela kritiserar Brasiliens veto om sitt Brics-medlemskap och kallar det en \"omoral aggression\" under f\u00f6rs\u00e4mrade relationer efter valet.",
-        "news_epoch": 1729811940.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c624m4kgrg3o",
-        "news_original_title": "Venezuela vents its anger at Brazil's Brics snub",
         "news_group": -1
     },
     {
@@ -650,19 +676,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_c5y8yq19nm2o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Bruce Springsteen delar insikter om sin karri\u00e4r, personliga utmaningar och den kommande dokument\u00e4ren \"Road Diary\" n\u00e4r han f\u00f6rbereder sig f\u00f6r sin f\u00f6rsta turn\u00e9 sedan pandemin.",
-        "news_epoch": 1729803900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c5y8yq19nm2o",
-        "news_original_title": "Springsteen: I rarely see my bandmates - we've seen each other enough",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c8j7md2kj8vo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -699,7 +712,7 @@
         ],
         "news_url": "https://www.dw.com/en/in-a-knife-edge-us-election-will-pollsters-get-it-right/a-70568746",
         "news_original_title": "In a knife-edge US election, will pollsters get it right?",
-        "news_group": 49
+        "news_group": 56
     },
     {
         "news_id": "yle_7420084993",
@@ -855,7 +868,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 51
+        "news_group": 59
     },
     {
         "news_id": "bbc_cx279nypygvo",
@@ -894,7 +907,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
         "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 51
+        "news_group": 59
     },
     {
         "news_id": "sn_3145360",
@@ -959,19 +972,6 @@
         ],
         "news_url": "https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains",
         "news_original_title": "Silk Road cities reached surprising heights in Central Asia\u2019s mountains",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8elewdzy59o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Water UK:s VD ber om urs\u00e4kt f\u00f6r branschens misslyckanden i ett l\u00e4ge d\u00e4r allm\u00e4nhetens ilska \u00f6ver r\u00e4kningar och f\u00f6roreningar \u00f6kar, samtidigt som regeringen inleder en omfattande \u00f6versyn av sektorn.",
-        "news_epoch": 1729682460.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8elewdzy59o",
-        "news_original_title": "'Sorry' water boss has plan to end sewage spillages",
         "news_group": -1
     },
     {
@@ -1115,7 +1115,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 50
+        "news_group": 57
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1128,7 +1128,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 50
+        "news_group": 57
     },
     {
         "news_id": "dw_a70512276",
@@ -1310,7 +1310,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 52
+        "news_group": 60
     },
     {
         "news_id": "yle_7420117788",
@@ -1440,7 +1440,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 52
+        "news_group": 60
     },
     {
         "news_id": "bbc_cden551l7kko",
