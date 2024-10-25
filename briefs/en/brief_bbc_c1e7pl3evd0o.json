@@ -1,13 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c1e7pl3evd0o",
-    "news_header": "Research indicates that warming Arctic conditions are increasing the risk of disease in polar bears due to exposure to pathogens linked to ice loss.",
-    "news_text": "A study examining blood samples from polar bears in the Chukchi Sea over three decades has found a significant increase in exposure to viruses, bacteria, and parasites. The research, conducted by scientists from the US Geological Survey, highlights that as the Arctic warms and sea ice diminishes, polar bears are encountering more pathogens typically associated with land animals. This change is concerning as it reflects broader shifts in the Arctic ecosystem. The study identified five pathogens that have become more prevalent, including those causing toxoplasmosis and brucellosis. While polar bears are generally resilient to disease, the findings underscore the impact of climate change on their health and habitat, as they increasingly rely on land for hunting due to the loss of sea ice.",
+    "news_header": "Polar bears are increasingly at risk of diseases due to warming Arctic conditions, with a study revealing higher pathogen exposure linked to ice loss.",
+    "news_text": "Research indicates that as the Arctic warms, polar bears are encountering more viruses, bacteria, and parasites than they did 30 years ago. A study analyzing blood samples from bears in the Chukchi Sea over three decades found increased chemical signals of infections from five pathogens, including two parasites and two bacteria. This change is attributed to significant sea ice loss and increased land use, affecting the bears' health and their prey. Although polar bears are generally robust against diseases, these findings highlight broader ecological changes in the Arctic. The study emphasizes that the loss of sea ice habitat poses the greatest threat to polar bears, impacting their ability to hunt and survive.",
     "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
     "news_time": 1729713900.0,
     "news_categories": [
-        "world"
+        "science"
     ],
     "news_source_lang": "en",
-    "news_group": -1
+    "news_group": 29
 }
