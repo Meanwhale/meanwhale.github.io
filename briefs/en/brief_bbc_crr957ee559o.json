@@ -1,13 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_crr957ee559o",
-    "news_header": "A Kurdish militant group, the PKK, claimed responsibility for an attack on Turkish Aerospace Industries near Ankara, resulting in five deaths and 22 injuries.",
-    "news_text": "The PKK announced it was behind an attack on Turkish Aerospace Industries (TAI) near Ankara, which left five people dead and 22 injured. The group stated the attack was a response to the weapons produced by TAI that have killed many Kurds, asserting it was planned long before recent political discussions in Turkey. The Turkish government identified the attackers as PKK members and conducted air strikes on PKK sites in Iraq and Syria, claiming to have killed 59 'terrorists,' though Kurdish forces reported civilian casualties. The PKK, designated as a terrorist organization by Turkey, the US, and the UK, has been fighting for Kurdish rights since the 1980s. Turkish officials condemned the attack, and the PKK's armed wing described the attackers as 'heroes' targeting a legitimate military site.",
+    "news_header": "A Kurdish militant group, the PKK, claimed responsibility for an attack on Turkey's defense manufacturer TAI, resulting in five deaths and 22 injuries, citing retaliation for arms used against Kurds.",
+    "news_text": "The PKK announced it was behind an attack on Turkish Aerospace Industries (TAI) near Ankara, leading to five fatalities and 22 injuries. The group targeted TAI due to its role in producing arms that have harmed thousands of Kurds. The attack was described as premeditated, countering claims it aimed to disrupt potential reconciliation talks with the Turkish government. Following the incident, Turkey conducted airstrikes against PKK sites in Iraq and Syria, claiming to have killed 59 militants, although Kurdish forces reported civilian casualties. The PKK is designated a terrorist organization by Turkey, the US, and the UK and has been involved in a long-standing conflict for Kurdish rights. Turkish President Erdogan condemned the attack, asserting that terrorist organizations would not succeed in their objectives.",
     "news_url": "https://www.bbc.com/news/articles/crr957ee559o",
-    "news_time": 1729844460.0,
+    "news_time": 1729850280.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": 69
+    "news_group": 77
 }

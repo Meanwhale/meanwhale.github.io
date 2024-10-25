@@ -1,5 +1,31 @@
 [
     {
+        "news_id": "bbc_crr957ee559o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En kurdisk militant grupp, PKK, h\u00e4vdade ansvaret f\u00f6r en attack mot Turkiets f\u00f6rsvarstillverkare TAI, vilket resulterade i fem d\u00f6dsfall och 22 skador, med h\u00e4nvisning till vederg\u00e4llning f\u00f6r vapen som anv\u00e4nds mot kurder.",
+        "news_epoch": 1729850280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/crr957ee559o",
+        "news_original_title": "Kurdish militant group behind attack on Turkish aerospace firm",
+        "news_group": 77
+    },
+    {
+        "news_id": "dw_a70599798",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "N\u00e4r det amerikanska valet n\u00e4rmar sig \u00e4r b\u00e5de demokrater och republikaner \u00f6verens om att uppr\u00e4tth\u00e5lla press p\u00e5 Kina, med olika strategier som f\u00f6rv\u00e4ntas fr\u00e5n kandidater Trump och Harris.",
+        "news_epoch": 1729849440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/trump-vs-harris-who-does-china-prefer-in-the-us-election/a-70599798",
+        "news_original_title": "Trump vs. Harris: Who does China prefer in the US election?",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_cpvz2rzm4k0o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -49,7 +75,7 @@
         ],
         "news_url": "https://www.dw.com/en/uganda-ex-lra-rebel-commander-gets-40-year-sentence/a-70598776",
         "news_original_title": "Uganda: Ex-LRA rebel commander gets 40-year sentence",
-        "news_group": 74
+        "news_group": 81
     },
     {
         "news_id": "bbc_c20g6n6eg5po",
@@ -62,7 +88,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g6n6eg5po",
         "news_original_title": "Ex-rebel gets 40-year jail term in landmark Ugandan case",
-        "news_group": 74
+        "news_group": 81
     },
     {
         "news_id": "yle_7420119426",
@@ -76,19 +102,6 @@
         "news_url": "https://yle.fi/a/74-20119426",
         "news_original_title": "Ikiaikainen kytky murenee: talous kasvaa, mutta en\u00e4\u00e4 se ei lis\u00e4\u00e4 energian kulutusta juuri lainkaan",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_crr957ee559o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "En kurdisk militant grupp, PKK, h\u00e4vdade ansvaret f\u00f6r en attack mot turkiska flygindustrin n\u00e4ra Ankara, vilket resulterade i fem d\u00f6dsfall och 22 skador.",
-        "news_epoch": 1729844460.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/crr957ee559o",
-        "news_original_title": "Kurdish militant group behind attack on Turkish aerospace firm",
-        "news_group": 69
     },
     {
         "news_id": "bbc_c4g2eplxgklo",
@@ -153,7 +166,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120219",
         "news_original_title": "Kurdien aseellinen PKK-j\u00e4rjest\u00f6 ilmoittautui Turkin terrori-iskun tekij\u00e4ksi",
-        "news_group": 69
+        "news_group": 77
     },
     {
         "news_id": "dw_a70595432",
@@ -283,7 +296,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120109",
         "news_original_title": "Ven\u00e4j\u00e4-asiantuntija: Uusi rautaesirippu Euroopassa voisi vahvistaa demokratioita",
-        "news_group": 70
+        "news_group": 78
     },
     {
         "news_id": "yle_7420120191",
@@ -296,7 +309,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120191",
         "news_original_title": "Turkin presidentti Erdo\u011fan: Ankaran alkuviikon terrori-iskun tekij\u00e4t syyrialaisia",
-        "news_group": 69
+        "news_group": 77
     },
     {
         "news_id": "yle_7420120187",
@@ -322,7 +335,7 @@
         ],
         "news_url": "https://www.dw.com/en/georgia-s-path-to-the-eu-looms-large-in-2024-election/a-70590398",
         "news_original_title": "Georgia's path to the EU looms large in 2024 election",
-        "news_group": 70
+        "news_group": 78
     },
     {
         "news_id": "yle_7420120179",
@@ -348,7 +361,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cvglmv4lgx0o",
         "news_original_title": "Top LA prosecutor backs Menendez brothers being released on parole",
-        "news_group": 71
+        "news_group": 79
     },
     {
         "news_id": "bbc_c0lp8wen9zgo",
@@ -374,7 +387,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120025",
         "news_original_title": "Analyysi: Trump on noussut ennakkosuosikiksi, koska h\u00e4nen kampanjointinsa on Harrisia kekseli\u00e4\u00e4mp\u00e4\u00e4",
-        "news_group": 72
+        "news_group": -1
     },
     {
         "news_id": "dw_a70596245",
@@ -400,7 +413,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120145",
         "news_original_title": "Yhdysvalloissa syytt\u00e4j\u00e4 haluaa vapauttaa vanhempiensa murhista tuomitut veljekset \u2013 tuore Netflix-dokumentti nosti tapauksen pinnalle",
-        "news_group": 71
+        "news_group": 79
     },
     {
         "news_id": "yle_7420120157",
@@ -478,7 +491,7 @@
         ],
         "news_url": "https://www.bbc.com/news/videos/c0qdz1349yxo",
         "news_original_title": "Menendez brothers: Murder case that has divided America takes new turn",
-        "news_group": 71
+        "news_group": 79
     },
     {
         "news_id": "bbc_cly2verz8ggo",
@@ -504,7 +517,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120136",
         "news_original_title": "J\u00e4rjest\u00f6n mukaan ainakin 27 siviili\u00e4 kuollut Turkin iskuissa Syyrian puolelle",
-        "news_group": 69
+        "news_group": 77
     },
     {
         "news_id": "yle_7420120090",
@@ -702,19 +715,6 @@
         "news_group": -1
     },
     {
-        "news_id": "dw_a70568746",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Unders\u00f6kningar indikerar en t\u00e4t ras mellan Kamala Harris och Donald Trump, med Harris n\u00e5got ledande. Men tidigare val visar omr\u00f6stningar kan vara vilseledande, s\u00e4rskilt i att f\u00e5nga Trump-anh\u00e4ngare. Analytiker betonar vikten av Pennsylvania i det kommande valet.",
-        "news_epoch": 1729787280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/in-a-knife-edge-us-election-will-pollsters-get-it-right/a-70568746",
-        "news_original_title": "In a knife-edge US election, will pollsters get it right?",
-        "news_group": 72
-    },
-    {
         "news_id": "yle_7420084993",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -868,7 +868,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 75
+        "news_group": 82
     },
     {
         "news_id": "bbc_cx279nypygvo",
@@ -907,7 +907,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
         "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 75
+        "news_group": 82
     },
     {
         "news_id": "sn_3145360",
@@ -1115,7 +1115,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 73
+        "news_group": 80
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1128,7 +1128,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 73
+        "news_group": 80
     },
     {
         "news_id": "dw_a70512276",
@@ -1310,7 +1310,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 76
+        "news_group": 83
     },
     {
         "news_id": "yle_7420117788",
@@ -1440,7 +1440,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 76
+        "news_group": 83
     },
     {
         "news_id": "bbc_cden551l7kko",
