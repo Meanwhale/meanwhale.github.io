@@ -1,13 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cvglmv4lgx0o",
-    "news_header": "The Menendez brothers, convicted of murdering their parents in 1989, may soon be eligible for parole following new evidence suggesting they were victims of abuse.",
-    "news_text": "Erik and Lyle Menendez, convicted of murdering their parents in 1989, are closer to potential parole after a Los Angeles County district attorney recommended resentencing due to new evidence of alleged abuse. The case, which has captivated the public and inspired a Netflix series, involved the brothers claiming they acted in self-defense after years of emotional and sexual abuse. A hearing is scheduled to discuss the resentencing recommendation, but the case remains controversial, with mixed opinions from the public and family members. The brothers are currently serving life sentences without parole.",
+    "news_header": "Erik and Lyle Menendez, convicted of murdering their parents in 1989, are closer to parole after new evidence suggests they were victims of abuse.",
+    "news_text": "Erik and Lyle Menendez, who were convicted over three decades ago for the murder of their parents, are potentially closer to being released on parole following a recommendation from the Los Angeles County district attorney for resentencing due to new evidence. The case, which has captivated the public and inspired a Netflix series, centers around claims of emotional, physical, and sexual abuse suffered by the brothers, which they argue justified their actions. The new evidence includes a letter from Erik detailing alleged abuse by their father and a claim from a former member of the boy band Menudo regarding sexual assault by Jose Menendez. The brothers, currently serving life sentences without parole, could have a hearing in the coming weeks to discuss their potential release, although the decision will ultimately require approval from a judge and a parole board, with California's governor also having the power to reject it.",
     "news_url": "https://www.bbc.com/news/articles/cvglmv4lgx0o",
-    "news_time": 1729832580.0,
+    "news_time": 1729833480.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": 32
+    "news_group": 39
 }

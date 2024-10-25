@@ -1,5 +1,18 @@
 [
     {
+        "news_id": "bbc_cvglmv4lgx0o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Erik and Lyle Menendez, convicted of murdering their parents in 1989, are closer to parole after new evidence suggests they were victims of abuse.",
+        "news_epoch": 1729833480.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvglmv4lgx0o",
+        "news_original_title": "Top LA prosecutor backs Menendez brothers being released on parole",
+        "news_group": 39
+    },
+    {
         "news_id": "bbc_c0lp8wen9zgo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -11,19 +24,6 @@
         "news_url": "https://www.bbc.com/news/articles/c0lp8wen9zgo",
         "news_original_title": "Tense election fight for Georgia's future in Europe",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_cvglmv4lgx0o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "The Menendez brothers, convicted of murdering their parents in 1989, may soon be eligible for parole following new evidence suggesting they were victims of abuse.",
-        "news_epoch": 1729832580.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cvglmv4lgx0o",
-        "news_original_title": "Top LA prosecutor backs Menendez brothers being released on parole",
-        "news_group": 32
     },
     {
         "news_id": "bbc_c704wzx38p1o",
@@ -49,7 +49,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120025",
         "news_original_title": "Analyysi: Trump on noussut ennakkosuosikiksi, koska h\u00e4nen kampanjointinsa on Harrisia kekseli\u00e4\u00e4mp\u00e4\u00e4",
-        "news_group": 33
+        "news_group": 40
     },
     {
         "news_id": "dw_a70596245",
@@ -75,7 +75,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120145",
         "news_original_title": "Yhdysvalloissa syytt\u00e4j\u00e4 haluaa vapauttaa vanhempiensa murhista tuomitut veljekset \u2013 tuore Netflix-dokumentti nosti tapauksen pinnalle",
-        "news_group": 32
+        "news_group": 39
     },
     {
         "news_id": "dw_a70595432",
@@ -166,7 +166,7 @@
         ],
         "news_url": "https://www.bbc.com/news/videos/c0qdz1349yxo",
         "news_original_title": "Menendez brothers: Murder case that has divided America takes new turn",
-        "news_group": 32
+        "news_group": 39
     },
     {
         "news_id": "bbc_cly2verz8ggo",
@@ -179,7 +179,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cly2verz8ggo",
         "news_original_title": "How an evolving and expanding Brics benefits India",
-        "news_group": 34
+        "news_group": 41
     },
     {
         "news_id": "yle_7420120136",
@@ -543,7 +543,7 @@
         ],
         "news_url": "https://www.dw.com/en/in-a-knife-edge-us-election-will-pollsters-get-it-right/a-70568746",
         "news_original_title": "In a knife-edge US election, will pollsters get it right?",
-        "news_group": 33
+        "news_group": 40
     },
     {
         "news_id": "dw_a70593895",
@@ -582,7 +582,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c14lzy75355o",
         "news_original_title": "Mozambique's ruling party wins landslide in disputed poll",
-        "news_group": 38
+        "news_group": 45
     },
     {
         "news_id": "yle_7420084993",
@@ -660,7 +660,7 @@
         ],
         "news_url": "https://www.dw.com/en/brics-expansion-what-does-it-mean-for-africa-s-future/a-70590473",
         "news_original_title": "BRICS expansion: What does it mean for Africa's future?",
-        "news_group": 34
+        "news_group": 41
     },
     {
         "news_id": "yle_7420119727",
@@ -699,7 +699,7 @@
         ],
         "news_url": "https://www.dw.com/en/daniel-chapo-of-frelimo-wins-mozambique-election/a-70590971",
         "news_original_title": "Daniel Chapo of Frelimo wins Mozambique election",
-        "news_group": 38
+        "news_group": 45
     },
     {
         "news_id": "bbc_cpvzypy8ndyo",
@@ -816,7 +816,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 36
+        "news_group": 43
     },
     {
         "news_id": "bbc_cx279nypygvo",
@@ -855,7 +855,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
         "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 36
+        "news_group": 43
     },
     {
         "news_id": "sn_3145360",
@@ -1089,7 +1089,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 35
+        "news_group": 42
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1102,7 +1102,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 35
+        "news_group": 42
     },
     {
         "news_id": "dw_a70512276",
@@ -1284,7 +1284,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 37
+        "news_group": 44
     },
     {
         "news_id": "yle_7420117788",
@@ -1440,7 +1440,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 37
+        "news_group": 44
     },
     {
         "news_id": "bbc_cden551l7kko",
