@@ -1,5 +1,96 @@
 [
     {
+        "news_id": "bbc_c9wrkngvyx4o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Liittokansleri aikoo lis\u00e4t\u00e4 ty\u00f6nantajien kansallista vakuutusta julkisten palvelujen, erityisesti NHS:n, rahoittamiseksi ja my\u00f6s verokynnysten ja muiden verotoimenpiteiden muuttamiseksi.",
+        "news_epoch": 1729915980.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c9wrkngvyx4o",
+        "news_original_title": "Employers' National Insurance hike to raise \u00a320bn",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cz9xpzeqq4po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Beyonc\u00e9 tukee Kamala Harrisia mielenosoituksessa, painottaen h\u00e4nen huolenaiheitaan \u00e4itin\u00e4 ja kehottaen amerikkalaisia ryhtym\u00e4\u00e4n toimiin.",
+        "news_epoch": 1729913820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/cz9xpzeqq4po",
+        "news_original_title": "Beyonc\u00e9 urges Americans to 'sing a new song'",
+        "news_group": 98
+    },
+    {
+        "news_id": "bbc_c62jrn55n6yo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ison-Britannian on merkitt\u00e4v\u00e4sti v\u00e4hennett\u00e4v\u00e4 kasvihuonekaasup\u00e4\u00e4st\u00f6j\u00e4 ilmastonmuutoksen torjumiseksi.",
+        "news_epoch": 1729913760.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c62jrn55n6yo",
+        "news_original_title": "Big UK emissions cut needed, says climate watchdog",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70606124",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Kamala Harris puolustaa aborttioikeuksia Houstonin mielenosoituksessa varoittaen Trumpin lis\u00e4\u00e4ntymisvapauksien vaikutusta.",
+        "news_epoch": 1729912020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/harris-torches-texas-abortion-ban-at-rally-with-beyonce/a-70606124",
+        "news_original_title": "Harris torches Texas abortion ban at rally with Beyonce",
+        "news_group": 98
+    },
+    {
+        "news_id": "yle_7420120126",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Donald Trumpin mahdollinen uudelleenvalinta her\u00e4tt\u00e4\u00e4 huolen Yhdysvaltojen ja Euroopan v\u00e4listen suhteiden tulevaisuudesta erityisesti Ukrainan yhteisten arvojen, muuttopolitiikan ja sotilaallisen tuen osalta.",
+        "news_epoch": 1729911900.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120126",
+        "news_original_title": "Trumpin voitto veisi Eurooppaa ja Yhdysvaltoja kauemmas toisistaan, sanoo asiantuntija",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70580848",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Valko-Ven\u00e4j\u00e4n poliittisen pakolaisen ja taiteilijan Andrei hakee turvapaikkaa Bulgariasta aviomiehens\u00e4 Alexin kanssa. H\u00e4nen turvapaikkahakemuksensa on haaste Bulgarian LGBTQ+ -oikeuksien rajoittavan lains\u00e4\u00e4d\u00e4nn\u00f6n vuoksi.",
+        "news_epoch": 1729911540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/gay-russo-belarusian-couple-seeks-asylum-in-bulgaria/a-70580848",
+        "news_original_title": "Gay Russo-Belarusian couple seeks asylum in Bulgaria",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120349",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Suomessa m\u00f6kkien myynti on noussut vuoteen 2022, hinnat ovat vakaat ja asuntokaupan aktiivisuus lis\u00e4\u00e4ntyneet.",
+        "news_epoch": 1729910940.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120349",
+        "news_original_title": "M\u00f6kkikauppa piristyi viime vuodesta",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420120348",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -10,7 +101,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120348",
         "news_original_title": "Vaalihuoneistot avautuivat Georgiassa",
-        "news_group": 89
+        "news_group": 99
     },
     {
         "news_id": "bbc_ckgvnyevmr5o",
@@ -36,7 +127,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cqj0l8rpvelo",
         "news_original_title": "High stakes in Georgian election as voters decide path in Europe",
-        "news_group": 89
+        "news_group": 99
     },
     {
         "news_id": "dw_a70583583",
@@ -62,7 +153,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119642",
         "news_original_title": "Georgian ex-tiedustelupomo: Ven\u00e4j\u00e4 yritt\u00e4\u00e4 Georgiassa samaa kuin Ukrainassa",
-        "news_group": 89
+        "news_group": 99
     },
     {
         "news_id": "yle_7420120346",
@@ -75,7 +166,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120346",
         "news_original_title": "Beyonc\u00e9 t\u00e4hditti Harrisin vaalitilaisuutta Texasissa",
-        "news_group": -1
+        "news_group": 98
     },
     {
         "news_id": "yle_7420120343",
@@ -88,7 +179,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120343",
         "news_original_title": "Iranin mukaan Israelin iskut aiheuttivat \u201drajoitettua vahinkoa\u201d",
-        "news_group": 90
+        "news_group": 100
     },
     {
         "news_id": "yle_7420117403",
@@ -101,7 +192,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20117403",
         "news_original_title": "L\u00e4hi-id\u00e4n koston kierre on kiihtynyt kiihtymist\u00e4\u00e4n: N\u00e4in Israel ja Iran ajautuivat vuodessa sodan partaalle",
-        "news_group": 90
+        "news_group": 100
     },
     {
         "news_id": "bbc_cx2nezzw8z9o",
@@ -153,7 +244,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120342",
         "news_original_title": "Israel teki iskuja Iranin sotilaskohteisiin, iskut loppuneet ainakin t\u00e4lt\u00e4 er\u00e4\u00e4",
-        "news_group": 90
+        "news_group": 100
     },
     {
         "news_id": "yle_7420120341",
@@ -166,7 +257,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120341",
         "news_original_title": "Georgialaiset \u00e4\u00e4nest\u00e4v\u00e4t t\u00e4n\u00e4\u00e4n maansa suunnasta",
-        "news_group": 89
+        "news_group": 99
     },
     {
         "news_id": "bbc_cx2dk8yy4kjo",
@@ -179,7 +270,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2dk8yy4kjo",
         "news_original_title": "Mining giants sign $30bn settlement for 2015 Brazil dam collapse",
-        "news_group": 88
+        "news_group": 97
     },
     {
         "news_id": "yle_7420120340",
@@ -205,7 +296,7 @@
         ],
         "news_url": "https://www.dw.com/en/chinese-hackers-target-trump-vance-and-harris-campaign-reports/a-70605111",
         "news_original_title": "Chinese hackers target Trump, Vance and Harris campaign \u2014 reports",
-        "news_group": 85
+        "news_group": 94
     },
     {
         "news_id": "bbc_cwyg9w7g6zlo",
@@ -218,7 +309,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cwyg9w7g6zlo",
         "news_original_title": "China tried to tap telecoms of Trump and Vance, US officials believe",
-        "news_group": 85
+        "news_group": 94
     },
     {
         "news_id": "bbc_c170l0n8j54o",
@@ -257,20 +348,7 @@
         ],
         "news_url": "https://www.bbc.com/news/videos/cj6kedr6dg1o",
         "news_original_title": "'It's long overdue' - Biden apologises over Indian boarding schools",
-        "news_group": 92
-    },
-    {
-        "news_id": "bbc_c9wrkngvyx4o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Ison-Britannian liittokansleri aikoo lis\u00e4t\u00e4 ty\u00f6nantajien kansallista vakuutusmaksua nostaakseen 20 miljardia puntaa julkisiin palveluihin, mukaan lukien NHS, ja mahdollisesti my\u00f6s alentaa veron kynnyst\u00e4.",
-        "news_epoch": 1729882620.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c9wrkngvyx4o",
-        "news_original_title": "Employers' National Insurance hike to raise \u00a320bn",
-        "news_group": -1
+        "news_group": 102
     },
     {
         "news_id": "bbc_cm2y7eyp3zpo",
@@ -296,7 +374,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cz0m4xlg093o",
         "news_original_title": "Gaza war's 'darkest moment' unfolding in north, UN says",
-        "news_group": 90
+        "news_group": 100
     },
     {
         "news_id": "bbc_ce9gjy4lpkpo",
@@ -309,7 +387,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/ce9gjy4lpkpo",
         "news_original_title": "Grateful Dead co-founder Phil Lesh dies aged 84",
-        "news_group": 84
+        "news_group": 93
     },
     {
         "news_id": "yle_7420120337",
@@ -322,20 +400,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120337",
         "news_original_title": "Grateful Dead -yhtyeen basisti Phil Lesh on kuollut",
-        "news_group": 84
-    },
-    {
-        "news_id": "bbc_c4gplnlq7zyo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Ex-Abercrombie & Fitch toimitusjohtaja Mike Jeffries ei ole syyllinen seksikauppaan ja prostituutiosyytteisiin.",
-        "news_epoch": 1729879800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4gplnlq7zyo",
-        "news_original_title": "Ex-Abercrombie CEO pleads not guilty to sex trafficking charges",
-        "news_group": -1
+        "news_group": 93
     },
     {
         "news_id": "dw_a70604433",
@@ -361,7 +426,7 @@
         ],
         "news_url": "https://www.dw.com/en/brazil-seals-23-billion-from-mining-firms-over-dam-collapse/a-70604440",
         "news_original_title": "Brazil seals $23 billion from mining firms over dam collapse",
-        "news_group": 88
+        "news_group": 97
     },
     {
         "news_id": "dw_a70599400",
@@ -387,7 +452,7 @@
         ],
         "news_url": "https://www.dw.com/en/us-biden-makes-historic-apology-to-native-americans/a-70604549",
         "news_original_title": "US: Biden makes historic apology to Native Americans",
-        "news_group": 92
+        "news_group": 102
     },
     {
         "news_id": "yle_7420120331",
@@ -400,20 +465,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120331",
         "news_original_title": "Biden pyysi anteeksi alkuper\u00e4iskansoihin kuuluvien lasten sulkemista sis\u00e4oppilaitoksiin",
-        "news_group": 92
-    },
-    {
-        "news_id": "yle_7420120329",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Kiinalaiset hakkerit yrittiv\u00e4t rikkoa Yhdysvaltain presidentin Trumpin ja VP JD Vancen puhelimia her\u00e4tt\u00e4en huolta tietovarkaudesta ja kansallisesta turvallisuudesta.",
-        "news_epoch": 1729870140.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120329",
-        "news_original_title": "NY Times: Trumpin ja Vancen puhelimet kiinalaisten hakkerien kohteena",
-        "news_group": 85
+        "news_group": 102
     },
     {
         "news_id": "sn_3145402",
@@ -572,19 +624,6 @@
         "news_group": -1
     },
     {
-        "news_id": "dw_a70599798",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Yhdysvaltain presidentinvaalien l\u00e4hestyess\u00e4 sek\u00e4 demokraatit ett\u00e4 republikaanit sopivat Kiinan painostuksen yll\u00e4pit\u00e4misest\u00e4 erilaisilla ehdokkaiden Trumpin ja Harrisin strategioilla.",
-        "news_epoch": 1729849440.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/trump-vs-harris-who-does-china-prefer-in-the-us-election/a-70599798",
-        "news_original_title": "Trump vs. Harris: Who does China prefer in the US election?",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c0j8w73pdn8o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -595,19 +634,6 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c0j8w73pdn8o",
         "news_original_title": "UK pledges thousands of new jobs in freeports plan",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70598776",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "LRA:n entinen komentaja Thomas Kwoyelo tuomittiin 40 vuodeksi vankeuteen sotarikoksista ja rikoksista ihmisyytt\u00e4 vastaan Ugandassa.",
-        "news_epoch": 1729845420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/uganda-ex-lra-rebel-commander-gets-40-year-sentence/a-70598776",
-        "news_original_title": "Uganda: Ex-LRA rebel commander gets 40-year sentence",
         "news_group": -1
     },
     {
@@ -858,19 +884,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420119892",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Neste on vet\u00e4ytynyt Porvoon suuresta vetyhankkeesta lains\u00e4\u00e4d\u00e4nn\u00f6llisten haasteiden ja taloudellisten huolien vuoksi.",
-        "news_epoch": 1729777260.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20119892",
-        "news_original_title": "Liian tiukka s\u00e4\u00e4ntely ja taloustilanne iskiv\u00e4t Nesteeseen: j\u00e4ttitehdas j\u00e4\u00e4 rakentamatta",
-        "news_group": -1
-    },
-    {
         "news_id": "sn_3145297",
         "news_source": "sn",
         "news_source_lang": "en",
@@ -959,7 +972,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 91
+        "news_group": 101
     },
     {
         "news_id": "sn_3145332",
@@ -972,7 +985,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
         "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 91
+        "news_group": 101
     },
     {
         "news_id": "sn_3145360",
@@ -1154,7 +1167,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 87
+        "news_group": 96
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1167,7 +1180,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 87
+        "news_group": 96
     },
     {
         "news_id": "dw_a70512276",
@@ -1323,7 +1336,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 86
+        "news_group": 95
     },
     {
         "news_id": "bbc_c1e8q4j1yygo",
@@ -1440,7 +1453,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 86
+        "news_group": 95
     },
     {
         "news_id": "bbc_cden551l7kko",
@@ -1453,19 +1466,6 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cden551l7kko",
         "news_original_title": "How unusual has this hurricane season been?",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c2lnrn287rgo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Skotlannissa sijaitseva Sphinxin lumilaikku on sulanut jo nelj\u00e4tt\u00e4 vuotta per\u00e4kk\u00e4in, mik\u00e4 johtuu ilmastonmuutoksesta.",
-        "news_epoch": 1728353760.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/c2lnrn287rgo",
-        "news_original_title": "My pilgrimage to the vanishing Sphinx snow patch",
         "news_group": -1
     }
 ]
