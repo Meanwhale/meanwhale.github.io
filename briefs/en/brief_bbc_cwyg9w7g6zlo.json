@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cwyg9w7g6zlo",
+    "news_header": "US authorities are investigating a cyberattack linked to China that may have targeted former President Trump and Senator Vance's phones and networks, as well as others involved in the election.",
+    "news_text": "Cybercriminals affiliated with China are suspected of attempting to access the phones and networks of former President Donald Trump and Senator JD Vance, according to sources. The Trump-Vance campaign was informed of the potential breach as part of a broader cyber attack that also targeted the Harris-Walz campaign. The FBI and the Infrastructure Security Agency (CISA) are investigating unauthorized access to US telecommunications infrastructure. Verizon confirmed that it is assisting law enforcement in the investigation. The Trump campaign has blamed Democrats for the incident, while law enforcement is treating it as espionage rather than an attempt to influence the campaign. This incident follows previous warnings from US officials about foreign interference in elections.",
+    "news_url": "https://www.bbc.com/news/articles/cwyg9w7g6zlo",
+    "news_time": 1729883580.0,
+    "news_categories": [
+        "world"
+    ],
+    "news_source_lang": "en",
+    "news_group": 85
+}

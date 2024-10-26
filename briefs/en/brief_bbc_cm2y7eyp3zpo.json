@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cm2y7eyp3zpo",
+    "news_header": "A dispute between WordPress and WP Engine is disrupting thousands of businesses that rely on their services, leading to uncertainty and potential financial losses.",
+    "news_text": "WordPress, a major web publishing platform powering 40% of the world's websites, is in a conflict with WP Engine, affecting many businesses dependent on their services. The disagreement stems from WordPress's expectation that WP Engine contribute to its open-source project, which WP Engine disputes. As a result, WordPress has banned WP Engine from using key components of its platform, causing significant disruption. Businesses like Tricia Fox's agency are facing uncertainty and increased costs, with potential migrations to other hosts. The situation has escalated to legal disputes, with WP Engine accusing WordPress of attempted extortion and WordPress defending its trademark rights. The outcome of this conflict could have widespread implications for the online economy and the open-source community.",
+    "news_url": "https://www.bbc.com/news/articles/cm2y7eyp3zpo",
+    "news_time": 1729882500.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
