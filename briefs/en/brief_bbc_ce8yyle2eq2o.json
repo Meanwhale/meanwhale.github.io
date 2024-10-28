@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_ce8yyle2eq2o",
+    "news_header": "UN reports that global climate change efforts are failing as greenhouse gas emissions rise faster than ever, with current national plans insufficient to meet targets.",
+    "news_text": "The UN has declared that global efforts to combat climate change are significantly off track, with new data revealing that greenhouse gas emissions are accumulating at unprecedented rates. Current national plans are projected to reduce emissions by only 2.6% by 2030, far below the 43% reduction needed to limit global warming to 1.5C. The World Meteorological Organization has reported record high greenhouse gas concentrations in 2023, exacerbated by factors like wildfires and the El Ni\u00f1o event. Concerns are growing that forests, crucial for carbon absorption, are losing their effectiveness, particularly in the Amazon, which has shifted from a carbon sink to a source. The situation indicates a potential acceleration of global warming, with the last comparable levels of atmospheric carbon occurring 3-5 million years ago, when temperatures and sea levels were significantly higher.",
+    "news_url": "https://www.bbc.com/news/articles/ce8yyle2eq2o",
+    "news_time": 1730098800.0,
+    "news_categories": [
+        "world"
+    ],
+    "news_source_lang": "en",
+    "news_group": 109
+}
