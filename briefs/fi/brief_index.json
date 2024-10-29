@@ -1,41 +1,743 @@
 [
     {
-        "news_id": "bbc_cyv737vy376o",
+        "news_id": "bbc_cx2yv8327g9o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Nato vahvistaa Pohjois-Korean joukot toimivat Ven\u00e4j\u00e4n Kurskin alueella, mik\u00e4 merkitsee Ukrainan konfliktin merkitt\u00e4v\u00e4\u00e4 kasvua.",
-        "news_epoch": 1730120100.0,
+        "news_header": "Iran teloitti saksalais-iranilaisen toisinajattelija Jamshid Sharmahdin johtavista terrori-iskuista.",
+        "news_epoch": 1730193120.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.bbc.com/news/articles/cyv737vy376o",
-        "news_original_title": "Nato says North Korean troops deployed to Russia's Kursk region",
+        "news_url": "https://www.bbc.com/news/articles/cx2yv8327g9o",
+        "news_original_title": "Iran executes German-Iranian dissident",
         "news_group": -1
     },
     {
-        "news_id": "bbc_cjr424zwv2po",
+        "news_id": "bbc_ce8ye05pyjvo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Georgian presidentin mukaan vaalit ovat v\u00e4\u00e4rennettyj\u00e4 ja vaativat kansainv\u00e4list\u00e4 tukea mielenosoituksissa.",
-        "news_epoch": 1730120040.0,
+        "news_header": "Libanonin Bekaa-laaksossa tehdyt iskut ovat aiheuttaneet ainakin 60 kuolemantapausta, joista kaksi lasta ja useita vammoja.",
+        "news_epoch": 1730192820.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.bbc.com/news/articles/cjr424zwv2po",
-        "news_original_title": "President tells Georgians to show the world where they stand on 'rigged vote'",
-        "news_group": 103
+        "news_url": "https://www.bbc.com/news/articles/ce8ye05pyjvo",
+        "news_original_title": "Lebanon says 60 killed in Israel strikes on eastern valley",
+        "news_group": -1
     },
     {
-        "news_id": "yle_7420120735",
+        "news_id": "yle_7420120937",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "YK:n p\u00e4\u00e4sihteeri Antonio Guterres korostaa Sudanin humanitaarista tilannetta erityisesti Darfurissa.",
-        "news_epoch": 1730119080.0,
+        "news_header": "Nokia ja HP ratkaisivat patenttikiistan monivuotisella sopimuksella.",
+        "news_epoch": 1730192760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120937",
+        "news_original_title": "Nokia ja HP sopuun patenttikiistastaan",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120936",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Virossa k\u00e4sitell\u00e4\u00e4n rajanylityskysymyksi\u00e4 Narva-joen suhteen.",
+        "news_epoch": 1730192700.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://yle.fi/a/74-20120735",
-        "news_original_title": "YK:n p\u00e4\u00e4sihteeri: Sudanin tilanne on painajainen",
+        "news_url": "https://yle.fi/a/74-20120936",
+        "news_original_title": "Virolta Ven\u00e4j\u00e4lle nootti rajapoijujen poistamisesta",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c8dmql101dno",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "TikTokin emoyhti\u00f6n ByteDancen perustaja Zhang Yimingist\u00e4 on tullut Kiinan rikkain henkil\u00f6, jonka nettovarallisuus on 49,3 miljardia dollaria sovelluksen maailmanlaajuisen suosion keskell\u00e4 Kiinan talouden haasteista huolimatta.",
+        "news_epoch": 1730191980.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c8dmql101dno",
+        "news_original_title": "TikTok founder becomes China's richest man",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c89vx50g4l5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Hizbollah nimitt\u00e4\u00e4 Naim Qassem on uusi johtaja Hassan Nasrallahin kuoleman j\u00e4lkeen.",
+        "news_epoch": 1730191740.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c89vx50g4l5o",
+        "news_original_title": "Hezbollah announces Naim Qassem as new leader",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120927",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Pohjoismaiden johtajat keskustelevat j\u00e4rjest\u00e4ytyneist\u00e4 rikoksista Pohjoismaiden neuvoston kokouksessa Reykjavikissa.",
+        "news_epoch": 1730191620.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120927",
+        "news_original_title": "Pohjoismaat tehostavat yhteisty\u00f6t\u00e4\u00e4n j\u00e4rjest\u00e4ytyneen rikollisuuden torjumiseksi",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120924",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Raitiovaunu Oslon keskustassa aiheutti vammoja ja merkitt\u00e4vi\u00e4 materiaalivahinkoja.",
+        "news_epoch": 1730191380.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120924",
+        "news_original_title": "Raitiovaunu suistui kiskoilta ja iskeytyi kaupan lasista sis\u00e4\u00e4n Oslossa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cy9jj2g75q4o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Koomikko Tony Hinchcliffe t\u00f6rm\u00e4si vastakkain rasististen vitsien tekemiseen Puerto Ricosta Trumpin mielenosoituksessa.",
+        "news_epoch": 1730190360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cy9jj2g75q4o",
+        "news_original_title": "Backlash after comedian calls Puerto Rico 'island of garbage' on stage at Trump rally",
+        "news_group": 114
+    },
+    {
+        "news_id": "dw_a70625759",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Delhill\u00e4 on vakava ilmansaaste, jota pahentaa ilotulitteet Diwalin aikana ja naapurimaissa polttaminen, mik\u00e4 johtaa asukkaiden ja erityisesti lasten terveysongelmiin.",
+        "news_epoch": 1730190060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/india-delhi-struggles-to-fight-toxic-smog-during-diwali/a-70625759",
+        "news_original_title": "India: Delhi struggles to fight toxic smog during Diwali",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120905",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Terrafame kohtaa taloudellisia haasteita s\u00e4hk\u00f6autojen myynnin alentumisen ja ty\u00f6voiman v\u00e4hent\u00e4misen vuoksi.",
+        "news_epoch": 1730189280.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120905",
+        "news_original_title": "Terrafame aloittaa koko henkil\u00f6st\u00f6\u00e4 koskevat muutosneuvottelut",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120908",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Yli 200 000 ihmist\u00e4 on paennut Sudanista hiljattain konfliktin takia, ja yli 14 miljoonaa ihmist\u00e4 on joutunut pakolaiseksi.",
+        "news_epoch": 1730189040.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120908",
+        "news_original_title": "Yli 14 miljoonaa ihmist\u00e4 on joutunut j\u00e4tt\u00e4m\u00e4\u00e4n kotinsa Sudanissa, kertoo Kansainv\u00e4linen siirtolaisuusj\u00e4rjest\u00f6",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ukpolitics48445674",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Liittokansleri Rachel Reevesin odotetaan lis\u00e4\u00e4v\u00e4n merkitt\u00e4v\u00e4sti kansallista minimipalkkaa ja kansallista elinpalkkaa tulevassa budjetissa ja hy\u00f6tyv\u00e4n yli miljoonasta matalapalkkaisesta ty\u00f6ntekij\u00e4st\u00e4 huhtikuussa 2025.",
+        "news_epoch": 1730188560.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.co.uk/news/uk-politics-48445674",
+        "news_original_title": "How much could the minimum wage rise by?",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cy7dkgz71x6o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Israelin ilmaiskut Iranissa ovat aiheuttaneet merkitt\u00e4vi\u00e4 vahinkoja erityisesti ohjusten tuotantoon ja ilmapuolustuslaitoksiin, kuten satelliittikuvissa on todettu.",
+        "news_epoch": 1730187840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cy7dkgz71x6o",
+        "news_original_title": "What satellite images reveal about Israel's strikes on Iran",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120899",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ven\u00e4j\u00e4 aikoo kiist\u00e4\u00e4 valtion omaisuuden takavarikoinnin Suomessa ukrainalaisen Naftogaz-yhti\u00f6n toimien seurauksena.",
+        "news_epoch": 1730187780.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120899",
+        "news_original_title": "Ven\u00e4j\u00e4 aikoo nostaa kanteen Suomea vastaan omaisuuden takavarikoinnista",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70625075",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Kaakkois-Aasian internet-vapaudet heikkenev\u00e4t, kun Myanmar ja Kiina ovat huonoimpia verkossa. Alueen hallitukset priorisoivat yh\u00e4 enemm\u00e4n vapauden verkkokontrollia.",
+        "news_epoch": 1730187720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/is-internet-freedom-slipping-away-in-southeast-asia/a-70625075",
+        "news_original_title": "Is internet freedom slipping away in Southeast Asia?",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120725",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Suomen presidentti Alexander Stu. tapaa Kiinan presidentti Xi Jinpingin keskustelemaan kahdenv\u00e4lisist\u00e4 suhteista, sodasta Ukrainassa ja yhteisty\u00f6st\u00e4 eri aloilla.",
+        "news_epoch": 1730187000.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120725",
+        "news_original_title": "Presidentti Stubb tapasi Kiinan Xin ja sanoi odottavansa suoraa keskustelua Ven\u00e4j\u00e4st\u00e4 \u2013 katso tiedotustilaisuus klo 14",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cgj761wz3j6o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "HSBC raportoi 10 prosentin voitonkorotuksen suurten rakenneuudistussuunnitelmien my\u00f6t\u00e4.",
+        "news_epoch": 1730186460.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cgj761wz3j6o",
+        "news_original_title": "HSBC profits jump as bank set for major shakeup",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120861",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Komerofood on hakenut konkurssiin voittoa tavoittelemattomuuden vuoksi 1,1 miljoonaa dollaria velkaa ja toimintaa Ke.niemess\u00e4.",
+        "news_epoch": 1730186400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120861",
+        "news_original_title": "Tv-ohjelmasta tunnetuksi tullut kuopiolainen valmisruokavalmistaja Komerofood hakeutui konkurssiin",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cq8vqg8d4dko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Meksikossa on l\u00f6ydetty merkitt\u00e4v\u00e4 Mayan kaupunki nimelt\u00e4 Valeriana, sek\u00e4 useita uutistapahtumia, kuten mielenosoituksia Argentiinassa ja lento-onnettomuus Brasiliassa.",
+        "news_epoch": 1730184960.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/cq8vqg8d4dko",
+        "news_original_title": "What a discovered lost Mayan city might have looked like",
+        "news_group": 115
+    },
+    {
+        "news_id": "yle_7420120812",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tuoreet tuotteiden toimitukset normalisoituvat liikenneongelmien ja j\u00e4rjestelm\u00e4virheiden j\u00e4lkeen.",
+        "news_epoch": 1730184600.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120812",
+        "news_original_title": "Valmissalaattien tuotanto normalisoitumassa \u2013 Fresh Servantin ongelmien syyn\u00e4 j\u00e4rjestelm\u00e4vika",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120597",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Saksassa on merkitt\u00e4vi\u00e4 taloudellisia riskej\u00e4, jos Donald Trump voittaa Yhdysvaltain vaalit, mahdolliset kauppasodat ja lis\u00e4\u00e4ntyneet tullit uhkaavat sen taloutta.",
+        "news_epoch": 1730184240.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120597",
+        "news_original_title": "Analyysi: Saksa on Donald Trumpin hampaissa, ja siksi maa odottaa kauhulla ensi viikon vaalitulosta",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cdxl1zd07l1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Liittokansleri Rachel Reeves esittelee ty\u00f6v\u00e4enliikkeen ensimm\u00e4isen talousarvion 30. lokakuuta, jossa on vaikeat taloudelliset p\u00e4\u00e4t\u00f6kset, mahdolliset veronkorotukset ja menojen leikkaukset yhteens\u00e4 40 miljardia puntaa.",
+        "news_epoch": 1730183580.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cdxl1zd07l1o",
+        "news_original_title": "When is the Budget and what might be in it?",
+        "news_group": 112
+    },
+    {
+        "news_id": "yle_7420120859",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Manuel 'Guajiro' Mirabal, tunnettu trumpettisoitin Buena Vista Social Clubista, on kuollut, j\u00e4tt\u00e4en j\u00e4lkeens\u00e4 musiikin perinn\u00f6n.",
+        "news_epoch": 1730182440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120859",
+        "news_original_title": "Buena Vista Social Club -yhtyeess\u00e4 soittanut trumpetisti kuoli",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cwyv8y68e25o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Tulevassa talousarviossa esitell\u00e4\u00e4n verovelvollisuuksia ja valtion menoja keskeisiin palveluihin, joissa eri henkil\u00f6t ilmaisevat huolensa ja tarpeensa taloudellisen tuen ja elinkustannusten suhteen.",
+        "news_epoch": 1730182380.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cwyv8y68e25o",
+        "news_original_title": "Budget: 'I earn \u00a31,800 a month and have nothing left at the end'",
+        "news_group": 112
+    },
+    {
+        "news_id": "yle_7420120854",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "UPM:n sellutehdas Uruguayssa vaikutti merkitt\u00e4v\u00e4sti sen liikevoittoon.",
+        "news_epoch": 1730182080.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120854",
+        "news_original_title": "UPM kohensi tulostaan kolmanneksella, mutta kasvu j\u00e4i odotuksia pienemm\u00e4ksi",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120732",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Suomen ty\u00f6markkinat osoittavat parannuksen merkkej\u00e4 alueellisesta liikatoiminnasta ja ty\u00f6tt\u00f6myysasteen noususta huolimatta odotuksin eri alojen kasvusta.",
+        "news_epoch": 1730181600.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120732",
+        "news_original_title": "Ty\u00f6voimakatsaus: Ty\u00f6voiman ylitarjonta muuttuu ensi vuonna osaajapulaksi \u2013 katso lista osaajista, joille on suurin tarve",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120851",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Japani k\u00e4ynnist\u00e4\u00e4 toisen ydinreaktorinsa Onagawan voimalaitoksessa Fukushiman onnettomuuden j\u00e4lkeen.",
+        "news_epoch": 1730181420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120851",
+        "news_original_title": "Japanissa k\u00e4ynnistet\u00e4\u00e4n uudelleen ydinreaktori l\u00e4hell\u00e4 Fukushimaa",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70623334",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Liettuan parlamenttivaalit vahvistivat, ett\u00e4 vasemmistopuolueet voittivat 52 paikkaa, kun taas populistinen Nemunas Dawn -puolue sai ainakin 20 paikkaa.",
+        "news_epoch": 1730181360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/lithuania-s-social-democrats-look-to-bolster-security/a-70623334",
+        "news_original_title": "Lithuania's Social Democrats look to bolster security",
+        "news_group": 113
+    },
+    {
+        "news_id": "yle_7420120848",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Finnairin matkustajam\u00e4\u00e4r\u00e4 kasvoi 9 prosenttia, mutta sen liiketulos v\u00e4heni lentoliikenteen normaalin kysynn\u00e4n vuoksi.",
+        "news_epoch": 1730181240.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120848",
+        "news_original_title": "Finnairin matkustajam\u00e4\u00e4r\u00e4 kasvoi, mutta tulos heikkeni",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120835",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Fortumin liikevaihto laski 1,1 miljardiin euroon, jonka liikevoitto oli 158 miljoonaa euroa alhaisemman s\u00e4hk\u00f6n hinnan vuoksi.",
+        "news_epoch": 1730179560.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120835",
+        "news_original_title": "Fortumin tulos painui alhaisten s\u00e4hk\u00f6n hintojen my\u00f6t\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120829",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Vaaliviranomaiset aikovat laskea noin 14 prosenttia \u00e4\u00e4nist\u00e4 petosten takia.",
+        "news_epoch": 1730178060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120829",
+        "news_original_title": "Georgiassa lasketaan uudelleen osa parlamenttivaalien \u00e4\u00e4nist\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120822",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "W\u00e4rtsil\u00e4n raportit paransivat hein\u00e4kuu-syyskuun myynti- ja toimintatuloksia.",
+        "news_epoch": 1730176980.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120822",
+        "news_original_title": "W\u00e4rtsil\u00e4 paransi tulostaan paljon",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c1mlr8yl40do",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Frederic Chopinin uskotaan olevan hiljattain l\u00f6ydetty waltsi New Yorkista, joka on per\u00e4isin 1830-1835.",
+        "news_epoch": 1730176800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1mlr8yl40do",
+        "news_original_title": "Lost Chopin waltz unearthed after almost 200 years",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_clyv2eryp6vo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Somersetin teashop-omistaja kehottaa liittokansleria muuttamaan arvonlis\u00e4veros\u00e4\u00e4nt\u00f6j\u00e4, jotka est\u00e4v\u00e4t pienyritysten kasvua.",
+        "news_epoch": 1730174940.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/clyv2eryp6vo",
+        "news_original_title": "Teashop 'forced to close' by VAT rules",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cev9g1ez2d2o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Entinen Filippiinien presidentti Rodrigo Duterte my\u00f6nsi, ett\u00e4 h\u00e4nen pormestarikautensa aikana on \"kuolemajoukkue\", joka v\u00e4itti tappavansa huumeiden vastaisen politiikan.",
+        "news_epoch": 1730169360.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cev9g1ez2d2o",
+        "news_original_title": "Philippines' Duterte admits to drug war 'death squad'",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120794",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "P\u00e4\u00e4ministeri Shigeru Iksban johtama Liberal Democratic Party (LDP) sai 215 paikkaa Commons House of Commons -talossa, joka on pudonnut 233:sta ja tutkii yhteisty\u00f6t\u00e4 muiden osapuolten kanssa taloudellisen skandaalin keskell\u00e4.",
+        "news_epoch": 1730168580.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120794",
+        "news_original_title": "Japanin virallinen vaalitulos vahvisti hallituskoalition h\u00e4vi\u00f6n",
+        "news_group": 113
+    },
+    {
+        "news_id": "yle_7420120225",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Luonnolla on keskeinen rooli masennuksen, tyypin 2 diabeteksen ja astman torjunnassa Suomessa, ja sill\u00e4 on merkitt\u00e4vi\u00e4 taloudellisia etuja, jotka liittyv\u00e4t luonnonymp\u00e4rist\u00f6jen lis\u00e4\u00e4ntymiseen.",
+        "news_epoch": 1730168100.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120225",
+        "news_original_title": "Luonto voi tarjota Suomelle jopa satojen miljoonien eurojen hy\u00f6dyn kansantautien torjunnassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70624072",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "IG Metall-yhdistys aloitti lakkonsa Saksan metalli- ja s\u00e4hk\u00f6teollisuudessa 3,9 miljoonan ty\u00f6ntekij\u00e4n palkkaneuvotteluissa.",
+        "news_epoch": 1730168040.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/germany-metalworkers-launch-strikes-over-pay/a-70624072",
+        "news_original_title": "Germany metalworkers launch strikes over pay",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c4gzp7y8e7vo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "JP Morgan Chase haastaa asiakkaita, jotka k\u00e4yttiv\u00e4t vilkaisua vet\u00e4\u00e4kseen varoja laittomasti ATM:st\u00e4.",
+        "news_epoch": 1730166000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c4gzp7y8e7vo",
+        "news_original_title": "JP Morgan sues customers over viral TikTok cheque fraud",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420115589",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Teko\u00e4ly vaikuttaa USA:n vaaleihin her\u00e4tt\u00e4en huolia v\u00e4\u00e4r\u00e4st\u00e4 informaatiosta ja \u00e4\u00e4nest\u00e4jien manipuloinnista syv\u00e4n v\u00e4\u00e4renn\u00f6ksen ja robopuhelun kautta.",
+        "news_epoch": 1730164800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20115589",
+        "news_original_title": "Outo puhelu her\u00e4tti Yhdysvaltain viranomaiset teko\u00e4lyn rooliin vaaleissa \u2013 suurin vaaran hetki koittaa tasan viikon kuluttua",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_crmznzkly3go",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Arkeologit ovat l\u00f6yt\u00e4neet suuren muinaisen maya-kaupungin nimelt\u00e4 Valeriana Meksikossa k\u00e4ytt\u00e4m\u00e4ll\u00e4 Lidar-teknologiaa, paljastaen sen monimutkaisen kaupunkirakenteen ja haastavat aiemmat k\u00e4sitykset Maya-sivilisaatiosta.",
+        "news_epoch": 1730155140.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/crmznzkly3go",
+        "news_original_title": "PhD student finds lost city in Mexico jungle by accident",
+        "news_group": 115
+    },
+    {
+        "news_id": "bbc_c20659ylpw1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kaksi lasta pelastettiin autosta raiteilla juuri ennen kuin juna t\u00f6rm\u00e4si Kaliforniassa.",
+        "news_epoch": 1730153760.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/c20659ylpw1o",
+        "news_original_title": "Children saved from car stuck in path of oncoming train",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cqxj700pxpdo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Pete Middleton, tekninen innostunut dementia, edist\u00e4\u00e4 teko\u00e4lyn ty\u00f6kaluja auttamaan niit\u00e4, joilla on kognitiivisia vajaatoimia, korostaa r\u00e4\u00e4t\u00e4l\u00f6inti\u00e4 ja ihmisen vuorovaikutusta.",
+        "news_epoch": 1730153280.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cqxj700pxpdo",
+        "news_original_title": "Can AI make life easier for people with dementia?",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cdd063e6930o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Koomikko Tony Hinchcliffen kiistanalainen vitsi Puerto Ricosta her\u00e4tt\u00e4\u00e4 selk\u00e4rankaa.",
+        "news_epoch": 1730149980.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/cdd063e6930o",
+        "news_original_title": "We asked Puerto Ricans about 'island of garbage' joke. Here's what they said",
+        "news_group": 114
+    },
+    {
+        "news_id": "yle_7420120689",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Wolt kohtaa kritiikki\u00e4 pitki\u00e4 odotusaikoja ruokapaketin keikkojen ja jatkuvat neuvottelut ty\u00f6ntekij\u00f6iden kanssa korvauksesta.",
+        "news_epoch": 1730132160.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120689",
+        "news_original_title": "Wolt: Suomessa 20\u00a0000 jonottaa p\u00e4\u00e4sy\u00e4 ruokal\u00e4hetiksi \u2013 n\u00e4in yhti\u00f6 vastaa kritiikkiin palkkioista",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cy0l99xz719o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Englannissa bussien hinnat nousevat 2 punnasta 3 puntaan, mik\u00e4 vaikuttaa miljooniin bussien k\u00e4ytt\u00e4jiin, erityisesti maaseudulla.",
+        "news_epoch": 1730131800.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cy0l99xz719o",
+        "news_original_title": "Bus fares to rise to \u00a33 in England under new cap",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cwyg44lwjydo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ison-Britannian hallitus on luvannut olla nostamatta veroja \u201dty\u00f6ntekij\u00f6ist\u00e4\u201d tulevassa budjetissa, mutta ty\u00f6v\u00e4enluokan m\u00e4\u00e4ritelmi\u00e4 vaihtelee ty\u00f6ministerien kesken.",
+        "news_epoch": 1730129880.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cwyg44lwjydo",
+        "news_original_title": "What is a 'working person', according to Labour",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70621522",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Noin 40 Chadian-sotilasta sai surmansa Boko Haram -militanttien hy\u00f6kk\u00e4yksess\u00e4 Lacin alueella l\u00e4hell\u00e4 Nigeriaa.",
+        "news_epoch": 1730128500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/chad-dozens-of-soldiers-killed-near-nigeria-border/a-70621522",
+        "news_original_title": "Chad: Dozens of soldiers killed near Nigeria border",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70619724",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tutkimuksessa ennustetaan, ett\u00e4 genetiivisen teko\u00e4lyn s\u00e4hk\u00f6iset j\u00e4tteet voivat saavuttaa 1,2-5 miljoonaa tonnia vuoteen 2030 menness\u00e4, mik\u00e4 korostaa j\u00e4tteiden v\u00e4hent\u00e4misen tarvetta.",
+        "news_epoch": 1730127780.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.dw.com/en/e-waste-from-ai-computers-could-escalate-beyond-control/a-70619724",
+        "news_original_title": "E-waste from AI computers could 'escalate beyond control'",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a69577594",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Kamala Harris, alun perin Joe Bidenin juokseva kumppani, on tullut presidenttiehdokkaaksi sen j\u00e4lkeen, kun Biden lopetti vaalikampanjansa. H\u00e4nen matkansa syytt\u00e4j\u00e4st\u00e4 varapresidenttiin on merkitty haasteisiin, kuten maahanmuutto- ja lis\u00e4\u00e4ntymisoikeuksien k\u00e4sittelyyn.",
+        "news_epoch": 1730124600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/us-election-who-is-democratic-candidate-kamala-harris/a-69577594",
+        "news_original_title": "US election: Who is Democratic candidate Kamala Harris?",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120693",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Kuituverkon rakentamiseen liittyv\u00e4t kyberturvallisuuskysymykset Suomessa her\u00e4tt\u00e4v\u00e4t turvallisuusongelmia, kun urakoitsijat usein laiminly\u00f6v\u00e4t asetuksia.",
+        "news_epoch": 1730124000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120693",
+        "news_original_title": "Kuumana k\u00e4yv\u00e4\u00e4 valokuiturakentamista ei saada kuriin \u2013 v\u00e4\u00e4rink\u00e4yt\u00f6ksiin on hankala puuttua",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70619129",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Iranilaiset ilmaisevat mieltymyksens\u00e4 Trumpia kohtaan Harrisissa tulevissa Yhdysvaltain vaaleissa j\u00e4nnitteiden keskell\u00e4.",
+        "news_epoch": 1730121240.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/why-many-in-iran-want-donald-trump-to-win-the-us-election/a-70619129",
+        "news_original_title": "Why many in Iran want Donald Trump to win the US election",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_clyrknd0n94o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Caff\u00e8 Nero on hankkinut itsen\u00e4isen kahvitaloketjun 200 astetta, joka toimii 21 myym\u00e4l\u00e4\u00e4 ymp\u00e4ri Britanniaa.",
+        "news_epoch": 1730121060.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/clyrknd0n94o",
+        "news_original_title": "Caff\u00e8 Nero buys 200 Degrees coffee brand",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c24558g69mgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Yli kolmannes puulajeista joutuu sukupuuttoon, ylitt\u00e4en uhkia linnuille, nis\u00e4kk\u00e4ille, matelijoille ja amfibialaisille, kuten YK:n biodiversiteettihuippukokouksessa COP 16 todettiin.",
+        "news_epoch": 1730120520.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c24558g69mgo",
+        "news_original_title": "Alarm call as world's trees slide towards extinction",
+        "news_group": 111
+    },
+    {
+        "news_id": "dw_a70618221",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Ven\u00e4j\u00e4n vaikutus Keski-Afrikan tasavaltaan (CAR) kasvaa sotilaallisilla ja kulttuurisilla yhteyksill\u00e4, ja sit\u00e4 helpottavat p\u00e4\u00e4asiassa Wagner-ryhm\u00e4 ja Dmitri Sytyi.",
+        "news_epoch": 1730120520.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/is-russian-influence-in-bangui-disguised-as-culture/a-70618221",
+        "news_original_title": "Is Russian influence in Bangui disguised as culture?",
+        "news_group": -1
+    },
+    {
+        "news_id": "sn_3145415",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "Kalifornia kielt\u00e4\u00e4 synteettisi\u00e4 ruokav\u00e4rej\u00e4 kouluissa lasten neurobehavioraalisten ongelmien vuoksi.",
+        "news_epoch": 1730120400.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/synthetic-food-dye-science-ban",
+        "news_original_title": "Are synthetic food dyes bad for you? Here\u2019s what the science says.",
         "news_group": -1
     },
     {
@@ -52,58 +754,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_cy9jj2g75q4o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Koomikko Tony Hinchcliffe t\u00f6rm\u00e4si vastakkain rasististen vitsien tekemiseen Puerto Ricosta Trumpin mielenosoituksessa, joka her\u00e4tt\u00e4\u00e4 poliitikkojen ja julkkisten vastauksia.",
-        "news_epoch": 1730118480.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cy9jj2g75q4o",
-        "news_original_title": "Backlash after comedian calls Puerto Rico 'island of garbage' on stage at Trump rally",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cz7wqqqvq2vo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Chadianin sotilaat kohtaavat merkitt\u00e4vi\u00e4 uhreja perushy\u00f6kk\u00e4yksen j\u00e4lkeen, mik\u00e4 saa aikaan presidentin D\u00e9byn sotilaallisen vastauksen.",
-        "news_epoch": 1730118360.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cz7wqqqvq2vo",
-        "news_original_title": "Attack on Chad military base kills at least 40 soldiers",
-        "news_group": 104
-    },
-    {
-        "news_id": "yle_7420120727",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Israelin joukot pid\u00e4ttiv\u00e4t tuhansia ep\u00e4iltyj\u00e4 Hamasin taistelijoita Gazassa, mukaan lukien 44 henkil\u00f6\u00e4 Kamal Adwanin sairaalasta.",
-        "news_epoch": 1730117160.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120727",
-        "news_original_title": "Israel sanoo pid\u00e4tt\u00e4neens\u00e4 sata ep\u00e4ilty\u00e4 gazalaisesta sairaalasta",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cy0l99xz719o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Englannin linja-autojen hinnat nousevat kolmeen puntaan, jonka p\u00e4\u00e4ministeri Sir Keir Starmer on ilmoittanut tukevansa elinkustannuksia maaseutuyhteis\u00f6ille.",
-        "news_epoch": 1730116560.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cy0l99xz719o",
-        "news_original_title": "Bus fares to rise to \u00a33 in England under new cap",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a70619598",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -117,19 +767,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120023",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Granaden perhe keskustelee poliittisista n\u00e4kemyksist\u00e4\u00e4n, kun he valmistautuvat \u00e4\u00e4nest\u00e4m\u00e4\u00e4n tulevissa presidentinvaaleissa.",
-        "news_epoch": 1730114940.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120023",
-        "news_original_title": "Katso ainutlaatuiset videot, kun Ylen Iida Tikka puhui vaaleista amerikkalaisperheen sohvalla",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c5y5d87zjxdo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -140,7 +777,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c5y5d87zjxdo",
         "news_original_title": "Tax rises needed to avert austerity,  Starmer says",
-        "news_group": -1
+        "news_group": 112
     },
     {
         "news_id": "sn_3145357",
@@ -153,136 +790,6 @@
         ],
         "news_url": "https://www.sciencenews.org/article/common-kitchen-tool-koala-conservation",
         "news_original_title": "A common kitchen tool could help koala conservation",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120681",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Tommy Yinson, brittil\u00e4inen \u00e4\u00e4rioikeistolainen aktivisti, tuomittiin 18 kuukaudeksi vankeuteen antisemiittisist\u00e4 mellakoista.",
-        "news_epoch": 1730113140.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120681",
-        "news_original_title": "Tommy Robinson tuomittiin vankeuteen puoleksitoista vuodeksi",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120679",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Ty\u00f6el\u00e4kkeet nousevat ensi vuonna 1,3 prosenttia sosiaali- ja terveysministeri\u00f6n vahvistamana.",
-        "news_epoch": 1730112900.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120679",
-        "news_original_title": "Ty\u00f6el\u00e4kkeet nousevat ensi vuonna 1,3 prosenttia",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c5yxgprxg85o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Gerard Depardieun seksuaalirikosoikeudenk\u00e4ynti alkaa Pariisissa ilman h\u00e4nen l\u00e4sn\u00e4oloaan terveysongelmien vuoksi, mik\u00e4 merkitsee merkitt\u00e4v\u00e4\u00e4 hetke\u00e4 Ranskan #MeToo-liikkeess\u00e4.",
-        "news_epoch": 1730112900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c5yxgprxg85o",
-        "news_original_title": "Gerard Depardieu's sex assault trial begins without him",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120667",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Palestiinan ja Israelin v\u00e4lisess\u00e4 sodassa on kuollut 43 000 ihmist\u00e4, joista suurin osa on naisia ja lapsia.",
-        "news_epoch": 1730111280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120667",
-        "news_original_title": "Palestiinan terveysministeri\u00f6: yli 43 000 kuollut yli vuoden kest\u00e4neess\u00e4 sodassa",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cwy99mlg7e2o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Timoth\u00e9e Chalamet yll\u00e4tti fanit NYC:n ulkon\u00e4k\u00f6kilpailussa, mik\u00e4 aiheutti hy\u00f6dykkeen ennen poliisin v\u00e4liintuloa.",
-        "news_epoch": 1730110740.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cwy99mlg7e2o",
-        "news_original_title": "Chalamet makes surprise appearance at lookalike event",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c2l9dn8pe97o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Shanghain poliisin l\u00e4sn\u00e4olo on est\u00e4nyt Halloween-juhlia her\u00e4tt\u00e4en huolia julkisten kokousten ja sananvapauden murtumisesta.",
-        "news_epoch": 1730110680.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c2l9dn8pe97o",
-        "news_original_title": "Chinese police target Halloween revellers in Shanghai",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c9qllepnrz3o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tekstiss\u00e4 k\u00e4sitell\u00e4\u00e4n seuraavien Yhdysvaltain presidentinvaalien vaikutuksia Yhdistyneen kuningaskunnan ja Yhdysvaltojen suhteisiin keskittyen Trumpin tai Harrisin presidenttikauden mahdollisiin tuloksiin.",
-        "news_epoch": 1730110260.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c9qllepnrz3o",
-        "news_original_title": "Harris or Trump: How UK is preparing for new US president",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120654",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Keski-Afrikan sotilastukikohtauksessa kuoli ainakin 40 sotilasta.",
-        "news_epoch": 1730110020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120654",
-        "news_original_title": "T\u0161adissa ainakin 40 sotilasta kuollut iskussa sotilastukikohtaan",
-        "news_group": 104
-    },
-    {
-        "news_id": "yle_7420120628",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Vaarallinen mets\u00e4st\u00e4j\u00e4 on ep\u00e4ilty ammuskeluonnettomuudessa, joka j\u00e4tti kolme loukkaantunutta, mukaan lukien pormestari, joka l\u00f6ydettiin kuolleena.",
-        "news_epoch": 1730107620.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120628",
-        "news_original_title": "It\u00e4vallassa ammuskelu, pormestari l\u00f6ytyi kuolleena",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120574",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Tutkimuksen mukaan kaasulaitteiden haitalliset kaasut v\u00e4hent\u00e4v\u00e4t merkitt\u00e4v\u00e4sti elinajanodotetta ja aiheuttavat tuhansia kuolemia Euroopassa.",
-        "news_epoch": 1730107260.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120574",
-        "news_original_title": "Kaasuliedet aiheuttavat vuosittain 40\u00a0000 kuolemaa Euroopassa",
         "news_group": -1
     },
     {
@@ -299,19 +806,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120606",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Volkswagen suunnittelee merkitt\u00e4vi\u00e4 leikkauksia, mukaan lukien 10 prosentin palkanalennus ja mahdolliset tehdassulkemiset Saksassa.",
-        "news_epoch": 1730105100.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120606",
-        "news_original_title": "Volkswagen harkitsee laajoja irtisanomisia ja kolmen tehtaan sulkemista Saksassa",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a70617884",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -322,150 +816,7 @@
         ],
         "news_url": "https://www.dw.com/en/japan-faces-political-uncertainty-after-ldp-election-rout/a-70617884",
         "news_original_title": "Japan faces political uncertainty after LDP election rout",
-        "news_group": 106
-    },
-    {
-        "news_id": "yle_7420120589",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Kremlin tiedottaja Dmitri Peskov v\u00e4itt\u00e4\u00e4, ett\u00e4 Euroopan maat pyrkiv\u00e4t h\u00e4iritsem\u00e4\u00e4n Georgian vaaleja, jotka Georgian unelmapuolue voitti.",
-        "news_epoch": 1730102820.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120589",
-        "news_original_title": "Ven\u00e4j\u00e4 kiist\u00e4\u00e4 syyt\u00f6kset sekaantumisesta Georgian vaaleihin ja syytt\u00e4\u00e4 EU:ta",
-        "news_group": 103
-    },
-    {
-        "news_id": "bbc_ced99eznje9o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Iranin korkein johtaja Ali Khamenei vastaa varovasti Israelin lakkoihin, korostaen mitattuja toimia ja v\u00e4ltt\u00e4en v\u00e4litt\u00f6mi\u00e4 vastatoimia. J\u00e4nnitteet jatkuvat alueella k\u00e4ynniss\u00e4 olevilla konflikteilla, joihin kuuluvat Hizbollah ja Hamas.",
-        "news_epoch": 1730101920.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ced99eznje9o",
-        "news_original_title": "Iran leader says Israeli attack should not be 'exaggerated or downplayed'",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120575",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Maailman meteorologinen Organisaatio raportoi, ett\u00e4 kasvihuonekaasupitoisuuksien, erityisesti hiilidioksidin, m\u00e4\u00e4r\u00e4 on kasvanut yli 10% kahdessa vuosikymmeness\u00e4, saavuttaen tasoja, joita ei ole n\u00e4hty miljoonissa vuosissa.",
-        "news_epoch": 1730100780.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120575",
-        "news_original_title": "Kasvihuonekaasujen m\u00e4\u00e4r\u00e4 ilmakeh\u00e4ss\u00e4 oli vuonna 2023 enn\u00e4tyksellisen korkea",
-        "news_group": 109
-    },
-    {
-        "news_id": "bbc_c624zm11lzmo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Evo Morales v\u00e4itt\u00e4\u00e4 murhayrityksen ampumisen j\u00e4lkeen, kun muut uutiset kattavat useita tapauksia Latinalaisessa Amerikassa.",
-        "news_epoch": 1730100540.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/c624zm11lzmo",
-        "news_original_title": "Former Bolivian president shares 'assassination attempt' video",
-        "news_group": 108
-    },
-    {
-        "news_id": "yle_7420120570",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Pankki on kohdannut merkitt\u00e4vi\u00e4 haasteita, mukaan lukien lis\u00e4\u00e4ntyneet toimintakulut ja ansaintojen lasku, sek\u00e4 s\u00e4\u00e4ntelykysymykset ja johtamismuutokset.",
-        "news_epoch": 1730100300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120570",
-        "news_original_title": "Oman s\u00e4\u00e4st\u00f6pankin sotkut laskivat tulosta",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120564",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Unkarin p\u00e4\u00e4ministeri Viktor Orb\u00e1n onnitteli Georgiaa vaalien j\u00e4lkeen.",
-        "news_epoch": 1730100120.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120564",
-        "news_original_title": "Georgiassa vieraileva Unkarin p\u00e4\u00e4ministeri Orb\u00e1n ei edusta EU:ta, sanoo Borrell",
-        "news_group": 103
-    },
-    {
-        "news_id": "bbc_ce8yyle2eq2o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "YK:n mukaan ilmastonmuutos on ep\u00e4onnistunut, kun kasvihuonekaasup\u00e4\u00e4st\u00f6t nousevat nopeammin kuin koskaan, ja nykyiset kansalliset suunnitelmat eiv\u00e4t riit\u00e4 tavoitteiden saavuttamiseen.",
-        "news_epoch": 1730098800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce8yyle2eq2o",
-        "news_original_title": "World way off target in tackling climate change - UN",
-        "news_group": 109
-    },
-    {
-        "news_id": "bbc_c1kne7nl8vlo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Japanin p\u00e4\u00e4ministeri Shigeru Ishiba kohtaa haastavan poliittisen maiseman sen j\u00e4lkeen, kun h\u00e4nen puolueensa LDP menetti parlamentaarisen enemmist\u00f6n viime vaaleissa.",
-        "news_epoch": 1730098500.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c1kne7nl8vlo",
-        "news_original_title": "Japan PM vows to continue ruling despite bruising loss",
-        "news_group": 106
-    },
-    {
-        "news_id": "bbc_cz6jw0d2d02o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Rachel Reeves esittelee budjetin, joka on jyrk\u00e4sti ristiriidassa edellisen hallituksen minibudjetin kanssa, keskittyen verovastuuseen ja veronkorotuksiin taloudellisen ep\u00e4varmuuden keskell\u00e4.",
-        "news_epoch": 1730098380.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cz6jw0d2d02o",
-        "news_original_title": "Rachel Reeves\u2019 tax-raising Budget will affect you for years",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120532",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Tuulivoima on Suomessa enn\u00e4tys, sill\u00e4 se tuottaa kaksi kertaa enemm\u00e4n s\u00e4hk\u00f6\u00e4 kuin ydinvoimalat.",
-        "news_epoch": 1730096280.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120532",
-        "news_original_title": "Tuulivoimassa tehtiin viikonloppuna uusi tuotantoenn\u00e4tys Suomessa",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420119756",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Nelj\u00e4n p\u00e4iv\u00e4n ty\u00f6viikkokokeilu Saksassa osoitti ty\u00f6ntekij\u00f6iden hyvinvoinnin parantumista, mutta tulokset eiv\u00e4t ole yleisesti k\u00e4yt\u00f6ss\u00e4.",
-        "news_epoch": 1730093580.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20119756",
-        "news_original_title": "Nelj\u00e4n p\u00e4iv\u00e4n ty\u00f6viikko pantiin kokeiluun \u2013 stressi v\u00e4heni, tuottavuus kasvoi",
-        "news_group": -1
+        "news_group": 113
     },
     {
         "news_id": "yle_7420120511",
@@ -478,32 +829,6 @@
         ],
         "news_url": "https://yle.fi/a/74-20120511",
         "news_original_title": "Tuore tutkimus osoittaa: Lounaissuomalaiset ovat perim\u00e4lt\u00e4\u00e4n yht\u00e4 l\u00e4heisi\u00e4 virolaisten kuin kainuulaisten kanssa",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120512",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Kuluttajien luottamus Suomeen on parantunut erityisesti nuoremmissa ik\u00e4ryhmiss\u00e4.",
-        "news_epoch": 1730089020.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120512",
-        "news_original_title": "Kuluttajien luottamus alkuvuoden 2022 tasolla",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120510",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Myynti pysyy vakaana, mutta kannattavuus v\u00e4henee; rakentaminen on edelleen heikkoa.",
-        "news_epoch": 1730088720.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120510",
-        "news_original_title": "EK: Yritykset nousevat pikkuhiljaa suhdanteen aallonpohjasta",
         "news_group": -1
     },
     {
@@ -520,19 +845,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120504",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Verotus on kehitysyhteisty\u00f6n kannalta tehokkaampi rahoitusmenetelm\u00e4 valtion kauppatutkimuskeskuksen mukaan.",
-        "news_epoch": 1730085060.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120504",
-        "news_original_title": "VATT vahvistaa tutkimusyhteisty\u00f6ll\u00e4 Afrikan verotusta",
-        "news_group": -1
-    },
-    {
         "news_id": "sn_3145413",
         "news_source": "sn",
         "news_source_lang": "en",
@@ -546,250 +858,16 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120216",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Kuituverkon rakentamista koskevat k\u00e4yt\u00e4nn\u00f6t Suomessa aiheuttavat merkitt\u00e4vi\u00e4 vahinkoja ja turvallisuusriskej\u00e4.",
-        "news_epoch": 1730080800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120216",
-        "news_original_title": "Villit valokuiturakentajat ovat rikkoneet niin paljon elint\u00e4rkeit\u00e4 kaapeleita, ett\u00e4 Suomen huoltovarmuus on uhattuna",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70615500",
+        "news_id": "dw_a70570272",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Uruguayn presidentinvaalit ovat vasemmistolainen Yamandu Orsi ja keski-oikeistolainen Alvaro Delgado, jotka ovat todenn\u00e4k\u00f6isesti menossa vasemmalle, kun ehdokas ei saanut enemmist\u00f6\u00e4.",
-        "news_epoch": 1730078460.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/uruguay-election-heads-to-runoff-with-leftist-in-the-lead/a-70615500",
-        "news_original_title": "Uruguay election heads to runoff with leftist in the lead",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120494",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "\u00d6ljyn hinta laski merkitt\u00e4v\u00e4sti maanantaina Iranin hy\u00f6kk\u00e4yksen j\u00e4lkeen.",
-        "news_epoch": 1730074980.0,
+        "news_header": "Saksalaiset yritysjohtajat ja poliitikot vierailivat Intiassa vahvistaakseen taloudellisia yhteyksi\u00e4 Aasian ja Tyynenmeren alueella.",
+        "news_epoch": 1729947600.0,
         "news_categories": [
             "business"
         ],
-        "news_url": "https://yle.fi/a/74-20120494",
-        "news_original_title": "\u00d6ljyn hinta notkahti Israelin Iran-iskun j\u00e4lkimainingeissa",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70615159",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Donald Trump kritisoi Varapresidentti Kamala Harris kutsuu h\u00e4nt\u00e4 ep\u00e4p\u00e4tev\u00e4ksi ja lupaavaksi puuttua esimerkiksi laittomaan maahanmuuttoon ja talouteen.",
-        "news_epoch": 1730070840.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/donald-trump-attacks-kamala-harris-at-new-york-city-rally/a-70615159",
-        "news_original_title": "Donald Trump attacks Kamala Harris at New York City rally",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c2dpd8l4n69o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Claudia Sheinbaum on Meksikon presidenttin\u00e4 Andr\u00e9s Manuel L\u00f3pez Obradorissa, joka perii vahvan kauppa-aseman, mutta kohtaa merkitt\u00e4vi\u00e4 taloudellisia haasteita, erityisesti valtion \u00f6ljy-yhti\u00f6 Pemexin.",
-        "news_epoch": 1730068500.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c2dpd8l4n69o",
-        "news_original_title": "World's most indebted oil firm is headache for new Mexico leader",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70611400",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Liettuan sosiaalidemokraatit voittivat parlamenttivaalit, mik\u00e4 johti 52 paikkaan Ukrainan sodan ja elinkustannusten nousun keskell\u00e4.",
-        "news_epoch": 1730062980.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/lithuania-opposition-social-democrats-win-election/a-70611400",
-        "news_original_title": "Lithuania: Opposition Social Democrats win election",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c74887vj8p4o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Liittokansleri Rachel Reeves ei ilmoita uusista vapaapaikoista tulevassa talousarviossa, toisin kuin aiemmat hallituksen lausunnot. Sen sijaan h\u00e4n vahvistaa uusia tullikohteita olemassa olevissa ilmaiskuissa.",
-        "news_epoch": 1730059260.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c74887vj8p4o",
-        "news_original_title": "No new freeports in Budget after 'comms cock-up'",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70582772",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Medialla on keskeinen rooli vaalitulosten julistamisessa Yhdysvalloissa, vuonna 1848 alkanut perinne, joka kehittyy teknologialla ja menetelmill\u00e4.",
-        "news_epoch": 1730055120.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/calling-it-why-the-media-declares-results-in-us-elections/a-70582772",
-        "news_original_title": "Calling it: Why the media declares results in US elections",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70611564",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Georgian hallitseva puolue, Georgian Dream, voitti parlamentaariset vaalit yli 54 prosentilla \u00e4\u00e4nist\u00e4, mik\u00e4 johti mielenosoituksiin oppositiopuolueista.",
-        "news_epoch": 1730046360.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/georgia-ruling-georgian-dream-party-wins-election/a-70611564",
-        "news_original_title": "Georgia: Ruling Georgian Dream party wins election",
-        "news_group": 103
-    },
-    {
-        "news_id": "dw_a70610139",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "George Hawkins, entinen feloni Virginiassa, taistelee riisumislakeja vastaan, jotka est\u00e4v\u00e4t h\u00e4nt\u00e4 ja monia muita \u00e4\u00e4nest\u00e4m\u00e4st\u00e4 tuomioidensa j\u00e4lkeen.",
-        "news_epoch": 1730044200.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/many-us-states-disenfranchise-formerly-incarcerated-people/a-70610139",
-        "news_original_title": "Many US states disenfranchise formerly incarcerated people",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120478",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Suomalaiset johtavat kierr\u00e4tettyihin vaatteisiin, kertoo Statista-tutkimus.",
-        "news_epoch": 1730041320.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120478",
-        "news_original_title": "Kuluttajakysely: Suomi on maailman k\u00e4rke\u00e4 k\u00e4ytettyjen vaatteiden ostamisessa",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70613480",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Evo Morales v\u00e4itt\u00e4\u00e4 selvinneens\u00e4 murhayrityksest\u00e4, kun asemiehet ampuivat autonsa ja haavoittivat kuljettajaa. H\u00e4n syytt\u00e4\u00e4 presidentti Luis Arcea ja v\u00e4itt\u00e4\u00e4, ett\u00e4 h\u00e4nen oli tarkoitus tappaa h\u00e4net.",
-        "news_epoch": 1730040540.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/bolivia-ex-president-evo-morales-claims-car-was-shot-at/a-70613480",
-        "news_original_title": "Bolivia: Ex-president Evo Morales claims car was shot at",
-        "news_group": 108
-    },
-    {
-        "news_id": "yle_7420120467",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Nord Pool -s\u00e4hk\u00f6n hinnat ovat olleet negatiivisia sunnuntaina, ja vastaavat trendit odotetaan maanantaina suotuisten tuuliolosuhteiden vuoksi.",
-        "news_epoch": 1730035620.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120467",
-        "news_original_title": "P\u00f6rssis\u00e4hk\u00f6n hinta py\u00f6rii nyt nollan molemmin puolin",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420119975",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Papy Nkunda kannustaa parempaan palkkaan Woltiin liittyvist\u00e4 elintarvikkeiden jakeluty\u00f6ntekij\u00f6ist\u00e4, mik\u00e4 korostaa tulojen laskua ja keikkaty\u00f6l\u00e4isten yhteisen organisaation tarvetta.",
-        "news_epoch": 1730027100.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20119975",
-        "news_original_title": "Ruokal\u00e4hetit ja kuskit kapinoivat, koska ty\u00f6st\u00e4 ei j\u00e4\u00e4 tarpeeksi k\u00e4teen \u2013 Wolt ei suostu korottamaan l\u00e4hettien palkkioita",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c789915n5elo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Ty\u00f6ministeri Bridget Phillipson vakuuttaa, ett\u00e4 ty\u00f6l\u00e4iset eiv\u00e4t kohtaa korkeampia veroja tulevassa budjetissa paineista huolimatta.",
-        "news_epoch": 1730026380.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c789915n5elo",
-        "news_original_title": "No tax rises in payslips for 'working people', vows minister",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70610505",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Japanin hallitus menett\u00e4\u00e4 enemmist\u00f6n alemmassa talossa ensimm\u00e4ist\u00e4 kertaa sitten vuoden 2009.",
-        "news_epoch": 1730022420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/japan-election-ruling-party-loses-majority-says-nhk/a-70610505",
-        "news_original_title": "Japan election: Ruling party loses majority, says NHK",
-        "news_group": 106
-    },
-    {
-        "news_id": "bbc_ckg7j83drd5o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Max Prinssi havaitsi, ett\u00e4 h\u00e4nen Child Trust -rahastonsa oli laskenut 12,39 puntaan odottamattomien maksujen vuoksi.",
-        "news_epoch": 1729972800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ckg7j83drd5o",
-        "news_original_title": "'My \u00a3250 Child Trust Fund is now worth only \u00a312'",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cjr431lr72jo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Foundem, hintavertailusivusto, kohtasi Googlen hakurangaistuksen, joka johti sen laskuun, mik\u00e4 johti 15 vuoden oikeudelliseen taisteluun Googlea vastaan kilpailunvastaisten k\u00e4yt\u00e4nt\u00f6jen vuoksi.",
-        "news_epoch": 1729972800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cjr431lr72jo",
-        "news_original_title": "The couple who took on Google and cost the tech giant \u00a32bn",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c9wrkngvyx4o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Liittokansleri aikoo nostaa ty\u00f6nantajien kansallisen vakuutuksen julkisten palvelujen, erityisesti NHS:n, rahoittamiseen ja maksukynnysten pienent\u00e4miseen, joiden tarkoituksena on tuottaa noin 20 miljardia puntaa.",
-        "news_epoch": 1729933500.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c9wrkngvyx4o",
-        "news_original_title": "Employers' National Insurance hike to raise \u00a320bn",
+        "news_url": "https://www.dw.com/en/german-business-eyes-india-to-reduce-chinese-dependence/a-70570272",
+        "news_original_title": "German business eyes India to reduce Chinese dependence",
         "news_group": -1
     },
     {
@@ -806,19 +884,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_cm2y7eyp3zpo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "WordPressin ja WP Enginen v\u00e4linen riita h\u00e4iritsee tuhansia yrityksi\u00e4, jotka luottavat heid\u00e4n palveluihinsa, mik\u00e4 johtaa ep\u00e4varmuuteen ja mahdollisiin taloudellisiin tappioihin.",
-        "news_epoch": 1729882500.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cm2y7eyp3zpo",
-        "news_original_title": "'I can't run a business like this': Why the WordPress row matters",
-        "news_group": -1
-    },
-    {
         "news_id": "sn_3145402",
         "news_source": "sn",
         "news_source_lang": "en",
@@ -832,19 +897,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_ce9gzlpyx7mo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "McDonald's Quarter Pounders -epidemiaan yhdistetty E. coli -epidemia on saanut ainakin 75 ihmist\u00e4 13 osavaltiossa, mik\u00e4 johtaa yhteen kuolemaan ja useisiin sairaalahoitoihin.",
-        "news_epoch": 1729864200.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce9gzlpyx7mo",
-        "news_original_title": "What we know about the McDonald's E. coli outbreak",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420119234",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -855,6 +907,19 @@
         ],
         "news_url": "https://yle.fi/a/74-20119234",
         "news_original_title": "Kaksi professoria esitt\u00e4\u00e4 Oulun yliopiston kriisiin rajua ratkaisua: koko hallitus voitaisiin vaihtaa",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70602698",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "NASA:n astronautit ja ven\u00e4l\u00e4iskosmonautti palaavat ISS:st\u00e4 seitsem\u00e4n kuukauden j\u00e4lkeen, jonka hurrikaani Milton viiv\u00e4stytti.",
+        "news_epoch": 1729859820.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.dw.com/en/iss-astronauts-hospitalized-after-spacex-splashdown/a-70602698",
+        "news_original_title": "ISS astronauts hospitalized after SpaceX splashdown",
         "news_group": -1
     },
     {
@@ -1011,20 +1076,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 107
-    },
-    {
-        "news_id": "sn_3145332",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Alaskan j\u00e4\u00e4karhut altistuvat yh\u00e4 enemm\u00e4n taudinaiheuttajille ilmastonmuutoksen ja elinymp\u00e4rist\u00f6n h\u00e4vi\u00e4misen vuoksi, mik\u00e4 johtaa korkeampaan vasta-ainetasoon eri tauteja vastaan.",
-        "news_epoch": 1729695600.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
-        "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 107
+        "news_group": 118
     },
     {
         "news_id": "sn_3145360",
@@ -1038,6 +1090,19 @@
         "news_url": "https://www.sciencenews.org/article/implant-reverses-drug-overdoses",
         "news_original_title": "A new implant tested in animals reverses drug overdoses",
         "news_group": -1
+    },
+    {
+        "news_id": "sn_3145332",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "Alaskan j\u00e4\u00e4karhut altistuvat yh\u00e4 enemm\u00e4n taudinaiheuttajille ilmastonmuutoksen ja elinymp\u00e4rist\u00f6n h\u00e4vi\u00e4misen vuoksi, mik\u00e4 johtaa korkeampaan vasta-ainetasoon eri tauteja vastaan.",
+        "news_epoch": 1729695600.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
+        "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
+        "news_group": 118
     },
     {
         "news_id": "dw_a70566016",
@@ -1076,32 +1141,6 @@
         ],
         "news_url": "https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains",
         "news_original_title": "Silk Road cities reached surprising heights in Central Asia\u2019s mountains",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70570272",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Saksan liike-el\u00e4m\u00e4n johtajat ja poliitikot kokoontuvat Intiaan vahvistamaan taloudellisia suhteita Aasian ja Tyynenmeren alueeseen geopoliittisten muutosten keskell\u00e4.",
-        "news_epoch": 1729680000.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.dw.com/en/can-india-become-the-next-china-for-german-business/a-70570272",
-        "news_original_title": "Can India become the next China for German business?",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_3145302",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Googlen ja Amazonin kaltaiset teknologiayritykset investoivat pieniin modulaarisiin ydinreaktoreihin t\u00e4ytt\u00e4\u00e4kseen energiantarpeensa kest\u00e4v\u00e4ll\u00e4 tavalla.",
-        "news_epoch": 1729677600.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/small-modular-nuclear-reactors-amazon",
-        "news_original_title": "Tech companies want small nuclear reactors. Here\u2019s how they\u2019d work",
         "news_group": -1
     },
     {
@@ -1180,7 +1219,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 110
+        "news_group": 117
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1193,7 +1232,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 110
+        "news_group": 117
     },
     {
         "news_id": "dw_a70512276",
@@ -1310,7 +1349,7 @@
         ],
         "news_url": "https://www.bbc.co.uk/news/explainers-60823267",
         "news_original_title": "What is biodiversity and how can we protect it?",
-        "news_group": -1
+        "news_group": 111
     },
     {
         "news_id": "dw_a70531996",
@@ -1336,7 +1375,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 105
+        "news_group": 116
     },
     {
         "news_id": "bbc_c1e8q4j1yygo",
@@ -1453,19 +1492,6 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 105
-    },
-    {
-        "news_id": "bbc_cden551l7kko",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1728646920.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cden551l7kko",
-        "news_original_title": "How unusual has this hurricane season been?",
-        "news_group": -1
+        "news_group": 116
     }
 ]

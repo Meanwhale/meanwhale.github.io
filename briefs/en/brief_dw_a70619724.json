@@ -1,0 +1,13 @@
+{
+    "news_source": "dw",
+    "news_id": "dw_a70619724",
+    "news_header": "A study predicts that e-waste from generative AI could reach 1.2-5 million metric tons by 2030, highlighting the need for waste reduction strategies.",
+    "news_text": "According to a study published in Nature Computational Science, the rise of generative AI is expected to significantly increase e-waste, potentially reaching 1.2-5 million metric tons by 2030. Researchers found that e-waste from generative AI, particularly large language models, could escalate to 2.5 million tons annually without proper waste management measures. The study suggests that implementing strategies for prolonging, reusing, and recycling AI hardware could reduce e-waste by 16% to 86%. The researchers emphasized the urgency of addressing e-waste challenges now to prevent future crises, as improper disposal can release hazardous materials harmful to ecosystems and human health. The findings underscore the need for global cooperation in managing e-waste, particularly as AI adoption grows.",
+    "news_url": "https://www.dw.com/en/e-waste-from-ai-computers-could-escalate-beyond-control/a-70619724",
+    "news_time": 1730127780.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
