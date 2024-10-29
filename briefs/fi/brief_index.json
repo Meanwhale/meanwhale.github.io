@@ -1,5 +1,18 @@
 [
     {
+        "news_id": "bbc_cx2n71vr21yo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Donald Trumpin entinen neuvonantaja Steve Bannon on vapautettu vankilasta nelj\u00e4 kuukautta kongressin halveksunnasta.",
+        "news_epoch": 1730201100.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2n71vr21yo",
+        "news_original_title": "Former Trump aide Steve Bannon released from jail",
+        "news_group": 132
+    },
+    {
         "news_id": "dw_a70629684",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -10,7 +23,20 @@
         ],
         "news_url": "https://www.dw.com/en/was-iran-sending-a-message-by-executing-jamshid-sharmahd/a-70629684",
         "news_original_title": "Was Iran sending a message by executing Jamshid Sharmahd?",
-        "news_group": 124
+        "news_group": 130
+    },
+    {
+        "news_id": "yle_7420119988",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Vaalivakuutuksen konsultti Harri Hursti keskustelee vaalivilppien ep\u00e4ilyist\u00e4 ja vuoden 2020 vaalitulosten eheydest\u00e4.",
+        "news_epoch": 1730200920.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20119988",
+        "news_original_title": "Vaalivilppi\u00e4 Yhdysvalloissa tutkinut hakkeri Harri Hursti: \u201dVain t\u00e4ydellinen idiootti ei olisi huolissaan demokratiasta\u201d",
+        "news_group": -1
     },
     {
         "news_id": "bbc_cx2dp1l8wklo",
@@ -36,6 +62,19 @@
         ],
         "news_url": "https://yle.fi/a/74-20120985",
         "news_original_title": "Valion kaurajuomayhti\u00f6 Oddlygood ostaa britannialaisen Rude Healthin",
+        "news_group": -1
+    },
+    {
+        "news_id": "sn_3145392",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "Tutkimukset osoittavat, ett\u00e4 s\u00e4hk\u00f6fanit eiv\u00e4t viile\u00e4 vanhempia aikuisia \u00e4\u00e4rimm\u00e4isen l\u00e4mm\u00f6n aikana.",
+        "news_epoch": 1730199600.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/fans-not-cool-older-adults-heat-waves",
+        "news_original_title": "Fans may not keep older adults cool during heat waves",
         "news_group": -1
     },
     {
@@ -75,7 +114,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cdxl1zd07l1o",
         "news_original_title": "When is the Budget and what might be in it?",
-        "news_group": 120
+        "news_group": 127
     },
     {
         "news_id": "yle_7420120981",
@@ -88,7 +127,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20120981",
         "news_original_title": "Trumpin strategina tunnettu Steve Bannon vapautunut vankilasta",
-        "news_group": -1
+        "news_group": 132
     },
     {
         "news_id": "yle_7420120973",
@@ -166,7 +205,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2yv8327g9o",
         "news_original_title": "Iran executes German-Iranian dissident",
-        "news_group": 124
+        "news_group": 130
     },
     {
         "news_id": "bbc_ce8ye05pyjvo",
@@ -413,7 +452,7 @@
         ],
         "news_url": "https://www.bbc.com/news/videos/cq8vqg8d4dko",
         "news_original_title": "What a discovered lost Mayan city might have looked like",
-        "news_group": 121
+        "news_group": -1
     },
     {
         "news_id": "yle_7420120812",
@@ -442,19 +481,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120859",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Manuel 'Guajiro' Mirabal, tunnettu trumpettisoitin Buena Vista Social Clubista, on kuollut, j\u00e4tt\u00e4en j\u00e4lkeens\u00e4 musiikin perinn\u00f6n.",
-        "news_epoch": 1730182440.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120859",
-        "news_original_title": "Buena Vista Social Club -yhtyeess\u00e4 soittanut trumpetisti kuoli",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_cwyv8y68e25o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -465,7 +491,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cwyv8y68e25o",
         "news_original_title": "Budget: 'I earn \u00a31,800 a month and have nothing left at the end'",
-        "news_group": 120
+        "news_group": 127
     },
     {
         "news_id": "yle_7420120854",
@@ -585,6 +611,19 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420120225",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Luonnolla on keskeinen rooli masennuksen, tyypin 2 diabeteksen ja astman torjunnassa Suomessa, ja sen taloudelliset hy\u00f6dyt ovat jopa 2,5 miljardia euroa.",
+        "news_epoch": 1730168100.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20120225",
+        "news_original_title": "Luonto voi tarjota Suomelle jopa satojen miljoonien eurojen hy\u00f6dyn kansantautien torjunnassa",
+        "news_group": -1
+    },
+    {
         "news_id": "dw_a70624072",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -609,19 +648,6 @@
         "news_url": "https://www.bbc.com/news/articles/c4gzp7y8e7vo",
         "news_original_title": "JP Morgan sues customers over viral TikTok cheque fraud",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_crmznzkly3go",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Arkeologit ovat l\u00f6yt\u00e4neet suuren muinaisen maya-kaupungin nimelt\u00e4 Valeriana Meksikossa k\u00e4ytt\u00e4m\u00e4ll\u00e4 Lidar-teknologiaa, paljastaen sen monimutkaisen kaupunkirakenteen ja haastavat aiemmat k\u00e4sitykset Maya-sivilisaatiosta.",
-        "news_epoch": 1730155140.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/crmznzkly3go",
-        "news_original_title": "PhD student finds lost city in Mexico jungle by accident",
-        "news_group": 121
     },
     {
         "news_id": "bbc_cqxj700pxpdo",
@@ -738,7 +764,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c24558g69mgo",
         "news_original_title": "Alarm call as world's trees slide towards extinction",
-        "news_group": 119
+        "news_group": 126
     },
     {
         "news_id": "dw_a70618221",
@@ -803,7 +829,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c5y5d87zjxdo",
         "news_original_title": "Tax rises needed to avert austerity,  Starmer says",
-        "news_group": 120
+        "news_group": 127
     },
     {
         "news_id": "sn_3145357",
@@ -1089,7 +1115,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 125
+        "news_group": 131
     },
     {
         "news_id": "sn_3145360",
@@ -1115,7 +1141,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
         "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 125
+        "news_group": 131
     },
     {
         "news_id": "dw_a70566016",
@@ -1141,19 +1167,6 @@
         ],
         "news_url": "https://yle.fi/a/74-20119542",
         "news_original_title": "Tutkimus murskaa mayojen pallopelin myytit: pelaajia ei sittenk\u00e4\u00e4n uhrattu eik\u00e4 pallon tarvinnut menn\u00e4 \u201dkoriin\u201d",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_3145326",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Tutkijat ovat l\u00f6yt\u00e4neet Keski-Aasiasta kaksi korkealla sijaitsevaa keskiaikaista kaupunkia, jotka paljastavat ainutlaatuisen kaupunkiel\u00e4m\u00e4n Silkkitien reittien varrella liikkuvien paimentolaisten keskuudessa.",
-        "news_epoch": 1729684800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains",
-        "news_original_title": "Silk Road cities reached surprising heights in Central Asia\u2019s mountains",
         "news_group": -1
     },
     {
@@ -1232,7 +1245,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 123
+        "news_group": 129
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1245,7 +1258,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 123
+        "news_group": 129
     },
     {
         "news_id": "dw_a70512276",
@@ -1326,19 +1339,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420105013",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Fading affect bias (FAB) on psykologinen ilmi\u00f6, jossa positiiviset muistot haalistuvat hitaammin kuin negatiiviset, mik\u00e4 vaikuttaa siihen, miten koemme menneet kokemuksemme.",
-        "news_epoch": 1729345860.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://yle.fi/a/74-20105013",
-        "news_original_title": "Vinouma aivoissamme kultaa muistot ja hoitaa mielenterveytt\u00e4, mutta siit\u00e4 voi olla my\u00f6s haittaa",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a70499104",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1362,7 +1362,7 @@
         ],
         "news_url": "https://www.bbc.co.uk/news/explainers-60823267",
         "news_original_title": "What is biodiversity and how can we protect it?",
-        "news_group": 119
+        "news_group": 126
     },
     {
         "news_id": "dw_a70531996",
@@ -1388,7 +1388,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 122
+        "news_group": 128
     },
     {
         "news_id": "bbc_c1e8q4j1yygo",
@@ -1492,6 +1492,6 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 122
+        "news_group": 128
     }
 ]
