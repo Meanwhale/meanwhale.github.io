@@ -1,5 +1,161 @@
 [
     {
+        "news_id": "dw_a70629684",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tyskland protesterar efter utf\u00f6randet av Jamshid Sharmahd, en tysk-iransk dissident, av Iran, mitt i stigande sp\u00e4nningar och oro \u00f6ver brott mot m\u00e4nskliga r\u00e4ttigheter.",
+        "news_epoch": 1730201040.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/was-iran-sending-a-message-by-executing-jamshid-sharmahd/a-70629684",
+        "news_original_title": "Was Iran sending a message by executing Jamshid Sharmahd?",
+        "news_group": 124
+    },
+    {
+        "news_id": "bbc_cx2dp1l8wklo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Mount Fuji f\u00f6rblir sn\u00f6fritt senare \u00e4n n\u00e5gonsin registrerat, tillskrivet ovanligt varmt v\u00e4der.",
+        "news_epoch": 1730200800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2dp1l8wklo",
+        "news_original_title": "Mount Fuji remains snowless later in year than ever recorded",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120985",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Oddlygood f\u00f6rv\u00e4rvar Rude Health, ett brittiskt v\u00e4xtbaserat livsmedelsf\u00f6retag, som syftar till n\u00e4stan 50 miljoner euro i f\u00f6rs\u00e4ljning i \u00e5r.",
+        "news_epoch": 1730200320.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120985",
+        "news_original_title": "Valion kaurajuomayhti\u00f6 Oddlygood ostaa britannialaisen Rude Healthin",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420121003",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Fyra soldater d\u00f6dade i norra Gaza mitt i p\u00e5g\u00e5ende konflikter.",
+        "news_epoch": 1730199600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20121003",
+        "news_original_title": "Israel: Nelj\u00e4 sotilasta kuoli taistelussa Gazassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70425198",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Volkswagen planerar att st\u00e4nga minst tre fabriker i Tyskland och l\u00e4gga av tiotusentals anst\u00e4llda som en del av ett nytt sparinitiativ mitt i stigande kostnader och konkurrens.",
+        "news_epoch": 1730199360.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/vw-crisis-german-carmaker-needs-to-scrap-three-plants-and-thousands-of-jobs/a-70425198",
+        "news_original_title": "VW crisis: German carmaker needs to scrap three plants and thousands of jobs",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cdxl1zd07l1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kansler Rachel Reeves kommer att presentera Labours f\u00f6rsta budget p\u00e5 14 \u00e5r den 30 oktober, med sv\u00e5ra ekonomiska beslut, potentiella skatteh\u00f6jningar och utgifter p\u00e5 totalt 40 miljarder kronor.",
+        "news_epoch": 1730198940.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cdxl1zd07l1o",
+        "news_original_title": "When is the Budget and what might be in it?",
+        "news_group": 120
+    },
+    {
+        "news_id": "yle_7420120981",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Steve Bannon sl\u00e4ppte fr\u00e5n f\u00e4ngelset efter att ha avtj\u00e4nat en fyram\u00e5naders dom.",
+        "news_epoch": 1730197380.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120981",
+        "news_original_title": "Trumpin strategina tunnettu Steve Bannon vapautunut vankilasta",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120973",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ett 10-v\u00e5ningshotell kollapsade i Villa Gesell, Argentina, tidigt p\u00e5 tisdag morgon.",
+        "news_epoch": 1730196540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120973",
+        "news_original_title": "Hotelli sortui Argentiinassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cgl490zrz45o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Det kommande presidentvalet i USA har betydande konsekvenser f\u00f6r den globala politiken, s\u00e4rskilt f\u00f6r Amerikas roll i internationella konflikter och allianser.",
+        "news_epoch": 1730196420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cgl490zrz45o",
+        "news_original_title": "What the US election outcome means for Ukraine, Gaza and world conflict",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120874",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Sp\u00e4nningen mellan arbetsgivare och anst\u00e4llda avseende fj\u00e4rrarbete forts\u00e4tter att \u00f6ka.",
+        "news_epoch": 1730195880.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120874",
+        "news_original_title": "Onko ty\u00f6paikallesi tullut l\u00e4sn\u00e4ty\u00f6pakko? Onko et\u00e4t\u00f6it\u00e4 v\u00e4hennetty? Vastaa Ylelle",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120961",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nokian Tyres \u00f6ppnade en ny anl\u00e4ggning i Rum\u00e4nien i september f\u00f6r att ers\u00e4tta produktionen i Ryssland, med r\u00f6relseresultatminskning men nettooms\u00e4ttningen \u00f6kar.",
+        "news_epoch": 1730195460.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20120961",
+        "news_original_title": "Nokian Renkaat k\u00e4rsi automarkkinoiden heikkoudesta",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420120945",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Jamuna-floden, en helig plats f\u00f6r hinduer, \u00e4r kraftigt f\u00f6rorenad med giftigt skum p\u00e5 grund av obehandlad avloppsvatten och industriella utsl\u00e4pp fr\u00e5n miljontals m\u00e4nniskor i Delhi.",
+        "news_epoch": 1730193480.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20120945",
+        "news_original_title": "El\u00e4m\u00e4 kuollut maailman merkitt\u00e4vimpiin kuuluvasta joesta \u2013 myrkyllisen vaahdon peitossa",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_cx2yv8327g9o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -10,7 +166,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2yv8327g9o",
         "news_original_title": "Iran executes German-Iranian dissident",
-        "news_group": -1
+        "news_group": 124
     },
     {
         "news_id": "bbc_ce8ye05pyjvo",
@@ -114,7 +270,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cy9jj2g75q4o",
         "news_original_title": "Backlash after comedian calls Puerto Rico 'island of garbage' on stage at Trump rally",
-        "news_group": 114
+        "news_group": -1
     },
     {
         "news_id": "dw_a70625759",
@@ -257,7 +413,7 @@
         ],
         "news_url": "https://www.bbc.com/news/videos/cq8vqg8d4dko",
         "news_original_title": "What a discovered lost Mayan city might have looked like",
-        "news_group": 115
+        "news_group": 121
     },
     {
         "news_id": "yle_7420120812",
@@ -286,19 +442,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_cdxl1zd07l1o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Kansler Rachel Reeves kommer att presentera Labours f\u00f6rsta budget den 30 oktober, med sv\u00e5ra ekonomiska beslut, potentiella skatteh\u00f6jningar och utgifter p\u00e5 totalt 40 miljarder kronor.",
-        "news_epoch": 1730183580.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cdxl1zd07l1o",
-        "news_original_title": "When is the Budget and what might be in it?",
-        "news_group": 112
-    },
-    {
         "news_id": "yle_7420120859",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -322,7 +465,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cwyv8y68e25o",
         "news_original_title": "Budget: 'I earn \u00a31,800 a month and have nothing left at the end'",
-        "news_group": 112
+        "news_group": 120
     },
     {
         "news_id": "yle_7420120854",
@@ -351,19 +494,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120851",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Japan startar om sin andra k\u00e4rnreaktor p\u00e5 kraftverket Onagawa efter Fukushimakatastrofen 2011.",
-        "news_epoch": 1730181420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120851",
-        "news_original_title": "Japanissa k\u00e4ynnistet\u00e4\u00e4n uudelleen ydinreaktori l\u00e4hell\u00e4 Fukushimaa",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a70623334",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -374,7 +504,7 @@
         ],
         "news_url": "https://www.dw.com/en/lithuania-s-social-democrats-look-to-bolster-security/a-70623334",
         "news_original_title": "Lithuania's Social Democrats look to bolster security",
-        "news_group": 113
+        "news_group": -1
     },
     {
         "news_id": "yle_7420120848",
@@ -400,19 +530,6 @@
         ],
         "news_url": "https://yle.fi/a/74-20120835",
         "news_original_title": "Fortumin tulos painui alhaisten s\u00e4hk\u00f6n hintojen my\u00f6t\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420120829",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Valtj\u00e4nstem\u00e4n planerar att ber\u00e4kna cirka 14% av r\u00f6sterna bland anklagelser om bedr\u00e4geri.",
-        "news_epoch": 1730178060.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120829",
-        "news_original_title": "Georgiassa lasketaan uudelleen osa parlamenttivaalien \u00e4\u00e4nist\u00e4",
         "news_group": -1
     },
     {
@@ -468,32 +585,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120794",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Liberaldemokratiska partiet (LDP) ledd av premi\u00e4rminister Shigeru Iksba s\u00e4krade 215 platser i underhuset, som inte faller under de 233 som beh\u00f6vs, och utforskar samarbete med andra parter mitt i en finansiell skandal.",
-        "news_epoch": 1730168580.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20120794",
-        "news_original_title": "Japanin virallinen vaalitulos vahvisti hallituskoalition h\u00e4vi\u00f6n",
-        "news_group": 113
-    },
-    {
-        "news_id": "yle_7420120225",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Naturen spelar en avg\u00f6rande roll f\u00f6r att bek\u00e4mpa depression, typ 2-diabetes och astma i Finland, med betydande ekonomiska f\u00f6rdelar kopplade till \u00f6kad tillg\u00e5ng till naturliga milj\u00f6er.",
-        "news_epoch": 1730168100.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120225",
-        "news_original_title": "Luonto voi tarjota Suomelle jopa satojen miljoonien eurojen hy\u00f6dyn kansantautien torjunnassa",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a70624072",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -520,19 +611,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420115589",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "AI p\u00e5verkar amerikanska val, v\u00e4cker oro \u00f6ver felaktig information och v\u00e4ljare manipulation genom djupa f\u00f6rfalskningar och robo samtal.",
-        "news_epoch": 1730164800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20115589",
-        "news_original_title": "Outo puhelu her\u00e4tti Yhdysvaltain viranomaiset teko\u00e4lyn rooliin vaaleissa \u2013 suurin vaaran hetki koittaa tasan viikon kuluttua",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_crmznzkly3go",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -543,20 +621,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/crmznzkly3go",
         "news_original_title": "PhD student finds lost city in Mexico jungle by accident",
-        "news_group": 115
-    },
-    {
-        "news_id": "bbc_c20659ylpw1o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tv\u00e5 barn r\u00e4ddades fr\u00e5n en bil p\u00e5 j\u00e4rnv\u00e4gsbanor precis innan ett t\u00e5g kolliderade med bilen i Kalifornien.",
-        "news_epoch": 1730153760.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/c20659ylpw1o",
-        "news_original_title": "Children saved from car stuck in path of oncoming train",
-        "news_group": -1
+        "news_group": 121
     },
     {
         "news_id": "bbc_cqxj700pxpdo",
@@ -569,32 +634,6 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cqxj700pxpdo",
         "news_original_title": "Can AI make life easier for people with dementia?",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cdd063e6930o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Komiker Tony Hinchcliffes kontroversiella sk\u00e4mt om Puerto Rico gnistor backlash.",
-        "news_epoch": 1730149980.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/cdd063e6930o",
-        "news_original_title": "We asked Puerto Ricans about 'island of garbage' joke. Here's what they said",
-        "news_group": 114
-    },
-    {
-        "news_id": "yle_7420120689",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Varg st\u00e5r inf\u00f6r kritik \u00f6ver l\u00e5nga v\u00e4ntetider f\u00f6r matpaketspelningar och p\u00e5g\u00e5ende f\u00f6rhandlingar med arbetare om ers\u00e4ttning.",
-        "news_epoch": 1730132160.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120689",
-        "news_original_title": "Wolt: Suomessa 20\u00a0000 jonottaa p\u00e4\u00e4sy\u00e4 ruokal\u00e4hetiksi \u2013 n\u00e4in yhti\u00f6 vastaa kritiikkiin palkkioista",
         "news_group": -1
     },
     {
@@ -663,19 +702,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420120693",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Cybers\u00e4kerhetsfr\u00e5gor som r\u00f6r fibern\u00e4tskonstruktion i Finland v\u00e4cker s\u00e4kerhetsproblem, med entrepren\u00f6rer som ofta f\u00f6rsummar regler.",
-        "news_epoch": 1730124000.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20120693",
-        "news_original_title": "Kuumana k\u00e4yv\u00e4\u00e4 valokuiturakentamista ei saada kuriin \u2013 v\u00e4\u00e4rink\u00e4yt\u00f6ksiin on hankala puuttua",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a70619129",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -712,7 +738,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c24558g69mgo",
         "news_original_title": "Alarm call as world's trees slide towards extinction",
-        "news_group": 111
+        "news_group": 119
     },
     {
         "news_id": "dw_a70618221",
@@ -777,7 +803,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c5y5d87zjxdo",
         "news_original_title": "Tax rises needed to avert austerity,  Starmer says",
-        "news_group": 112
+        "news_group": 120
     },
     {
         "news_id": "sn_3145357",
@@ -816,7 +842,7 @@
         ],
         "news_url": "https://www.dw.com/en/japan-faces-political-uncertainty-after-ldp-election-rout/a-70617884",
         "news_original_title": "Japan faces political uncertainty after LDP election rout",
-        "news_group": 113
+        "news_group": -1
     },
     {
         "news_id": "yle_7420120511",
@@ -829,19 +855,6 @@
         ],
         "news_url": "https://yle.fi/a/74-20120511",
         "news_original_title": "Tuore tutkimus osoittaa: Lounaissuomalaiset ovat perim\u00e4lt\u00e4\u00e4n yht\u00e4 l\u00e4heisi\u00e4 virolaisten kuin kainuulaisten kanssa",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a70611168",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Bulgariens sjunde allm\u00e4nna val om tre \u00e5r visar prelimin\u00e4ra resultat som gynnar f\u00f6re detta premi\u00e4rminister Boyko Borisovs GERB-parti, med en valdeltagande p\u00e5 38%.",
-        "news_epoch": 1730088540.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/bulgaria-borisov-s-conservative-gerb-leads-in-early-results/a-70611168",
-        "news_original_title": "Bulgaria: Borisov's conservative GERB leads in early results",
         "news_group": -1
     },
     {
@@ -1076,7 +1089,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c1e7pl3evd0o",
         "news_original_title": "Polar bears face higher risk of disease in a warming Arctic",
-        "news_group": 118
+        "news_group": 125
     },
     {
         "news_id": "sn_3145360",
@@ -1102,7 +1115,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/polar-bears-pathogens-climate-change",
         "news_original_title": "Polar bears are being exposed to more pathogens as the climate warms",
-        "news_group": 118
+        "news_group": 125
     },
     {
         "news_id": "dw_a70566016",
@@ -1219,7 +1232,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20119332",
         "news_original_title": "Maapalloon osui kauan sitten j\u00e4ttimeteoriitti, joka nosti l\u00e4mp\u00f6tilaa sadalla asteella ja loi 500 kilometri\u00e4 leve\u00e4n kraaterin",
-        "news_group": 117
+        "news_group": 123
     },
     {
         "news_id": "bbc_c4g4g455p8lo",
@@ -1232,7 +1245,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
         "news_original_title": "Mega meteorite tore up seabed and boiled Earth's oceans",
-        "news_group": 117
+        "news_group": 123
     },
     {
         "news_id": "dw_a70512276",
@@ -1349,7 +1362,7 @@
         ],
         "news_url": "https://www.bbc.co.uk/news/explainers-60823267",
         "news_original_title": "What is biodiversity and how can we protect it?",
-        "news_group": 111
+        "news_group": 119
     },
     {
         "news_id": "dw_a70531996",
@@ -1375,7 +1388,7 @@
         ],
         "news_url": "https://www.dw.com/en/spacex-catches-rocket-search-for-life-near-jupiter-sets-off-sun-reaches-max-magnetism/a-70526237",
         "news_original_title": "SpaceX catches rocket, search for life near Jupiter sets off, Sun reaches max magnetism",
-        "news_group": 116
+        "news_group": 122
     },
     {
         "news_id": "bbc_c1e8q4j1yygo",
@@ -1443,19 +1456,6 @@
         "news_group": -1
     },
     {
-        "news_id": "dw_a70448256",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Ukraina \u00e4r det mest minkontaminerade landet efter andra v\u00e4rldskriget, vilket har en allvarlig inverkan p\u00e5 landets jordbrukssektor och den globala livsmedelsf\u00f6rs\u00f6rjningen.",
-        "news_epoch": 1729069140.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.dw.com/en/war-in-ukraine-landmines-to-hurt-food-exports-for-years/a-70448256",
-        "news_original_title": "War in Ukraine: Landmines to hurt food exports for years",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c62d9zp9074o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1492,6 +1492,6 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2lk2mwwnxo",
         "news_original_title": "What's next for Elon Musk's SpaceX Starship rocket?",
-        "news_group": 116
+        "news_group": 122
     }
 ]
