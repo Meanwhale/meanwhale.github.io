@@ -1,13 +1,13 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cde7ng85jwgo",
-    "news_header": "Americans are voting for their next president on November 5, with tight races expected and potential delays in results.",
-    "news_text": "On November 5, Americans will vote in a closely contested presidential election between Democrat Kamala Harris and Republican Donald Trump. Polls indicate a tight race, with potential delays in results due to changes in voting procedures and recounts in closely contested states. The election could see a winner declared on election night or take days or weeks, similar to past elections. The process of counting votes varies by state, with rigorous verification and potential legal challenges expected. The new president will be inaugurated on January 20, 2025.",
+    "news_header": "Kamala Harris has 61.5 million votes, while Donald Trump has 66.7 million votes in a close US presidential election.",
+    "news_text": "The US presidential election has seen Kamala Harris of the Democrat party receiving 61,542,467 votes (47.2%) and Donald Trump of the Republican party receiving 66,714,092 votes (51.2%). Polls have closed, and while Trump is projected to win in some swing states, the final results are still pending. High voter turnout has been noted, and counting continues, with potential recounts and legal challenges expected. The electoral college process will ultimately determine the winner, with the inauguration scheduled for January 20, 2025.",
     "news_url": "https://www.bbc.com/news/articles/cde7ng85jwgo",
-    "news_time": 1730690940.0,
+    "news_time": 1730867880.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": 149
+    "news_group": 161
 }

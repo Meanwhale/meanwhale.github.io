@@ -1,0 +1,13 @@
+{
+    "news_source": "dw",
+    "news_id": "dw_a70695526",
+    "news_header": "Forskaren Elise Thomas uppt\u00e4ckte konton som anv\u00e4nder generativ AI f\u00f6r att st\u00f6dja Donald Trump p\u00e5 sociala medieplattformen X, vilket avsl\u00f6jar tecken p\u00e5 automatiserade n\u00e4tverk och desinformation.",
+    "news_text": "Elise Thomas, en forskare inom \u00f6ppen k\u00e4llkod, uppt\u00e4ckte flera konton p\u00e5 sociala medieplattformen X som anv\u00e4nder generativ artificiell intelligens f\u00f6r att fr\u00e4mja st\u00f6d f\u00f6r Donald Trump. Hennes unders\u00f6kning avsl\u00f6jade att m\u00e5nga av dessa konton var verifierade och visade typiska tecken p\u00e5 skr\u00e4ppostn\u00e4tverk, s\u00e5som anv\u00e4ndning av f\u00f6r\u00e5ldrade hashtags och sj\u00e4lvrefererande inl\u00e4gg. Vissa konton engagerade sig till och med i argumentation med sig sj\u00e4lva, vilket indikerar ett sofistikerat n\u00e4tverk som kan ha kringg\u00e5tt OpenAI:s s\u00e4kerhets\u00e5tg\u00e4rder. Thomas noterade att kontona snabbt st\u00e4ngdes av efter att hennes fynd delades, men hon betonade sv\u00e5righeten med att koppla s\u00e5dana automatiserade n\u00e4tverk till specifika individer eller grupper. Denna situation belyser den v\u00e4xande komplexiteten i att identifiera desinformationskampanjer i takt med att AI-teknologin utvecklas.",
+    "news_url": "https://www.dw.com/en/fact-check-ai-driven-bot-network-trying-to-help-trump-win-us-election/a-70695526",
+    "news_time": 1730810160.0,
+    "news_categories": [
+        "world"
+    ],
+    "news_source_lang": "sv",
+    "news_group": -1
+}
