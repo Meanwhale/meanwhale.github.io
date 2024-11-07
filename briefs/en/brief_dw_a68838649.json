@@ -1,13 +1,13 @@
 {
     "news_source": "dw",
     "news_id": "dw_a68838649",
-    "news_header": "The 2024 US presidential election is on November 5, with inauguration on January 20, 2025. This 11-week wait is rooted in historical changes to avoid instability and is influenced by the decentralized election process.",
-    "news_text": "The 2024 US presidential election will occur on November 5, with the winner being inaugurated on January 20, 2025. This 11-week gap was established to prevent chaos and instability in government, a change made in 1933 during the Great Depression. The election process is complex and decentralized, involving state-level certification of votes and the Electoral College system, where voters choose electors rather than directly voting for a president. The timeline from election to inauguration has historical roots, reflecting logistical considerations of travel in the early years of the US.",
-    "news_url": "https://www.dw.com/en/why-is-there-so-much-time-from-election-to-inauguration-of-a-us-president/a-68838649",
-    "news_time": 1730865000.0,
+    "news_header": "Donald Trump is returning to the White House after defeating Kamala Harris in the 2024 election, with inauguration set for January 20, 2025.",
+    "news_text": "Donald Trump has won the 2024 US presidential election against Kamala Harris and will be inaugurated on January 20, 2025. The 11-week wait until inauguration is a result of the US's historical election process, which was changed in 1933 to limit chaos and instability. The election process involves decentralized voting, certification of results by state governors, and the Electoral College system, where electors, not the general population, formally elect the president. The timeline from election to inauguration also reflects historical travel logistics from the original 13 states to New York City, the then center of government.",
+    "news_url": "https://www.dw.com/en/why-president-elect-trump-has-to-wait-for-his-inauguration/a-68838649",
+    "news_time": 1730886120.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": 167
+    "news_group": -1
 }
