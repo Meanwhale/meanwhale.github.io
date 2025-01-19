@@ -5,8 +5,9 @@ var indexSectionsWithContent =
   2: "p",
   3: "adnps",
   4: "acefghimprst~",
-  5: "fnpst",
-  6: "acev"
+  5: "fnps",
+  6: "acev",
+  7: "ps"
 };
 
 var indexSectionNames =
@@ -17,7 +18,8 @@ var indexSectionNames =
   3: "files",
   4: "functions",
   5: "variables",
-  6: "related"
+  6: "related",
+  7: "pages"
 };
 
 var indexSectionLabels =
@@ -28,6 +30,7 @@ var indexSectionLabels =
   3: "Files",
   4: "Functions",
   5: "Variables",
-  6: "Friends"
+  6: "Friends",
+  7: "Pages"
 };
 

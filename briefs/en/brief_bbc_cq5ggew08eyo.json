@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cq5ggew08eyo",
+    "news_header": "Apple has suspended a new AI feature that made repeated mistakes in summarizing news headlines, facing criticism and pressure to withdraw the service.",
+    "news_text": "Apple has halted a new AI feature that generated inaccurate news summaries, prompting criticism from various media organizations. The feature, which sent notifications that appeared to come from news apps, was criticized for spreading misinformation and damaging trust in the news media. Following complaints, including from the BBC, Apple announced it would disable the feature entirely for news and entertainment apps. The company acknowledged the need for improvements and plans to work on the feature before reintroducing it.",
+    "news_url": "https://www.bbc.com/news/articles/cq5ggew08eyo",
+    "news_time": 1737110400.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

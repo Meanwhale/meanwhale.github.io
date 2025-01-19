@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cwy7x84qvv4o",
+    "news_header": "The US plans to impose new restrictions on AI technology exports to many countries, aiming to keep advanced AI out of the hands of potential threats while exempting certain allies.",
+    "news_text": "The US is set to implement stringent restrictions on the export of advanced computer chips and AI technology to numerous countries, beyond just its traditional adversaries. The Biden administration aims to ensure that global AI operates on American standards and is not accessible to malicious actors. While 18 allies, including the UK, are exempt from these restrictions, US tech companies have criticized the move, arguing it could harm America's competitive edge. The new rules will require US companies to obtain authorization for sales to most countries, while orders below a certain computing power threshold will not need a license. The regulations are expected to face a comment period before taking effect, and there are concerns about their longevity under a potential Trump administration.",
+    "news_url": "https://www.bbc.com/news/articles/cwy7x84qvv4o",
+    "news_time": 1736798100.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

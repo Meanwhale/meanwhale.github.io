@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cx24eg7z7zgo",
+    "news_header": "Jeff Bezos's space company Blue Origin has successfully launched its New Glenn rocket into orbit, marking a significant step in the competition with Elon Musk's SpaceX.",
+    "news_text": "Blue Origin, founded by Jeff Bezos, has launched its New Glenn rocket from Cape Canaveral, Florida, in an effort to compete with SpaceX. The rocket reached orbit on its first attempt, although the company lost the main booster intended for reuse. This launch represents a major advancement for Blue Origin, which has struggled to keep pace with SpaceX. The New Glenn rocket is designed to carry more satellites and is part of Bezos's Project Kuiper, aimed at providing broadband services. Experts believe this competition could lower space operation costs.",
+    "news_url": "https://www.bbc.com/news/articles/cx24eg7z7zgo",
+    "news_time": 1737007920.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en",
+    "news_group": 21
+}

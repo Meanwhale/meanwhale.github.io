@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cq5ggew08eyo",
+    "news_header": "Apple har pausat en ny AI-funktion som gjorde upprepade misstag i sammanfattningar av nyhetsrubriker och m\u00f6tte kritik och p\u00e5tryckningar f\u00f6r att dra tillbaka tj\u00e4nsten.",
+    "news_text": "Apple har stoppat en ny AI-funktion som genererade felaktiga nyhets sammanfattningar, vilket ledde till kritik fr\u00e5n olika medieorganisationer. Funktionen, som skickade meddelanden som verkade komma fr\u00e5n nyhetsappar, kritiserades f\u00f6r att sprida desinformation och skada f\u00f6rtroendet f\u00f6r nyhetsmedia. Efter klagom\u00e5l, inklusive fr\u00e5n BBC, meddelade Apple att de helt skulle inaktivera funktionen f\u00f6r nyhets- och underh\u00e5llningsappar. F\u00f6retaget erk\u00e4nde behovet av f\u00f6rb\u00e4ttringar och planerar att arbeta med funktionen innan den \u00e5terintroduceras.",
+    "news_url": "https://www.bbc.com/news/articles/cq5ggew08eyo",
+    "news_time": 1737110400.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "sv",
+    "news_group": -1
+}

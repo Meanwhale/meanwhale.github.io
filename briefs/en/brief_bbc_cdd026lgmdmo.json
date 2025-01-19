@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cdd026lgmdmo",
+    "news_header": "AI is transforming medical research and GP consultations by reducing administrative burdens and improving patient interactions.",
+    "news_text": "This article discusses how AI is changing medical research and GP practices, focusing on Dr. Deepali Misra-Sharp's experience with AI-assisted transcription tools that enhance patient consultations by reducing administrative tasks. The article highlights the pressures GPs face due to increasing patient loads and how AI can alleviate some of this burden. It mentions various AI technologies being used in healthcare, including those that automate note-taking and analyze patient data for cancer risk. While AI holds promise for improving efficiency in healthcare, experts caution about potential biases and the need for proper regulation.",
+    "news_url": "https://www.bbc.com/news/articles/cdd026lgmdmo",
+    "news_time": 1736806140.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

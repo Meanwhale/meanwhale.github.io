@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['match_27',['match',['../classpaula_1_1Var.html#a909aa54c1efecc6ded846c869ee28b53',1,'paula::Var']]]
+  ['match_0',['match',['../classpaula_1_1Var.html#a909aa54c1efecc6ded846c869ee28b53',1,'paula::Var']]]
 ];

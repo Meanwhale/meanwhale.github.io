@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cwy77x09y0po",
+    "news_header": "SpaceX's Starship rocket failed shortly after launch, but the Super Heavy booster returned successfully.",
+    "news_text": "SpaceX's latest Starship rocket test ended in failure just minutes after launch from Texas, with the upper stage lost due to issues during ascent. However, the Super Heavy booster successfully returned to the launchpad, receiving applause from ground control. Elon Musk stated that the mission would provide valuable data for improving Starship's reliability. Preliminary indications suggest an oxygen/fuel leak caused the failure. The FAA acknowledged an anomaly during the mission, while Blue Origin successfully launched its New Glenn rocket system shortly before.",
+    "news_url": "https://www.bbc.com/news/articles/cwy77x09y0po",
+    "news_time": 1737073620.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en",
+    "news_group": 24
+}

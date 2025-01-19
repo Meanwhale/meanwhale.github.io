@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><link rel="shortcut icon" type="image/png" href="../favicon.png"/><link type="text/css" rel="stylesheet" href="../style.css"> <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet" /> <link href="../mont.otf" rel="stylesheet" /> <body><center><div style="max-width: 40em;" class=doc><center> <a href=../index.html><img src="../meanwhale_title.png" width=25%></a></center><hr><img src="pics/logo.png" class=img_center width="50%"><hr> <title>Paula Script</title></head>
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><link rel="shortcut icon" type="image/png" href="../favicon.png"/><link type="text/css" rel="stylesheet" href="../style.css"> <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet" /> <link href="../mont.otf" rel="stylesheet" /> <body><center><div style="max-width: 40em;" class=dark><center> <a href=../index.html><img src="../meanwhale_title.png" width=25%></a></center><hr><img src="pics/logo.png" class=img_center width="50%"><hr> <title>Paula Script</title></head>
 
 <div class=intro>
 Paula Script is a lightweight scripting language written in C++.
@@ -10,6 +10,45 @@ Paula Script is a lightweight scripting language written in C++.
 <b class=subtitle>Easy to expand</b><br>Add callbacks from your source code with a simple API.
 </div>
 
+<p>
+Paula script example: a script that prints 20 Fibonacci numbers (n=20).
+<pre class=paula>
+n:20; i:0; a:0; b:1
+while(i &lt; n)
+	c:a+b
+	print(c, " ")
+	a:b; b:c
+	i:i+1
+</pre>
+
+C++ callback example: create a C++ callback and call it from script.
+
+<pre>
+const paula::Error* myCallback (paula::Args&args) {
+  for (int i=0; i&lt;args.count(); i++) {
+    char * value;
+    if (args.get(i).getChars(value)) {
+      std::cout&lt;&lt;"arg "&lt;&lt;i&lt;&lt;": "&lt;&lt;value&lt;&lt;std::endl;
+    }
+  }
+  return NO_ERROR;
+}
+
+void main()
+{
+  // register a callback for Paula engine
+  auto error = paula::addCallback("test", myCallback);
+  // call it from a script
+  error = paula::run("test(\"foo\", \"bar\")");
+}
+</pre>
+If you run the code, it prints
+<pre>
+arg 0: foo
+arg 1: bar
+</pre>
+
+<!-------- LINKS BEGIN -------->
 <table width=100%>
 <tr>
 <td valign=top width=50%>
@@ -33,17 +72,8 @@ Doxygen docs for programmers:
 </td>
 </tr>
 </table>
+<!-------- LINKS END -------->
 
-<p>
-<pre>
-n:20; i:0; a:0; b:1
-while(i &lt; n)
-	c:a+b
-	print(c, " ")
-	a:b; b:c
-	i:i+1
-</pre>
-<div class=caption>Code sample: print 20 Fibonacci numbers (n=20).</div>
 
 <h3>What is a scripting language?</h3>
 
@@ -119,4 +149,4 @@ The downside is that the user must know how much memory Paula will need and defi
 <div><img width= 30% class=small_pic src=pics/fixed.png></div>
 
 
-<hr><p class="doc" style="text-align: center;">Meanwhale, 2024</div></center></body></html>
+<hr><p class="dark" style="text-align: center;">Meanwhale, 2025</div></center></body></html>
