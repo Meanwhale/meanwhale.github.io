@@ -62,7 +62,7 @@
         ],
         "news_url": "https://www.dw.com/en/storm-eowyn-hits-ireland-uk-with-record-wind-gusts/a-71393644",
         "news_original_title": "Storm Eowyn hits Ireland, UK with record wind gusts",
-        "news_group": 30
+        "news_group": 35
     },
     {
         "news_id": "bbc_c9vmrpdrk4eo",
@@ -101,7 +101,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8k2jknn8zo",
         "news_original_title": "Trump told not to put massive tariffs on UK",
-        "news_group": 28
+        "news_group": 33
     },
     {
         "news_id": "yle_7420138872",
@@ -387,7 +387,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20139050",
         "news_original_title": "Irlannissa ja Skotlannissa varoitetaan \u00c9owyn-myrskyst\u00e4",
-        "news_group": 30
+        "news_group": 35
     },
     {
         "news_id": "bbc_cj4827pgv4go",
@@ -484,7 +484,7 @@
         "news_id": "nasdaq_1737673542",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Teksti k\u00e4sittelee viimeaikaisia trendej\u00e4 globaaleilla markkinoilla, erityisesti ETF:ien ja osakekaupan suorituskyky\u00e4 vuonna 2024.",
+        "news_header": "Teksti k\u00e4sittelee viimeaikaisia \u200b\u200btrendej\u00e4 globaaleilla markkinoilla, erityisesti vuonna 2024, korostaen korkojen, kulutuksen ja ETF:ien sek\u00e4 optiokaupan kasvun vaikutusta.",
         "news_epoch": 1737666300.0,
         "news_categories": [
             "business"
@@ -504,7 +504,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cj029138n4zo",
         "news_original_title": "Firefighters battle huge blaze near Los Angeles as winds pick up",
-        "news_group": 29
+        "news_group": 34
     },
     {
         "news_id": "dw_a71388896",
@@ -686,7 +686,7 @@
         ],
         "news_url": "https://www.dw.com/en/thousands-flee-hughes-wildfire-north-of-los-angeles/a-71379215",
         "news_original_title": "Thousands flee Hughes wildfire north of Los Angeles",
-        "news_group": 29
+        "news_group": 34
     },
     {
         "news_id": "yle_7420138908",
@@ -1193,7 +1193,7 @@
         ],
         "news_url": "https://www.dw.com/en/how-trump-s-tariffs-could-take-trade-wars-to-next-level/a-71323676",
         "news_original_title": "How Trump's tariffs could take trade wars to next level",
-        "news_group": 28
+        "news_group": 33
     },
     {
         "news_id": "yle_7420137032",
@@ -1271,7 +1271,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cx2yyxrz9kvo",
         "news_original_title": "US grounds SpaceX's Starship after test flight explosion",
-        "news_group": 27
+        "news_group": 32
     },
     {
         "news_id": "sn_3148671",
@@ -1414,7 +1414,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cwy77x09y0po",
         "news_original_title": "SpaceX Starship test fails after Texas launch",
-        "news_group": 27
+        "news_group": 32
     },
     {
         "news_id": "bbc_ckgy1le9ewko",
@@ -1609,7 +1609,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/trade-policy-uncertainty-hasnt-mattered-markets",
         "news_original_title": "Trade Policy Uncertainty Hasn't Mattered to Markets",
-        "news_group": 26
+        "news_group": 31
     },
     {
         "news_id": "dw_a71249193",
@@ -1648,6 +1648,6 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/2024-review-and-2025-outlook",
         "news_original_title": "2024 Review and 2025 Outlook",
-        "news_group": 26
+        "news_group": 31
     }
 ]
