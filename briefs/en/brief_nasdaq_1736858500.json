@@ -1,0 +1,13 @@
+{
+    "news_source": "nasdaq",
+    "news_id": "nasdaq_1736858500",
+    "news_header": "The US job market showed unexpected strength, leading to a market selloff as Treasury yields rose.",
+    "news_text": "On January 14, 2025, a strong jobs report revealed that the US economy added 256,000 jobs in December, exceeding estimates, while the unemployment rate fell to 4.1%. This prompted a rise in 10-year Treasury yields to 4.75%, their highest in over a year, causing major equity indices to drop by about 2%. The increase in yields, attributed to a resilient economy and persistent inflation, has raised concerns about high equity valuations, particularly when yields exceed 4.4%. Investors are now watching for future rate movements and upcoming CPI data.",
+    "news_url": "https://www.nasdaq.com/articles/high-rates-again-headwind-equities",
+    "news_time": 1736851260.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

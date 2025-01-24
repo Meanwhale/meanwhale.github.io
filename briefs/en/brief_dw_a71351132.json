@@ -1,0 +1,13 @@
+{
+    "news_source": "dw",
+    "news_id": "dw_a71351132",
+    "news_header": "AI is improving breast cancer detection accuracy, enabling earlier diagnosis and better patient outcomes.",
+    "news_text": "AI is proving effective in detecting breast cancer with high accuracy, even outperforming human doctors in some cases. The UK's NHS is using AI to analyze mammograms to identify missed cases. A recent pilot study combined blood screening with AI to detect stage 1A breast cancers with 90-100% accuracy. This method focuses on identifying molecular fingerprints indicating the body's response to cancer rather than just the cancerous tissue itself. Although the study was small, it shows promise for early detection, which is crucial for improving survival rates. Researchers plan to conduct larger trials and explore this approach for other cancer types.",
+    "news_url": "https://www.dw.com/en/new-ai-method-improves-early-breast-cancer-detection/a-71351132",
+    "news_time": 1737523500.0,
+    "news_categories": [
+        "science"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
