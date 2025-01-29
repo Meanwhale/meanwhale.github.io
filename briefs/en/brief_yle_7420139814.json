@@ -1,0 +1,13 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420139814",
+    "news_header": "A new Chinese AI model, Deepsee, has caused a significant drop in the stock market value of American tech companies, particularly Nvidia, which lost nearly \u20ac600 billion in one day. Experts believe this development could lead to innovations in AI efficiency and accessibility.",
+    "news_text": "The emergence of a new AI model from a Chinese company called Deepsee has led to a historic drop in the stock market value of American technology firms, particularly Nvidia, which saw a loss of nearly \u20ac600 billion in a single day. This event has raised concerns among American companies, prompting crisis meetings. Finnish AI experts remain calm, noting that Deepsee represents a significant advancement in AI technology, although details about its training and resources remain unclear. The model's efficiency and open-source nature may allow for rapid innovation and accessibility, potentially reshaping the AI landscape. Meanwhile, technology companies are increasingly investing in nuclear power to meet the energy demands of data centers. The situation poses challenges for Nvidia, which has dominated the AI market with its products but now faces competition from Deepsee's more cost-effective solutions.",
+    "news_url": "https://yle.fi/a/74-20139814",
+    "news_time": 1738082940.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": 42
+}

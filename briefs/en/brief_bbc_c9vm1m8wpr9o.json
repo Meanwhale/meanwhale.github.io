@@ -1,0 +1,13 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c9vm1m8wpr9o",
+    "news_header": "OpenAI raises concerns about DeepSeek, a Chinese app that mimics ChatGPT, potentially using OpenAI's data.",
+    "news_text": "OpenAI has expressed concerns that competitors, including those in China, are leveraging its work to advance their AI tools. The emergence of DeepSeek, a Chinese app that can replicate ChatGPT's performance at a lower cost, has raised alarms about unauthorized use of OpenAI's data. Microsoft is investigating this issue as it is a major investor in OpenAI. The White House's AI czar, David Sacks, indicated that DeepSeek may have utilized OpenAI's models through a process known as knowledge distillation. OpenAI emphasized the need for collaboration with the U.S. government to protect its models. Experts are questioning the legitimacy of DeepSeek's claims regarding the cost of training its models, suggesting it may have misappropriated data. The U.S. Navy has banned its members from using DeepSeek due to security concerns, and the app has reportedly faced cyber attacks.",
+    "news_url": "https://www.bbc.com/news/articles/c9vm1m8wpr9o",
+    "news_time": 1738148520.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
