@@ -1,0 +1,14 @@
+{
+    "news_source": "nasdaq",
+    "news_id": "nasdaq_779246923709",
+    "news_header": "Several companies are set to report earnings on January 29, 2025, with forecasts indicating growth for most.",
+    "news_text": "On January 29, 2025, various companies will report their earnings, including Microsoft (MSFT), Meta Platforms (META), Tesla (TSLA), ServiceNow (NOW), IBM, Lam Research (LRCX), Waste Management (WM), Canadian Pacific (CP), Ameriprise Financial (AMP), United Rentals (URI), Raymond James Financial (RJF), and Las Vegas Sands (LVS). Most companies are expected to show earnings growth compared to the same quarter last year, with notable increases from ServiceNow (55.36%) and Meta Platforms (25.33%). Some companies, like IBM, are expected to see a slight decrease in earnings. The Price to Earnings ratios suggest that many of these companies will experience higher earnings growth than their industry competitors.",
+    "news_url": "https://www.nasdaq.com/articles/after-hours-earnings-report-january-29-2025-msft-meta-tsla-now-ibm-lrcx-wm-cp-amp-uri-rjf",
+    "news_time": 1738170000.0,
+    "news_categories": [
+        "business",
+        "earnings"
+    ],
+    "news_source_lang": "en",
+    "news_group": 70
+}

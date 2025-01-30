@@ -1,0 +1,14 @@
+{
+    "news_source": "nasdaq",
+    "news_id": "nasdaq_687706028973",
+    "news_header": "The uranium sector faced significant losses on January 27, 2023, due to investor concerns over a new Chinese AI chatbot, DeepSeek, impacting demand forecasts.",
+    "news_text": "On January 27, 2023, the uranium sector experienced a downturn, with Cameco's shares dropping 15.04% amid concerns that the Chinese AI chatbot DeepSeek could disrupt energy demand forecasts for AI data centers. Other companies like Denison Mines and NexGen Energy also saw significant losses. The International Energy Agency had projected high electricity consumption from AI data centers by 2026, but investor sentiment shifted due to DeepSeek's cost efficiency. Additionally, Cameco's partner Kazatomprom resumed production at their JV Inkai uranium mine after a brief halt, which had been caused by delays in project approvals. The Sprott Physical Uranium Trust also fell 8.69% on the same day.",
+    "news_url": "https://www.nasdaq.com/articles/uranium-stocks-sink-deepseek-sparks-ai-data-center-energy-concerns",
+    "news_time": 1738078200.0,
+    "news_categories": [
+        "business",
+        "commodities"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
