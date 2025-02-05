@@ -13,20 +13,6 @@
         "news_group": 66
     },
     {
-        "news_id": "nasdaq_398751581018",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Dutch Bros Inc:n osakkeet ovat ylitt\u00e4neet keskim\u00e4\u00e4r\u00e4isen analyytikoiden tavoitehinnan 61,27 dollaria, ja ne kaupataan t\u00e4ll\u00e4 hetkell\u00e4 61,86 dollarilla.",
-        "news_epoch": 1738231200.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/bros-crosses-above-average-analyst-target-0",
-        "news_original_title": "BROS Crosses Above Average Analyst Target",
-        "news_group": 55
-    },
-    {
         "news_id": "nasdaq_696259115973",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -41,6 +27,20 @@
         "news_group": 55
     },
     {
+        "news_id": "nasdaq_398751581018",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Dutch Bros Inc:n osakkeet ovat ylitt\u00e4neet keskim\u00e4\u00e4r\u00e4isen analyytikoiden tavoitehinnan 61,27 dollaria, ja ne kaupataan t\u00e4ll\u00e4 hetkell\u00e4 61,86 dollarilla.",
+        "news_epoch": 1738231200.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/bros-crosses-above-average-analyst-target-0",
+        "news_original_title": "BROS Crosses Above Average Analyst Target",
+        "news_group": 55
+    },
+    {
         "news_id": "yle_7420140388",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -52,20 +52,6 @@
         "news_url": "https://yle.fi/a/74-20140388",
         "news_original_title": "Suomalaisasiantuntija arvioi Washingtonin lentokoneturman syyt\u00e4: Helikopteri saattoi tehd\u00e4 ep\u00e4onnistuneen n\u00e4k\u00f6l\u00e4hestymisen",
         "news_group": 58
-    },
-    {
-        "news_id": "nasdaq_878179570288",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Caterpillar Inc. ilmoitti nelj\u00e4nnen nelj\u00e4nneksen nettotuloksestaan 2,791 miljardia dollaria, ylitt\u00e4en edellisen vuoden 2,676 miljardia dollaria.",
-        "news_epoch": 1738230600.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/caterpillar-q4-profit-rises-revenue-declines",
-        "news_original_title": "Caterpillar Q4 Profit Rises, But Revenue Declines",
-        "news_group": -1
     },
     {
         "news_id": "nasdaq_790297475129",
@@ -93,6 +79,20 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/southwest-airlines-inc-q4-earnings-summary",
         "news_original_title": "Southwest Airlines Inc. Q4 Earnings Summary",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_878179570288",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Caterpillar Inc. ilmoitti nelj\u00e4nnen nelj\u00e4nneksen nettotuloksestaan 2,791 miljardia dollaria, ylitt\u00e4en edellisen vuoden 2,676 miljardia dollaria.",
+        "news_epoch": 1738230600.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/caterpillar-q4-profit-rises-revenue-declines",
+        "news_original_title": "Caterpillar Q4 Profit Rises, But Revenue Declines",
         "news_group": -1
     },
     {
@@ -389,19 +389,6 @@
         "news_group": 58
     },
     {
-        "news_id": "yle_7420140373",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Ven\u00e4j\u00e4n viljaviennit odotetaan laskevan merkitt\u00e4v\u00e4sti huonon s\u00e4\u00e4n, siemenpulaa ja pakotteita johtuen.",
-        "news_epoch": 1738223700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20140373",
-        "news_original_title": "Ven\u00e4j\u00e4n viljanvienti romahtaa t\u00e4n\u00e4 vuonna",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c5yd9qzx79go",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -413,6 +400,19 @@
         "news_url": "https://www.bbc.com/news/articles/c5yd9qzx79go",
         "news_original_title": "Water bills to rise by \u00a310 a month in April",
         "news_group": 75
+    },
+    {
+        "news_id": "yle_7420140373",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ven\u00e4j\u00e4n viljaviennit odotetaan laskevan merkitt\u00e4v\u00e4sti huonon s\u00e4\u00e4n, siemenpulaa ja pakotteita johtuen.",
+        "news_epoch": 1738223700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20140373",
+        "news_original_title": "Ven\u00e4j\u00e4n viljanvienti romahtaa t\u00e4n\u00e4 vuonna",
+        "news_group": -1
     },
     {
         "news_id": "bbc_cly5zmm186no",
@@ -519,6 +519,19 @@
         "news_group": -1
     },
     {
+        "news_id": "bbc_cwyek92v29lo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "American Airlinesin lento t\u00f6rm\u00e4si ilmassa sotilashelikopteriin Washington DC:ss\u00e4, mik\u00e4 johti pelastusoperaatioon.",
+        "news_epoch": 1738216020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/cwyek92v29lo",
+        "news_original_title": "Watch: Rescue efforts as passenger jet and helicopter collide in DC",
+        "news_group": 58
+    },
+    {
         "news_id": "nasdaq_470355037780",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -531,19 +544,6 @@
         "news_url": "https://www.nasdaq.com/articles/best-income-stocks-buy-january-30th",
         "news_original_title": "Best Income Stocks to Buy for January 30th",
         "news_group": 68
-    },
-    {
-        "news_id": "bbc_cwyek92v29lo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "American Airlinesin lento t\u00f6rm\u00e4si ilmassa sotilashelikopteriin Washington DC:ss\u00e4, mik\u00e4 johti pelastusoperaatioon.",
-        "news_epoch": 1738216020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/cwyek92v29lo",
-        "news_original_title": "Watch: Rescue efforts as passenger jet and helicopter collide in DC",
-        "news_group": 58
     },
     {
         "news_id": "dw_a71345060",
@@ -625,10 +625,10 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_878715599052",
+        "news_id": "nasdaq_668323145222",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Kolme osaketta, joilla on vahvat kasvumerkit ja ostoarvostukset sijoittajille.",
+        "news_header": "Kolme osaketta, joilla on vahvat kasvun ominaisuudet ja ostoarvostukset sijoittajille.",
         "news_epoch": 1738210440.0,
         "news_categories": [
             "business",
@@ -639,10 +639,10 @@
         "news_group": 68
     },
     {
-        "news_id": "nasdaq_668323145222",
+        "news_id": "nasdaq_878715599052",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Kolme osaketta, joilla on vahvat kasvun ominaisuudet ja ostoarvostukset sijoittajille.",
+        "news_header": "Kolme osaketta, joilla on vahvat kasvumerkit ja ostoarvostukset sijoittajille.",
         "news_epoch": 1738210440.0,
         "news_categories": [
             "business",
@@ -718,18 +718,18 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_690468153932",
+        "news_id": "nasdaq_911986360949",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Brookline Bancorp ilmoitti 91,58 miljoonan dollarin liikevaihdosta Q4 2024:ss\u00e4, EPS oli 0,23 dollaria, mik\u00e4 osoittaa pienen laskun verrattuna viime vuoteen.",
+        "news_header": "Whirlpool ilmoitti 18,7 %:n liikevaihdon laskusta vuodentakaisesta Q4 2024:ll\u00e4, EPS oli 4,57 dollaria verrattuna 3,85 dollariin viime vuonna.",
         "news_epoch": 1738193400.0,
         "news_categories": [
             "business",
             "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/brookline-brkl-reports-q4-earnings-what-key-metrics-have-say",
-        "news_original_title": "Brookline (BRKL) Reports Q4 Earnings: What Key Metrics Have to Say",
-        "news_group": 64
+        "news_url": "https://www.nasdaq.com/articles/whirlpool-whr-q4-earnings-taking-look-key-metrics-versus-estimates",
+        "news_original_title": "Whirlpool (WHR) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_group": 65
     },
     {
         "news_id": "nasdaq_223633648845",
@@ -743,20 +743,6 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/waste-management-wm-q4-earnings-how-key-metrics-compare-wall-street-estimates",
         "news_original_title": "Waste Management (WM) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
-        "news_group": 65
-    },
-    {
-        "news_id": "nasdaq_750652216335",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Methanex ilmoitti 949 miljoonan dollarin liikevaihdosta Q4 2024, mik\u00e4 on 2,9 % kasvu vuodentakaisesta, EPS on 1,24 dollaria.",
-        "news_epoch": 1738193400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/compared-estimates-methanex-meoh-q4-earnings-look-key-metrics",
-        "news_original_title": "Compared to Estimates, Methanex (MEOH) Q4 Earnings: A Look at Key Metrics",
         "news_group": 65
     },
     {
@@ -774,18 +760,32 @@
         "news_group": 65
     },
     {
-        "news_id": "nasdaq_911986360949",
+        "news_id": "nasdaq_750652216335",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Whirlpool ilmoitti 18,7 %:n liikevaihdon laskusta vuodentakaisesta Q4 2024:ll\u00e4, EPS oli 4,57 dollaria verrattuna 3,85 dollariin viime vuonna.",
+        "news_header": "Methanex ilmoitti 949 miljoonan dollarin liikevaihdosta Q4 2024, mik\u00e4 on 2,9 % kasvu vuodentakaisesta, EPS on 1,24 dollaria.",
         "news_epoch": 1738193400.0,
         "news_categories": [
             "business",
             "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/whirlpool-whr-q4-earnings-taking-look-key-metrics-versus-estimates",
-        "news_original_title": "Whirlpool (WHR) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_url": "https://www.nasdaq.com/articles/compared-estimates-methanex-meoh-q4-earnings-look-key-metrics",
+        "news_original_title": "Compared to Estimates, Methanex (MEOH) Q4 Earnings: A Look at Key Metrics",
         "news_group": 65
+    },
+    {
+        "news_id": "nasdaq_690468153932",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Brookline Bancorp ilmoitti 91,58 miljoonan dollarin liikevaihdosta Q4 2024:ss\u00e4, EPS oli 0,23 dollaria, mik\u00e4 osoittaa pienen laskun verrattuna viime vuoteen.",
+        "news_epoch": 1738193400.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/brookline-brkl-reports-q4-earnings-what-key-metrics-have-say",
+        "news_original_title": "Brookline (BRKL) Reports Q4 Earnings: What Key Metrics Have to Say",
+        "news_group": 64
     },
     {
         "news_id": "bbc_c4gwplknwz3o",
@@ -815,20 +815,6 @@
         "news_group": 65
     },
     {
-        "news_id": "nasdaq_663445374442",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "SEI Investments ilmoitti 14,9 %:n liikevaihdon kasvusta 557,19 miljoonaan dollariin Q4 2024:ll\u00e4, EPS oli 1,19 dollaria.",
-        "news_epoch": 1738191600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/sei-seic-q4-earnings-how-key-metrics-compare-wall-street-estimates",
-        "news_original_title": "SEI (SEIC) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
-        "news_group": -1
-    },
-    {
         "news_id": "nasdaq_554193627774",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -841,6 +827,20 @@
         "news_url": "https://www.nasdaq.com/articles/meritage-mth-q4-earnings-how-key-metrics-compare-wall-street-estimates",
         "news_original_title": "Meritage (MTH) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
         "news_group": 65
+    },
+    {
+        "news_id": "nasdaq_663445374442",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "SEI Investments ilmoitti 14,9 %:n liikevaihdon kasvusta 557,19 miljoonaan dollariin Q4 2024:ll\u00e4, EPS oli 1,19 dollaria.",
+        "news_epoch": 1738191600.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/sei-seic-q4-earnings-how-key-metrics-compare-wall-street-estimates",
+        "news_original_title": "SEI (SEIC) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
+        "news_group": -1
     },
     {
         "news_id": "bbc_c8d9r0vg6v7o",
@@ -869,10 +869,10 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_590298823751",
+        "news_id": "nasdaq_853840927900",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Royal Caribbeanin tulokset ovat vahvoja, kun taas Danaher Corp. j\u00e4\u00e4 odotusten taakse.",
+        "news_header": "Royal Caribbean raportoi vahvasta tuloksesta, kun taas Danaher j\u00e4i odotusten alle.",
         "news_epoch": 1738183200.0,
         "news_categories": [
             "business",
@@ -883,10 +883,10 @@
         "news_group": 59
     },
     {
-        "news_id": "nasdaq_853840927900",
+        "news_id": "nasdaq_590298823751",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Royal Caribbean raportoi vahvasta tuloksesta, kun taas Danaher j\u00e4i odotusten alle.",
+        "news_header": "Royal Caribbeanin tulokset ovat vahvoja, kun taas Danaher Corp. j\u00e4\u00e4 odotusten taakse.",
         "news_epoch": 1738183200.0,
         "news_categories": [
             "business",
@@ -1069,19 +1069,6 @@
         "news_group": 70
     },
     {
-        "news_id": "dw_a71446295",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Euroopan komissio aikoo v\u00e4hent\u00e4\u00e4 s\u00e4\u00e4ntely\u00e4, hy\u00f6dynt\u00e4\u00e4 eurooppalaisia s\u00e4\u00e4st\u00f6j\u00e4 teknologisiin investointeihin ja k\u00e4sitell\u00e4 korkeita energiahintoja kilpailukyvyn parantamiseksi.",
-        "news_epoch": 1738166580.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.dw.com/en/competitiveness-compass-how-eu-aims-to-keep-up-with-the-world-s-top-economies/a-71446295",
-        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world's top economies",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420140224",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1092,6 +1079,19 @@
         ],
         "news_url": "https://yle.fi/a/74-20140224",
         "news_original_title": "Trump haluaa 40 j\u00e4\u00e4nmurtajaa \u2013 ep\u00e4realistista, sanoo asiantuntija",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71446295",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Euroopan komissio aikoo v\u00e4hent\u00e4\u00e4 s\u00e4\u00e4ntely\u00e4, hy\u00f6dynt\u00e4\u00e4 eurooppalaisia s\u00e4\u00e4st\u00f6j\u00e4 teknologisiin investointeihin ja k\u00e4sitell\u00e4 korkeita energiahintoja kilpailukyvyn parantamiseksi.",
+        "news_epoch": 1738166580.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/competitiveness-compass-how-eu-aims-to-keep-up-with-the-world-s-top-economies/a-71446295",
+        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world's top economies",
         "news_group": -1
     },
     {
@@ -1134,20 +1134,6 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_895823492663",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "STLD:n osakkeella on 52 viikon vaihteluv\u00e4li 104,60\u2013155,56 dollaria, viimeinen kauppahinta on 128,14 dollaria.",
-        "news_epoch": 1738160700.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-stld-1",
-        "news_original_title": "Bullish Two Hundred Day Moving Average Cross - STLD",
-        "news_group": 69
-    },
-    {
         "news_id": "nasdaq_755926776783",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -1162,17 +1148,18 @@
         "news_group": 69
     },
     {
-        "news_id": "sn_lifesingredientsasteroidbennunasa",
-        "news_source": "sn",
+        "news_id": "nasdaq_895823492663",
+        "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "NASA:n analyysi asteroidista Bennu paljastaa, ett\u00e4 se sis\u00e4lsi el\u00e4m\u00e4n rakennuspalikoita, mutta ei kehittynyt el\u00e4vien organismien muotoon.",
-        "news_epoch": 1738159200.0,
+        "news_header": "STLD:n osakkeella on 52 viikon vaihteluv\u00e4li 104,60\u2013155,56 dollaria, viimeinen kauppahinta on 128,14 dollaria.",
+        "news_epoch": 1738160700.0,
         "news_categories": [
-            "science"
+            "business",
+            "commodities"
         ],
-        "news_url": "https://www.sciencenews.org/article/lifes-ingredients-asteroid-bennu-nasa",
-        "news_original_title": "Life\u2019s ingredients have been found in samples from asteroid Bennu",
-        "news_group": 72
+        "news_url": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-stld-1",
+        "news_original_title": "Bullish Two Hundred Day Moving Average Cross - STLD",
+        "news_group": 69
     },
     {
         "news_id": "sn_maizefarmersamazonianscasarabe",
@@ -1186,6 +1173,19 @@
         "news_url": "https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe",
         "news_original_title": "Here\u2019s how ancient Amazonians became master maize farmers",
         "news_group": -1
+    },
+    {
+        "news_id": "sn_lifesingredientsasteroidbennunasa",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "NASA:n analyysi asteroidista Bennu paljastaa, ett\u00e4 se sis\u00e4lsi el\u00e4m\u00e4n rakennuspalikoita, mutta ei kehittynyt el\u00e4vien organismien muotoon.",
+        "news_epoch": 1738159200.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/lifes-ingredients-asteroid-bennu-nasa",
+        "news_original_title": "Life\u2019s ingredients have been found in samples from asteroid Bennu",
+        "news_group": 72
     },
     {
         "news_id": "nasdaq_236783055716",
@@ -1359,19 +1359,6 @@
         "news_group": -1
     },
     {
-        "news_id": "sn_oldestinsectbrainimagehoneybee",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "17. vuosisadan k\u00e4sikirjoitus sis\u00e4lt\u00e4\u00e4 vanhimman tunnetun hy\u00f6nteisen aivojen kuvauksen, erityisesti mehil\u00e4isdronin aivot, jotka on piirt\u00e4nyt Johannes Swammerdam.",
-        "news_epoch": 1738101660.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/oldest-insect-brain-image-honeybee",
-        "news_original_title": "This drawing is the oldest known sketch of an insect brain",
-        "news_group": -1
-    },
-    {
         "news_id": "sn_batvocalizationpersonalitiesrisks",
         "news_source": "sn",
         "news_source_lang": "en",
@@ -1382,6 +1369,19 @@
         ],
         "news_url": "https://www.sciencenews.org/article/bat-vocalization-personalities-risks",
         "news_original_title": "Chatty bats are more likely to take risks",
+        "news_group": -1
+    },
+    {
+        "news_id": "sn_oldestinsectbrainimagehoneybee",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "17. vuosisadan k\u00e4sikirjoitus sis\u00e4lt\u00e4\u00e4 vanhimman tunnetun hy\u00f6nteisen aivojen kuvauksen, erityisesti mehil\u00e4isdronin aivot, jotka on piirt\u00e4nyt Johannes Swammerdam.",
+        "news_epoch": 1738101660.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/oldest-insect-brain-image-honeybee",
+        "news_original_title": "This drawing is the oldest known sketch of an insect brain",
         "news_group": -1
     },
     {
@@ -1398,19 +1398,6 @@
         "news_group": -1
     },
     {
-        "news_id": "sn_blameclimatechangelawildfires",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Los Angelesin mets\u00e4palot ovat pahentuneet ilmastonmuutoksen vuoksi, mik\u00e4 on johtanut pidempiin palokausiin ja suurempiin tuhoihin.",
-        "news_epoch": 1738094400.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/blame-climate-change-la-wildfires",
-        "news_original_title": "Yes, you can blame climate change for the LA wildfires",
-        "news_group": -1
-    },
-    {
         "news_id": "nasdaq_738110863025",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -1422,6 +1409,19 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/robert-sinn-gold-benefit-us-china-relations-face-turbulence",
         "news_original_title": "Robert Sinn: Gold to Benefit as US-China Relations Face Turbulence",
+        "news_group": -1
+    },
+    {
+        "news_id": "sn_blameclimatechangelawildfires",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "Los Angelesin mets\u00e4palot ovat pahentuneet ilmastonmuutoksen vuoksi, mik\u00e4 on johtanut pidempiin palokausiin ja suurempiin tuhoihin.",
+        "news_epoch": 1738094400.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/blame-climate-change-la-wildfires",
+        "news_original_title": "Yes, you can blame climate change for the LA wildfires",
         "news_group": -1
     },
     {
@@ -1803,10 +1803,10 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_506314873918",
+        "news_id": "nasdaq_464927065016",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Teksti k\u00e4sittelee ihmisten merkityst\u00e4 teko\u00e4lyn toteuttamisessa, puhtaan energian n\u00e4kymi\u00e4 ja vastuullisten teko\u00e4lyk\u00e4yt\u00e4nt\u00f6jen tarvetta rahoituspalveluissa.",
+        "news_header": "Teksti k\u00e4sittelee ihmisten roolia AI:n toteuttamisessa, puhtaan energian n\u00e4kymi\u00e4 ja eettisten AI-k\u00e4yt\u00e4nt\u00f6jen tarvetta rahoituspalveluissa.",
         "news_epoch": 1737977700.0,
         "news_categories": [
             "business"
@@ -1816,10 +1816,10 @@
         "news_group": 67
     },
     {
-        "news_id": "nasdaq_464927065016",
+        "news_id": "nasdaq_506314873918",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Teksti k\u00e4sittelee ihmisten roolia AI:n toteuttamisessa, puhtaan energian n\u00e4kymi\u00e4 ja eettisten AI-k\u00e4yt\u00e4nt\u00f6jen tarvetta rahoituspalveluissa.",
+        "news_header": "Teksti k\u00e4sittelee ihmisten merkityst\u00e4 teko\u00e4lyn toteuttamisessa, puhtaan energian n\u00e4kymi\u00e4 ja vastuullisten teko\u00e4lyk\u00e4yt\u00e4nt\u00f6jen tarvetta rahoituspalveluissa.",
         "news_epoch": 1737977700.0,
         "news_categories": [
             "business"
@@ -2011,10 +2011,10 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_853635038649",
+        "news_id": "nasdaq_1737673542",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Teksti k\u00e4sittelee viimeaikaisia trendej\u00e4 globaalilla markkinoilla, erityisesti ETF:ien ja osakekaupan suorituskyky\u00e4 vuonna 2024, korostaen korkotason ja kulutuksen vaikutusta.",
+        "news_header": "Teksti k\u00e4sittelee viimeaikaisia \u200b\u200btrendej\u00e4 globaaleilla markkinoilla, erityisesti vuonna 2024, korostaen korkojen, kulutuksen ja ETF:ien sek\u00e4 optiokaupan kasvun vaikutusta.",
         "news_epoch": 1737666300.0,
         "news_categories": [
             "business"
@@ -2024,10 +2024,10 @@
         "news_group": 74
     },
     {
-        "news_id": "nasdaq_1737673542",
+        "news_id": "nasdaq_853635038649",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Teksti k\u00e4sittelee viimeaikaisia \u200b\u200btrendej\u00e4 globaaleilla markkinoilla, erityisesti vuonna 2024, korostaen korkojen, kulutuksen ja ETF:ien sek\u00e4 optiokaupan kasvun vaikutusta.",
+        "news_header": "Teksti k\u00e4sittelee viimeaikaisia trendej\u00e4 globaalilla markkinoilla, erityisesti ETF:ien ja osakekaupan suorituskyky\u00e4 vuonna 2024, korostaen korkotason ja kulutuksen vaikutusta.",
         "news_epoch": 1737666300.0,
         "news_categories": [
             "business"
@@ -2128,10 +2128,10 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_524471860852",
+        "news_id": "nasdaq_852506671960",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "IPO-toiminta odotetaan kasvavan vuonna 2025 Trumpin hallinnon my\u00f6nteisten politiikkamuutosten ja lis\u00e4\u00e4ntyneen taloudellisen luottamuksen vuoksi.",
+        "news_header": "IPO-toiminta odotetaan kasvavan vuonna 2025 Trumpin hallinnon my\u00f6nteisten poliittisten muutosten ja suotuisan liiketoimintaymp\u00e4rist\u00f6n my\u00f6t\u00e4.",
         "news_epoch": 1737547200.0,
         "news_categories": [
             "business",
@@ -2142,10 +2142,10 @@
         "news_group": 56
     },
     {
-        "news_id": "nasdaq_852506671960",
+        "news_id": "nasdaq_524471860852",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "IPO-toiminta odotetaan kasvavan vuonna 2025 Trumpin hallinnon my\u00f6nteisten poliittisten muutosten ja suotuisan liiketoimintaymp\u00e4rist\u00f6n my\u00f6t\u00e4.",
+        "news_header": "IPO-toiminta odotetaan kasvavan vuonna 2025 Trumpin hallinnon my\u00f6nteisten politiikkamuutosten ja lis\u00e4\u00e4ntyneen taloudellisen luottamuksen vuoksi.",
         "news_epoch": 1737547200.0,
         "news_categories": [
             "business",
