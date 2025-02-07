@@ -1,14 +1,14 @@
 {
     "news_source": "dw",
     "news_id": "dw_a70988147",
-    "news_header": "A human case of H5N1 avian influenza has been detected in the UK, raising concerns despite the low risk to the public.",
-    "news_original_title": "Is bird flu in livestock, poultry a global risk to humans?",
-    "news_text": "The UK has reported a second human case of H5N1 avian influenza, with health authorities stating that the risk to the general public remains very low. The outbreak has primarily affected the US, where numerous poultry and dairy farms have been infected. Health experts express concern over the potential for the virus to mutate and pose a greater threat to human health. Increased surveillance and vaccine preparations are underway in response to the situation.",
-    "news_url": "https://www.dw.com/en/is-bird-flu-in-livestock-poultry-a-global-risk-to-humans/a-70988147",
-    "news_time": 1738051500.0,
+    "news_header": "A new strain of avian influenza has spread from wild birds to cattle in the US, raising concerns about potential human transmission.",
+    "news_original_title": "Is US bird flu outbreak in cattle a global risk to humans?",
+    "news_text": "US authorities confirmed that a different strain of avian influenza, D1.1, was detected in dairy cows, indicating the virus has spread from wild birds to cattle. The outbreak began in late 2023 and has affected over 950 cattle herds across 16 states. While the risk to the general public remains low, the potential for human transmission is a concern, especially with the emergence of a second human case of H5N1 in the UK. Governments are ramping up vaccine stocks and surveillance as the situation evolves.",
+    "news_url": "https://www.dw.com/en/is-us-bird-flu-outbreak-in-cattle-a-global-risk-to-humans/a-70988147",
+    "news_time": 1738826700.0,
     "news_categories": [
         "science"
     ],
     "news_source_lang": "en",
-    "news_group": -1
+    "news_group": 90
 }

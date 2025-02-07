@@ -1,14 +1,14 @@
 {
     "news_source": "yle",
     "news_id": "yle_7420140236",
-    "news_header": "Asteroid discoveries support the theory that they contributed to the creation of life on Earth.",
+    "news_header": "Asteroid Bennu's samples provide evidence that asteroids contributed to the creation of life on Earth.",
     "news_original_title": "Maan l\u00e4heiselt\u00e4 asteroidilta l\u00f6ytyi el\u00e4m\u00e4lle t\u00e4rkeit\u00e4 ainesosia",
-    "news_text": "Recent findings from samples collected from the Bennu asteroid indicate that asteroids may have played a crucial role in the formation of life on Earth. The samples contained essential chemical ingredients for life, including traces of salt water and amino acids necessary for protein synthesis. These discoveries bolster the theory that asteroids delivered raw materials to Earth, and the presence of these materials in space suggests that life could potentially exist elsewhere in the solar system. The samples were collected by NASA's Osiris-Rex probe and returned to Earth in 2023.",
+    "news_text": "Recent discoveries from asteroid Bennu confirm that asteroids may have played a crucial role in the emergence of life on Earth. Samples collected from Bennu revealed essential chemical ingredients for life, including traces of salt water and amino acids necessary for protein formation. These findings bolster the theory that asteroids delivered raw materials to Earth, supporting the idea that life could have originated beyond our planet. The samples were collected by NASA's Osiris-Rex probe and returned to Earth in 2023, providing direct evidence of the materials from space.",
     "news_url": "https://yle.fi/a/74-20140236",
     "news_time": 1738171860.0,
     "news_categories": [
         "science"
     ],
     "news_source_lang": "en",
-    "news_group": 72
+    "news_group": -1
 }
