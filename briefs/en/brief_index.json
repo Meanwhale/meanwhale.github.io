@@ -1,101 +1,288 @@
 [
     {
-        "news_id": "nasdaq_814564581345",
-        "news_source": "nasdaq",
+        "news_id": "sn_holdingbacktheseasciencenews",
+        "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_epoch": 1739002740.0,
+        "news_header": "A daring plan to hold back the sea",
+        "news_epoch": 1739008800.0,
         "news_categories": [
-            "business",
-            "markets"
+            "science"
         ],
-        "news_url": "https://www.nasdaq.com/articles/3-reasons-why-almost-every-investor-needs-least-2500-bitcoin",
-        "news_original_title": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_group": 118
-    },
-    {
-        "news_id": "nasdaq_145753802335",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_epoch": 1739002740.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-reasons-why-almost-every-investor-needs-least-2500-bitcoin",
-        "news_original_title": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_group": 118
-    },
-    {
-        "news_id": "nasdaq_640289643312",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_epoch": 1739002740.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-reasons-why-almost-every-investor-needs-least-2500-bitcoin",
-        "news_original_title": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_group": 118
-    },
-    {
-        "news_id": "nasdaq_554270303872",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_epoch": 1739002740.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-reasons-why-almost-every-investor-needs-least-2500-bitcoin",
-        "news_original_title": "3 Reasons Why Almost Every Investor Needs At Least $2,500 in Bitcoin",
-        "news_group": 118
-    },
-    {
-        "news_id": "nasdaq_544076679424",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Meet the 1 Number From Palantir That May Keep This Supercharged Stock Soaring",
-        "news_epoch": 1739002200.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/meet-1-number-palantir-may-keep-supercharged-stock-soaring",
-        "news_original_title": "Meet the 1 Number From Palantir That May Keep This Supercharged Stock Soaring",
+        "news_url": "https://www.sciencenews.org/article/holding-back-the-sea-science-news",
+        "news_original_title": "A daring plan to hold back the sea",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_765239802278",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
-        "news_epoch": 1739002080.0,
+        "news_id": "yle_7420140150",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Katso 6 kuvaa: n\u00e4in rajusti Ven\u00e4j\u00e4n sota iski Suomen talouteen \u2013 mutta miksi selvisimme rys\u00e4yksest\u00e4?",
+        "news_epoch": 1739008800.0,
         "news_categories": [
-            "business",
-            "markets"
+            "business"
         ],
-        "news_url": "https://www.nasdaq.com/articles/if-you-bought-1-share-apple-its-ipo-heres-how-many-shares-you-would-own-now-1",
-        "news_original_title": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
+        "news_url": "https://yle.fi/a/74-20140150",
+        "news_original_title": "Katso 6 kuvaa: n\u00e4in rajusti Ven\u00e4j\u00e4n sota iski Suomen talouteen \u2013 mutta miksi selvisimme rys\u00e4yksest\u00e4?",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_491166338127",
+        "news_id": "arvopaperi_026fa5166fe8489f93baa78b5d1279b4",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Nightingale pyrkii Yhdysvaltain OTC-markkinalle \u2013 Mik\u00e4 se on?",
+        "news_epoch": 1739008800.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/026fa516-6fe8-489f-93ba-a78b5d1279b4",
+        "news_original_title": "Nightingale pyrkii Yhdysvaltain OTC-markkinalle \u2013 Mik\u00e4 se on?",
+        "news_group": -1
+    },
+    {
+        "news_id": "sn_readersunsungscientistmutantchonkus",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "Readers discuss an unsung scientist, a mutant bacterium named Chonkus, Science News\u2019 new look",
+        "news_epoch": 1739008800.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/readers-unsung-scientist-mutant-chonkus",
+        "news_original_title": "Readers discuss an unsung scientist, a mutant bacterium named Chonkus, Science News\u2019 new look",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_c36cb2c38c6e",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "AMD&#x27;s shares fell after Q4 earnings report despite strong data center revenue growth, raising questions about future investment.",
-        "news_epoch": 1739001900.0,
+        "news_header": "This Top Quantum Computing Stock Nears $1 Billion in Signings",
+        "news_epoch": 1739007600.0,
         "news_categories": [
             "business",
             "markets"
         ],
-        "news_url": "https://www.nasdaq.com/articles/amds-ai-data-center-revenue-soars-shares-sink-it-time-buy-stock-dip",
-        "news_original_title": "AMD&#x27;s AI Data Center Revenue Soars but Shares Sink. Is It Time to Buy the Stock on the Dip?",
+        "news_url": "https://www.nasdaq.com/articles/top-quantum-computing-stock-nears-1-billion-signings",
+        "news_original_title": "This Top Quantum Computing Stock Nears $1 Billion in Signings",
         "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_463206a1dad1",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Disney Stock Analysis: Buy, Hold, or Sell?",
+        "news_epoch": 1739007480.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/disney-stock-analysis-buy-hold-or-sell",
+        "news_original_title": "Disney Stock Analysis: Buy, Hold, or Sell?",
+        "news_group": 125
+    },
+    {
+        "news_id": "bbc_cjw4g2q62xqo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Judge blocks Musk team access to Treasury Department records",
+        "news_epoch": 1739007480.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cjw4g2q62xqo",
+        "news_original_title": "Judge blocks Musk team access to Treasury Department records",
+        "news_group": 144
+    },
+    {
+        "news_id": "nasdaq_4377c5507923",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Palantir Stock Investors Have Reason to Cheer as It Said It Is Experiencing &amp;quot;Unrelenting Demand&amp;quot;",
+        "news_epoch": 1739007240.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/palantir-stock-investors-have-reason-cheer-it-said-it-experiencing-unrelenting-demand",
+        "news_original_title": "Palantir Stock Investors Have Reason to Cheer as It Said It Is Experiencing &amp;quot;Unrelenting Demand&amp;quot;",
+        "news_group": 125
+    },
+    {
+        "news_id": "nasdaq_110370a507a5",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Better Cybersecurity Stock: Palo Alto Networks or CrowdStrike?",
+        "news_epoch": 1739007000.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/better-cybersecurity-stock-palo-alto-networks-or-crowdstrike",
+        "news_original_title": "Better Cybersecurity Stock: Palo Alto Networks or CrowdStrike?",
+        "news_group": 128
+    },
+    {
+        "news_id": "dw_a71544528",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Serbia and domestic issues top voter concerns in Kosovo",
+        "news_epoch": 1739006640.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/serbia-and-domestic-issues-top-voter-concerns-in-kosovo/a-71544528",
+        "news_original_title": "Serbia and domestic issues top voter concerns in Kosovo",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420141982",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Analyysi: Suomi halutaan nyt Moldovan, Romanian ja Serbian kanssa samaan veroleiriin \u2013 yritysjohtajilla on laput silmill\u00e4",
+        "news_epoch": 1739005740.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20141982",
+        "news_original_title": "Analyysi: Suomi halutaan nyt Moldovan, Romanian ja Serbian kanssa samaan veroleiriin \u2013 yritysjohtajilla on laput silmill\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_90af5cf90411",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Should I Buy Palo Alto Networks Stock?",
+        "news_epoch": 1739005500.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/should-i-buy-palo-alto-networks-stock",
+        "news_original_title": "Should I Buy Palo Alto Networks Stock?",
+        "news_group": 128
+    },
+    {
+        "news_id": "nasdaq_2e85a0b87d2c",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Costco Is a Growth Stock. January Sales Prove It.",
+        "news_epoch": 1739005380.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/costco-growth-stock-january-sales-prove-it",
+        "news_original_title": "Costco Is a Growth Stock. January Sales Prove It.",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_804aca8664ae",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Is Novo Nordisk Stock a Buy Now?",
+        "news_epoch": 1739005260.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/novo-nordisk-stock-buy-now",
+        "news_original_title": "Is Novo Nordisk Stock a Buy Now?",
+        "news_group": 125
+    },
+    {
+        "news_id": "nasdaq_162c369b890c",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Want a Stable Income Stream? This Ultra-High-Yielding Dividend Is Very Safe and Secure.",
+        "news_epoch": 1739005200.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/want-stable-income-stream-ultra-high-yielding-dividend-very-safe-and-secure",
+        "news_original_title": "Want a Stable Income Stream? This Ultra-High-Yielding Dividend Is Very Safe and Secure.",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_8491bf20ef4c",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Validea Motley Fool Strategy Daily Upgrade Report - 2/8/2025",
+        "news_epoch": 1739004960.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/validea-motley-fool-strategy-daily-upgrade-report-2-8-2025",
+        "news_original_title": "Validea Motley Fool Strategy Daily Upgrade Report - 2/8/2025",
+        "news_group": 143
+    },
+    {
+        "news_id": "nasdaq_12c9bad71df4",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Validea James P. O&#x27;Shaughnessy Strategy Daily Upgrade Report - 2/8/2025",
+        "news_epoch": 1739004960.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/validea-james-p-oshaughnessy-strategy-daily-upgrade-report-2-8-2025",
+        "news_original_title": "Validea James P. O&#x27;Shaughnessy Strategy Daily Upgrade Report - 2/8/2025",
+        "news_group": 143
+    },
+    {
+        "news_id": "nasdaq_3e9beea6473d",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Validea Warren Buffett Strategy Daily Upgrade Report - 2/8/2025",
+        "news_epoch": 1739004960.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/validea-warren-buffett-strategy-daily-upgrade-report-2-8-2025",
+        "news_original_title": "Validea Warren Buffett Strategy Daily Upgrade Report - 2/8/2025",
+        "news_group": 143
+    },
+    {
+        "news_id": "nasdaq_dd3d57ca8e33",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "The &amp;quot;Dean of Valuation&amp;quot; Says Nvidia Stock Could Plunge by 31%. Here&#x27;s My Contrarian Take on Why DeepSeek Could Fuel It to New Highs, Instead.",
+        "news_epoch": 1739004900.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/dean-valuation-says-nvidia-stock-could-plunge-31-heres-my-contrarian-take-why-deepseek",
+        "news_original_title": "The &amp;quot;Dean of Valuation&amp;quot; Says Nvidia Stock Could Plunge by 31%. Here&#x27;s My Contrarian Take on Why DeepSeek Could Fuel It to New Highs, Instead.",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420142400",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Afrikan vaarallisinta konfliktia yritet\u00e4\u00e4n ratkoa diplomatialla \u2013 YK varoittaa, ett\u00e4 pahin voi olla vasta edess\u00e4",
+        "news_epoch": 1739004720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20142400",
+        "news_original_title": "Afrikan vaarallisinta konfliktia yritet\u00e4\u00e4n ratkoa diplomatialla \u2013 YK varoittaa, ett\u00e4 pahin voi olla vasta edess\u00e4",
+        "news_group": 140
+    },
+    {
+        "news_id": "bbc_c20gygjjxlko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Watch: Hamas hands over Israeli hostages to Red Cross",
+        "news_epoch": 1739003160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/c20gygjjxlko",
+        "news_original_title": "Watch: Hamas hands over Israeli hostages to Red Cross",
+        "news_group": 134
     },
     {
         "news_id": "yle_7420142386",
@@ -108,21 +295,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20142386",
         "news_original_title": "Tuomari kielsi Muskilta p\u00e4\u00e4syn USA:n valtiovarainministeri\u00f6n tietokantoihin",
-        "news_group": 120
-    },
-    {
-        "news_id": "nasdaq_355060655235",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Uber aims to become a $1 trillion company, driven by autonomous vehicles.",
-        "news_epoch": 1739001720.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/uber-has-1-trillion-upside-surprising-reason",
-        "news_original_title": "Uber Has $1 Trillion Upside for This Surprising Reason",
-        "news_group": -1
+        "news_group": 144
     },
     {
         "news_id": "dw_a71546541",
@@ -138,20 +311,6 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_640420659390",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "XRP and Ethereum are two major cryptocurrencies with different focuses: XRP aims for efficient money transfers, while Ethereum focuses on smart contracts and decentralized applications.",
-        "news_epoch": 1739001600.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/better-cryptocurrency-buy-2000-and-hold-5-years-xrp-vs-ethereum",
-        "news_original_title": "Better Cryptocurrency to Buy With $2,000 and Hold for 5 Years: XRP vs. Ethereum",
-        "news_group": -1
-    },
-    {
         "news_id": "arvopaperi_0225d57f29a04f5ca044704c1d95d13a",
         "news_source": "arvopaperi",
         "news_source_lang": "fi",
@@ -162,49 +321,7 @@
         ],
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/0225d57f-29a0-4f5c-a044-704c1d95d13a",
         "news_original_title": "Geopolitiikka n\u00e4kyy salkuissa poikkeuksellisen vahvasti \u2013 \u201dSijoittamisen lainalaisuuksia t\u00e4m\u00e4 ei ole muuttanut\u201d",
-        "news_group": 124
-    },
-    {
-        "news_id": "nasdaq_415634613256",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
-        "news_epoch": 1739001480.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/im-not-counting-social-security-colas-carry-me-through-retirement-heres-what-im-doing-4",
-        "news_original_title": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_639312114338",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "3 Cloud and AI Stocks to Buy Hand Over Fist in February",
-        "news_epoch": 1739001300.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-cloud-and-ai-stocks-buy-hand-over-fist-february",
-        "news_original_title": "3 Cloud and AI Stocks to Buy Hand Over Fist in February",
-        "news_group": 121
-    },
-    {
-        "news_id": "nasdaq_387057124764",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "The cloud and AI markets have seen significant growth, with companies like Microsoft, Datadog, and Oracle positioned to benefit from this trend.",
-        "news_epoch": 1739001300.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-cloud-and-ai-stocks-buy-hand-over-fist-february",
-        "news_original_title": "3 Cloud and AI Stocks to Buy Hand Over Fist in February",
-        "news_group": 121
+        "news_group": 147
     },
     {
         "news_id": "bbc_c203ql5l8zyo",
@@ -230,7 +347,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20142379",
         "news_original_title": "Hamas vapautti kolme israelilaista panttivankia",
-        "news_group": 111
+        "news_group": 134
     },
     {
         "news_id": "bbc_c627d55v07go",
@@ -243,7 +360,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c627d55v07go",
         "news_original_title": "Baltic states begin historic switch away from Russian power grid",
-        "news_group": 113
+        "news_group": 136
     },
     {
         "news_id": "yle_7420142314",
@@ -295,7 +412,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cdd9p8g405no",
         "news_original_title": "Judge blocks Trump plan to put thousands of USAID staff on leave",
-        "news_group": 120
+        "news_group": 144
     },
     {
         "news_id": "yle_7420142374",
@@ -308,7 +425,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20142374",
         "news_original_title": "Baltia irtosi Ven\u00e4j\u00e4n s\u00e4hk\u00f6verkosta",
-        "news_group": 113
+        "news_group": 136
     },
     {
         "news_id": "dw_a71546373",
@@ -321,7 +438,7 @@
         ],
         "news_url": "https://www.dw.com/en/baltic-states-break-away-from-russia-s-power-grid/a-71546373",
         "news_original_title": "Baltic states break away from Russia\u2019s power grid",
-        "news_group": 113
+        "news_group": 136
     },
     {
         "news_id": "yle_7420142372",
@@ -347,7 +464,7 @@
         ],
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/2b96efa6-b8de-4d00-833d-c23a7ded65ab",
         "news_original_title": "Asuntomarkkinan piristymisest\u00e4 hyvin v\u00e4h\u00e4n merkkej\u00e4: YIT sulattelee myym\u00e4tt\u00f6mien asuntojen varantoa, uusia valmistuu v\u00e4h\u00e4n",
-        "news_group": 124
+        "news_group": 147
     },
     {
         "news_id": "yle_7420142371",
@@ -412,7 +529,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20142366",
         "news_original_title": "Israel ja Hamas valmistautuvat vankienvaihtoon",
-        "news_group": 111
+        "news_group": 134
     },
     {
         "news_id": "yle_7420142365",
@@ -542,20 +659,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c05l28jne2ro",
         "news_original_title": "Missing Alaska plane found with three confirmed dead - US Coast Guard",
-        "news_group": 114
-    },
-    {
-        "news_id": "yle_7420142360",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Baltic States are disconnecting from Russian and Belarusian electricity grids and joining the European network.",
-        "news_epoch": 1738973520.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142360",
-        "news_original_title": "Baltian maat irtautuvat viikonloppuna Ven\u00e4j\u00e4n s\u00e4hk\u00f6verkosta",
-        "news_group": 113
+        "news_group": 137
     },
     {
         "news_id": "bbc_c0rq24090glo",
@@ -581,7 +685,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8qp6p39e9o",
         "news_original_title": "Who&#x27;s pulling the strings in the DR Congo crisis?",
-        "news_group": -1
+        "news_group": 140
     },
     {
         "news_id": "bbc_cz0lg9pedz1o",
@@ -607,7 +711,7 @@
         ],
         "news_url": "https://www.dw.com/en/alaska-missing-plane-found-all-10-on-board-believed-dead/a-71538407",
         "news_original_title": "Alaska: Missing plane found, all 10 on board believed dead",
-        "news_group": 114
+        "news_group": 137
     },
     {
         "news_id": "nasdaq_168708134784",
@@ -621,7 +725,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 106
+        "news_group": 129
     },
     {
         "news_id": "nasdaq_395356234146",
@@ -635,7 +739,21 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 106
+        "news_group": 129
+    },
+    {
+        "news_id": "nasdaq_077fa66119d3",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
+        "news_epoch": 1738969200.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
+        "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
+        "news_group": 129
     },
     {
         "news_id": "nasdaq_601230223286",
@@ -649,7 +767,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 106
+        "news_group": 129
     },
     {
         "news_id": "nasdaq_657684563391",
@@ -663,7 +781,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 106
+        "news_group": 129
     },
     {
         "news_id": "nasdaq_197526430214",
@@ -677,7 +795,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 106
+        "news_group": 129
     },
     {
         "news_id": "bbc_c4gp5pw654lo",
@@ -690,19 +808,6 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gp5pw654lo",
         "news_original_title": "How Japan sparked Trump&#x27;s 40-year love affair with tariffs",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8059mny2g3o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tourists flee and homes break apart in Santorini, but resilient locals remain",
-        "news_epoch": 1738966920.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8059mny2g3o",
-        "news_original_title": "Tourists flee and homes break apart in Santorini, but resilient locals remain",
         "news_group": -1
     },
     {
@@ -731,7 +836,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/2-ai-stocks-investors-must-watch-week",
         "news_original_title": "2 AI Stocks Investors Must Watch This Week",
-        "news_group": 104
+        "news_group": 126
     },
     {
         "news_id": "nasdaq_800136878530",
@@ -745,19 +850,6 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/buy-disney-or-qualcomm-stock-after-crushing-eps-expectations",
         "news_original_title": "Buy Disney or Qualcomm Stock After Crushing EPS Expectations?",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cednp7q41l2o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Ukraine&#x27;s president reports the return of North Korean forces to the front lines in the Kursk region, following heavy casualties last month.",
-        "news_epoch": 1738960740.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cednp7q41l2o",
-        "news_original_title": "Zelensky says North Korean troops back on front line",
         "news_group": -1
     },
     {
@@ -799,7 +891,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
         "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 112
+        "news_group": 135
     },
     {
         "news_id": "nasdaq_476279880633",
@@ -813,7 +905,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
         "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 112
+        "news_group": 135
     },
     {
         "news_id": "nasdaq_526646913090",
@@ -827,7 +919,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
         "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 112
+        "news_group": 135
     },
     {
         "news_id": "nasdaq_760660352735",
@@ -841,7 +933,21 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
         "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 112
+        "news_group": 135
+    },
+    {
+        "news_id": "nasdaq_46aa5942bb6f",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "These 5 Charts Explain the Current Earnings Outlook",
+        "news_epoch": 1738956240.0,
+        "news_categories": [
+            "business",
+            "earnings"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
+        "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
+        "news_group": 135
     },
     {
         "news_id": "nasdaq_410032276177",
@@ -855,7 +961,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
         "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 112
+        "news_group": 135
     },
     {
         "news_id": "nasdaq_456585176713",
@@ -869,7 +975,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/zacks-february-view-equity-markets",
         "news_original_title": "Zacks February View on Equity Markets",
-        "news_group": 119
+        "news_group": 142
     },
     {
         "news_id": "nasdaq_510846549734",
@@ -883,7 +989,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/zrs-chart-month-4",
         "news_original_title": "ZRS Chart of the Month",
-        "news_group": 119
+        "news_group": 142
     },
     {
         "news_id": "nasdaq_733739919376",
@@ -897,7 +1003,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
         "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 108
+        "news_group": 131
     },
     {
         "news_id": "nasdaq_868376404184",
@@ -911,7 +1017,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
         "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 108
+        "news_group": 131
     },
     {
         "news_id": "nasdaq_343010077382",
@@ -925,7 +1031,21 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
         "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 108
+        "news_group": 131
+    },
+    {
+        "news_id": "nasdaq_4f656ec573a1",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Notable Two Hundred Day Moving Average Cross - X",
+        "news_epoch": 1738955340.0,
+        "news_categories": [
+            "business",
+            "commodities"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
+        "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
+        "news_group": 131
     },
     {
         "news_id": "nasdaq_111924067433",
@@ -939,7 +1059,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
         "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 108
+        "news_group": 131
     },
     {
         "news_id": "nasdaq_732341803629",
@@ -953,7 +1073,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
         "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 108
+        "news_group": 131
     },
     {
         "news_id": "nasdaq_337402812220",
@@ -967,7 +1087,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/pre-market-earnings-report-february-10-2025-mcd-rok-incy-cna-mndy-roiv-tsem-nsp-epc-alx",
         "news_original_title": "Pre-Market Earnings Report for February 10, 2025 :  MCD, ROK, ON, INCY, CNA, MNDY, ROIV, TSEM, NSP, EPC, ALX, AIOT",
-        "news_group": 104
+        "news_group": 126
     },
     {
         "news_id": "dw_a71539307",
@@ -1035,20 +1155,6 @@
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_555658660156",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Trump&#x27;s new 10% tariff on Chinese imports may raise vehicle prices in the U.S., particularly affecting auto parts and major automakers like Ford and GM.",
-        "news_epoch": 1738944000.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/trumps-tariffs-and-their-impact-auto-etfs",
-        "news_original_title": "Trump&#x27;s Tariffs and Their Impact on Auto ETFs",
-        "news_group": 116
-    },
-    {
         "news_id": "dw_a71493993",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1059,7 +1165,7 @@
         ],
         "news_url": "https://www.dw.com/en/will-donald-trump-s-tariff-gamble-pay-off/a-71493993",
         "news_original_title": "Will Donald Trump&#x27;s tariff gamble pay off?",
-        "news_group": 116
+        "news_group": 139
     },
     {
         "news_id": "bbc_cy08dz47v8ro",
@@ -1202,7 +1308,7 @@
         ],
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/b52dc75c-18b5-490a-9552-2e6bc7df422c",
         "news_original_title": "Konecranesin vuosi oli huippuonnistuminen \u2013 Toimitusjohtaja: Kunnossapito ja viime vuonna alkaneet projektit pit\u00e4v\u00e4t marginaalin korkealla",
-        "news_group": 124
+        "news_group": 147
     },
     {
         "news_id": "arvopaperi_e376ab15a3594e6fa02599e47d29b536",
@@ -1215,7 +1321,7 @@
         ],
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/e376ab15-a359-4e6f-a025-99e47d29b536",
         "news_original_title": "Wall Streetilla tasainen nousuavaus ty\u00f6markkinaraportin j\u00e4lkeen",
-        "news_group": 115
+        "news_group": 138
     },
     {
         "news_id": "dw_a71541070",
@@ -1241,7 +1347,7 @@
         ],
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/827e3f16-2ec5-4830-afdc-663beb0d1e1c",
         "news_original_title": "Valtionlainojen korot nousussa USA:n ty\u00f6markkinalukujen j\u00e4lkeen: \u201dTy\u00f6markkina yh\u00e4 vahva\u201d",
-        "news_group": 115
+        "news_group": 138
     },
     {
         "news_id": "dw_a71539796",
@@ -1283,19 +1389,6 @@
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_c1eb961509be435cac4135892e0b26e1",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Yhdysvaltojen ty\u00f6markkinaluvut j\u00e4iv\u00e4t odotetusta",
-        "news_epoch": 1738928640.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/c1eb9615-09be-435c-ac41-35892e0b26e1",
-        "news_original_title": "Yhdysvaltojen ty\u00f6markkinaluvut j\u00e4iv\u00e4t odotetusta",
-        "news_group": 115
-    },
-    {
         "news_id": "nasdaq_412573893710",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -1307,7 +1400,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/3-leisure-stocks-poised-beat-earnings-estimates-q4",
         "news_original_title": "3 Leisure Stocks Poised to Beat Earnings Estimates in Q4",
-        "news_group": 110
+        "news_group": 133
     },
     {
         "news_id": "nasdaq_555502604350",
@@ -1321,7 +1414,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/3-leisure-stocks-poised-beat-earnings-estimates-q4",
         "news_original_title": "3 Leisure Stocks Poised to Beat Earnings Estimates in Q4",
-        "news_group": 110
+        "news_group": 133
     },
     {
         "news_id": "nasdaq_808365784052",
@@ -1335,7 +1428,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/3-leisure-stocks-poised-beat-earnings-estimates-q4",
         "news_original_title": "3 Leisure Stocks Poised to Beat Earnings Estimates in Q4",
-        "news_group": 110
+        "news_group": 133
     },
     {
         "news_id": "dw_a71533586",
@@ -1374,19 +1467,6 @@
         ],
         "news_url": "https://www.dw.com/en/trans-atlantic-turning-point-donald-trump-tests-eu-us-ties/a-71533038",
         "news_original_title": "Trans-Atlantic turning point: Donald Trump tests EU-US ties",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71537261",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Harwinder Singh reflects on his harrowing journey from India to the US, which ended in deportation after he paid an agent for illegal passage.",
-        "news_epoch": 1738922280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/indians-deported-from-the-us-devastated-after-risking-everything/a-71537261",
-        "news_original_title": "Indians deported from the US: &#x27;Devastated after risking everything&#x27;",
         "news_group": -1
     },
     {
@@ -1491,33 +1571,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20141792",
         "news_original_title": "Analyysi: Deepseekin jalkoihin j\u00e4i ilmoitus, joka voi nostaa EU:n mukaan teko\u00e4lykisaan",
-        "news_group": 117
-    },
-    {
-        "news_id": "yle_7420142160",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Lindex Group plans to close Stockmann department store in Itis, Helsinki, and will begin negotiations affecting its 35 employees.",
-        "news_epoch": 1738905900.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142160",
-        "news_original_title": "Helsingin Itiksen Stockmann saattaa sulkeutua pysyv\u00e4sti \u2013 Lindex aloittaa muutosneuvottelut tavaratalossa",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142162",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Konecranes&#x27; operating profit rose to EUR 146 million, with net sales up 5.5% to EUR 1,213 million.",
-        "news_epoch": 1738905900.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142162",
-        "news_original_title": "Konecranes paransi tulostaan vuoden lopussa",
-        "news_group": -1
+        "news_group": 141
     },
     {
         "news_id": "bbc_cly9jx0gve0o",
@@ -1570,7 +1624,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_153091043112",
@@ -1583,7 +1637,20 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
+    },
+    {
+        "news_id": "nasdaq_e7ae9b994202",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Increased Dealmaking Signals Continued IPO Market Recovery",
+        "news_epoch": 1738876200.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
+        "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_517474286427",
@@ -1596,7 +1663,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_675644825579",
@@ -1609,7 +1676,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_101885027532",
@@ -1622,7 +1689,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_337556915601",
@@ -1635,7 +1702,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_469149684118",
@@ -1648,7 +1715,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_242267068811",
@@ -1661,7 +1728,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/increased-dealmaking-signals-continued-ipo-market-recovery",
         "news_original_title": "Increased Dealmaking Signals Continued IPO Market Recovery",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_544190601929",
@@ -1703,7 +1770,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/oil-prices-see-further-downside-trump-reiterates-pledge-boost-production",
         "news_original_title": "Oil Prices See Further Downside As Trump Reiterates Pledge To Boost Production",
-        "news_group": 105
+        "news_group": 127
     },
     {
         "news_id": "nasdaq_784288136395",
@@ -1717,7 +1784,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/oil-prices-see-further-downside-trump-reiterates-pledge-boost-production",
         "news_original_title": "Oil Prices See Further Downside As Trump Reiterates Pledge To Boost Production",
-        "news_group": 105
+        "news_group": 127
     },
     {
         "news_id": "nasdaq_664618619348",
@@ -1731,7 +1798,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/oil-prices-see-further-downside-trump-reiterates-pledge-boost-production",
         "news_original_title": "Oil Prices See Further Downside As Trump Reiterates Pledge To Boost Production",
-        "news_group": 105
+        "news_group": 127
     },
     {
         "news_id": "nasdaq_440707048726",
@@ -1745,7 +1812,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/oil-prices-see-further-downside-trump-reiterates-pledge-boost-production",
         "news_original_title": "Oil Prices See Further Downside As Trump Reiterates Pledge To Boost Production",
-        "news_group": 105
+        "news_group": 127
     },
     {
         "news_id": "nasdaq_842300593456",
@@ -1759,7 +1826,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/pre-market-earnings-report-february-7-2025-ftv-cboe-kim-avtr-paa-pagp-flo-nwl-road-ulcc",
         "news_original_title": "Pre-Market Earnings Report for February 7, 2025 :  FTV, CBOE, KIM, AVTR, PAA, PAGP, FLO, NWL, ROAD, ULCC, PRLB, BYRN",
-        "news_group": 104
+        "news_group": 126
     },
     {
         "news_id": "nasdaq_801296762801",
@@ -1773,21 +1840,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/pre-market-earnings-report-february-7-2025-ftv-cboe-kim-avtr-paa-pagp-flo-nwl-road-ulcc",
         "news_original_title": "Pre-Market Earnings Report for February 7, 2025 :  FTV, CBOE, KIM, AVTR, PAA, PAGP, FLO, NWL, ROAD, ULCC, PRLB, BYRN",
-        "news_group": 104
-    },
-    {
-        "news_id": "nasdaq_428776499327",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Ardagh Metal Packaging SA has an RSI of 29.98, indicating potential buying opportunities after heavy selling.",
-        "news_epoch": 1738868160.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/ardagh-metal-packaging-ambp-shares-enter-oversold-territory-1",
-        "news_original_title": "Ardagh Metal Packaging (AMBP) Shares Enter Oversold Territory",
-        "news_group": -1
+        "news_group": 126
     },
     {
         "news_id": "bbc_c805mjxe2y9o",
@@ -1813,21 +1866,7 @@
         ],
         "news_url": "https://www.sciencenews.org/article/bird-avian-flu-virus-infect-dairy-cows",
         "news_original_title": "A second version of bird flu is infecting cows. What does that mean?",
-        "news_group": 109
-    },
-    {
-        "news_id": "nasdaq_583210869437",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Several companies are set to report their earnings after hours on February 6, 2025, with notable forecasts and performance trends.",
-        "news_epoch": 1738861200.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/after-hours-earnings-report-february-6-2025-amzn-ftnt-net-ttwo-mpwr-mtd-mchp-expe-ssnc",
-        "news_original_title": "After-Hours Earnings Report for February 6, 2025 :  AMZN, FTNT, NET, TTWO, MPWR, MTD, MCHP, EXPE, SSNC, ILMN, PINS, PFG",
-        "news_group": -1
+        "news_group": 132
     },
     {
         "news_id": "sn_mantisshrimppunishingblowsphysics",
@@ -1931,7 +1970,7 @@
         ],
         "news_url": "https://www.dw.com/en/study-finds-microplastics-in-us-brains-are-they-dangerous/a-71521073",
         "news_original_title": "Study finds microplastics in US brains: Are they dangerous?",
-        "news_group": 123
+        "news_group": 146
     },
     {
         "news_id": "dw_a70988147",
@@ -1944,7 +1983,7 @@
         ],
         "news_url": "https://www.dw.com/en/is-us-bird-flu-outbreak-in-cattle-a-global-risk-to-humans/a-70988147",
         "news_original_title": "Is US bird flu outbreak in cattle a global risk to humans?",
-        "news_group": 109
+        "news_group": 132
     },
     {
         "news_id": "yle_7420141738",
@@ -2009,19 +2048,6 @@
         ],
         "news_url": "https://www.sciencenews.org/article/endangered-species-act-trump-esa",
         "news_original_title": "Will the Endangered Species Act survive Trump?",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_aichatbotpersonalities",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Researchers are exploring the personalities of chatbots and how these traits affect their interactions with users.",
-        "news_epoch": 1738756800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/ai-chatbot-personalities",
-        "news_original_title": "Are AI chatbot \u2018personalities\u2019 in the eye of the beholder?",
         "news_group": -1
     },
     {
@@ -2090,19 +2116,6 @@
         "news_group": -1
     },
     {
-        "news_id": "sn_quantummechanicsphysicsturns100",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "2025 is declared the International Year of Quantum Science and Technology, celebrating a century of quantum physics advancements.",
-        "news_epoch": 1738681200.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/quantum-mechanics-physics-turns-100",
-        "news_original_title": "Quantum mechanics was born 100 years ago. Physicists are celebrating",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71506006",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -2126,7 +2139,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20141347",
         "news_original_title": "Tutkimus: Mikromuovin m\u00e4\u00e4r\u00e4 ihmisen aivoissa lis\u00e4\u00e4ntynyt kovaa vauhtia",
-        "news_group": 123
+        "news_group": 146
     },
     {
         "news_id": "dw_a71501071",
@@ -2165,7 +2178,7 @@
         ],
         "news_url": "https://www.dw.com/en/trump-s-tariffs-stoke-trade-war-inflation-fears/a-71489678",
         "news_original_title": "Trump&#x27;s tariffs stoke trade war, inflation fears",
-        "news_group": 116
+        "news_group": 139
     },
     {
         "news_id": "bbc_c20g41845jdo",
@@ -2204,7 +2217,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/january-2025-review-and-outlook",
         "news_original_title": "January 2025 Review and Outlook",
-        "news_group": 122
+        "news_group": 145
     },
     {
         "news_id": "nasdaq_404967353099",
@@ -2217,7 +2230,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/january-2025-review-and-outlook",
         "news_original_title": "January 2025 Review and Outlook",
-        "news_group": 122
+        "news_group": 145
     },
     {
         "news_id": "nasdaq_576264714658",
@@ -2230,7 +2243,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/january-2025-review-and-outlook",
         "news_original_title": "January 2025 Review and Outlook",
-        "news_group": 122
+        "news_group": 145
     },
     {
         "news_id": "nasdaq_426108650177",
@@ -2243,7 +2256,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/january-2025-review-and-outlook",
         "news_original_title": "January 2025 Review and Outlook",
-        "news_group": 122
+        "news_group": 145
     },
     {
         "news_id": "dw_a71494600",
@@ -2256,19 +2269,6 @@
         ],
         "news_url": "https://www.dw.com/en/how-sabotage-on-undersea-cables-affects-our-digital-world/a-71494600",
         "news_original_title": "How sabotage on undersea cables affects our digital world",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_526694242873",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "TradeTalks discusses a new report on managing complexity in the financial system and highlights the importance of strategic technology partnerships.",
-        "news_epoch": 1738589100.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/cutting-through-complexity",
-        "news_original_title": "Cutting Through Complexity",
         "news_group": -1
     },
     {
@@ -2425,7 +2425,7 @@
         ],
         "news_url": "https://www.dw.com/en/trump-tariffs-what-do-they-mean-for-mexico-and-canada/a-71436585",
         "news_original_title": "Trump tariffs: What do they mean for Mexico and Canada?",
-        "news_group": 116
+        "news_group": 139
     },
     {
         "news_id": "yle_7420137434",
@@ -2451,7 +2451,7 @@
         ],
         "news_url": "https://www.dw.com/en/competitiveness-compass-how-eu-aims-to-keep-up-with-the-world-s-top-economies/a-71446295",
         "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world&#x27;s top economies",
-        "news_group": 117
+        "news_group": 141
     },
     {
         "news_id": "dw_a71445979",
@@ -2569,7 +2569,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/bullish-2025-ipo-market-etfs-consider",
         "news_original_title": "A Bullish 2025 for the IPO Market? ETFs to Consider",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_852506671960",
@@ -2583,7 +2583,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/bullish-2025-ipo-market-etfs-consider",
         "news_original_title": "A Bullish 2025 for the IPO Market? ETFs to Consider",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_542521500983",
@@ -2597,7 +2597,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/bullish-2025-ipo-market-etfs-consider",
         "news_original_title": "A Bullish 2025 for the IPO Market? ETFs to Consider",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_170713450168",
@@ -2611,7 +2611,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/bullish-2025-ipo-market-etfs-consider",
         "news_original_title": "A Bullish 2025 for the IPO Market? ETFs to Consider",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_891253874583",
@@ -2625,7 +2625,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/bullish-2025-ipo-market-etfs-consider",
         "news_original_title": "A Bullish 2025 for the IPO Market? ETFs to Consider",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_703447687029",
@@ -2639,7 +2639,7 @@
         ],
         "news_url": "https://www.nasdaq.com/articles/ipo-revival-likely-continue-mid-2025",
         "news_original_title": "IPO Revival Likely to Continue into Mid-2025",
-        "news_group": 107
+        "news_group": 130
     },
     {
         "news_id": "nasdaq_666189436928",
