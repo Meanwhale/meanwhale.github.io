@@ -1,0 +1,14 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c20g288yldko",
+    "news_header": "The UK government demands access to encrypted data from Apple users, citing national security, while Apple defends user privacy.",
+    "news_original_title": "UK demands access to Apple users' encrypted data",
+    "news_text": "The UK government has requested access to encrypted data stored by Apple users globally, arguing that it is necessary for national security. Currently, only Apple account holders can access this data due to end-to-end encryption, which Apple emphasizes as a fundamental privacy right. Privacy advocates have criticized the demand as an unprecedented attack on individual privacy. Apple has previously stated it would withdraw encryption services from the UK rather than comply with such demands. The government insists that this request does not imply mass surveillance and would follow legal processes for specific cases. However, experts warn that such measures could undermine civil liberties and privacy for all citizens.",
+    "news_url": "https://www.bbc.com/news/articles/c20g288yldko",
+    "news_time": 1738934820.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

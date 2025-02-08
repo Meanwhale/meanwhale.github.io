@@ -1,14 +1,14 @@
 {
     "news_source": "sn",
     "news_id": "sn_birdavianfluvirusinfectdairycows",
-    "news_header": "H5N1 bird flu variant D1.1 detected in dairy cattle in Nevada amid ongoing outbreaks.",
+    "news_header": "H5N1 bird flu variant D1.1 detected in dairy cattle in Nevada amidst ongoing outbreaks.",
     "news_original_title": "A second version of bird flu is infecting cows. What does that mean?",
-    "news_text": "A new variant of H5N1 bird flu, D1.1, has been found in dairy cattle in Nevada, marking the first detection of this strain in cows. This discovery comes as a different variant, B3.13, has been affecting dairy herds across the U.S. for a year. Experts express concern about potential spillover events into dairy cows and the implications for human health, as most infections have been mild but there are fears of more severe cases with the D1.1 variant. Enhanced surveillance programs are being implemented to monitor the situation.",
+    "news_text": "A new variant of H5N1 bird flu, D1.1, has been found in dairy cattle in Nevada, marking the first detection of this strain in cows. This discovery raises concerns about potential spillover events from birds to cattle and the implications for human health, as previous infections have mostly affected farm workers with mild symptoms. Experts emphasize the need for improved biosecurity and surveillance on dairy farms to manage the risk of H5N1 spread.",
     "news_url": "https://www.sciencenews.org/article/bird-avian-flu-virus-infect-dairy-cows",
     "news_time": 1738864020.0,
     "news_categories": [
         "science"
     ],
     "news_source_lang": "en",
-    "news_group": 90
+    "news_group": 109
 }

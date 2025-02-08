@@ -1,0 +1,14 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c20g288yldko",
+    "news_header": "Den brittiska regeringen kr\u00e4ver tillg\u00e5ng till krypterad data fr\u00e5n Apple-anv\u00e4ndare, med h\u00e4nvisning till nationell s\u00e4kerhet, medan Apple f\u00f6rsvarar anv\u00e4ndarnas integritet.",
+    "news_original_title": "UK demands access to Apple users' encrypted data",
+    "news_text": "Den brittiska regeringen har beg\u00e4rt tillg\u00e5ng till krypterad data som lagras av Apple-anv\u00e4ndare globalt och h\u00e4vdar att det \u00e4r n\u00f6dv\u00e4ndigt f\u00f6r nationell s\u00e4kerhet. F\u00f6r n\u00e4rvarande kan endast Apple-kontoinnehavaren f\u00e5 tillg\u00e5ng till denna data p\u00e5 grund av end-to-end-kryptering, som Apple betonar som en grundl\u00e4ggande r\u00e4ttighet till integritet. Integritetsf\u00f6respr\u00e5kare har kritiserat kravet som en utan motstycke attack p\u00e5 individens integritet. Apple har tidigare sagt att de skulle dra tillbaka krypteringstj\u00e4nster fr\u00e5n den brittiska marknaden hellre \u00e4n att f\u00f6lja s\u00e5dana krav. Regeringen insisterar p\u00e5 att denna beg\u00e4ran inte inneb\u00e4r mass\u00f6vervakning och att de skulle f\u00f6lja lagliga processer f\u00f6r specifika fall. Experter varnar dock f\u00f6r att s\u00e5dana \u00e5tg\u00e4rder kan undergr\u00e4va medborgerliga r\u00e4ttigheter och integritet f\u00f6r alla medborgare.",
+    "news_url": "https://www.bbc.com/news/articles/c20g288yldko",
+    "news_time": 1738934820.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "sv",
+    "news_group": -1
+}
