@@ -73,14 +73,14 @@ const articles = [
         "news_id": "nasdaq_765239802278",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "If You Bought 1 Share of Apple at Its IPO, Here's How Many Shares You Would Own Now",
+        "news_header": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
         "news_epoch": 1739002080.0,
         "news_categories": [
             "business",
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/if-you-bought-1-share-apple-its-ipo-heres-how-many-shares-you-would-own-now-1",
-        "news_original_title": "If You Bought 1 Share of Apple at Its IPO, Here's How Many Shares You Would Own Now",
+        "news_original_title": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
         "news_group": -1
     },
     {
@@ -94,7 +94,7 @@ const articles = [
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/amds-ai-data-center-revenue-soars-shares-sink-it-time-buy-stock-dip",
-        "news_original_title": "AMD's AI Data Center Revenue Soars but Shares Sink. Is It Time to Buy the Stock on the Dip?",
+        "news_original_title": "AMD&#x27;s AI Data Center Revenue Soars but Shares Sink. Is It Time to Buy the Stock on the Dip?",
         "news_group": -1
     },
     {
@@ -168,14 +168,14 @@ const articles = [
         "news_id": "nasdaq_415634613256",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "I'm Not Counting on Social Security COLAs to Carry Me Through Retirement. Here's What I'm Doing to Combat Inflation Instead",
+        "news_header": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
         "news_epoch": 1739001480.0,
         "news_categories": [
             "business",
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/im-not-counting-social-security-colas-carry-me-through-retirement-heres-what-im-doing-4",
-        "news_original_title": "I'm Not Counting on Social Security COLAs to Carry Me Through Retirement. Here's What I'm Doing to Combat Inflation Instead",
+        "news_original_title": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
         "news_group": -1
     },
     {
@@ -210,13 +210,13 @@ const articles = [
         "news_id": "bbc_c203ql5l8zyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Modi's BJP wins big in high-stakes Delhi election",
+        "news_header": "Modi&#x27;s BJP wins big in high-stakes Delhi election",
         "news_epoch": 1739000820.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c203ql5l8zyo",
-        "news_original_title": "Modi's BJP wins big in high-stakes Delhi election",
+        "news_original_title": "Modi&#x27;s BJP wins big in high-stakes Delhi election",
         "news_group": -1
     },
     {
@@ -489,7 +489,7 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cn57p5r99xyo",
-        "news_original_title": "Trump says he is revoking Biden's security clearance",
+        "news_original_title": "Trump says he is revoking Biden&#x27;s security clearance",
         "news_group": -1
     },
     {
@@ -580,7 +580,7 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8qp6p39e9o",
-        "news_original_title": "Who's pulling the strings in the DR Congo crisis?",
+        "news_original_title": "Who&#x27;s pulling the strings in the DR Congo crisis?",
         "news_group": -1
     },
     {
@@ -689,7 +689,7 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gp5pw654lo",
-        "news_original_title": "How Japan sparked Trump's 40-year love affair with tariffs",
+        "news_original_title": "How Japan sparked Trump&#x27;s 40-year love affair with tariffs",
         "news_group": -1
     },
     {
@@ -764,13 +764,13 @@ const articles = [
         "news_id": "bbc_c75z9925lelo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Cheaper China e-bikes 'kick in teeth' for UK firms",
+        "news_header": "Cheaper China e-bikes &#x27;kick in teeth&#x27; for UK firms",
         "news_epoch": 1738958400.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c75z9925lelo",
-        "news_original_title": "Cheaper China e-bikes 'kick in teeth' for UK firms",
+        "news_original_title": "Cheaper China e-bikes &#x27;kick in teeth&#x27; for UK firms",
         "news_group": -1
     },
     {
@@ -784,7 +784,7 @@ const articles = [
             "tech"
         ],
         "news_url": "https://www.nasdaq.com/articles/top-analyst-reports-uber-comcast-gilead",
-        "news_original_title": "Top Analyst Reports for Uber, Comcast & Gilead",
+        "news_original_title": "Top Analyst Reports for Uber, Comcast &amp; Gilead",
         "news_group": -1
     },
     {
@@ -992,7 +992,7 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.dw.com/en/where-does-trump-s-sanction-order-leave-the-icc/a-71543944",
-        "news_original_title": "Where does Trump's sanction order leave the ICC?",
+        "news_original_title": "Where does Trump&#x27;s sanction order leave the ICC?",
         "news_group": -1
     },
     {
@@ -1045,7 +1045,7 @@ const articles = [
             "tech"
         ],
         "news_url": "https://www.nasdaq.com/articles/trumps-tariffs-and-their-impact-auto-etfs",
-        "news_original_title": "Trump's Tariffs and Their Impact on Auto ETFs",
+        "news_original_title": "Trump&#x27;s Tariffs and Their Impact on Auto ETFs",
         "news_group": 116
     },
     {
@@ -1058,7 +1058,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.dw.com/en/will-donald-trump-s-tariff-gamble-pay-off/a-71493993",
-        "news_original_title": "Will Donald Trump's tariff gamble pay off?",
+        "news_original_title": "Will Donald Trump&#x27;s tariff gamble pay off?",
         "news_group": 116
     },
     {
@@ -1071,7 +1071,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cy08dz47v8ro",
-        "news_original_title": "'His hands were everywhere' - women accuse surviving Fayed brother of sexual assault",
+        "news_original_title": "&#x27;His hands were everywhere&#x27; - women accuse surviving Fayed brother of sexual assault",
         "news_group": -1
     },
     {
@@ -1175,7 +1175,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g288yldko",
-        "news_original_title": "UK demands access to Apple users' encrypted data",
+        "news_original_title": "UK demands access to Apple users&#x27; encrypted data",
         "news_group": -1
     },
     {
@@ -1227,7 +1227,7 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.dw.com/en/taking-stock-of-pakistan-s-government-a-year-after-elections/a-71541070",
-        "news_original_title": "Taking stock of Pakistan's government a year after elections",
+        "news_original_title": "Taking stock of Pakistan&#x27;s government a year after elections",
         "news_group": -1
     },
     {
@@ -1347,7 +1347,7 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.dw.com/en/niger-s-icrc-ban-sends-shock-waves-raises-questions/a-71533586",
-        "news_original_title": "Niger's ICRC ban sends shock waves, raises questions",
+        "news_original_title": "Niger&#x27;s ICRC ban sends shock waves, raises questions",
         "news_group": -1
     },
     {
@@ -1386,7 +1386,7 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.dw.com/en/indians-deported-from-the-us-devastated-after-risking-everything/a-71537261",
-        "news_original_title": "Indians deported from the US: 'Devastated after risking everything'",
+        "news_original_title": "Indians deported from the US: &#x27;Devastated after risking everything&#x27;",
         "news_group": -1
     },
     {
@@ -1425,7 +1425,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdjdmvplm8vo",
-        "news_original_title": "'Our mortgage may now go up by less than \u00a3125 a month'",
+        "news_original_title": "&#x27;Our mortgage may now go up by less than \u00a3125 a month&#x27;",
         "news_group": -1
     },
     {
@@ -1451,7 +1451,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cq5gpyv4dnwo",
-        "news_original_title": "Some on benefits are 'taking the mickey', says minister",
+        "news_original_title": "Some on benefits are &#x27;taking the mickey&#x27;, says minister",
         "news_group": -1
     },
     {
@@ -1536,13 +1536,13 @@ const articles = [
         "news_id": "bbc_ce85wx9jjndo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Concern UK's AI ambitions could lead to water shortages",
+        "news_header": "Concern UK&#x27;s AI ambitions could lead to water shortages",
         "news_epoch": 1738885680.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce85wx9jjndo",
-        "news_original_title": "Concern UK's AI ambitions could lead to water shortages",
+        "news_original_title": "Concern UK&#x27;s AI ambitions could lead to water shortages",
         "news_group": -1
     },
     {
@@ -1555,7 +1555,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce8jpj3z3n2o",
-        "news_original_title": "\u00a322bn for 'unproven' green tech could raise bills, MPs warn",
+        "news_original_title": "\u00a322bn for &#x27;unproven&#x27; green tech could raise bills, MPs warn",
         "news_group": -1
     },
     {
@@ -1674,7 +1674,7 @@ const articles = [
             "commodities"
         ],
         "news_url": "https://www.nasdaq.com/articles/don-durrett-gold-silver-price-targets-and-15-must-own-silver-stocks",
-        "news_original_title": "Don Durrett: Gold, Silver Price Targets and 15 &quot;Must-Own&quot; Silver Stocks",
+        "news_original_title": "Don Durrett: Gold, Silver Price Targets and 15 &amp;quot;Must-Own&amp;quot; Silver Stocks",
         "news_group": -1
     },
     {
@@ -1799,7 +1799,7 @@ const articles = [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c805mjxe2y9o",
-        "news_original_title": "'Build baby build', says PM as he sets out nuclear plan",
+        "news_original_title": "&#x27;Build baby build&#x27;, says PM as he sets out nuclear plan",
         "news_group": -1
     },
     {
@@ -2067,7 +2067,7 @@ const articles = [
         "news_id": "bbc_c5ypn8jz9q7o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "En gr\u00e4vling har vunnit 2024 \u00e5rs Wildlife Photographer of the Year People's Choice Award f\u00f6r ett foto d\u00e4r den beundrar graffiti i Banksy-stil.",
+        "news_header": "En gr\u00e4vling har vunnit 2024 \u00e5rs Wildlife Photographer of the Year People&#x27;s Choice Award f\u00f6r ett foto d\u00e4r den beundrar graffiti i Banksy-stil.",
         "news_epoch": 1738711980.0,
         "news_categories": [
             "science"
@@ -2138,7 +2138,7 @@ const articles = [
             "science"
         ],
         "news_url": "https://www.dw.com/en/us-science-funding-freeze-a-threat-to-academic-freedom/a-71501071",
-        "news_original_title": "US science funding freeze a 'threat to academic freedom'",
+        "news_original_title": "US science funding freeze a &#x27;threat to academic freedom&#x27;",
         "news_group": -1
     },
     {
@@ -2164,7 +2164,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.dw.com/en/trump-s-tariffs-stoke-trade-war-inflation-fears/a-71489678",
-        "news_original_title": "Trump's tariffs stoke trade war, inflation fears",
+        "news_original_title": "Trump&#x27;s tariffs stoke trade war, inflation fears",
         "news_group": 116
     },
     {
@@ -2197,7 +2197,7 @@ const articles = [
         "news_id": "nasdaq_248103433121",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "USA:s aktier s\u00e5g vinster i januari, med S&P 500 n\u00e4ra rekordh\u00f6jder trots blandade resultatrapporter. Marknaden p\u00e5verkas av tullar, AI-utveckling och ekonomiska data.",
+        "news_header": "USA:s aktier s\u00e5g vinster i januari, med S&amp;P 500 n\u00e4ra rekordh\u00f6jder trots blandade resultatrapporter. Marknaden p\u00e5verkas av tullar, AI-utveckling och ekonomiska data.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2210,7 +2210,7 @@ const articles = [
         "news_id": "nasdaq_404967353099",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Marknaden visade positiva trender i januari, med amerikanska aktier som steg och S&P 500 som n\u00e5dde rekordh\u00f6ga niv\u00e5er. Oro uppstod dock \u00f6ver tullar och AI-relaterade aktier.",
+        "news_header": "Marknaden visade positiva trender i januari, med amerikanska aktier som steg och S&amp;P 500 som n\u00e5dde rekordh\u00f6ga niv\u00e5er. Oro uppstod dock \u00f6ver tullar och AI-relaterade aktier.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2223,7 +2223,7 @@ const articles = [
         "news_id": "nasdaq_576264714658",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Marknadsuppdateringar f\u00f6r januari framh\u00e4ver positiv utveckling f\u00f6r amerikanska aktier, med nya rekordniv\u00e5er i S&P 500 och oro \u00f6ver tullar och AI-utvecklingar.",
+        "news_header": "Marknadsuppdateringar f\u00f6r januari framh\u00e4ver positiv utveckling f\u00f6r amerikanska aktier, med nya rekordniv\u00e5er i S&amp;P 500 och oro \u00f6ver tullar och AI-utvecklingar.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2236,7 +2236,7 @@ const articles = [
         "news_id": "nasdaq_426108650177",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Marknaden visade positiv utveckling i januari, med amerikanska aktier som steg och S&P 500 n\u00e5dde rekordniv\u00e5er trots oro \u00f6ver tullar och AI-utveckling.",
+        "news_header": "Marknaden visade positiv utveckling i januari, med amerikanska aktier som steg och S&amp;P 500 n\u00e5dde rekordniv\u00e5er trots oro \u00f6ver tullar och AI-utveckling.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2294,20 +2294,20 @@ const articles = [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8256l20l0o",
-        "news_original_title": "Scenic loch becomes magnet for Scotland's plastic waste",
+        "news_original_title": "Scenic loch becomes magnet for Scotland&#x27;s plastic waste",
         "news_group": -1
     },
     {
         "news_id": "bbc_cwyeg6r2771o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Utraderade s\u00f6dra Darwins grodor har 'f\u00f6tt' 33 unga i Storbritannien som en del av en bevarandeinsats mot en d\u00f6dlig svampsjukdom.",
+        "news_header": "Utraderade s\u00f6dra Darwins grodor har &#x27;f\u00f6tt&#x27; 33 unga i Storbritannien som en del av en bevarandeinsats mot en d\u00f6dlig svampsjukdom.",
         "news_epoch": 1738536660.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwyeg6r2771o",
-        "news_original_title": "Endangered frog dads travel 7,000 miles to 'give birth'",
+        "news_original_title": "Endangered frog dads travel 7,000 miles to &#x27;give birth&#x27;",
         "news_group": -1
     },
     {
@@ -2359,7 +2359,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.dw.com/en/brics-currency-is-trump-s-tariff-threat-justified/a-70934600",
-        "news_original_title": "BRICS currency: Is Trump's tariff threat justified?",
+        "news_original_title": "BRICS currency: Is Trump&#x27;s tariff threat justified?",
         "news_group": -1
     },
     {
@@ -2411,7 +2411,7 @@ const articles = [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/crm7d2yv878o",
-        "news_original_title": "Farmers in bird flu 'panic' call for UK vaccine plan",
+        "news_original_title": "Farmers in bird flu &#x27;panic&#x27; call for UK vaccine plan",
         "news_group": -1
     },
     {
@@ -2450,7 +2450,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.dw.com/en/competitiveness-compass-how-eu-aims-to-keep-up-with-the-world-s-top-economies/a-71446295",
-        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world's top economies",
+        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world&#x27;s top economies",
         "news_group": 117
     },
     {
@@ -2463,7 +2463,7 @@ const articles = [
             "science"
         ],
         "news_url": "https://www.dw.com/en/a-cure-for-hiv-one-of-the-hardest-goals-in-science/a-71445979",
-        "news_original_title": "A cure for HIV: 'One of the hardest goals in science'",
+        "news_original_title": "A cure for HIV: &#x27;One of the hardest goals in science&#x27;",
         "news_group": -1
     },
     {
@@ -2502,20 +2502,20 @@ const articles = [
             "science"
         ],
         "news_url": "https://www.dw.com/en/coca-cola-recall-due-to-excessively-high-chlorate-content/a-71437149",
-        "news_original_title": "Coca-Cola recall due to 'excessively high chlorate content'",
+        "news_original_title": "Coca-Cola recall due to &#x27;excessively high chlorate content&#x27;",
         "news_group": -1
     },
     {
         "news_id": "dw_a71432971",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Google kommer att uppdatera sina kartor f\u00f6r att visa 'Amerikabukten' och 'Mount McKinley' n\u00e4r officiella \u00e4ndringar g\u00f6rs av den amerikanska regeringen.",
+        "news_header": "Google kommer att uppdatera sina kartor f\u00f6r att visa &#x27;Amerikabukten&#x27; och &#x27;Mount McKinley&#x27; n\u00e4r officiella \u00e4ndringar g\u00f6rs av den amerikanska regeringen.",
         "news_epoch": 1738057380.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.dw.com/en/gulf-of-america-how-google-maps-handles-controversial-geography/a-71432971",
-        "news_original_title": "'Gulf of America': How Google Maps handles controversial geography",
+        "news_original_title": "&#x27;Gulf of America&#x27;: How Google Maps handles controversial geography",
         "news_group": -1
     },
     {
@@ -2541,7 +2541,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.dw.com/en/why-is-china-s-deepseek-sending-ai-stocks-spinning/a-71427330",
-        "news_original_title": "Why is China's DeepSeek sending AI stocks spinning?",
+        "news_original_title": "Why is China&#x27;s DeepSeek sending AI stocks spinning?",
         "news_group": -1
     },
     {
@@ -2554,7 +2554,7 @@ const articles = [
             "business"
         ],
         "news_url": "https://www.dw.com/en/why-brazil-s-currency-depreciation-is-back-to-haunt-lula/a-71391540",
-        "news_original_title": "Why Brazil's currency depreciation is back to haunt Lula",
+        "news_original_title": "Why Brazil&#x27;s currency depreciation is back to haunt Lula",
         "news_group": -1
     },
     {

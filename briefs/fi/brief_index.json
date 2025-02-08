@@ -73,14 +73,14 @@
         "news_id": "nasdaq_765239802278",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "If You Bought 1 Share of Apple at Its IPO, Here's How Many Shares You Would Own Now",
+        "news_header": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
         "news_epoch": 1739002080.0,
         "news_categories": [
             "business",
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/if-you-bought-1-share-apple-its-ipo-heres-how-many-shares-you-would-own-now-1",
-        "news_original_title": "If You Bought 1 Share of Apple at Its IPO, Here's How Many Shares You Would Own Now",
+        "news_original_title": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
         "news_group": -1
     },
     {
@@ -94,7 +94,7 @@
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/amds-ai-data-center-revenue-soars-shares-sink-it-time-buy-stock-dip",
-        "news_original_title": "AMD's AI Data Center Revenue Soars but Shares Sink. Is It Time to Buy the Stock on the Dip?",
+        "news_original_title": "AMD&#x27;s AI Data Center Revenue Soars but Shares Sink. Is It Time to Buy the Stock on the Dip?",
         "news_group": -1
     },
     {
@@ -168,14 +168,14 @@
         "news_id": "nasdaq_415634613256",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "I'm Not Counting on Social Security COLAs to Carry Me Through Retirement. Here's What I'm Doing to Combat Inflation Instead",
+        "news_header": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
         "news_epoch": 1739001480.0,
         "news_categories": [
             "business",
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/im-not-counting-social-security-colas-carry-me-through-retirement-heres-what-im-doing-4",
-        "news_original_title": "I'm Not Counting on Social Security COLAs to Carry Me Through Retirement. Here's What I'm Doing to Combat Inflation Instead",
+        "news_original_title": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
         "news_group": -1
     },
     {
@@ -210,13 +210,13 @@
         "news_id": "bbc_c203ql5l8zyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Modi's BJP wins big in high-stakes Delhi election",
+        "news_header": "Modi&#x27;s BJP wins big in high-stakes Delhi election",
         "news_epoch": 1739000820.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c203ql5l8zyo",
-        "news_original_title": "Modi's BJP wins big in high-stakes Delhi election",
+        "news_original_title": "Modi&#x27;s BJP wins big in high-stakes Delhi election",
         "news_group": -1
     },
     {
@@ -489,7 +489,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cn57p5r99xyo",
-        "news_original_title": "Trump says he is revoking Biden's security clearance",
+        "news_original_title": "Trump says he is revoking Biden&#x27;s security clearance",
         "news_group": -1
     },
     {
@@ -580,7 +580,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8qp6p39e9o",
-        "news_original_title": "Who's pulling the strings in the DR Congo crisis?",
+        "news_original_title": "Who&#x27;s pulling the strings in the DR Congo crisis?",
         "news_group": -1
     },
     {
@@ -689,7 +689,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gp5pw654lo",
-        "news_original_title": "How Japan sparked Trump's 40-year love affair with tariffs",
+        "news_original_title": "How Japan sparked Trump&#x27;s 40-year love affair with tariffs",
         "news_group": -1
     },
     {
@@ -764,13 +764,13 @@
         "news_id": "bbc_c75z9925lelo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Cheaper China e-bikes 'kick in teeth' for UK firms",
+        "news_header": "Cheaper China e-bikes &#x27;kick in teeth&#x27; for UK firms",
         "news_epoch": 1738958400.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c75z9925lelo",
-        "news_original_title": "Cheaper China e-bikes 'kick in teeth' for UK firms",
+        "news_original_title": "Cheaper China e-bikes &#x27;kick in teeth&#x27; for UK firms",
         "news_group": -1
     },
     {
@@ -784,7 +784,7 @@
             "tech"
         ],
         "news_url": "https://www.nasdaq.com/articles/top-analyst-reports-uber-comcast-gilead",
-        "news_original_title": "Top Analyst Reports for Uber, Comcast & Gilead",
+        "news_original_title": "Top Analyst Reports for Uber, Comcast &amp; Gilead",
         "news_group": -1
     },
     {
@@ -992,7 +992,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/where-does-trump-s-sanction-order-leave-the-icc/a-71543944",
-        "news_original_title": "Where does Trump's sanction order leave the ICC?",
+        "news_original_title": "Where does Trump&#x27;s sanction order leave the ICC?",
         "news_group": -1
     },
     {
@@ -1025,7 +1025,7 @@
         "news_id": "bbc_c5yd828009wo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Energiaturvallisuus- ja Net Zero -sihteeri Ed Miliband ei ole paljastanut henkil\u00f6kohtaista kantaansa Heathrow'n lentokent\u00e4n laajentamiseen, vaikka Labour tukee kolmatta kiitorataa. H\u00e4n korosti tiukkojen ymp\u00e4rist\u00f6normien ja hiilidioksidibudjettien tarvetta tulevissa p\u00e4\u00e4t\u00f6ksiss\u00e4.",
+        "news_header": "Energiaturvallisuus- ja Net Zero -sihteeri Ed Miliband ei ole paljastanut henkil\u00f6kohtaista kantaansa Heathrow&#x27;n lentokent\u00e4n laajentamiseen, vaikka Labour tukee kolmatta kiitorataa. H\u00e4n korosti tiukkojen ymp\u00e4rist\u00f6normien ja hiilidioksidibudjettien tarvetta tulevissa p\u00e4\u00e4t\u00f6ksiss\u00e4.",
         "news_epoch": 1738945020.0,
         "news_categories": [
             "business"
@@ -1045,20 +1045,20 @@
             "tech"
         ],
         "news_url": "https://www.nasdaq.com/articles/trumps-tariffs-and-their-impact-auto-etfs",
-        "news_original_title": "Trump's Tariffs and Their Impact on Auto ETFs",
+        "news_original_title": "Trump&#x27;s Tariffs and Their Impact on Auto ETFs",
         "news_group": 116
     },
     {
         "news_id": "dw_a71493993",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Donald Trump palasi Valkoiseen taloon, ja useat Yhdysvaltojen liittolaiset, kuten Meksiko, Kanada, Kolumbia ja Panama, ovat tehneet my\u00f6nnytyksi\u00e4 v\u00e4ltt\u00e4\u00e4kseen tullit. Asiantuntijat varoittavat kuitenkin, ett\u00e4 Trump'sin pakottava kauppastrategia voi johtaa taloudelliseen ep\u00e4varmuuteen ja pitk\u00e4n aikav\u00e4lin seurauksiin.",
+        "news_header": "Donald Trump palasi Valkoiseen taloon, ja useat Yhdysvaltojen liittolaiset, kuten Meksiko, Kanada, Kolumbia ja Panama, ovat tehneet my\u00f6nnytyksi\u00e4 v\u00e4ltt\u00e4\u00e4kseen tullit. Asiantuntijat varoittavat kuitenkin, ett\u00e4 Trump&#x27;sin pakottava kauppastrategia voi johtaa taloudelliseen ep\u00e4varmuuteen ja pitk\u00e4n aikav\u00e4lin seurauksiin.",
         "news_epoch": 1738942740.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.dw.com/en/will-donald-trump-s-tariff-gamble-pay-off/a-71493993",
-        "news_original_title": "Will Donald Trump's tariff gamble pay off?",
+        "news_original_title": "Will Donald Trump&#x27;s tariff gamble pay off?",
         "news_group": 116
     },
     {
@@ -1071,7 +1071,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cy08dz47v8ro",
-        "news_original_title": "'His hands were everywhere' - women accuse surviving Fayed brother of sexual assault",
+        "news_original_title": "&#x27;His hands were everywhere&#x27; - women accuse surviving Fayed brother of sexual assault",
         "news_group": -1
     },
     {
@@ -1175,7 +1175,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g288yldko",
-        "news_original_title": "UK demands access to Apple users' encrypted data",
+        "news_original_title": "UK demands access to Apple users&#x27; encrypted data",
         "news_group": -1
     },
     {
@@ -1227,7 +1227,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/taking-stock-of-pakistan-s-government-a-year-after-elections/a-71541070",
-        "news_original_title": "Taking stock of Pakistan's government a year after elections",
+        "news_original_title": "Taking stock of Pakistan&#x27;s government a year after elections",
         "news_group": -1
     },
     {
@@ -1347,7 +1347,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/niger-s-icrc-ban-sends-shock-waves-raises-questions/a-71533586",
-        "news_original_title": "Niger's ICRC ban sends shock waves, raises questions",
+        "news_original_title": "Niger&#x27;s ICRC ban sends shock waves, raises questions",
         "news_group": -1
     },
     {
@@ -1386,7 +1386,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/indians-deported-from-the-us-devastated-after-risking-everything/a-71537261",
-        "news_original_title": "Indians deported from the US: 'Devastated after risking everything'",
+        "news_original_title": "Indians deported from the US: &#x27;Devastated after risking everything&#x27;",
         "news_group": -1
     },
     {
@@ -1425,7 +1425,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdjdmvplm8vo",
-        "news_original_title": "'Our mortgage may now go up by less than \u00a3125 a month'",
+        "news_original_title": "&#x27;Our mortgage may now go up by less than \u00a3125 a month&#x27;",
         "news_group": -1
     },
     {
@@ -1451,7 +1451,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cq5gpyv4dnwo",
-        "news_original_title": "Some on benefits are 'taking the mickey', says minister",
+        "news_original_title": "Some on benefits are &#x27;taking the mickey&#x27;, says minister",
         "news_group": -1
     },
     {
@@ -1536,13 +1536,13 @@
         "news_id": "bbc_ce85wx9jjndo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Concern UK's AI ambitions could lead to water shortages",
+        "news_header": "Concern UK&#x27;s AI ambitions could lead to water shortages",
         "news_epoch": 1738885680.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce85wx9jjndo",
-        "news_original_title": "Concern UK's AI ambitions could lead to water shortages",
+        "news_original_title": "Concern UK&#x27;s AI ambitions could lead to water shortages",
         "news_group": -1
     },
     {
@@ -1555,7 +1555,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce8jpj3z3n2o",
-        "news_original_title": "\u00a322bn for 'unproven' green tech could raise bills, MPs warn",
+        "news_original_title": "\u00a322bn for &#x27;unproven&#x27; green tech could raise bills, MPs warn",
         "news_group": -1
     },
     {
@@ -1674,7 +1674,7 @@
             "commodities"
         ],
         "news_url": "https://www.nasdaq.com/articles/don-durrett-gold-silver-price-targets-and-15-must-own-silver-stocks",
-        "news_original_title": "Don Durrett: Gold, Silver Price Targets and 15 &quot;Must-Own&quot; Silver Stocks",
+        "news_original_title": "Don Durrett: Gold, Silver Price Targets and 15 &amp;quot;Must-Own&amp;quot; Silver Stocks",
         "news_group": -1
     },
     {
@@ -1799,7 +1799,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c805mjxe2y9o",
-        "news_original_title": "'Build baby build', says PM as he sets out nuclear plan",
+        "news_original_title": "&#x27;Build baby build&#x27;, says PM as he sets out nuclear plan",
         "news_group": -1
     },
     {
@@ -2138,7 +2138,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/us-science-funding-freeze-a-threat-to-academic-freedom/a-71501071",
-        "news_original_title": "US science funding freeze a 'threat to academic freedom'",
+        "news_original_title": "US science funding freeze a &#x27;threat to academic freedom&#x27;",
         "news_group": -1
     },
     {
@@ -2164,7 +2164,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/trump-s-tariffs-stoke-trade-war-inflation-fears/a-71489678",
-        "news_original_title": "Trump's tariffs stoke trade war, inflation fears",
+        "news_original_title": "Trump&#x27;s tariffs stoke trade war, inflation fears",
         "news_group": 116
     },
     {
@@ -2197,7 +2197,7 @@
         "news_id": "nasdaq_248103433121",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Yhdysvaltojen osakkeet nousivat tammikuussa, S&P 500 l\u00e4hestyi enn\u00e4tystasoja huolimatta vaihtelevista tulosraporteista. Markkinoita vaikuttavat tullit, teko\u00e4lykehitykset ja taloustiedot.",
+        "news_header": "Yhdysvaltojen osakkeet nousivat tammikuussa, S&amp;P 500 l\u00e4hestyi enn\u00e4tystasoja huolimatta vaihtelevista tulosraporteista. Markkinoita vaikuttavat tullit, teko\u00e4lykehitykset ja taloustiedot.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2210,7 +2210,7 @@
         "news_id": "nasdaq_404967353099",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Markkinat n\u00e4yttiv\u00e4t positiivisia suuntauksia tammikuussa, Yhdysvaltain osakkeet nousivat ja S&P 500 saavutti enn\u00e4tyskorkeudet. Huolia her\u00e4ttiv\u00e4t kuitenkin tullit ja AI-liittyv\u00e4t osakkeet.",
+        "news_header": "Markkinat n\u00e4yttiv\u00e4t positiivisia suuntauksia tammikuussa, Yhdysvaltain osakkeet nousivat ja S&amp;P 500 saavutti enn\u00e4tyskorkeudet. Huolia her\u00e4ttiv\u00e4t kuitenkin tullit ja AI-liittyv\u00e4t osakkeet.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2223,7 +2223,7 @@
         "news_id": "nasdaq_576264714658",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Markkinap\u00e4ivitykset tammikuulta korostavat Yhdysvaltojen osakkeiden positiivista kehityst\u00e4, S&P 500:n uusista enn\u00e4tystasoista sek\u00e4 huolista tulleista ja teko\u00e4lykehityksist\u00e4.",
+        "news_header": "Markkinap\u00e4ivitykset tammikuulta korostavat Yhdysvaltojen osakkeiden positiivista kehityst\u00e4, S&amp;P 500:n uusista enn\u00e4tystasoista sek\u00e4 huolista tulleista ja teko\u00e4lykehityksist\u00e4.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2236,7 +2236,7 @@
         "news_id": "nasdaq_426108650177",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Markkinat osoittivat positiivista kehityst\u00e4 tammikuussa, Yhdysvaltain osakkeet nousivat ja S&P 500 saavutti enn\u00e4tystasot huolimatta tullien ja teko\u00e4lykehitysten huolista.",
+        "news_header": "Markkinat osoittivat positiivista kehityst\u00e4 tammikuussa, Yhdysvaltain osakkeet nousivat ja S&amp;P 500 saavutti enn\u00e4tystasot huolimatta tullien ja teko\u00e4lykehitysten huolista.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2294,20 +2294,20 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8256l20l0o",
-        "news_original_title": "Scenic loch becomes magnet for Scotland's plastic waste",
+        "news_original_title": "Scenic loch becomes magnet for Scotland&#x27;s plastic waste",
         "news_group": -1
     },
     {
         "news_id": "bbc_cwyeg6r2771o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Uhanalaiset etel\u00e4iset Darwinin sammakot ovat 'synnytt\u00e4neet' 33 nuorta Isossa-Britanniassa osana suojelutoimia tappavaa sienitautia vastaan.",
+        "news_header": "Uhanalaiset etel\u00e4iset Darwinin sammakot ovat &#x27;synnytt\u00e4neet&#x27; 33 nuorta Isossa-Britanniassa osana suojelutoimia tappavaa sienitautia vastaan.",
         "news_epoch": 1738536660.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwyeg6r2771o",
-        "news_original_title": "Endangered frog dads travel 7,000 miles to 'give birth'",
+        "news_original_title": "Endangered frog dads travel 7,000 miles to &#x27;give birth&#x27;",
         "news_group": -1
     },
     {
@@ -2359,7 +2359,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/brics-currency-is-trump-s-tariff-threat-justified/a-70934600",
-        "news_original_title": "BRICS currency: Is Trump's tariff threat justified?",
+        "news_original_title": "BRICS currency: Is Trump&#x27;s tariff threat justified?",
         "news_group": -1
     },
     {
@@ -2411,7 +2411,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/crm7d2yv878o",
-        "news_original_title": "Farmers in bird flu 'panic' call for UK vaccine plan",
+        "news_original_title": "Farmers in bird flu &#x27;panic&#x27; call for UK vaccine plan",
         "news_group": -1
     },
     {
@@ -2450,7 +2450,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/competitiveness-compass-how-eu-aims-to-keep-up-with-the-world-s-top-economies/a-71446295",
-        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world's top economies",
+        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world&#x27;s top economies",
         "news_group": 117
     },
     {
@@ -2463,7 +2463,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/a-cure-for-hiv-one-of-the-hardest-goals-in-science/a-71445979",
-        "news_original_title": "A cure for HIV: 'One of the hardest goals in science'",
+        "news_original_title": "A cure for HIV: &#x27;One of the hardest goals in science&#x27;",
         "news_group": -1
     },
     {
@@ -2502,20 +2502,20 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/coca-cola-recall-due-to-excessively-high-chlorate-content/a-71437149",
-        "news_original_title": "Coca-Cola recall due to 'excessively high chlorate content'",
+        "news_original_title": "Coca-Cola recall due to &#x27;excessively high chlorate content&#x27;",
         "news_group": -1
     },
     {
         "news_id": "dw_a71432971",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Google p\u00e4ivitt\u00e4\u00e4 karttansa n\u00e4ytt\u00e4m\u00e4\u00e4n 'Amerikanlahden' ja 'Mount McKinleyn', kun viralliset muutokset tehd\u00e4\u00e4n Yhdysvaltojen hallituksen toimesta.",
+        "news_header": "Google p\u00e4ivitt\u00e4\u00e4 karttansa n\u00e4ytt\u00e4m\u00e4\u00e4n &#x27;Amerikanlahden&#x27; ja &#x27;Mount McKinleyn&#x27;, kun viralliset muutokset tehd\u00e4\u00e4n Yhdysvaltojen hallituksen toimesta.",
         "news_epoch": 1738057380.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.dw.com/en/gulf-of-america-how-google-maps-handles-controversial-geography/a-71432971",
-        "news_original_title": "'Gulf of America': How Google Maps handles controversial geography",
+        "news_original_title": "&#x27;Gulf of America&#x27;: How Google Maps handles controversial geography",
         "news_group": -1
     },
     {
@@ -2541,7 +2541,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/why-is-china-s-deepseek-sending-ai-stocks-spinning/a-71427330",
-        "news_original_title": "Why is China's DeepSeek sending AI stocks spinning?",
+        "news_original_title": "Why is China&#x27;s DeepSeek sending AI stocks spinning?",
         "news_group": -1
     },
     {
@@ -2554,7 +2554,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/why-brazil-s-currency-depreciation-is-back-to-haunt-lula/a-71391540",
-        "news_original_title": "Why Brazil's currency depreciation is back to haunt Lula",
+        "news_original_title": "Why Brazil&#x27;s currency depreciation is back to haunt Lula",
         "news_group": -1
     },
     {

@@ -73,28 +73,28 @@
         "news_id": "nasdaq_765239802278",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "If You Bought 1 Share of Apple at Its IPO, Here's How Many Shares You Would Own Now",
+        "news_header": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
         "news_epoch": 1739002080.0,
         "news_categories": [
             "business",
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/if-you-bought-1-share-apple-its-ipo-heres-how-many-shares-you-would-own-now-1",
-        "news_original_title": "If You Bought 1 Share of Apple at Its IPO, Here's How Many Shares You Would Own Now",
+        "news_original_title": "If You Bought 1 Share of Apple at Its IPO, Here&#x27;s How Many Shares You Would Own Now",
         "news_group": -1
     },
     {
         "news_id": "nasdaq_491166338127",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "AMD's shares fell after Q4 earnings report despite strong data center revenue growth, raising questions about future investment.",
+        "news_header": "AMD&#x27;s shares fell after Q4 earnings report despite strong data center revenue growth, raising questions about future investment.",
         "news_epoch": 1739001900.0,
         "news_categories": [
             "business",
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/amds-ai-data-center-revenue-soars-shares-sink-it-time-buy-stock-dip",
-        "news_original_title": "AMD's AI Data Center Revenue Soars but Shares Sink. Is It Time to Buy the Stock on the Dip?",
+        "news_original_title": "AMD&#x27;s AI Data Center Revenue Soars but Shares Sink. Is It Time to Buy the Stock on the Dip?",
         "news_group": -1
     },
     {
@@ -168,14 +168,14 @@
         "news_id": "nasdaq_415634613256",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "I'm Not Counting on Social Security COLAs to Carry Me Through Retirement. Here's What I'm Doing to Combat Inflation Instead",
+        "news_header": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
         "news_epoch": 1739001480.0,
         "news_categories": [
             "business",
             "markets"
         ],
         "news_url": "https://www.nasdaq.com/articles/im-not-counting-social-security-colas-carry-me-through-retirement-heres-what-im-doing-4",
-        "news_original_title": "I'm Not Counting on Social Security COLAs to Carry Me Through Retirement. Here's What I'm Doing to Combat Inflation Instead",
+        "news_original_title": "I&#x27;m Not Counting on Social Security COLAs to Carry Me Through Retirement. Here&#x27;s What I&#x27;m Doing to Combat Inflation Instead",
         "news_group": -1
     },
     {
@@ -210,13 +210,13 @@
         "news_id": "bbc_c203ql5l8zyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Modi's BJP wins big in high-stakes Delhi election",
+        "news_header": "Modi&#x27;s BJP wins big in high-stakes Delhi election",
         "news_epoch": 1739000820.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c203ql5l8zyo",
-        "news_original_title": "Modi's BJP wins big in high-stakes Delhi election",
+        "news_original_title": "Modi&#x27;s BJP wins big in high-stakes Delhi election",
         "news_group": -1
     },
     {
@@ -288,7 +288,7 @@
         "news_id": "bbc_cdd9p8g405no",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "A judge has temporarily blocked President Trump from placing 2,200 USAID workers on paid leave, while another judge blocked Elon Musk's initiative from accessing Treasury records.",
+        "news_header": "A judge has temporarily blocked President Trump from placing 2,200 USAID workers on paid leave, while another judge blocked Elon Musk&#x27;s initiative from accessing Treasury records.",
         "news_epoch": 1738996440.0,
         "news_categories": [
             "world"
@@ -301,7 +301,7 @@
         "news_id": "yle_7420142374",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "The Baltic States are integrating into the EU electricity network, distancing themselves from Russian electricity due to security concerns following Russia's invasion of Ukraine.",
+        "news_header": "The Baltic States are integrating into the EU electricity network, distancing themselves from Russian electricity due to security concerns following Russia&#x27;s invasion of Ukraine.",
         "news_epoch": 1738996140.0,
         "news_categories": [
             "world"
@@ -353,7 +353,7 @@
         "news_id": "yle_7420142371",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Samppa Lajunen's hotel fund faces potential losses as the main lender wants to sell Hotel Maria in Helsinki.",
+        "news_header": "Samppa Lajunen&#x27;s hotel fund faces potential losses as the main lender wants to sell Hotel Maria in Helsinki.",
         "news_epoch": 1738992180.0,
         "news_categories": [
             "business"
@@ -379,7 +379,7 @@
         "news_id": "yle_7420140135",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "A smart ring from Kouvola measures users' emotional load to identify work fatigue early.",
+        "news_header": "A smart ring from Kouvola measures users&#x27; emotional load to identify work fatigue early.",
         "news_epoch": 1738989660.0,
         "news_categories": [
             "science"
@@ -483,13 +483,13 @@
         "news_id": "bbc_cn57p5r99xyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Trump revokes Biden's security clearance, citing past actions and trust issues.",
+        "news_header": "Trump revokes Biden&#x27;s security clearance, citing past actions and trust issues.",
         "news_epoch": 1738979760.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cn57p5r99xyo",
-        "news_original_title": "Trump says he is revoking Biden's security clearance",
+        "news_original_title": "Trump says he is revoking Biden&#x27;s security clearance",
         "news_group": -1
     },
     {
@@ -509,7 +509,7 @@
         "news_id": "yle_7420142361",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Judge Carl Nichols has temporarily halted President Trump's layoffs of US Development Agency employees, aiming to reduce the workforce from 10,000 to hundreds.",
+        "news_header": "Judge Carl Nichols has temporarily halted President Trump&#x27;s layoffs of US Development Agency employees, aiming to reduce the workforce from 10,000 to hundreds.",
         "news_epoch": 1738976760.0,
         "news_categories": [
             "world"
@@ -522,7 +522,7 @@
         "news_id": "bbc_cjdep9j31l8o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "The third week of Donald Trump's second term saw significant actions including plans for Gaza, cuts to foreign aid, and various executive orders.",
+        "news_header": "The third week of Donald Trump&#x27;s second term saw significant actions including plans for Gaza, cuts to foreign aid, and various executive orders.",
         "news_epoch": 1738976220.0,
         "news_categories": [
             "world"
@@ -574,13 +574,13 @@
         "news_id": "bbc_cp8qp6p39e9o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "The M23 rebels' seizure of land in eastern DR Congo has led to a humanitarian crisis and regional tensions, with multiple countries involved.",
+        "news_header": "The M23 rebels&#x27; seizure of land in eastern DR Congo has led to a humanitarian crisis and regional tensions, with multiple countries involved.",
         "news_epoch": 1738972860.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8qp6p39e9o",
-        "news_original_title": "Who's pulling the strings in the DR Congo crisis?",
+        "news_original_title": "Who&#x27;s pulling the strings in the DR Congo crisis?",
         "news_group": -1
     },
     {
@@ -689,7 +689,7 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c4gp5pw654lo",
-        "news_original_title": "How Japan sparked Trump's 40-year love affair with tariffs",
+        "news_original_title": "How Japan sparked Trump&#x27;s 40-year love affair with tariffs",
         "news_group": -1
     },
     {
@@ -723,7 +723,7 @@
         "news_id": "nasdaq_241271330840",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "The 2024 Q4 earnings cycle is positive, with major AI companies Vertiv and Super Micro Computer set to report soon. Expectations for Vertiv show significant EPS growth, while Super Micro's estimates have decreased. There's a growing demand for nuclear energy as countries aim to triple its capacity, presenting investment opportunities.",
+        "news_header": "The 2024 Q4 earnings cycle is positive, with major AI companies Vertiv and Super Micro Computer set to report soon. Expectations for Vertiv show significant EPS growth, while Super Micro&#x27;s estimates have decreased. There&#x27;s a growing demand for nuclear energy as countries aim to triple its capacity, presenting investment opportunities.",
         "news_epoch": 1738964640.0,
         "news_categories": [
             "business",
@@ -751,7 +751,7 @@
         "news_id": "bbc_cednp7q41l2o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Ukraine's president reports the return of North Korean forces to the front lines in the Kursk region, following heavy casualties last month.",
+        "news_header": "Ukraine&#x27;s president reports the return of North Korean forces to the front lines in the Kursk region, following heavy casualties last month.",
         "news_epoch": 1738960740.0,
         "news_categories": [
             "world"
@@ -764,13 +764,13 @@
         "news_id": "bbc_c75z9925lelo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Cheaper China e-bikes 'kick in teeth' for UK firms",
+        "news_header": "Cheaper China e-bikes &#x27;kick in teeth&#x27; for UK firms",
         "news_epoch": 1738958400.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c75z9925lelo",
-        "news_original_title": "Cheaper China e-bikes 'kick in teeth' for UK firms",
+        "news_original_title": "Cheaper China e-bikes &#x27;kick in teeth&#x27; for UK firms",
         "news_group": -1
     },
     {
@@ -784,7 +784,7 @@
             "tech"
         ],
         "news_url": "https://www.nasdaq.com/articles/top-analyst-reports-uber-comcast-gilead",
-        "news_original_title": "Top Analyst Reports for Uber, Comcast & Gilead",
+        "news_original_title": "Top Analyst Reports for Uber, Comcast &amp; Gilead",
         "news_group": -1
     },
     {
@@ -889,7 +889,7 @@
         "news_id": "nasdaq_733739919376",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "X's stock has a 52-week low of $26.915 and a high of $48.125, with the last trade at $37.25.",
+        "news_header": "X&#x27;s stock has a 52-week low of $26.915 and a high of $48.125, with the last trade at $37.25.",
         "news_epoch": 1738955340.0,
         "news_categories": [
             "business",
@@ -945,7 +945,7 @@
         "news_id": "nasdaq_732341803629",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "X's stock has a 52-week low of $26.915 and a high of $48.125, with the last trade at $37.25.",
+        "news_header": "X&#x27;s stock has a 52-week low of $26.915 and a high of $48.125, with the last trade at $37.25.",
         "news_epoch": 1738955340.0,
         "news_categories": [
             "business",
@@ -973,7 +973,7 @@
         "news_id": "dw_a71539307",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Trump's suspension of US development aid halts projects in 130 countries, affecting millions and raising concerns about global hunger and stability.",
+        "news_header": "Trump&#x27;s suspension of US development aid halts projects in 130 countries, affecting millions and raising concerns about global hunger and stability.",
         "news_epoch": 1738954320.0,
         "news_categories": [
             "world"
@@ -992,7 +992,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/where-does-trump-s-sanction-order-leave-the-icc/a-71543944",
-        "news_original_title": "Where does Trump's sanction order leave the ICC?",
+        "news_original_title": "Where does Trump&#x27;s sanction order leave the ICC?",
         "news_group": -1
     },
     {
@@ -1025,7 +1025,7 @@
         "news_id": "bbc_c5yd828009wo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Ed Miliband, the Energy Security and Net Zero Secretary, has not disclosed his personal stance on Heathrow airport expansion, despite Labour's support for a third runway. He emphasized the need for strict environmental standards and carbon budgets in any future decision.",
+        "news_header": "Ed Miliband, the Energy Security and Net Zero Secretary, has not disclosed his personal stance on Heathrow airport expansion, despite Labour&#x27;s support for a third runway. He emphasized the need for strict environmental standards and carbon budgets in any future decision.",
         "news_epoch": 1738945020.0,
         "news_categories": [
             "business"
@@ -1038,27 +1038,27 @@
         "news_id": "nasdaq_555658660156",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Trump's new 10% tariff on Chinese imports may raise vehicle prices in the U.S., particularly affecting auto parts and major automakers like Ford and GM.",
+        "news_header": "Trump&#x27;s new 10% tariff on Chinese imports may raise vehicle prices in the U.S., particularly affecting auto parts and major automakers like Ford and GM.",
         "news_epoch": 1738944000.0,
         "news_categories": [
             "business",
             "tech"
         ],
         "news_url": "https://www.nasdaq.com/articles/trumps-tariffs-and-their-impact-auto-etfs",
-        "news_original_title": "Trump's Tariffs and Their Impact on Auto ETFs",
+        "news_original_title": "Trump&#x27;s Tariffs and Their Impact on Auto ETFs",
         "news_group": 116
     },
     {
         "news_id": "dw_a71493993",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "After Donald Trump's return to the White House, several US allies, including Mexico, Canada, Colombia, and Panama, have made concessions to avoid tariffs. However, experts warn that Trump's coercive trade strategy may lead to economic uncertainty and long-term repercussions.",
+        "news_header": "After Donald Trump&#x27;s return to the White House, several US allies, including Mexico, Canada, Colombia, and Panama, have made concessions to avoid tariffs. However, experts warn that Trump&#x27;s coercive trade strategy may lead to economic uncertainty and long-term repercussions.",
         "news_epoch": 1738942740.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.dw.com/en/will-donald-trump-s-tariff-gamble-pay-off/a-71493993",
-        "news_original_title": "Will Donald Trump's tariff gamble pay off?",
+        "news_original_title": "Will Donald Trump&#x27;s tariff gamble pay off?",
         "news_group": 116
     },
     {
@@ -1071,14 +1071,14 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cy08dz47v8ro",
-        "news_original_title": "'His hands were everywhere' - women accuse surviving Fayed brother of sexual assault",
+        "news_original_title": "&#x27;His hands were everywhere&#x27; - women accuse surviving Fayed brother of sexual assault",
         "news_group": -1
     },
     {
         "news_id": "arvopaperi_7cff4c1c3b8d46dbbc6b29f1fa879674",
         "news_source": "arvopaperi",
         "news_source_lang": "fi",
-        "news_header": "The Ento shareholders' Nomination Board proposes a Board of Directors with eight members, including re-elections and a new Chairman.",
+        "news_header": "The Ento shareholders&#x27; Nomination Board proposes a Board of Directors with eight members, including re-elections and a new Chairman.",
         "news_epoch": 1738942380.0,
         "news_categories": [
             "business"
@@ -1143,7 +1143,7 @@
         "news_id": "yle_7420141933",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Trump's meme currency value has dropped significantly, with experts likening it to a pyramid scheme.",
+        "news_header": "Trump&#x27;s meme currency value has dropped significantly, with experts likening it to a pyramid scheme.",
         "news_epoch": 1738935660.0,
         "news_categories": [
             "business"
@@ -1175,7 +1175,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g288yldko",
-        "news_original_title": "UK demands access to Apple users' encrypted data",
+        "news_original_title": "UK demands access to Apple users&#x27; encrypted data",
         "news_group": -1
     },
     {
@@ -1221,13 +1221,13 @@
         "news_id": "dw_a71541070",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Prime Minister Shehbaz Sharif's government faces political tensions following a contested election, with Imran Khan's PTI party banned and Khan calling for protests amid ongoing legal challenges.",
+        "news_header": "Prime Minister Shehbaz Sharif&#x27;s government faces political tensions following a contested election, with Imran Khan&#x27;s PTI party banned and Khan calling for protests amid ongoing legal challenges.",
         "news_epoch": 1738931820.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.dw.com/en/taking-stock-of-pakistan-s-government-a-year-after-elections/a-71541070",
-        "news_original_title": "Taking stock of Pakistan's government a year after elections",
+        "news_original_title": "Taking stock of Pakistan&#x27;s government a year after elections",
         "news_group": -1
     },
     {
@@ -1260,7 +1260,7 @@
         "news_id": "sn_sharkhuntaerialphotovisualized",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "A study captures sharks' behavior as they coordinate attacks on prey.",
+        "news_header": "A study captures sharks&#x27; behavior as they coordinate attacks on prey.",
         "news_epoch": 1738929600.0,
         "news_categories": [
             "science"
@@ -1341,13 +1341,13 @@
         "news_id": "dw_a71533586",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Niger's government unexpectedly banned the ICRC, closing its operations without prior warning, coinciding with the release of a report on humanitarian activities.",
+        "news_header": "Niger&#x27;s government unexpectedly banned the ICRC, closing its operations without prior warning, coinciding with the release of a report on humanitarian activities.",
         "news_epoch": 1738928280.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.dw.com/en/niger-s-icrc-ban-sends-shock-waves-raises-questions/a-71533586",
-        "news_original_title": "Niger's ICRC ban sends shock waves, raises questions",
+        "news_original_title": "Niger&#x27;s ICRC ban sends shock waves, raises questions",
         "news_group": -1
     },
     {
@@ -1386,7 +1386,7 @@
             "world"
         ],
         "news_url": "https://www.dw.com/en/indians-deported-from-the-us-devastated-after-risking-everything/a-71537261",
-        "news_original_title": "Indians deported from the US: 'Devastated after risking everything'",
+        "news_original_title": "Indians deported from the US: &#x27;Devastated after risking everything&#x27;",
         "news_group": -1
     },
     {
@@ -1425,7 +1425,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdjdmvplm8vo",
-        "news_original_title": "'Our mortgage may now go up by less than \u00a3125 a month'",
+        "news_original_title": "&#x27;Our mortgage may now go up by less than \u00a3125 a month&#x27;",
         "news_group": -1
     },
     {
@@ -1451,7 +1451,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/cq5gpyv4dnwo",
-        "news_original_title": "Some on benefits are 'taking the mickey', says minister",
+        "news_original_title": "Some on benefits are &#x27;taking the mickey&#x27;, says minister",
         "news_group": -1
     },
     {
@@ -1484,7 +1484,7 @@
         "news_id": "yle_7420141792",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "The EU's investment in open source AI models through the OpenEuroLLM project aims to foster European innovation and independence from American and Chinese language models.",
+        "news_header": "The EU&#x27;s investment in open source AI models through the OpenEuroLLM project aims to foster European innovation and independence from American and Chinese language models.",
         "news_epoch": 1738909920.0,
         "news_categories": [
             "business"
@@ -1510,7 +1510,7 @@
         "news_id": "yle_7420142162",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Konecranes' operating profit rose to EUR 146 million, with net sales up 5.5% to EUR 1,213 million.",
+        "news_header": "Konecranes&#x27; operating profit rose to EUR 146 million, with net sales up 5.5% to EUR 1,213 million.",
         "news_epoch": 1738905900.0,
         "news_categories": [
             "business"
@@ -1523,7 +1523,7 @@
         "news_id": "bbc_cly9jx0gve0o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "India's central bank cuts interest rates for the first time in nearly five years to stimulate growth amid slowing GDP.",
+        "news_header": "India&#x27;s central bank cuts interest rates for the first time in nearly five years to stimulate growth amid slowing GDP.",
         "news_epoch": 1738902540.0,
         "news_categories": [
             "business"
@@ -1536,13 +1536,13 @@
         "news_id": "bbc_ce85wx9jjndo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Concern UK's AI ambitions could lead to water shortages",
+        "news_header": "Concern UK&#x27;s AI ambitions could lead to water shortages",
         "news_epoch": 1738885680.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce85wx9jjndo",
-        "news_original_title": "Concern UK's AI ambitions could lead to water shortages",
+        "news_original_title": "Concern UK&#x27;s AI ambitions could lead to water shortages",
         "news_group": -1
     },
     {
@@ -1555,7 +1555,7 @@
             "business"
         ],
         "news_url": "https://www.bbc.com/news/articles/ce8jpj3z3n2o",
-        "news_original_title": "\u00a322bn for 'unproven' green tech could raise bills, MPs warn",
+        "news_original_title": "\u00a322bn for &#x27;unproven&#x27; green tech could raise bills, MPs warn",
         "news_group": -1
     },
     {
@@ -1674,7 +1674,7 @@
             "commodities"
         ],
         "news_url": "https://www.nasdaq.com/articles/don-durrett-gold-silver-price-targets-and-15-must-own-silver-stocks",
-        "news_original_title": "Don Durrett: Gold, Silver Price Targets and 15 &quot;Must-Own&quot; Silver Stocks",
+        "news_original_title": "Don Durrett: Gold, Silver Price Targets and 15 &amp;quot;Must-Own&amp;quot; Silver Stocks",
         "news_group": -1
     },
     {
@@ -1799,7 +1799,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/c805mjxe2y9o",
-        "news_original_title": "'Build baby build', says PM as he sets out nuclear plan",
+        "news_original_title": "&#x27;Build baby build&#x27;, says PM as he sets out nuclear plan",
         "news_group": -1
     },
     {
@@ -1846,7 +1846,7 @@
         "news_id": "sn_sleepingpillsbraineffects",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "A study reveals that sleep aids like Ambien disrupt the brain's natural cleaning process during sleep, raising concerns about their long-term use.",
+        "news_header": "A study reveals that sleep aids like Ambien disrupt the brain&#x27;s natural cleaning process during sleep, raising concerns about their long-term use.",
         "news_epoch": 1738855800.0,
         "news_categories": [
             "science"
@@ -1898,7 +1898,7 @@
         "news_id": "sn_extinctmoafungidroppingsecosystem",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "Ancient DNA from moa droppings reveals the fungi they consumed, crucial for New Zealand's forest ecosystems.",
+        "news_header": "Ancient DNA from moa droppings reveals the fungi they consumed, crucial for New Zealand&#x27;s forest ecosystems.",
         "news_epoch": 1738843200.0,
         "news_categories": [
             "science"
@@ -2002,7 +2002,7 @@
         "news_id": "sn_endangeredspeciesacttrumpesa",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "Trump's second administration may weaken the Endangered Species Act, impacting wildlife protections.",
+        "news_header": "Trump&#x27;s second administration may weaken the Endangered Species Act, impacting wildlife protections.",
         "news_epoch": 1738760400.0,
         "news_categories": [
             "science"
@@ -2054,7 +2054,7 @@
         "news_id": "bbc_ckg79vj17k2o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "The House of Lords committee finds the government's grey belt land proposal largely unnecessary, as significant changes have overshadowed it.",
+        "news_header": "The House of Lords committee finds the government&#x27;s grey belt land proposal largely unnecessary, as significant changes have overshadowed it.",
         "news_epoch": 1738715820.0,
         "news_categories": [
             "science"
@@ -2067,7 +2067,7 @@
         "news_id": "bbc_c5ypn8jz9q7o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "A badger has won the 2024 Wildlife Photographer of the Year People's Choice Award for a photo capturing it near Banksy-style graffiti.",
+        "news_header": "A badger has won the 2024 Wildlife Photographer of the Year People&#x27;s Choice Award for a photo capturing it near Banksy-style graffiti.",
         "news_epoch": 1738711980.0,
         "news_categories": [
             "science"
@@ -2138,7 +2138,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/us-science-funding-freeze-a-threat-to-academic-freedom/a-71501071",
-        "news_original_title": "US science funding freeze a 'threat to academic freedom'",
+        "news_original_title": "US science funding freeze a &#x27;threat to academic freedom&#x27;",
         "news_group": -1
     },
     {
@@ -2158,13 +2158,13 @@
         "news_id": "dw_a71489678",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Global stock markets reacted sharply to Trump's new tariffs on Canada, Mexico, and China, with immediate drops in Asian and European markets, a rally in the dollar, and rising oil prices. The tariffs, aimed at addressing trade imbalances, have raised concerns of a trade war and potential economic paralysis.",
+        "news_header": "Global stock markets reacted sharply to Trump&#x27;s new tariffs on Canada, Mexico, and China, with immediate drops in Asian and European markets, a rally in the dollar, and rising oil prices. The tariffs, aimed at addressing trade imbalances, have raised concerns of a trade war and potential economic paralysis.",
         "news_epoch": 1738646640.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.dw.com/en/trump-s-tariffs-stoke-trade-war-inflation-fears/a-71489678",
-        "news_original_title": "Trump's tariffs stoke trade war, inflation fears",
+        "news_original_title": "Trump&#x27;s tariffs stoke trade war, inflation fears",
         "news_group": 116
     },
     {
@@ -2197,7 +2197,7 @@
         "news_id": "nasdaq_248103433121",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "U.S. equities saw gains in January, with the S&P 500 nearing record highs despite mixed earnings reports. The market is influenced by tariffs, AI developments, and economic data.",
+        "news_header": "U.S. equities saw gains in January, with the S&amp;P 500 nearing record highs despite mixed earnings reports. The market is influenced by tariffs, AI developments, and economic data.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2210,7 +2210,7 @@
         "news_id": "nasdaq_404967353099",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "The market showed positive trends in January, with U.S. equities rising and the S&P 500 reaching record highs. However, concerns arose over tariffs and AI-related stocks.",
+        "news_header": "The market showed positive trends in January, with U.S. equities rising and the S&amp;P 500 reaching record highs. However, concerns arose over tariffs and AI-related stocks.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2223,7 +2223,7 @@
         "news_id": "nasdaq_576264714658",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Market updates for January highlight positive performance in U.S. equities, with new record highs in the S&P 500 and concerns over tariffs and AI developments.",
+        "news_header": "Market updates for January highlight positive performance in U.S. equities, with new record highs in the S&amp;P 500 and concerns over tariffs and AI developments.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2236,7 +2236,7 @@
         "news_id": "nasdaq_426108650177",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "The market showed positive performance in January, with U.S. equities rising and the S&P 500 reaching record highs despite concerns over tariffs and AI developments.",
+        "news_header": "The market showed positive performance in January, with U.S. equities rising and the S&amp;P 500 reaching record highs despite concerns over tariffs and AI developments.",
         "news_epoch": 1738592700.0,
         "news_categories": [
             "business"
@@ -2294,20 +2294,20 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp8256l20l0o",
-        "news_original_title": "Scenic loch becomes magnet for Scotland's plastic waste",
+        "news_original_title": "Scenic loch becomes magnet for Scotland&#x27;s plastic waste",
         "news_group": -1
     },
     {
         "news_id": "bbc_cwyeg6r2771o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Endangered Southern Darwin's frogs have 'given birth' to 33 young in the UK as part of a conservation effort against a deadly fungal disease.",
+        "news_header": "Endangered Southern Darwin&#x27;s frogs have &#x27;given birth&#x27; to 33 young in the UK as part of a conservation effort against a deadly fungal disease.",
         "news_epoch": 1738536660.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/cwyeg6r2771o",
-        "news_original_title": "Endangered frog dads travel 7,000 miles to 'give birth'",
+        "news_original_title": "Endangered frog dads travel 7,000 miles to &#x27;give birth&#x27;",
         "news_group": -1
     },
     {
@@ -2359,7 +2359,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/brics-currency-is-trump-s-tariff-threat-justified/a-70934600",
-        "news_original_title": "BRICS currency: Is Trump's tariff threat justified?",
+        "news_original_title": "BRICS currency: Is Trump&#x27;s tariff threat justified?",
         "news_group": -1
     },
     {
@@ -2379,7 +2379,7 @@
         "news_id": "dw_a71462282",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "China's economy struggles post-COVID-19 with weak domestic demand and a real estate crisis, while the US under Trump considers tariffs on Chinese imports.",
+        "news_header": "China&#x27;s economy struggles post-COVID-19 with weak domestic demand and a real estate crisis, while the US under Trump considers tariffs on Chinese imports.",
         "news_epoch": 1738323600.0,
         "news_categories": [
             "business"
@@ -2411,7 +2411,7 @@
             "science"
         ],
         "news_url": "https://www.bbc.com/news/articles/crm7d2yv878o",
-        "news_original_title": "Farmers in bird flu 'panic' call for UK vaccine plan",
+        "news_original_title": "Farmers in bird flu &#x27;panic&#x27; call for UK vaccine plan",
         "news_group": -1
     },
     {
@@ -2450,7 +2450,7 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/competitiveness-compass-how-eu-aims-to-keep-up-with-the-world-s-top-economies/a-71446295",
-        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world's top economies",
+        "news_original_title": "Competitiveness Compass: How EU aims to keep up with the world&#x27;s top economies",
         "news_group": 117
     },
     {
@@ -2463,7 +2463,7 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/a-cure-for-hiv-one-of-the-hardest-goals-in-science/a-71445979",
-        "news_original_title": "A cure for HIV: 'One of the hardest goals in science'",
+        "news_original_title": "A cure for HIV: &#x27;One of the hardest goals in science&#x27;",
         "news_group": -1
     },
     {
@@ -2502,20 +2502,20 @@
             "science"
         ],
         "news_url": "https://www.dw.com/en/coca-cola-recall-due-to-excessively-high-chlorate-content/a-71437149",
-        "news_original_title": "Coca-Cola recall due to 'excessively high chlorate content'",
+        "news_original_title": "Coca-Cola recall due to &#x27;excessively high chlorate content&#x27;",
         "news_group": -1
     },
     {
         "news_id": "dw_a71432971",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Google will update its Maps to show 'Gulf of America' and 'Mount McKinley' when official changes are made by the US government.",
+        "news_header": "Google will update its Maps to show &#x27;Gulf of America&#x27; and &#x27;Mount McKinley&#x27; when official changes are made by the US government.",
         "news_epoch": 1738057380.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.dw.com/en/gulf-of-america-how-google-maps-handles-controversial-geography/a-71432971",
-        "news_original_title": "'Gulf of America': How Google Maps handles controversial geography",
+        "news_original_title": "&#x27;Gulf of America&#x27;: How Google Maps handles controversial geography",
         "news_group": -1
     },
     {
@@ -2541,20 +2541,20 @@
             "business"
         ],
         "news_url": "https://www.dw.com/en/why-is-china-s-deepseek-sending-ai-stocks-spinning/a-71427330",
-        "news_original_title": "Why is China's DeepSeek sending AI stocks spinning?",
+        "news_original_title": "Why is China&#x27;s DeepSeek sending AI stocks spinning?",
         "news_group": -1
     },
     {
         "news_id": "dw_a71391540",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Brazil's currency, the real, fell to an all-time low, triggering economic turmoil and rising inflation, leading to declining approval ratings for President Lula.",
+        "news_header": "Brazil&#x27;s currency, the real, fell to an all-time low, triggering economic turmoil and rising inflation, leading to declining approval ratings for President Lula.",
         "news_epoch": 1737726180.0,
         "news_categories": [
             "business"
         ],
         "news_url": "https://www.dw.com/en/why-brazil-s-currency-depreciation-is-back-to-haunt-lula/a-71391540",
-        "news_original_title": "Why Brazil's currency depreciation is back to haunt Lula",
+        "news_original_title": "Why Brazil&#x27;s currency depreciation is back to haunt Lula",
         "news_group": -1
     },
     {
