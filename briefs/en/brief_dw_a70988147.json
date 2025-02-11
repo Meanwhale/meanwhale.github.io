@@ -1,14 +1,14 @@
 {
     "news_source": "dw",
     "news_id": "dw_a70988147",
-    "news_header": "A new strain of avian influenza has spread from wild birds to cattle in the US, raising concerns about potential human transmission.",
+    "news_header": "US authorities confirm spread of avian influenza D1.1 genotype from birds to cattle, raising concerns about potential human health risks.",
     "news_original_title": "Is US bird flu outbreak in cattle a global risk to humans?",
-    "news_text": "US authorities confirmed that a different strain of avian influenza, D1.1, was detected in dairy cows, indicating the virus has spread from wild birds to cattle. The outbreak began in late 2023 and has affected over 950 cattle herds across 16 states. While the risk to the general public remains low, the potential for human transmission is a concern, especially with the emergence of a second human case of H5N1 in the UK. Governments are ramping up vaccine stocks and surveillance as the situation evolves.",
+    "news_text": "US authorities have reported the detection of the D1.1 genotype of avian influenza in dairy cows, indicating that the virus has spread from wild birds to cattle. This outbreak, which began in late 2023, has affected over 950 cattle herds across 16 states and has also spread to Canada. While the public risk remains low, experts warn that the H5N1 variant could mutate and pose a significant health threat. Increased surveillance and vaccine stockpiling are being implemented in response to the outbreak.",
     "news_url": "https://www.dw.com/en/is-us-bird-flu-outbreak-in-cattle-a-global-risk-to-humans/a-70988147",
-    "news_time": 1738826700.0,
+    "news_time": 1739250840.0,
     "news_categories": [
         "science"
     ],
     "news_source_lang": "en",
-    "news_group": 132
+    "news_group": -1
 }

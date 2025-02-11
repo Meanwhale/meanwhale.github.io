@@ -1,0 +1,14 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c0m17d8827ko",
+    "news_header": "Tutkimus osoittaa, ett\u00e4 suuret teko\u00e4lychatbotit tiivist\u00e4v\u00e4t uutisia virheellisesti, mik\u00e4 her\u00e4tt\u00e4\u00e4 huolta v\u00e4\u00e4r\u00e4st\u00e4 tiedosta.",
+    "news_original_title": "AI chatbots unable to accurately summarise news, BBC finds",
+    "news_text": "BBC:n tutkimus paljasti, ett\u00e4 nelj\u00e4 suurta teko\u00e4lychatbottia\u2014OpenAI:n ChatGPT, Microsoftin Copilot, Googlen Gemini ja Perplexity AI\u2014tiivistiv\u00e4t uutistarinoita virheellisesti, ja niiden vastauksissa oli merkitt\u00e4vi\u00e4 virheit\u00e4 ja v\u00e4\u00e4ristymi\u00e4. BBC Newsin toimitusjohtaja Deborah Turness ilmaisi huolensa teko\u00e4lyn tuottaman v\u00e4\u00e4r\u00e4n tiedon mahdollisista todellisista vahingoista. Tutkimus osoitti, ett\u00e4 51% teko\u00e4lyn vastauksista sis\u00e4lsi merkitt\u00e4vi\u00e4 ongelmia, ja 19% sis\u00e4lsi tosiasiallisia virheit\u00e4. BBC pyrkii yhteisty\u00f6h\u00f6n teko\u00e4lyteknologiatoimittajien kanssa n\u00e4iden ongelmien ratkaisemiseksi ja kehotti teknologiayrityksi\u00e4 harkitsemaan teko\u00e4lyn uutistiivistysten uudelleen.",
+    "news_url": "https://www.bbc.com/news/articles/c0m17d8827ko",
+    "news_time": 1739262780.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "fi",
+    "news_group": -1
+}

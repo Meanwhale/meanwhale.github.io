@@ -1,5 +1,486 @@
 const articles = [
     {
+        "news_id": "bbc_cx2qzxdw75qo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Luis Rubiales h\u00e4vdar att Jenni Hermoso gav sitt samtycke till en kyss under VM-finalen, medan hon p\u00e5st\u00e5r att det var icke-samtyckande.",
+        "news_epoch": 1739276640.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2qzxdw75qo",
+        "news_original_title": "Rubiales tells court Hermoso consented to World Cup kiss",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143083",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "En tyst minut h\u00f6lls i Sverige f\u00f6r offren f\u00f6r en skolskjutning d\u00e4r 11 personer dog, inklusive skytten.",
+        "news_epoch": 1739275620.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143083",
+        "news_original_title": "Kaksi \u00d6rebron kouluampumisessa haavoittunutta edelleen tehohoidossa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cqx97xynejzo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Storbritannien kommer inte omedelbart att svara p\u00e5 USA:s tullar p\u00e5 st\u00e5l och aluminium, och branschledare uppmanar till en reaktion.",
+        "news_epoch": 1739275260.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cqx97xynejzo",
+        "news_original_title": "UK not planning to hit back at US on steel tariffs",
+        "news_group": -1
+    },
+    {
+        "news_id": "sn_fa172b7987e7",
+        "news_source": "sn",
+        "news_source_lang": "en",
+        "news_header": "En geolog f\u00f6resl\u00e5r att sp\u00f6klika ljus i Summerville, SC, kan orsakas av gaser som frig\u00f6rs vid jordb\u00e4vningar snarare \u00e4n \u00f6vernaturliga fenomen.",
+        "news_epoch": 1739275200.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.sciencenews.org/article/earthquake-lights-spooky-south-carolina",
+        "news_original_title": "Spooky floating lights in South Carolina could be earthquake farts",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143080",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "OP ja Nordea aloittavat oman mobiilimaksupalvelun",
+        "news_epoch": 1739275080.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143080",
+        "news_original_title": "OP ja Nordea aloittavat oman mobiilimaksupalvelun",
+        "news_group": 198
+    },
+    {
+        "news_id": "bbc_c360dz384n5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trump inf\u00f6r 25 % tull p\u00e5 st\u00e5l och aluminiumimport, med m\u00e5let att \u00f6ka den amerikanska produktionen trots potentiella vederg\u00e4llningar fr\u00e5n Kanada och andra l\u00e4nder.",
+        "news_epoch": 1739275020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c360dz384n5o",
+        "news_original_title": "Trump says no exemptions with metal tariffs to start in March",
+        "news_group": 206
+    },
+    {
+        "news_id": "arvopaperi_0bbc12e74d09",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Nordnet har tillf\u00e4lligt st\u00e4ngt sina onlinetj\u00e4nster p\u00e5 grund av rapporter om obeh\u00f6rig \u00e5tkomst till anv\u00e4ndares konton, utan bevis f\u00f6r en cyberattack.",
+        "news_epoch": 1739273940.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/e9c581c9-c24a-4fc6-9ba1-64a983e0a554",
+        "news_original_title": "Nordnetin Suvi Tuppurainen: Asiakkailta alkoi tulla raportteja p\u00e4\u00e4syst\u00e4 muiden tileihin \u2013 Nordnet sulki palvelunsa",
+        "news_group": 197
+    },
+    {
+        "news_id": "bbc_cqx977lrdl1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trumps 25 %:s tull p\u00e5 st\u00e5l- och aluminiumimport har f\u00e5tt stora handelspartner att reagera, inklusive Kanada, Australien, Storbritannien, EU, Indien och Sydkorea.",
+        "news_epoch": 1739273760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cqx977lrdl1o",
+        "news_original_title": "With Trump&#x27;s tariffs looming - will countries scramble to cut deals?",
+        "news_group": 211
+    },
+    {
+        "news_id": "arvopaperi_1ccce01f30c8",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "R\u00e4ntorna p\u00e5 amerikansk statsskuld \u00f6kar p\u00e5 grund av oro f\u00f6r tullar och inflation.",
+        "news_epoch": 1739273340.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/1755daf4-b720-4cc9-ac00-a35856fb8a8b",
+        "news_original_title": "Ursula von der Leyenilt\u00e4 tiukka vastaus Trumpille \u2013 Markkinakorot nousussa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce3lq39zpp0o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En svensk kvinna, Lina Ishaq, har d\u00f6mts till 12 \u00e5rs f\u00e4ngelse f\u00f6r folkmord och krigsbrott mot yazidierna efter att ha anslutit sig till ISIS i Syrien.",
+        "news_epoch": 1739272800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce3lq39zpp0o",
+        "news_original_title": "Swedish woman convicted of genocide for IS crimes against Yazidis",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0qwvj5wqz1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Italiensk polis genomf\u00f6rde stora razzior mot maffiafamiljer i Palermo, med \u00f6ver 1 200 officerare f\u00f6r att bryta ner organiserad brottslighet.",
+        "news_epoch": 1739271180.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0qwvj5wqz1o",
+        "news_original_title": "Italian police arrest 181 in bid to stop Mafia rebuilding in Sicily",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cx25m165y44o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "USA:s justitiedepartement har instruerat federala \u00e5klagare att l\u00e4gga ner korruptions\u00e5tal mot New Yorks borgm\u00e4stare Eric Adams.",
+        "news_epoch": 1739271120.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx25m165y44o",
+        "news_original_title": "Prosecutors told to drop NYC mayor corruption case",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420137070",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Fertilitetsbehandlingar har blivit en v\u00e4xande aff\u00e4r, d\u00e4r m\u00e5nga privata kliniker erbjuder till\u00e4ggsbehandlingar utan tillr\u00e4cklig evidens f\u00f6r deras effektivitet.",
+        "news_epoch": 1739270400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20137070",
+        "news_original_title": "Suomalaisilla lapsettomuus\u00adklinikoilla myyd\u00e4\u00e4n jopa yli 1\u00a0000 euron arvoista testi\u00e4, jonka tekemist\u00e4 ei suositella",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c30d4ernzqjo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "BP planerar att omstrukturera sin strategi, minska f\u00f6rnybara projekt och \u00f6ka olje- och gasproduktionen p\u00e5 grund av en kraftig nedg\u00e5ng i vinsterna.",
+        "news_epoch": 1739269500.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c30d4ernzqjo",
+        "news_original_title": "BP set to scale back green investments as profits drop sharply",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143036",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Trump syftar till att \u00e5terv\u00e4nda till plastpipar genom att f\u00f6rbjuda papperspipar, vilket motverkar Bidens politik.",
+        "news_epoch": 1739269440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143036",
+        "news_original_title": "Trump kielt\u00e4\u00e4 liittovaltion virastoilta paperipillit \u2013 \u201dTilanne on naurettava\u201d",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_1847a79c4ab8",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Helsingforsb\u00f6rsen sj\u00f6nk, med viktiga resultat fr\u00e5n Kemira och Stora Enso. Kemiras oms\u00e4ttning \u00f6kade men r\u00f6relsemarginalen minskade, medan Stora Ensos resultat f\u00f6rb\u00e4ttrades men var under f\u00f6rv\u00e4ntningarna.",
+        "news_epoch": 1739269020.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/f54a29be-e84e-413b-9572-edd374d8c445",
+        "news_original_title": "Tulosjulkistaja Kemira reippaassa laskussa Helsingin p\u00f6rssiss\u00e4",
+        "news_group": 205
+    },
+    {
+        "news_id": "dw_a71571323",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Indiens premi\u00e4rminister Modi bes\u00f6ker Washington f\u00f6r att diskutera energi och f\u00f6rsvar med amerikanska tj\u00e4nstem\u00e4n.",
+        "news_epoch": 1739267820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/india-s-modi-to-boost-trade-defense-ties-in-us-visit/a-71571323",
+        "news_original_title": "India&#x27;s Modi to boost trade, defense ties in US visit",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_6ba2d50cc187",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Oriolas aktiemarknadsresa har varit sv\u00e5r sedan noteringen 2006, vilket har lett till diskussioner om att sl\u00e5 samman aktieserier f\u00f6r att f\u00f6rb\u00e4ttra likviditeten och attrahera investerare.",
+        "news_epoch": 1739267760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/47bb1cf8-1cde-48a1-ab9a-db3c4e784753",
+        "news_original_title": "Oriolassa j\u00e4lleen edess\u00e4 kiinnostava valtataistelu \u2013 Jokaisen pienomistajan \u00e4\u00e4nell\u00e4 merkityst\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cpwx9942x72o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Hatprat mot minoriteter i Indien \u00f6kade med 74% under 2024, s\u00e4rskilt under valet, d\u00e4r muslimer var de fr\u00e4msta m\u00e5len.",
+        "news_epoch": 1739267760.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cpwx9942x72o",
+        "news_original_title": "India sees huge spike in hate speech in 2024, says report",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0rq2g0kz1lo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sinead fruktar f\u00f6r sin sons h\u00e4lsa p\u00e5 grund av kvarst\u00e5ende m\u00f6gel i deras hyrda l\u00e4genhet, vilket har lett till allvarliga h\u00e4lsoproblem. Trots klagom\u00e5l till hyresv\u00e4rden och kommunen f\u00f6rblir problemet ol\u00f6st, vilket speglar ett st\u00f6rre problem med m\u00f6gel i hyrda hem i England.",
+        "news_epoch": 1739267460.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0rq2g0kz1lo",
+        "news_original_title": "&#x27;Billionaires own my mouldy rental property&#x27;",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c77rg752nj7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En \u00e4ldre israelisk man, Shlomo Mansour, d\u00f6dades under Hamas attack den 7 oktober 2023, och hans kropp h\u00e5lls som gisslan i Gaza.",
+        "news_epoch": 1739267340.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c77rg752nj7o",
+        "news_original_title": "Elderly hostage in Gaza was killed in 7 October attack, Israel says",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420142950",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Trump beordrar Mexikanska golfen att d\u00f6pas om till Amerikanska golfen.",
+        "news_epoch": 1739266260.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20142950",
+        "news_original_title": "Google totteli Trumpia: Meksikonlahti on nyt Amerikanlahti Googlen kartoissa Yhdysvalloissa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143003",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ruotsalaisnaiselle pitk\u00e4 tuomio naisten ja lasten orjuuttamisesta Syyriassa",
+        "news_epoch": 1739265840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143003",
+        "news_original_title": "Ruotsalaisnaiselle pitk\u00e4 tuomio naisten ja lasten orjuuttamisesta Syyriassa",
+        "news_group": 209
+    },
+    {
+        "news_id": "yle_7420142873",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "En studie f\u00f6resl\u00e5r att utbildade terapihundar i tandl\u00e4karmottagningar kan hj\u00e4lpa till att minska patienters \u00e5ngest och f\u00f6rb\u00e4ttra deras upplevelse.",
+        "news_epoch": 1739265360.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20142873",
+        "news_original_title": "Jos hammashoito pelottaa, voi apu l\u00f6yty\u00e4 karvaisesta kaverista, paljastaa tuore v\u00e4it\u00f6stutkimus",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_54ae67468a5a",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Sammo&#x27;s aktiesplit p\u00e5verkar hur m\u00e4klare ber\u00e4knar ink\u00f6pspriser, d\u00e4r vissa kr\u00e4ver kundens input.",
+        "news_epoch": 1739265000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/23d5018a-132b-43c5-bb66-4de390b2c4a3",
+        "news_original_title": "V\u00e4litt\u00e4jien toimintatavoissa vaihtelua: Nordean asiakkaiden pit\u00e4\u00e4 korjata hankintahinnat itse Sammon splitin j\u00e4lkeen",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420142705",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Stopp av amerikansk utlandsbist\u00e5nd kan skada b\u00e5de fattiga l\u00e4nder och amerikanska intressen, d\u00e5 det kan ge auktorit\u00e4ra nationer m\u00f6jlighet att ut\u00f6ka sitt inflytande.",
+        "news_epoch": 1739263680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20142705",
+        "news_original_title": "Analyysi: Trump saattoi iske\u00e4 omaan nilkkaansa, kun h\u00e4n j\u00e4\u00e4dytti ulkomaanavun",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0m17d8827ko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Forskning visar att stora AI-chattbottar sammanfattar nyheter felaktigt, vilket v\u00e4cker oro f\u00f6r desinformation.",
+        "news_epoch": 1739262780.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0m17d8827ko",
+        "news_original_title": "AI chatbots unable to accurately summarise news, BBC finds",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420142967",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Deklarationen om inkluderande och h\u00e5llbar AI syftar till etisk och s\u00e4ker anv\u00e4ndning av AI, men USA och Storbritannien undertecknade inte den.",
+        "news_epoch": 1739261400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20142967",
+        "news_original_title": "Yhdysvallat ja Iso-Britannia eiv\u00e4t allekirjoittaneet teko\u00e4lykokouksen julistusta \u2013 Orpo kutsui USA:n Vancen Suomeen",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420142781",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Supercell n\u00e5dde rekordint\u00e4kter p\u00e5 2,8 miljarder euro fr\u00e5n sex spel, med en \u00f6kning av nettof\u00f6rs\u00e4ljningen med 77%. F\u00f6retaget tillskriver sin framg\u00e5ng h\u00f6gkvalitativa spel och effektiv marknadsf\u00f6ring, trots en ned\u00e5tg\u00e5ende mobilspelsmarknad.",
+        "news_epoch": 1739261100.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20142781",
+        "news_original_title": "Supercell rikkoi enn\u00e4tyksens\u00e4 \u2013 Toimitusjohtajan mukaan yhti\u00f6 kaatoi puolella miljardilla \u201dbensaa liekkeihin\u201d",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c4gwjy18v4go",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En l\u00e4rare knivh\u00f6gg en \u00e5tta\u00e5rig flicka i Sydkorea, vilket chockade nationen.",
+        "news_epoch": 1739260020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c4gwjy18v4go",
+        "news_original_title": "Teacher fatally stabs eight-year-old in South Korea",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71562381",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Azad Yousuf Kumar, 32 \u00e5r fr\u00e5n Kashmir, blev lurad att g\u00e5 med i den ryska arm\u00e9n n\u00e4r han s\u00f6kte jobb utomlands och hamnade i kriget i Ukraina.",
+        "news_epoch": 1739258700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/russia-ukraine-indian-recruits-share-frightening-ordeal/a-71562381",
+        "news_original_title": "Russia-Ukraine: Indian recruits share &#x27;frightening&#x27; ordeal",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cpdx75zgg88o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sam Altman avvisade Elon Musks bud p\u00e5 97,4 miljarder dollar f\u00f6r att ta \u00f6ver OpenAI, mitt i p\u00e5g\u00e5ende sp\u00e4nningar mellan dem.",
+        "news_epoch": 1739256840.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cpdx75zgg88o",
+        "news_original_title": "ChatGPT boss says no thanks to Elon Musk-led $97bn bid",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cly5x0vpen8o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Centralafrikanska republikens president lanserar meme-myntet $CAR f\u00f6r att \u00f6ka landets profil, men det har drabbats av ett stort v\u00e4rdefall.",
+        "news_epoch": 1739254260.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cly5x0vpen8o",
+        "news_original_title": "CAR leader launches meme-coin &#x27;experiment&#x27;",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c360dkgjrkwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Donald Trump m\u00f6ter starkt motst\u00e5nd fr\u00e5n Jordaniens kung Abdullah ang\u00e5ende sitt f\u00f6rslag att flytta Gazas befolkning till Jordanien.",
+        "news_epoch": 1739253660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c360dkgjrkwo",
+        "news_original_title": "Trump faces showdown with Jordan over Gaza plan",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cz9e78k7n01o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En japansk finansministerietanst\u00e4lld f\u00f6rlorade dokument med personuppgifter om 187 misst\u00e4nkta narkotikasmugglare under en utekv\u00e4ll.",
+        "news_epoch": 1739252940.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cz9e78k7n01o",
+        "news_original_title": "Japan ministry worker on night out loses sensitive files",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a70988147",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "USA:s myndigheter bekr\u00e4ftar spridningen av f\u00e5gelinfluensa D1.1-genotyp fr\u00e5n f\u00e5glar till n\u00f6tkreatur, vilket v\u00e4cker oro f\u00f6r potentiella h\u00e4lsorisker.",
+        "news_epoch": 1739250840.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.dw.com/en/is-us-bird-flu-outbreak-in-cattle-a-global-risk-to-humans/a-70988147",
+        "news_original_title": "Is US bird flu outbreak in cattle a global risk to humans?",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420142867",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Elon Musk och Sam Altman, tidigare partners i Open AI, \u00e4r nu fiender efter Musks bud p\u00e5 97,4 miljarder dollar f\u00f6r f\u00f6retaget.",
+        "news_epoch": 1739250300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20142867",
+        "news_original_title": "Elon Musk teki l\u00e4hes sadan miljardin dollarin tarjouksen Open AI:sta \u2013 sai pilkallisen vastauksen",
+        "news_group": -1
+    },
+    {
         "news_id": "arvopaperi_3cf8d8664496",
         "news_source": "arvopaperi",
         "news_source_lang": "fi",
@@ -78,32 +559,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142870",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Litauens utrikesminister Kestutis Budrys bes\u00f6ker Finland f\u00f6r att diskutera bilaterala relationer och st\u00f6d till Ukraina.",
-        "news_epoch": 1739247120.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142870",
-        "news_original_title": "Liettuan uusi ulkoministeri vierailulla Suomessa",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_da9229045689",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Sykli k\u00e4\u00e4ntym\u00e4ss\u00e4? \u2013 Jorma J. Nieminen tankkasi teollisuutta, Nordeaa ulos",
-        "news_epoch": 1739246400.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/b10f8486-c4ff-406c-9e0d-07034ee4e273",
-        "news_original_title": "Sykli k\u00e4\u00e4ntym\u00e4ss\u00e4? \u2013 Jorma J. Nieminen tankkasi teollisuutta, Nordeaa ulos",
-        "news_group": 178
-    },
-    {
         "news_id": "yle_7420142860",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -114,32 +569,6 @@ const articles = [
         ],
         "news_url": "https://yle.fi/a/74-20142860",
         "news_original_title": "Trump: \u201dUkraina voi olla jonain p\u00e4iv\u00e4n\u00e4 ven\u00e4l\u00e4inen\u201d",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_0a52d8738422",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Oslon p\u00f6rssi on halpa \u2013 T\u00e4ss\u00e4 Pohjoismaiden tuoreet tulosennusteet",
-        "news_epoch": 1739242800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/0c628d5e-9158-47b6-97c1-9f9237ef6fcd",
-        "news_original_title": "Oslon p\u00f6rssi on halpa \u2013 T\u00e4ss\u00e4 Pohjoismaiden tuoreet tulosennusteet",
-        "news_group": 178
-    },
-    {
-        "news_id": "bbc_c4gwjy18v4go",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "En l\u00e4rare har d\u00f6dligt knivhuggit en \u00e5tta\u00e5rig flicka p\u00e5 en grundskola i Sydkorea, vilket chockat nationen.",
-        "news_epoch": 1739240340.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4gwjy18v4go",
-        "news_original_title": "Teacher fatally stabs eight-year-old in South Korea",
         "news_group": -1
     },
     {
@@ -182,19 +611,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_c360dz384n5o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "President Trump har inf\u00f6rt en 25% importskatt p\u00e5 st\u00e5l och aluminium f\u00f6r att \u00f6ka inhemsk produktion, trots potentiella repressalier fr\u00e5n Kanada och oro fr\u00e5n amerikanska f\u00f6retag.",
-        "news_epoch": 1739238600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c360dz384n5o",
-        "news_original_title": "Trump announces 25% tariffs on all steel and aluminium imports",
-        "news_group": 186
-    },
-    {
         "news_id": "yle_7420142849",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -205,19 +621,6 @@ const articles = [
         ],
         "news_url": "https://yle.fi/a/74-20142849",
         "news_original_title": "Ven\u00e4l\u00e4ismediat: Koala-\u00f6ljytankkerin varustamolla kolme kuukautta aikaa siirt\u00e4\u00e4 alus",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cx25m165y44o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "USA:s justitiedepartement har instruerat \u00e5klagare att l\u00e4gga ner korruptionsm\u00e5let mot New Yorks borgm\u00e4stare Eric Adams, med h\u00e4nvisning till potentiella effekter p\u00e5 det kommande valet.",
-        "news_epoch": 1739235420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cx25m165y44o",
-        "news_original_title": "Prosecutors told to drop NYC mayor corruption case",
         "news_group": -1
     },
     {
@@ -244,7 +647,7 @@ const articles = [
         ],
         "news_url": "https://www.bbc.com/news/articles/cd649p8yq16o",
         "news_original_title": "Paul Adams: Why the Gaza ceasefire is under growing strain",
-        "news_group": 194
+        "news_group": -1
     },
     {
         "news_id": "bbc_c2k574ydyyqo",
@@ -289,7 +692,7 @@ const articles = [
         "news_id": "dw_a71566523",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Tv\u00e5 privatjet kolliderade p\u00e5 Scottsdale Airport i Arizona, vilket resulterade i minst en d\u00f6d och flera skador.",
+        "news_header": "Tv\u00e5 privata jetplan kolliderade p\u00e5 Scottsdale Airport, Arizona, vilket resulterade i en d\u00f6d och flera skador.",
         "news_epoch": 1739229180.0,
         "news_categories": [
             "world"
@@ -297,19 +700,6 @@ const articles = [
         "news_url": "https://www.dw.com/en/us-private-jet-collision-in-scottsdale-arizona-kills-1/a-71566523",
         "news_original_title": "US: Private jet collision in Scottsdale, Arizona, kills 1",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_clyzp7j84yro",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "President Trumps tullar syftar till att skydda amerikanska industrier och \u00f6ka int\u00e4kterna, men kan leda till h\u00f6gre konsumentpriser och ekonomiska b\u00f6rdor f\u00f6r l\u00e5ginkomsttagare.",
-        "news_epoch": 1739228700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/clyzp7j84yro",
-        "news_original_title": "The Debate: Do Trump&#x27;s tariffs mean the end of the post-war free trade world?",
-        "news_group": 186
     },
     {
         "news_id": "bbc_c5ye69ey4pyo",
@@ -341,7 +731,7 @@ const articles = [
         "news_id": "bbc_c23v3kxknrno",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Samuel Weidenhofer, som k\u00e4mpade med psykisk oh\u00e4lsa, v\u00e4nde sig till sociala medier f\u00f6r att sprida v\u00e4nlighet och samlade miljontals f\u00f6ljare. V\u00e4nlighetsinfluencers \u00e4r popul\u00e4ra men m\u00f6ter kritik f\u00f6r sina metoder.",
+        "news_header": "Samuel Weidenhofer, som k\u00e4mpade med psykisk oh\u00e4lsa, v\u00e4nde sig till sociala medier f\u00f6r att sprida positivitet och v\u00e4nlighet, och fick miljontals f\u00f6ljare. V\u00e4nlighetsinfluencers \u00f6kar, men deras metoder kritiseras f\u00f6r att vara uppvisande.",
         "news_epoch": 1739226660.0,
         "news_categories": [
             "business"
@@ -349,19 +739,6 @@ const articles = [
         "news_url": "https://www.bbc.com/news/articles/c23v3kxknrno",
         "news_original_title": "Why do kindness influencers get criticised?",
         "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142846",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Trump har undertecknat en exekutiv order f\u00f6r 25 % tullar p\u00e5 st\u00e5l och aluminium och \u00f6verv\u00e4ger ytterligare tullar p\u00e5 bilar, mediciner och datorchip.",
-        "news_epoch": 1739225280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142846",
-        "news_original_title": "Trump allekirjoitti m\u00e4\u00e4r\u00e4yksen tuontitulleista ter\u00e4kselle ja alumiinille",
-        "news_group": 186
     },
     {
         "news_id": "yle_7420142845",
@@ -390,101 +767,10 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_cpdx75zgg88o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Elon Musks konsortium erbj\u00f6d 97,4 miljarder dollar f\u00f6r att f\u00f6rv\u00e4rva OpenAI, mitt under sp\u00e4nningar med VD Sam Altman.",
-        "news_epoch": 1739222040.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cpdx75zgg88o",
-        "news_original_title": "Musk-led group makes $97.4bn bid for ChatGPT maker OpenAI",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142843",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Trump hotar att stoppa bist\u00e5nd till Egypten och Jordanien om de inte accepterar palestinier.",
-        "news_epoch": 1739221020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142843",
-        "news_original_title": "Egypti toisti puolustavansa palestiinalaisten oikeutta j\u00e4\u00e4d\u00e4 Gazan kaistalle",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cy485dz15qyo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Santorini har drabbats av en kraftig jordb\u00e4vning med magnitud 5.3, den starkaste under den senaste seismiska aktiviteten, vilket har lett till varningar och s\u00e4kerhets\u00e5tg\u00e4rder.",
-        "news_epoch": 1739219880.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cy485dz15qyo",
-        "news_original_title": "Tremors hitting Santorini reach new strength",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cwypjx53n4go",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "\u00d6sterrikisk polis har utf\u00e4rdat en arresteringsorder f\u00f6r en kvinna som utgav sig f\u00f6r att vara shaman och lurade offer p\u00e5 \u00f6ver 10 miljoner euro.",
-        "news_epoch": 1739219340.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cwypjx53n4go",
-        "news_original_title": "Austrian police search for &#x27;shaman fraudster&#x27; suspect",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8xq70lw8kvo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Neha och Akshay, indiska ingenj\u00f6rer i USA, st\u00e5r inf\u00f6r os\u00e4kerhet kring sitt barns medborgarskap p\u00e5 grund av en potentiell f\u00f6r\u00e4ndring i amerikansk lag ang\u00e5ende f\u00f6delsebaserat medborgarskap f\u00f6r barn till tillf\u00e4lliga utl\u00e4ndska arbetare.",
-        "news_epoch": 1739218020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8xq70lw8kvo",
-        "news_original_title": "Trump&#x27;s citizenship order leaves expecting Indian immigrant parents in limbo",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cn4mnznmwlvo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Ecuadors presidentval g\u00e5r till en andra omg\u00e5ng efter en j\u00e4mn f\u00f6rsta omg\u00e5ng, d\u00e4r sittande president Daniel Noboa och utmanaren Luisa Gonz\u00e1lez n\u00e4stan \u00e4r lika i r\u00f6ster.",
-        "news_epoch": 1739217840.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cn4mnznmwlvo",
-        "news_original_title": "Ecuador election ends in a &#x27;tie&#x27; prompting run-off",
-        "news_group": 189
-    },
-    {
-        "news_id": "yle_7420142839",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Venezuela tar emot luftburna invandrare fr\u00e5n USA som en del av ett projekt f\u00f6r att \u00f6verf\u00f6ra tusentals tillbaka, d\u00e4r vissa p\u00e5st\u00e5s vara kopplade till olagliga aktiviteter.",
-        "news_epoch": 1739211420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142839",
-        "news_original_title": "Karkotukset Yhdysvalloista Venezuelaan alkoivat \u2013 kaksi lentokoneellista siirtolaisia matkalla",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420142041",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Antti Ronkainen menar att Europas beroende av USA \u00f6kar, med tre alternativ f\u00f6r att svara p\u00e5 amerikanska tullar: inf\u00f6ra mottullar, undvika handelskriget eller ge efter f\u00f6r amerikanska krav.",
+        "news_header": "Antti Ronkainen h\u00e4vdar att Europas beroende av USA \u00f6kar, med begr\u00e4nsade alternativ f\u00f6r att svara p\u00e5 amerikanska tullar.",
         "news_epoch": 1739210820.0,
         "news_categories": [
             "business"
@@ -507,23 +793,10 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_c0k5mezn62po",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Den saudiska doktoranden Salma al-Shehab har sl\u00e4ppts fr\u00e5n f\u00e4ngelset efter att hennes straff f\u00f6r sociala medier minskats fr\u00e5n 34 \u00e5r till fyra \u00e5r.",
-        "news_epoch": 1739207940.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0k5mezn62po",
-        "news_original_title": "Saudi PhD student freed after being jailed over posts, activists say",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71564349",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Trumps kommentarer om Gaza fokuserar p\u00e5 dess fastighetspotential, vilket v\u00e4cker kontroverser och belyser hans familjs aff\u00e4rsintressen i regionen.",
+        "news_header": "Trumps kommentarer om Gaza fokuserar p\u00e5 dess fastighetspotential och f\u00f6resl\u00e5r att det kan bli ett lyxigt resm\u00e5l, vilket har v\u00e4ckt kritik och oro f\u00f6r intressekonflikter.",
         "news_epoch": 1739207640.0,
         "news_categories": [
             "business"
@@ -559,32 +832,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142829",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "EU avser att reglera AI p\u00e5 ett s\u00e4tt som fr\u00e4mjar innovation och investeringar samtidigt som byr\u00e5kratin minskas.",
-        "news_epoch": 1739203140.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142829",
-        "news_original_title": "Digikomissaari Virkkunen: EU:ssa on liikaa p\u00e4\u00e4llekk\u00e4ist\u00e4 digis\u00e4\u00e4ntely\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_czx8qkdvqjwo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tio utrotningshotade flamingor r\u00e4ddades fr\u00e5n smugglare i Tunisien och \u00e5terf\u00f6rdes till sin livsmilj\u00f6.",
-        "news_epoch": 1739201100.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/czx8qkdvqjwo",
-        "news_original_title": "Pink flamingos &#x27;seized from smugglers&#x27; in Tunisia",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71564691",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -595,32 +842,6 @@ const articles = [
         ],
         "news_url": "https://www.dw.com/en/guatemala-bus-plunges-into-ravine-killing-at-least-50/a-71564691",
         "news_original_title": "Guatemala: Bus plunges into ravine, killing at least 50",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_f2a40b595d15",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Helsingforsb\u00f6rsen steg med 0,44 %, med Nokias aktier som \u00f6kade med 0,7 %. VD Pekka Lundmark l\u00e4mnar, och Justin Hotard tilltr\u00e4der 2025. Andra f\u00f6retag som Machine och Fortum steg, medan Sampo och Stora Enso f\u00f6ll. Oma Sparbank rapporterade starkare resultat men \u00e4r under utredning.",
-        "news_epoch": 1739198520.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/96110f4e-d330-42c5-b916-be973bf389ef",
-        "news_original_title": "Helsingin p\u00f6rssiss\u00e4 nousup\u00e4iv\u00e4 \u2013 Nokian osake p\u00e4iv\u00e4n vaihdetuin",
-        "news_group": 185
-    },
-    {
-        "news_id": "bbc_c9qj9yrn5lyo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Sydafrikas f\u00f6rsta svarta kvinnliga k\u00e4rnfysiker, Senamile Masango, har avlidit vid 37 \u00e5rs \u00e5lder, och l\u00e4mnar efter sig ett arv av att inspirera unga kvinnor inom vetenskap.",
-        "news_epoch": 1739198160.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c9qj9yrn5lyo",
-        "news_original_title": "South Africa mourns pioneering female nuclear scientist",
         "news_group": -1
     },
     {
@@ -637,23 +858,10 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142817",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Finnair har \u00e4nnu inte st\u00e4llt in sina flyg till Bryssel, men flygplatsen har st\u00e4llt in alla flyg p\u00e5 grund av en nationell strejk.",
-        "news_epoch": 1739197680.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142817",
-        "news_original_title": "Brysselin lentoasema perui kaikki torstaina l\u00e4htev\u00e4t lennot",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c4gx37ky3gyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Forskare f\u00f6resl\u00e5r att Jordens inre k\u00e4rna kan ha f\u00f6r\u00e4ndrat form under de senaste 20 \u00e5ren, vilket kan p\u00e5verka planetens magnetf\u00e4lt.",
+        "news_header": "Forskare f\u00f6resl\u00e5r att jordens inre k\u00e4rna kan ha f\u00f6r\u00e4ndrat form under de senaste 20 \u00e5ren, vilket kan p\u00e5verka det magnetiska f\u00e4ltet.",
         "news_epoch": 1739196660.0,
         "news_categories": [
             "science"
@@ -663,55 +871,16 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_c3w805xjg1xo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Rum\u00e4niens president Klaus Iohannis avgick innan en riksr\u00e4ttsomr\u00f6stning relaterad till ogiltigf\u00f6rklaringen av f\u00f6rra \u00e5rets presidentval, mitt under omfattande protester.",
-        "news_epoch": 1739196660.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c3w805xjg1xo",
-        "news_original_title": "Romania president resigns after impeachment pressure over cancelled vote",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142812",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Hamas f\u00f6rsenar \u00e5terl\u00e4mnandet av gisslan och skyller p\u00e5 Israel f\u00f6r avtalsbrott.",
-        "news_epoch": 1739196660.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142812",
-        "news_original_title": "Hamas: Ensi lauantaina ei vapauteta panttivankeja",
-        "news_group": 194
-    },
-    {
         "news_id": "sn_6184486f40e6",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "En nyuppt\u00e4ckt svamp, Gibellula attenboroughii, f\u00f6rvandlar grottspindlar till zombier och p\u00e5verkar deras beteende f\u00f6r att hj\u00e4lpa till med sporspridning.",
+        "news_header": "En nyuppt\u00e4ckt svamp, Gibellula attenboroughii, f\u00f6rvandlar grottspindlar till zombier, vilket tvingar dem att exponera sig f\u00f6r spridning av sporer.",
         "news_epoch": 1739196000.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://www.sciencenews.org/article/fungus-attenborough-zombie-cave-spiders",
         "news_original_title": "A fungus named after Sir David Attenborough zombifies cave spiders",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cp3w6dkwkq9o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "R\u00e4tteg\u00e5ngen mot Hadi Matar, som anklagas f\u00f6r att ha knivhuggit f\u00f6rfattaren Salman Rushdie, inleddes i New York. Rushdie skadades allvarligt i attacken 2022.",
-        "news_epoch": 1739195100.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cp3w6dkwkq9o",
-        "news_original_title": "What to know about the Salman Rushdie stabbing trial",
         "news_group": -1
     },
     {
@@ -726,32 +895,6 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/grab-bargain-even-cheaper-director-baker-jr-did",
         "news_original_title": "Grab This Bargain Even Cheaper Than Director Baker Jr. Did",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142637",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "EU kan undvika tullavgifter genom f\u00f6rhandlingar med USA, enligt en expert. Trumps nya importtullar p\u00e5 st\u00e5l och aluminium p\u00e5verkar fr\u00e4mst Kanada, Mexiko och Kina, med begr\u00e4nsad direkt p\u00e5verkan p\u00e5 Finlands export.",
-        "news_epoch": 1739194020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142637",
-        "news_original_title": "Trump asettaa kovat tullit kaikelle ter\u00e4kselle ja alumiinille \u2013 t\u00e4m\u00e4 voi hy\u00f6dytt\u00e4\u00e4 Suomen suurinta ter\u00e4svalmistajaa",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142746",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Ryssland rapporterar att ingen oljeskada har intr\u00e4ffat i Laukaanu trots p\u00e5st\u00e5enden om Koala-tankern.",
-        "news_epoch": 1739193960.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142746",
-        "news_original_title": "Ven\u00e4j\u00e4: Laukaansuun satamassa ei \u00f6ljyonnettomuutta \u2013 huhumylly miinoista ja r\u00e4j\u00e4hteist\u00e4 ei hiljenny",
         "news_group": -1
     },
     {
@@ -780,19 +923,6 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/ex-dividend-reminder-kenvue-nexstar-media-group-and-winmark",
         "news_original_title": "Ex-Dividend Reminder: Kenvue, Nexstar Media Group and Winmark",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c0rq2g0kz1lo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Sinead och hennes son Aziyah k\u00e4mpar med allvarliga m\u00f6gelproblem i sin hyrda l\u00e4genhet, vilket har lett till h\u00e4lsoproblem f\u00f6r Aziyah. Trots klagom\u00e5l till hyresv\u00e4rden och lokala myndigheter f\u00f6rblir situationen ol\u00f6st, vilket belyser ett st\u00f6rre problem med os\u00e4kra boendef\u00f6rh\u00e5llanden i hyrda hem i England.",
-        "news_epoch": 1739193300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0rq2g0kz1lo",
-        "news_original_title": "&#x27;Billionaires own my mouldy rental property&#x27;",
         "news_group": -1
     },
     {
@@ -908,19 +1038,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142798",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Trump h\u00e4vdar att palestinierna inte kommer att f\u00e5 \u00e5terv\u00e4nda till Gaza eftersom han planerar att \u00e4ga omr\u00e5det och flytta gazabor.",
-        "news_epoch": 1739192520.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142798",
-        "news_original_title": "Trump Foxille: \u201dOmistaisin Gazan\u201d \u2013 palestiinalaisilla ei olisi oikeutta palata",
-        "news_group": -1
-    },
-    {
         "news_id": "sn_827a7bd7a14d",
         "news_source": "sn",
         "news_source_lang": "en",
@@ -1003,32 +1120,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_e7058c7d9514",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "OP:n Henri Parkkinen alkavasta tulosviikosta: \u201dNesteen ja Kempowerin osalta paljon liikkuvia osia\u201d",
-        "news_epoch": 1739191740.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/30c0f931-281f-4bcc-8b08-84c22158b4a5",
-        "news_original_title": "OP:n Henri Parkkinen alkavasta tulosviikosta: \u201dNesteen ja Kempowerin osalta paljon liikkuvia osia\u201d",
-        "news_group": 178
-    },
-    {
-        "news_id": "arvopaperi_6c6dfabdf834",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "De amerikanska aktiemarknaderna steg p\u00e5 m\u00e5ndagen efter Trumps tillk\u00e4nnagivande om nya importtullar p\u00e5 aluminium och st\u00e5l.",
-        "news_epoch": 1739191320.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/93798483-44d3-40dc-a6e7-7af900c2d35e",
-        "news_original_title": "Ter\u00e4syhti\u00f6t nousussa Yhdysvaltain p\u00f6rsseiss\u00e4",
-        "news_group": -1
-    },
-    {
         "news_id": "nasdaq_f77e38ba42e3",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -1040,7 +1131,7 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-mcdonalds-mcd-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, McDonald&#x27;s (MCD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 182
+        "news_group": 202
     },
     {
         "news_id": "nasdaq_45ceaa69aa4c",
@@ -1054,35 +1145,7 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/brokers-suggest-investing-energy-fuels-uuuu-read-placing-bet-0",
         "news_original_title": "Brokers Suggest Investing in Energy Fuels (UUUU): Read This Before Placing a Bet",
-        "news_group": 183
-    },
-    {
-        "news_id": "nasdaq_c36cc0ee8b12",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Wall Street-analytiker rekommenderar Celsius Holdings Inc. (CELH) som en Stark K\u00f6p, men investerare b\u00f6r vara f\u00f6rsiktiga eftersom m\u00e4klarspecifikationer kanske inte alltid \u00e5terspeglar den verkliga aktiepotentialen.",
-        "news_epoch": 1739190600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/wall-street-bulls-look-optimistic-about-celsius-celh-should-you-buy-0",
-        "news_original_title": "Wall Street Bulls Look Optimistic About Celsius (CELH): Should You Buy?",
-        "news_group": 183
-    },
-    {
-        "news_id": "nasdaq_7d7de6008af4",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Investerare f\u00f6rlitar sig ofta p\u00e5 analytikers rekommendationer, men deras tillf\u00f6rlitlighet \u00e4r tveksam. CVS Health har en gynnsam genomsnittlig m\u00e4klars rekommendation, men f\u00f6rsiktighet rekommenderas p\u00e5 grund av potentiella bias.",
-        "news_epoch": 1739190600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/cvs-health-cvs-considered-good-investment-brokers-true-0",
-        "news_original_title": "CVS Health (CVS) Is Considered a Good Investment by Brokers: Is That True?",
-        "news_group": 183
+        "news_group": 203
     },
     {
         "news_id": "nasdaq_aa6dd822bc9b",
@@ -1097,20 +1160,6 @@ const articles = [
         "news_url": "https://www.nasdaq.com/articles/incyte-incy-reports-q4-earnings-what-key-metrics-have-say",
         "news_original_title": "Incyte (INCY) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_e6b1ae7372ac",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Analytikers rekommendationer kan p\u00e5verka aktiekurser, men deras tillf\u00f6rlitlighet \u00e4r tveksam. Novo Nordisk har en stark k\u00f6prekommendation, men f\u00f6rsiktighet rekommenderas p\u00e5 grund av potentiella partiskheter i m\u00e4klarbed\u00f6mningar.",
-        "news_epoch": 1739190600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/it-worth-investing-novo-nordisk-nvo-based-wall-streets-bullish-views-1",
-        "news_original_title": "Is It Worth Investing in Novo Nordisk (NVO) Based on Wall Street&#x27;s Bullish Views?",
-        "news_group": 183
     },
     {
         "news_id": "yle_7420142783",
@@ -1137,75 +1186,6 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-semiconductor-corp-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, ON Semiconductor Corp. (ON) Q4 Earnings: A Look at Key Metrics",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_145e8d5beacb",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Wall Street-analytiker rekommenderar Netflix som en stark k\u00f6p, men investerare b\u00f6r vara f\u00f6rsiktiga och validera sin egen forskning.",
-        "news_epoch": 1739190600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/wall-street-analysts-see-netflix-nflx-buy-should-you-invest",
-        "news_original_title": "Wall Street Analysts See Netflix (NFLX) as a Buy: Should You Invest?",
-        "news_group": 183
-    },
-    {
-        "news_id": "nasdaq_5a767361c9ee",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Wall Street-analytikers rekommendationer p\u00e5verkar aktiekurser, men deras tillf\u00f6rlitlighet \u00e4r tveksam. Disney har en stark genomsnittlig m\u00e4klars rekommendation, men investerare b\u00f6r inte enbart f\u00f6rlita sig p\u00e5 den.",
-        "news_epoch": 1739190600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/it-worth-investing-disney-dis-based-wall-streets-bullish-views-0",
-        "news_original_title": "Is It Worth Investing in Disney (DIS) Based on Wall Street&#x27;s Bullish Views?",
-        "news_group": 183
-    },
-    {
-        "news_id": "nasdaq_d7cdd8c63164",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Investerare f\u00f6rlitar sig ofta p\u00e5 analytikers rekommendationer, men deras tillf\u00f6rlitlighet \u00e4r tveksam. Wells Fargo har en stark genomsnittlig m\u00e4klars rekommendation, men investerare b\u00f6r validera detta med andra verktyg som Zacks Rank.",
-        "news_epoch": 1739190600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/wells-fargo-wfc-buy-wall-street-analysts-look-optimistic",
-        "news_original_title": "Is Wells Fargo (WFC) a Buy as Wall Street Analysts Look Optimistic?",
-        "news_group": 183
-    },
-    {
-        "news_id": "nasdaq_5e21857001e8",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Wall Street-analytiker rekommenderar Walmart som en stark k\u00f6p, men investerare b\u00f6r vara f\u00f6rsiktiga och bekr\u00e4fta dessa rekommendationer med andra verktyg som Zacks Rank.",
-        "news_epoch": 1739190600.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/brokers-suggest-investing-walmart-wmt-read-placing-bet-0",
-        "news_original_title": "Brokers Suggest Investing in Walmart (WMT): Read This Before Placing a Bet",
-        "news_group": 183
-    },
-    {
-        "news_id": "yle_7420142784",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Senatens demokrater har lanserat en portal f\u00f6r att rapportera oegentligheter och maktmissbruk.",
-        "news_epoch": 1739189760.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142784",
-        "news_original_title": "Yhdysvalloissa demokraatit avasivat ilmiantokanavan hallinnon ty\u00f6ntekij\u00f6ille",
         "news_group": -1
     },
     {
@@ -1268,7 +1248,7 @@ const articles = [
         "news_id": "dw_a57062033",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Artikeln diskuterar komplexiteten av k\u00f6n och genus, ifr\u00e5gas\u00e4tter den bin\u00e4ra synen p\u00e5 man och kvinna och framh\u00e4ver vetenskapliga bevis f\u00f6r ett spektrum av k\u00f6nskarakteristika.",
+        "news_header": "Artikeln diskuterar komplexiteten av k\u00f6n och sex, ifr\u00e5gas\u00e4tter den bin\u00e4ra synen p\u00e5 endast man och kvinna, st\u00f6dd av senaste vetenskapliga fynd.",
         "news_epoch": 1739189220.0,
         "news_categories": [
             "science"
@@ -1291,32 +1271,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_b10fa8e1a7b6",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Fortumin tuloksen odotetaan painuneen vahvasta vertailukaudesta",
-        "news_epoch": 1739188500.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/9619b8b9-887e-4f98-a2c6-859ffaa94055",
-        "news_original_title": "Fortumin tuloksen odotetaan painuneen vahvasta vertailukaudesta",
-        "news_group": 178
-    },
-    {
-        "news_id": "yle_7420142766",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "NRC kommer att avsluta sin verksamhet i n\u00e4stan 20 l\u00e4nder p\u00e5 grund av att USA:s bidrag upph\u00f6r, vilket hotar viktiga humanit\u00e4ra program.",
-        "news_epoch": 1739187060.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142766",
-        "news_original_title": "Norjalainen avustusj\u00e4rjest\u00f6 keskeytt\u00e4\u00e4 toimintansa l\u00e4hes 20 maassa",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420141172",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1330,55 +1284,16 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_9659cc48f39b",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Investoivatko teknoj\u00e4tit teko\u00e4lyyn kuitenkin liikaa? \u2013 T\u00e4ss\u00e4 ovat yhdysvaltalaisten p\u00f6rssiyhti\u00f6iden tuoreet tulosennusteet",
-        "news_epoch": 1739185200.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/4dd4965e-a049-45c1-910d-a37f9589dbd4",
-        "news_original_title": "Investoivatko teknoj\u00e4tit teko\u00e4lyyn kuitenkin liikaa? \u2013 T\u00e4ss\u00e4 ovat yhdysvaltalaisten p\u00f6rssiyhti\u00f6iden tuoreet tulosennusteet",
-        "news_group": 178
-    },
-    {
-        "news_id": "bbc_c98yv3e1yyqo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "President Trump planerar att inf\u00f6ra en 25 % importskatt p\u00e5 st\u00e5l och aluminium, vilket kommer att p\u00e5verka Kanada betydligt, och antydde \u00f6msesidiga tullar mot andra l\u00e4nder.",
-        "news_epoch": 1739184300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c98yv3e1yyqo",
-        "news_original_title": "Trump says tariffs coming on steel and aluminium",
-        "news_group": 195
-    },
-    {
         "news_id": "yle_7420142718",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "En studie vid \u00c5bo universitet utvecklade fagbiosensorer f\u00f6r att uppt\u00e4cka cancer fr\u00e5n urinprover.",
+        "news_header": "Ett forskningsprojekt vid \u00c5bo universitet utvecklade fagbiosensorer f\u00f6r att uppt\u00e4cka cancer fr\u00e5n urinprover.",
         "news_epoch": 1739183820.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20142718",
         "news_original_title": "Uudella menetelm\u00e4ll\u00e4 sy\u00f6p\u00e4 voidaan havaita virtsa\u00adn\u00e4ytteest\u00e4 \u2013 tutkimuksessa tunnistettiin tappava eturauhassy\u00f6p\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_65f0f73a6ec2",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Marknadsr\u00e4ntorna visade sm\u00e5 r\u00f6relser och guldpriserna n\u00e5dde rekordh\u00f6jder. Trump meddelade nya tullar p\u00e5 aluminium och st\u00e5l, vilket v\u00e4ckte inflationsoro.",
-        "news_epoch": 1739183580.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/d84b56f1-d39c-474a-bba0-70dcbd032ac8",
-        "news_original_title": "Valtionlainojen koroissa pieni\u00e4 liikkeit\u00e4 \u2013 Kullan hinta kohosi j\u00e4lleen enn\u00e4tyslukemiin",
         "news_group": -1
     },
     {
@@ -1408,32 +1323,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142737",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Rum\u00e4niens president Klaus Johannis har meddelat sin avg\u00e5ng f\u00f6re slutet av sin mandatperiod den 21 december, efter att novembervalen ogiltigf\u00f6rklarades p\u00e5 grund av p\u00e5st\u00e5tt ryskt valp\u00e5verkan. Ny presidentval \u00e4r planerat till maj.",
-        "news_epoch": 1739183040.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20142737",
-        "news_original_title": "Romanian presidentti Klaus Johannis eroaa virastaan",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_f832fa06c140",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Nokias VD Pekka Lundmark kommer att ers\u00e4ttas av Justin Hotard i slutet av mars.",
-        "news_epoch": 1739182800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/553a3d87-ce90-42ca-a670-f920e06a3ddc",
-        "news_original_title": "Nokia viestii sijoittajille uutta suuntaa \u2013 Kuka on Justin Hotard, miten nimitys otettiin vastaan, ja mit\u00e4 se Nokialle tarkoittaa?",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_cj6531p1gxko",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1444,58 +1333,6 @@ const articles = [
         ],
         "news_url": "https://www.bbc.com/news/articles/cj6531p1gxko",
         "news_original_title": "Lidl lifts pay ahead of minimum wage rise",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_018eb87b4550",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Teslan arvostus ei en\u00e4\u00e4 heijastele s\u00e4hk\u00f6autojen myynti\u00e4 vaan tulevaisuuden odotuksia \u2013 Osake voi olla arvioijasta riippuen r\u00e4ike\u00e4sti yli- tai alihinnoiteltu",
-        "news_epoch": 1739180940.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/80055ae8-f1c2-4ad5-af82-f3b0c65ed81b",
-        "news_original_title": "Teslan arvostus ei en\u00e4\u00e4 heijastele s\u00e4hk\u00f6autojen myynti\u00e4 vaan tulevaisuuden odotuksia \u2013 Osake voi olla arvioijasta riippuen r\u00e4ike\u00e4sti yli- tai alihinnoiteltu",
-        "news_group": 178
-    },
-    {
-        "news_id": "arvopaperi_5095b4f22c39",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Helsingforsb\u00f6rsen steg p\u00e5 m\u00e5ndag, Nokia meddelade en ny VD. Investors House rapporterade f\u00f6rb\u00e4ttrad prestation, medan Oma Sparbank stod inf\u00f6r utredningar. Metso expanderar sin verksamhet i Kina, och BBS-Bioactive s\u00f6ker ytterligare finansiering.",
-        "news_epoch": 1739179980.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/eff5edee-93d4-4ffd-9133-4abcc19978de",
-        "news_original_title": "Nokia vet\u00e4\u00e4 nousua Helsingin p\u00f6rssiss\u00e4",
-        "news_group": 185
-    },
-    {
-        "news_id": "arvopaperi_ce45806f1edc",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Wetteris dotterbolag Wetteri Auto k\u00f6per Hed&#x27;s Automotive Kia och Mitsubishi-verksamhet i Lahti f\u00f6r 150 000 euro.",
-        "news_epoch": 1739178720.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/c0302191-08bf-405e-bc48-ebad46dd13ab",
-        "news_original_title": "Wetteri ostaa Hedin Automotiven bisneksi\u00e4 Lahdessa",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_9ffdbbf18bd8",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "F\u00f6retaget publicerar del\u00e5rsrapport; vanligtvis f\u00f6rlust i Q4.",
-        "news_epoch": 1739178660.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/26f8bff7-a51a-4016-b7da-a0125265fd68",
-        "news_original_title": "Sanoman katsauksessa huomio kiinnittyy ohjeistukseen, jossa piilee analyysitalon mukaan riski",
         "news_group": -1
     },
     {
@@ -1535,7 +1372,7 @@ const articles = [
         ],
         "news_url": "https://yle.fi/a/74-20142639",
         "news_original_title": "Analyysi: Nokia-uutinen vahvistaa, ett\u00e4 yhti\u00f6 on siirtym\u00e4ss\u00e4 matkapuhelin\u00adverkoista konesaleihin",
-        "news_group": 192
+        "news_group": 210
     },
     {
         "news_id": "yle_7420142669",
@@ -1564,19 +1401,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "dw_a71552595",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Ecuador kommer att h\u00e5lla ett presidentval i april efter att ingen kandidat fick en majoritet i den f\u00f6rsta omg\u00e5ngen. Den sittande presidenten Noboa och utmanaren Gonzalez \u00e4r de fr\u00e4msta kandidaterna mitt i v\u00e4xande v\u00e5ld och ekonomiska problem.",
-        "news_epoch": 1739172420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/ecuador-s-presidential-race-set-for-runoff/a-71552595",
-        "news_original_title": "Ecuador&#x27;s presidential race set for runoff",
-        "news_group": 189
-    },
-    {
         "news_id": "bbc_cwyplj7dkw2o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1587,20 +1411,7 @@ const articles = [
         ],
         "news_url": "https://www.bbc.com/news/articles/cwyplj7dkw2o",
         "news_original_title": "Subsidies halved for controversial Drax power station",
-        "news_group": 188
-    },
-    {
-        "news_id": "yle_7420142625",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Pekka Lundmark l\u00e4mnar Nokia efter n\u00e4stan fem \u00e5r som VD f\u00f6r att s\u00f6ka en ny fas i sin karri\u00e4r. Analytiker bed\u00f6mer hans tid positivt, s\u00e4rskilt inom mobiln\u00e4tutveckling, men noterar begr\u00e4nsad v\u00e4rdetillv\u00e4xt f\u00f6r aktie\u00e4garna.",
-        "news_epoch": 1739168400.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142625",
-        "news_original_title": "Potkut vai oma l\u00e4ht\u00f6? N\u00e4in arvioi analyytikko Nokian toimitusjohtajan vaihtumista",
-        "news_group": 192
+        "news_group": 207
     },
     {
         "news_id": "dw_a71558448",
@@ -1639,33 +1450,7 @@ const articles = [
         ],
         "news_url": "https://yle.fi/a/74-20142615",
         "news_original_title": "T\u00e4llainen on Nokian uusi toimitusjohtaja Justin Hotard: oli edellisess\u00e4 ty\u00f6ss\u00e4\u00e4n reilun vuoden",
-        "news_group": 193
-    },
-    {
-        "news_id": "yle_7420142611",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Justin Hotard blir Nokias nya VD i april, eftertr\u00e4dande Pekka Lundmark som avg\u00e5r.",
-        "news_epoch": 1739160120.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142611",
-        "news_original_title": "Nokia kertoo, miksi toimitus\u00adjohtaja vaihtuu \u2013 uusi johtaja Justin Hotard vauhdittaa muutosta teko\u00e4lyaikaan",
-        "news_group": 193
-    },
-    {
-        "news_id": "bbc_cvg8zg7ll09o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Kina inf\u00f6rde nya importskatter p\u00e5 amerikanska varor, vilket eskalerar handelskriget, medan Trump hotar med fler skatter.",
-        "news_epoch": 1739160000.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cvg8zg7ll09o",
-        "news_original_title": "China&#x27;s tit-for-tat tariffs on US take effect",
-        "news_group": 195
+        "news_group": -1
     },
     {
         "news_id": "dw_a71551813",
@@ -1678,19 +1463,6 @@ const articles = [
         ],
         "news_url": "https://www.dw.com/en/kosovo-ruling-party-set-to-come-first-in-election/a-71551813",
         "news_original_title": "Kosovo ruling party set to come first in election",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142547",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Ingen \u00f6verenskommelse n\u00e5ddes i teknikbranschens arbetskonflikt, och ekonomiska experter diskuterar dess konsekvenser.",
-        "news_epoch": 1739121300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142547",
-        "news_original_title": "\u201dEi tullut isona yll\u00e4tyksen\u00e4\u201d \u2013 asiantuntijat kommentoivat teknologiateollisuuden tilannetta",
         "news_group": -1
     },
     {
@@ -1707,6 +1479,19 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "dw_a71554521",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Protester i Serbien markerar 100 dagar sedan en d\u00f6dlig krasch av en tak \u00f6ver en t\u00e5gstation, med studenter som kr\u00e4ver ansvar och skyller p\u00e5 regeringskorruption.",
+        "news_epoch": 1739115120.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/serbia-students-mark-100-days-since-deadly-canopy-collapse/a-71554521",
+        "news_original_title": "Serbia: Students mark 100 days since deadly canopy collapse",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420142196",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1718,19 +1503,6 @@ const articles = [
         "news_url": "https://yle.fi/a/74-20142196",
         "news_original_title": "Tuhansia Neuvostoliittoon paenneita ja loikanneita suomalaisia on l\u00f6ydetty vanhasta arkistosta",
         "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142524",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Industrifacket avvisade f\u00f6rslaget om l\u00f6ne\u00f6kningar, vilket leder till planerade strejker. F\u00f6rhandlingar har p\u00e5g\u00e5tt i fem m\u00e5nader utan l\u00f6sning.",
-        "news_epoch": 1739106420.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142524",
-        "news_original_title": "Teknologiateollisuuden ty\u00f6riitaan ei saatu sopua \u2013 Teollisuusliiton lakot alkavat maanantaina",
-        "news_group": 190
     },
     {
         "news_id": "yle_7420142496",
@@ -1772,19 +1544,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_cdxnpzzjed1o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Drax kraftverk har upprepade g\u00e5nger misslyckats med att rapportera att det br\u00e4nt tr\u00e4 fr\u00e5n prim\u00e4ra skogar, trots att det f\u00e5tt miljarder i subventioner och en tidigare straffavgift f\u00f6r felrapportering.",
-        "news_epoch": 1739095440.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cdxnpzzjed1o",
-        "news_original_title": "Key power station didn&#x27;t properly disclose burning forest wood",
-        "news_group": 188
-    },
-    {
         "news_id": "bbc_c9d528g755qo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1808,7 +1567,7 @@ const articles = [
         ],
         "news_url": "https://www.dw.com/en/sam-nujoma-battled-south-africa-and-led-a-freed-namibia/a-71552090",
         "news_original_title": "Sam Nujoma battled South Africa and led a freed Namibia",
-        "news_group": 181
+        "news_group": 201
     },
     {
         "news_id": "bbc_c5yezew49k4o",
@@ -1822,45 +1581,6 @@ const articles = [
         "news_url": "https://www.bbc.com/news/articles/c5yezew49k4o",
         "news_original_title": "PlayStation Network back online, firm says",
         "news_group": -1
-    },
-    {
-        "news_id": "yle_7420135436",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Flygbolag kommer snart att anv\u00e4nda syntetiskt flygbr\u00e4nsle som produceras fr\u00e5n CO2 fr\u00e5n fabriker.",
-        "news_epoch": 1739075400.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20135436",
-        "news_original_title": "Hiilidioksidista tehd\u00e4\u00e4n pian lentokoneiden polttoainetta \u2013 Suomi voi nousta t\u00e4rke\u00e4ksi tuottajaksi",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420141181",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Yle rapporterar om arbetsf\u00f6rh\u00e5llandena i en indisk iPhone-fabrik, som framh\u00e4ver b\u00e5de f\u00f6rb\u00e4ttringar f\u00f6r vissa arbetare och p\u00e5g\u00e5ende utnyttjandeproblem.",
-        "news_epoch": 1739070600.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20141181",
-        "news_original_title": "Upporikkaat teknologiafirmat riist\u00e4v\u00e4t naisia Intiassa \u2013 Shanbagavallin ura on poikkeus",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71551547",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Sam Nujoma, Namibias f\u00f6rsta valda president och aktivist, dog vid 95 \u00e5rs \u00e5lder.",
-        "news_epoch": 1739068200.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/namibia-s-founding-father-sam-nujoma-dies-at-95/a-71551547",
-        "news_original_title": "Namibia&#x27;s &#x27;founding father&#x27; Sam Nujoma dies at 95",
-        "news_group": 181
     },
     {
         "news_id": "bbc_c4g34x51en8o",
@@ -1902,19 +1622,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142458",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Ett kompromissf\u00f6rslag har lagts fram i en arbetskonflikt inom teknikindustrin, med svar som f\u00f6rv\u00e4ntas p\u00e5 s\u00f6ndag. Om det accepteras, kommer strejker att avbl\u00e5sas.",
-        "news_epoch": 1739027520.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142458",
-        "news_original_title": "Valtakunnansovittelija antoi sovintoehdotuksen teknologiateollisuuden ty\u00f6riitaan",
-        "news_group": 190
-    },
-    {
         "news_id": "dw_a71547399",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1940,97 +1647,6 @@ const articles = [
         "news_url": "https://www.nasdaq.com/articles/chipotles-slip-short-term-dip-or-long-term-opportunity",
         "news_original_title": "Chipotle\u2019s Slip: A Short-Term Dip or Long-Term Opportunity?",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_c75z9925lelo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Den brittiska regeringen har beslutat att ta bort tullarna p\u00e5 kinesiska elcyklar, vilket v\u00e4cker oro bland brittiska tillverkare.",
-        "news_epoch": 1739010420.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c75z9925lelo",
-        "news_original_title": "Cheaper China e-bikes &#x27;kick in teeth&#x27; for UK firms",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_readersunsungscientistmutantchonkus",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Readers discuss an unsung scientist, a mutant bacterium named Chonkus, Science News\u2019 new look",
-        "news_epoch": 1739008800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/readers-unsung-scientist-mutant-chonkus",
-        "news_original_title": "Readers discuss an unsung scientist, a mutant bacterium named Chonkus, Science News\u2019 new look",
-        "news_group": 187
-    },
-    {
-        "news_id": "sn_825e003faac8",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Margaret S. Collins, den f\u00f6rsta svarta kvinnliga entomologen i USA, \u00f6vervann utmaningar f\u00f6r att bli en termitexpert. Cyanobakterien &#x27;Chonkus&#x27; visar l\u00f6fte f\u00f6r kolbindning i haven, men havs j\u00e4rng\u00f6dsling medf\u00f6r risker.",
-        "news_epoch": 1739008800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/readers-unsung-scientist-mutant-chonkus",
-        "news_original_title": "Readers discuss an unsung scientist, a mutant bacterium named Chonkus, Science News\u2019 new look",
-        "news_group": 187
-    },
-    {
-        "news_id": "yle_7420140150",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Finlands ekonomi stod inf\u00f6r betydande utmaningar efter att handelsrelationerna med Ryssland br\u00f6ts, vilket ledde till f\u00f6r\u00e4ndringar i energif\u00f6rs\u00f6rjning och turism, samtidigt som exporten till USA och andra l\u00e4nder \u00f6kade.",
-        "news_epoch": 1739008800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20140150",
-        "news_original_title": "Katso 6 kuvaa: n\u00e4in rajusti Ven\u00e4j\u00e4n sota iski Suomen talouteen \u2013 mutta miksi selvisimme rys\u00e4yksest\u00e4?",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_026fa5166fe8489f93baa78b5d1279b4",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Nightingale pyrkii Yhdysvaltain OTC-markkinalle \u2013 Mik\u00e4 se on?",
-        "news_epoch": 1739008800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/026fa516-6fe8-489f-93ba-a78b5d1279b4",
-        "news_original_title": "Nightingale pyrkii Yhdysvaltain OTC-markkinalle \u2013 Mik\u00e4 se on?",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_b5b889654e16",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Artikeln handlar om kung Canutes legendariska handling att f\u00f6rs\u00f6ka befalla tidvattnet, kopplad till aktuella klimatutmaningar och stigande havsniv\u00e5er som hotar kustomr\u00e5den.",
-        "news_epoch": 1739008800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/holding-back-the-sea-science-news",
-        "news_original_title": "A daring plan to hold back the sea",
-        "news_group": 196
-    },
-    {
-        "news_id": "sn_holdingbacktheseasciencenews",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "A daring plan to hold back the sea",
-        "news_epoch": 1739008800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/holding-back-the-sea-science-news",
-        "news_original_title": "A daring plan to hold back the sea",
-        "news_group": 196
     },
     {
         "news_id": "nasdaq_c36cb2c38c6e",
@@ -2086,32 +1702,6 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/better-cybersecurity-stock-palo-alto-networks-or-crowdstrike",
         "news_original_title": "Better Cybersecurity Stock: Palo Alto Networks or CrowdStrike?",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71544528",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Serbia and domestic issues top voter concerns in Kosovo",
-        "news_epoch": 1739006640.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/serbia-and-domestic-issues-top-voter-concerns-in-kosovo/a-71544528",
-        "news_original_title": "Serbia and domestic issues top voter concerns in Kosovo",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420141982",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Analyysi: Suomi halutaan nyt Moldovan, Romanian ja Serbian kanssa samaan veroleiriin \u2013 yritysjohtajilla on laput silmill\u00e4",
-        "news_epoch": 1739005740.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20141982",
-        "news_original_title": "Analyysi: Suomi halutaan nyt Moldovan, Romanian ja Serbian kanssa samaan veroleiriin \u2013 yritysjohtajilla on laput silmill\u00e4",
         "news_group": -1
     },
     {
@@ -2227,19 +1817,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "dw_a71546541",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Sri Lanka investigates deaths of British and German tourists",
-        "news_epoch": 1739001720.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/sri-lanka-investigates-deaths-of-british-and-german-tourists/a-71546541",
-        "news_original_title": "Sri Lanka investigates deaths of British and German tourists",
-        "news_group": -1
-    },
-    {
         "news_id": "nasdaq_395356234146",
         "news_source": "nasdaq",
         "news_source_lang": "en",
@@ -2251,77 +1828,7 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
         "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 179
-    },
-    {
-        "news_id": "nasdaq_077fa66119d3",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_epoch": 1738969200.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
-        "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 179
-    },
-    {
-        "news_id": "nasdaq_601230223286",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_epoch": 1738969200.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
-        "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 179
-    },
-    {
-        "news_id": "nasdaq_197526430214",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_epoch": 1738969200.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
-        "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 179
-    },
-    {
-        "news_id": "nasdaq_657684563391",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Mettler-Toledo rapporterade starka kvartalsvinster med betydande int\u00e4kts\u00f6kning och EPS-\u00f6kning, samtidigt som efterfr\u00e5gan p\u00e5 k\u00e4rnenergi \u00f6kar.",
-        "news_epoch": 1738969200.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
-        "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 179
-    },
-    {
-        "news_id": "nasdaq_168708134784",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Mettler-Toledo rapporterade en int\u00e4kts\u00f6kning p\u00e5 11,8 % f\u00f6r Q4 2024, med en EPS p\u00e5 12,41 dollar, vilket \u00f6vertr\u00e4ffade f\u00f6rv\u00e4ntningarna.",
-        "news_epoch": 1738969200.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/compared-estimates-mettler-toledo-mtd-q4-earnings-look-key-metrics",
-        "news_original_title": "Compared to Estimates, Mettler-Toledo (MTD) Q4 Earnings: A Look at Key Metrics",
-        "news_group": 179
+        "news_group": 199
     },
     {
         "news_id": "nasdaq_130675952912",
@@ -2405,77 +1912,7 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
         "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 184
-    },
-    {
-        "news_id": "nasdaq_760660352735",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_epoch": 1738956240.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
-        "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 184
-    },
-    {
-        "news_id": "nasdaq_733714890746",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Q4:s resultatperiod p\u00e5g\u00e5r, med blandade resultat fr\u00e5n stora teknikf\u00f6retag. Trots vissa besvikelser f\u00f6rblir f\u00f6retagens l\u00f6nsamhet stark, med f\u00f6rv\u00e4ntningar p\u00e5 betydande tillv\u00e4xt 2025. K\u00e4rnkraftsektorn \u00e4r ocks\u00e5 p\u00e5 v\u00e4g att v\u00e4xa n\u00e4r globala ledare \u00e5tar sig att \u00f6ka k\u00e4rnkraftens kapacitet.",
-        "news_epoch": 1738956240.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
-        "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 184
-    },
-    {
-        "news_id": "nasdaq_526646913090",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_epoch": 1738956240.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
-        "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 184
-    },
-    {
-        "news_id": "nasdaq_410032276177",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_epoch": 1738956240.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
-        "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 184
-    },
-    {
-        "news_id": "nasdaq_46aa5942bb6f",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Q4-resultats\u00e4songen visar stark f\u00f6retagsl\u00f6nsamhet och f\u00f6rv\u00e4ntningar p\u00e5 betydande tillv\u00e4xt 2025, trots negativa revideringar inom energisektorn.",
-        "news_epoch": 1738956240.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
-        "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-        "news_group": 184
+        "news_group": 204
     },
     {
         "news_id": "nasdaq_456585176713",
@@ -2489,21 +1926,7 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/zacks-february-view-equity-markets",
         "news_original_title": "Zacks February View on Equity Markets",
-        "news_group": 191
-    },
-    {
-        "news_id": "nasdaq_510846549734",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Efterfr\u00e5gan p\u00e5 elektricitet \u00f6kar, och k\u00e4rnenergi ses som ett viktigt alternativ till fossila br\u00e4nslen. Ledare fr\u00e5n USA och 21 andra l\u00e4nder har \u00e5tagit sig att tredubbla k\u00e4rnenergikapaciteterna, vilket ger investeringsm\u00f6jligheter.",
-        "news_epoch": 1738956000.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/zrs-chart-month-4",
-        "news_original_title": "ZRS Chart of the Month",
-        "news_group": 191
+        "news_group": 208
     },
     {
         "news_id": "nasdaq_868376404184",
@@ -2517,90 +1940,6 @@ const articles = [
         ],
         "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
         "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 180
-    },
-    {
-        "news_id": "nasdaq_732341803629",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "X:s aktie har en 52-veckors l\u00e4gsta p\u00e5 26,915 dollar och en h\u00f6gsta p\u00e5 48,125 dollar, med den senaste handeln p\u00e5 37,25 dollar.",
-        "news_epoch": 1738955340.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
-        "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 180
-    },
-    {
-        "news_id": "nasdaq_4f656ec573a1",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "X:s aktie har en 52-veckors l\u00e4gsta p\u00e5 26,915 dollar och en h\u00f6gsta p\u00e5 48,125 dollar, med den senaste handeln p\u00e5 37,25 dollar.",
-        "news_epoch": 1738955340.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
-        "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 180
-    },
-    {
-        "news_id": "nasdaq_343010077382",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_epoch": 1738955340.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
-        "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 180
-    },
-    {
-        "news_id": "nasdaq_111924067433",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_epoch": 1738955340.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
-        "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 180
-    },
-    {
-        "news_id": "nasdaq_733739919376",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "X:s aktie har en 52-veckors l\u00e4gsta p\u00e5 26,915 dollar och en h\u00f6gsta p\u00e5 48,125 dollar, med den senaste handeln p\u00e5 37,25 dollar.",
-        "news_epoch": 1738955340.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
-        "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-        "news_group": 180
-    },
-    {
-        "news_id": "nasdaq_337402812220",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Pre-Market Earnings Report for February 10, 2025 :  MCD, ROK, ON, INCY, CNA, MNDY, ROIV, TSEM, NSP, EPC, ALX, AIOT",
-        "news_epoch": 1738954800.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/pre-market-earnings-report-february-10-2025-mcd-rok-incy-cna-mndy-roiv-tsem-nsp-epc-alx",
-        "news_original_title": "Pre-Market Earnings Report for February 10, 2025 :  MCD, ROK, ON, INCY, CNA, MNDY, ROIV, TSEM, NSP, EPC, ALX, AIOT",
-        "news_group": 182
+        "news_group": 200
     }
 ];

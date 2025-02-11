@@ -1,0 +1,14 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c0m17d8827ko",
+    "news_header": "Research shows major AI chatbots inaccurately summarize news, raising concerns about misinformation.",
+    "news_original_title": "AI chatbots unable to accurately summarise news, BBC finds",
+    "news_text": "A BBC study found that four major AI chatbots\u2014OpenAI&#x27;s ChatGPT, Microsoft&#x27;s Copilot, Google&#x27;s Gemini, and Perplexity AI\u2014were inaccurately summarizing news stories, with significant inaccuracies and distortions in their responses. Deborah Turness, CEO of BBC News, expressed concerns about the potential real-world harm of AI-generated misinformation. The study revealed that 51% of AI answers had significant issues, and 19% contained factual errors. The BBC aims to collaborate with AI tech providers to address these issues and called for tech companies to reconsider their AI news summaries.",
+    "news_url": "https://www.bbc.com/news/articles/c0m17d8827ko",
+    "news_time": 1739262780.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}
