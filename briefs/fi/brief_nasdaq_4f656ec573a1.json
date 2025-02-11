@@ -1,9 +1,9 @@
 {
     "news_source": "nasdaq",
     "news_id": "nasdaq_4f656ec573a1",
-    "news_header": "Notable Two Hundred Day Moving Average Cross - X",
+    "news_header": "X:n osakkeen 52 viikon alin hinta on 26,915 dollaria ja ylin 48,125 dollaria, viimeisen kaupan ollessa 37,25 dollaria.",
     "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-    "news_text": "no summary",
+    "news_text": "Kaavio osoittaa, ett\u00e4 X:n osake saavutti 52 viikon alhaisimman hinnan 26,915 dollaria ja korkeimman hinnan 48,125 dollaria, viimeisin kaupank\u00e4yntihinta on 37,25 dollaria. Lis\u00e4ksi mainitaan muita metalliosakkeita, jotka ovat \u00e4skett\u00e4in pudonneet 200 p\u00e4iv\u00e4n liukuvan keskiarvon alle.",
     "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
     "news_time": 1738955340.0,
     "news_categories": [
@@ -11,5 +11,5 @@
         "commodities"
     ],
     "news_source_lang": "fi",
-    "news_group": 131
+    "news_group": 180
 }

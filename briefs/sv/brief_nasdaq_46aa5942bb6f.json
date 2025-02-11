@@ -1,9 +1,9 @@
 {
     "news_source": "nasdaq",
     "news_id": "nasdaq_46aa5942bb6f",
-    "news_header": "These 5 Charts Explain the Current Earnings Outlook",
+    "news_header": "Q4-resultats\u00e4songen visar stark f\u00f6retagsl\u00f6nsamhet och f\u00f6rv\u00e4ntningar p\u00e5 betydande tillv\u00e4xt 2025, trots negativa revideringar inom energisektorn.",
     "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-    "news_text": "no summary",
+    "news_text": "N\u00e4r vi g\u00e5r in i den andra m\u00e5naden av det nya \u00e5ret visar Q4-resultats\u00e4songen en stark l\u00f6nsamhet f\u00f6r f\u00f6retagen, s\u00e4rskilt bland &#x27;Mag 7&#x27; teknikf\u00f6retagen, trots vissa besvikande resultat. Den \u00f6vergripande bilden av vinster f\u00f6rblir stark, och ledningens kommentarer \u00f6kar f\u00f6rtroendet f\u00f6r en betydande tillv\u00e4xt\u00f6kning som f\u00f6rv\u00e4ntas 2025. Totala vinster f\u00f6r 2025 f\u00f6rv\u00e4ntas uppg\u00e5 till 2,352 biljoner dollar, en \u00f6kning med 13,5% j\u00e4mf\u00f6rt med 2024. Medan energisektorn har sett negativa revideringar som p\u00e5verkar de totala uppskattningarna, visar andra sektorer, s\u00e4rskilt teknik, positiva trender. Hittills visar Q4-resultaten en \u00f6kning med 13,8% i vinster j\u00e4mf\u00f6rt med samma period f\u00f6rra \u00e5ret, med m\u00e5nga f\u00f6retag som \u00f6vertr\u00e4ffar EPS- och int\u00e4ktsprognoser.",
     "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
     "news_time": 1738956240.0,
     "news_categories": [
@@ -11,5 +11,5 @@
         "earnings"
     ],
     "news_source_lang": "sv",
-    "news_group": 135
+    "news_group": 184
 }

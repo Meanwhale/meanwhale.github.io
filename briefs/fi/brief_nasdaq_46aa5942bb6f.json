@@ -1,9 +1,9 @@
 {
     "news_source": "nasdaq",
     "news_id": "nasdaq_46aa5942bb6f",
-    "news_header": "These 5 Charts Explain the Current Earnings Outlook",
+    "news_header": "Q4-tuloskausi osoittaa vahvaa yritysvoittoa, ja odotukset merkitt\u00e4v\u00e4st\u00e4 kasvusta vuonna 2025, huolimatta energiateollisuuden negatiivisista tarkistuksista.",
     "news_original_title": "These 5 Charts Explain the Current Earnings Outlook",
-    "news_text": "no summary",
+    "news_text": "Uuden vuoden toisen kuukauden edetess\u00e4 Q4-tuloskausi paljastaa vahvan tuloskuvan, erityisesti &#x27;Mag 7&#x27; teknologiayritysten keskuudessa, huolimatta joistakin pettymyksist\u00e4. Kokonaiskuva on vahva, ja johtajien kommentit lis\u00e4\u00e4v\u00e4t luottamusta merkitt\u00e4v\u00e4\u00e4n kasvun nousuun, jota odotetaan vuonna 2025. Yhteens\u00e4 2025 tulosten odotetaan olevan 2,352 biljoonaa dollaria, mik\u00e4 on 13,5% kasvu edelliseen vuoteen verrattuna. Vaikka energiateollisuus on kokenut negatiivisia tarkistuksia, muut sektorit, erityisesti teknologia, osoittavat my\u00f6nteisi\u00e4 trendej\u00e4. T\u00e4h\u00e4n menness\u00e4 Q4-tulokset osoittavat 13,8% kasvua voitossa vuodentakaisesta, ja monet yritykset ovat ylitt\u00e4neet EPS- ja liikevaihtoennusteet.",
     "news_url": "https://www.nasdaq.com/articles/these-5-charts-explain-current-earnings-outlook",
     "news_time": 1738956240.0,
     "news_categories": [
@@ -11,5 +11,5 @@
         "earnings"
     ],
     "news_source_lang": "fi",
-    "news_group": 135
+    "news_group": 184
 }

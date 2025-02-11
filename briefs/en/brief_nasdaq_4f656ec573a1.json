@@ -1,9 +1,9 @@
 {
     "news_source": "nasdaq",
     "news_id": "nasdaq_4f656ec573a1",
-    "news_header": "Notable Two Hundred Day Moving Average Cross - X",
+    "news_header": "X&#x27;s stock has a 52-week low of $26.915 and a high of $48.125, with the last trade at $37.25.",
     "news_original_title": "Notable Two Hundred Day Moving Average Cross - X",
-    "news_text": "no summary",
+    "news_text": "The chart indicates that X&#x27;s stock reached a low of $26.915 per share and a high of $48.125 over the past 52 weeks, with the most recent trading price being $37.25. Additionally, there is a mention of other metals stocks that have recently fallen below their 200-day moving average.",
     "news_url": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-x",
     "news_time": 1738955340.0,
     "news_categories": [
@@ -11,5 +11,5 @@
         "commodities"
     ],
     "news_source_lang": "en",
-    "news_group": 131
+    "news_group": 180
 }
