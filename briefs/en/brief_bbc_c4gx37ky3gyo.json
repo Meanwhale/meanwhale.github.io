@@ -1,14 +1,14 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c4gx37ky3gyo",
-    "news_header": "Scientists suggest the Earth&#x27;s inner core may have changed shape over the past 20 years, potentially affecting the magnetic field.",
+    "news_header": "",
     "news_original_title": "Earth&#x27;s inner core may have changed shape, say scientists",
-    "news_text": "A group of scientists has found that the Earth&#x27;s inner core may have changed shape in the last 20 years, deforming by over 100m in some areas. This inner core, crucial for generating the planet&#x27;s magnetic field, spins independently from the outer core. The research, published in Nature Geoscience, indicates that these changes may be linked to the interaction between the solid inner core and the liquid outer core. The findings could help scientists better understand the core&#x27;s properties and its impact on the Earth&#x27;s magnetic field, although uncertainties remain.",
+    "news_text": "",
     "news_url": "https://www.bbc.com/news/articles/c4gx37ky3gyo",
     "news_time": 1739196660.0,
     "news_categories": [
         "science"
     ],
     "news_source_lang": "en",
-    "news_group": -1
+    "news_group": 235
 }
