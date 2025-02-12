@@ -1,11 +1,11 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cpdx75zgg88o",
-    "news_header": "Sam Altman rejected Elon Musk&#x27;s $97.4bn bid to take over OpenAI, amidst ongoing tensions between the two over the company&#x27;s future.",
-    "news_original_title": "ChatGPT boss says no thanks to Elon Musk-led $97bn bid",
-    "news_text": "Sam Altman, CEO of OpenAI, has turned down a $97.4bn takeover bid from a consortium led by Elon Musk. Musk&#x27;s attorney confirmed the bid for all assets of OpenAI, which has been at the center of a long-standing conflict between Musk and Altman regarding the startup&#x27;s direction. Altman humorously responded on Musk&#x27;s platform X, suggesting a counter-offer to buy Twitter. While Altman&#x27;s rejection doesn&#x27;t end the takeover possibility, OpenAI&#x27;s board will ultimately decide. Musk and Altman co-founded OpenAI in 2015, but their relationship has deteriorated since Musk&#x27;s departure in 2018. Altman is restructuring OpenAI into a for-profit entity, which Musk argues contradicts its original mission. The bid is significantly lower than OpenAI&#x27;s recent valuations, and Musk&#x27;s motives are questioned, especially as he has a competing for-profit AI venture. Additionally, Musk is involved in a new $500bn AI infrastructure project with Oracle and other investors, announced by Trump as a major initiative for the US.",
+    "news_header": "OpenAI&#x27;s CEO Sam Altman stated that the company is &#x27;not for sale&#x27; following a $97.4 billion takeover bid from a consortium led by Elon Musk. Altman emphasized OpenAI&#x27;s mission to develop AGI for the benefit of humanity. Musk&#x27;s attorney confirmed the bid, while Altman expressed skepticism about Musk&#x27;s motives, citing competition between their companies.",
+    "news_original_title": "&#x27;We are not for sale,&#x27; ChatGPT boss says after Musk bid",
+    "news_text": "Altman aims to transition OpenAI to a for-profit model to secure more funding for AI research. The board will ultimately decide OpenAI&#x27;s future, and the current bid is significantly lower than its recent valuation.",
     "news_url": "https://www.bbc.com/news/articles/cpdx75zgg88o",
-    "news_time": 1739256840.0,
+    "news_time": 1739286780.0,
     "news_categories": [
         "business"
     ],

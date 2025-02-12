@@ -1,0 +1,14 @@
+{
+    "news_source": "yle",
+    "news_id": "yle_7420143195",
+    "news_header": "Nordnet&#x27;s mobilapplikation och webbplats upplevde problem p\u00e5 grund av en felaktig programkomponent relaterad till inloggning, inte en hackarattack. Detta ledde till att vissa kunder s\u00e5g felaktig kontoinformation och kunde handla andra anv\u00e4ndares v\u00e4rdepapper, men pengar kunde inte \u00f6verf\u00f6ras. Nordnet st\u00e4ngde sina tj\u00e4nster i flera timmar f\u00f6r att \u00e5tg\u00e4rda problemet och bed\u00f6mer nu p\u00e5verkan p\u00e5 ber\u00f6rda kunder.",
+    "news_original_title": "Ainakin yhden Nordnetin asiakkaan tilill\u00e4 joku muu yritti tehd\u00e4 kauppaa",
+    "news_text": "F\u00f6retaget har bett om urs\u00e4kt och vidtagit \u00e5tg\u00e4rder f\u00f6r att f\u00f6rhindra framtida incidenter. Deras aktiekurs f\u00f6ll med 6% men \u00e5terh\u00e4mtade sig n\u00e5got dagen efter.",
+    "news_url": "https://yle.fi/a/74-20143195",
+    "news_time": 1739342520.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "sv",
+    "news_group": -1
+}

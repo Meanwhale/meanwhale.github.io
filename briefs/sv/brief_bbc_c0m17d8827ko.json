@@ -1,11 +1,11 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c0m17d8827ko",
-    "news_header": "Forskning visar att stora AI-chattbottar sammanfattar nyheter felaktigt, vilket v\u00e4cker oro f\u00f6r desinformation.",
+    "news_header": "Enligt en studie fr\u00e5n BBC sammanfattade fyra stora AI-chatbots, inklusive OpenAI:s ChatGPT och Googles Gemini, nyhetsartiklar felaktigt, med betydande felaktigheter och faktiska misstag. BBC:s Deborah Turness framh\u00f6ll den potentiella verkliga skadan fr\u00e5n AI:s f\u00f6rvr\u00e4ngningar och uppmanade teknikf\u00f6retag att samarbeta med utgivare f\u00f6r att f\u00f6rb\u00e4ttra noggrannheten.",
     "news_original_title": "AI chatbots unable to accurately summarise news, BBC finds",
-    "news_text": "En BBC-studie visade att fyra stora AI-chattbottar\u2014OpenAIs ChatGPT, Microsofts Copilot, Googles Gemini och Perplexity AI\u2014sammanfattade nyhetsartiklar felaktigt, med betydande felaktigheter och f\u00f6rvr\u00e4ngningar i sina svar. Deborah Turness, VD f\u00f6r BBC News, uttryckte oro \u00f6ver den potentiella verkliga skadan av AI-genererad desinformation. Studien visade att 51% av AI-svaren hade betydande problem, och 19% inneh\u00f6ll faktiska fel. BBC str\u00e4var efter att samarbeta med AI-teknikleverant\u00f6rer f\u00f6r att ta itu med dessa problem och uppmanade teknikf\u00f6retag att ompr\u00f6va sina AI-nyhetssammanfattningar.",
+    "news_text": "Studien visade att 51 % av AI-svaren hade betydande problem och 19 % inneh\u00f6ll faktiska fel. BBC str\u00e4var efter att engagera AI-teknikleverant\u00f6rer f\u00f6r att hitta l\u00f6sningar och betonade behovet av att utgivare ska kontrollera hur deras inneh\u00e5ll anv\u00e4nds av AI.",
     "news_url": "https://www.bbc.com/news/articles/c0m17d8827ko",
-    "news_time": 1739262780.0,
+    "news_time": 1739283600.0,
     "news_categories": [
         "business"
     ],
