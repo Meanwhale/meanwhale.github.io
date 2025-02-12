@@ -1,9 +1,139 @@
 const articles = [
     {
+        "news_id": "arvopaperi_36407017793e",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Misunderstood mummy artist",
+        "news_epoch": 1739358660.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/fa968aa7-65b7-4679-90f3-55739d1c7d50",
+        "news_original_title": "V\u00e4\u00e4rinymm\u00e4rretty muumitaiteilija",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_96a333ee27aa",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "The liquid&#x27;s result is so low, even the dividend distribution is not certain. Trump can mess up the US market",
+        "news_epoch": 1739358180.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/3951670b-335f-4343-a1ec-841dd64ae61d",
+        "news_original_title": "Nesteen tulos painuu niin alas, ettei edes osingonjako ole varmaa \u2013 Trump voi sotkea USA:n markkinaa",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_ab7897c4a5ea",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "The stock exchange media companies have been going through a huge transformation in a few years. - There&#x27;s more",
+        "news_epoch": 1739357760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/eaa09444-377d-406e-923e-423cbbbeb468",
+        "news_original_title": "P\u00f6rssin mediayhti\u00f6t ovat k\u00e4yneet muutamassa vuodessa l\u00e4pi valtavan muodonmuutoksen \u2013\u00a0Lis\u00e4\u00e4 on luvassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143319",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Paint company Tikkurila left Russia",
+        "news_epoch": 1739357700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143319",
+        "news_original_title": "Maaliyhti\u00f6 Tikkurila l\u00e4hti Ven\u00e4j\u00e4lt\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_ab4410f9a090",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "New products are expected to boost Raisio&#x27;s sales",
+        "news_epoch": 1739357160.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/d0891b7e-e9f2-4c46-bf4a-9811c3837e87",
+        "news_original_title": "Uutuustuotteiden odotetaan p\u00f6nkitt\u00e4neen Raision myynti\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c2l08gn1zeno",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Mexican security forces have arrested a pilot, &#x27;El Jando&#x27;, suspected of working for the Los Chapitos cartel, led by the sons of Joaqu\u00edn &#x27;El Chapo&#x27; Guzm\u00e1n. The arrest occurred in Culiac\u00e1n, where he is believed to be a key figure involved in drug trafficking and attacks on security forces. Intelligence suggests he may provide information about the flight that led to the capture of cartel leader &#x27;El Mayo Zambada&#x27; in the US, allegedly betrayed by Joaqu\u00edn Guzm\u00e1n L\u00f3pez, one of El Chapo&#x27;s sons.",
+        "news_epoch": 1739357040.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c2l08gn1zeno",
+        "news_original_title": "Pilot suspected of working for Mexican drug cartel arrested",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce85x6w22gwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A paramilitary force in Sudan, the Rapid Support Forces (RSF), has attacked the Zamzam displacement camp in North Darfur, looting and setting fires, leading to numerous casualties. This marks the first time RSF has been accused of such actions despite ongoing artillery shelling in the area. The camp, housing around half a million displaced people, is already suffering from famine.",
+        "news_epoch": 1739356920.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce85x6w22gwo",
+        "news_original_title": "Sudan fighters accused of storming famine-hit camp",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143306",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Estlink electrical cable repair takes at least one month",
+        "news_epoch": 1739356620.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143306",
+        "news_original_title": "Estlink -s\u00e4hk\u00f6kaapelin korjaus kest\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n kuukauden",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_ec8c2ca7c266",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "The results report has led to an increase in Withsecure&#x27;s course. - The CEO is responsible for criticism of sales information from the consulting unit",
+        "news_epoch": 1739355960.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/ccc1c6af-ab7d-40d8-b426-d4422925dffc",
+        "news_original_title": "Tulosraportti sai Withsecuren kurssin nousuun \u2013 Toimitusjohtaja vastaa kritiikkiin konsultointiyksik\u00f6n myynnin tiedotuksesta",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71583220",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "DW Africa will conduct a week-long tour in Germany starting February 11, 2025, to cover the federal election on February 23, where 60 million Germans will vote. Key issues include economic challenges, immigration laws, and the rise of the far-right AfD party. Major parties have nominated candidates for chancellor, with the election being held early due to a coalition collapse.",
+        "news_epoch": 1739355840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/dw-africa-tour-germany-ahead-of-the-2025-elections/a-71583220",
+        "news_original_title": "DW Africa tour Germany ahead of the 2025 elections",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c87dv8rvjgxo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Heathrow Airport has announced a multi-billion pound investment plan to expand two terminals and is preparing to propose a third runway to the government. CEO Thomas Woldbye aims for the runway to be operational before the next parliament ends, despite opposition from environmental groups. The expansion will be funded privately and includes commitments to use UK steel.",
+        "news_header": "Heathrow Airport has announced a multi-billion pound investment plan to expand two terminals and is preparing to submit proposals for a third runway. CEO Thomas Woldbye aims for the runway to be operational before the next parliament ends, potentially within ten years. The expansion, backed by Chancellor Rachel Reeves, has faced opposition from environmental campaigners.",
         "news_epoch": 1739355360.0,
         "news_categories": [
             "business"
@@ -42,7 +172,7 @@ const articles = [
         "news_id": "yle_7420143285",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Google has removed several significant observances from its online and mobile calendars, including Women&#x27;s Day, Pride Month, and Holocaust Memorial Day, aligning with actions taken since Donald Trump&#x27;s presidency. The company claims that maintaining a wide array of cultural events is not sustainable, leading to a return to a model that only includes national holidays.",
+        "news_header": "Google has removed several significant observances from its online and mobile calendars, including Women&#x27;s Day, Pride Month, and Holocaust Memorial Day, aligning with changes since Trump&#x27;s presidency. The company claims that maintaining numerous cultural events is not sustainable, and has reverted to a model that only includes national holidays.",
         "news_epoch": 1739354700.0,
         "news_categories": [
             "world"
@@ -68,13 +198,13 @@ const articles = [
         "news_id": "bbc_c15z8983kvzo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Donald Trump welcomed American schoolteacher Marc Fogel back home after his release from a Russian prison, stating that Vladimir Putin received &#x27;not much&#x27; in return. Trump announced another detainee would be released soon and described the release as a &#x27;show of good faith&#x27; from Russia, potentially aiding in ending the war in Ukraine.",
+        "news_header": "Donald Trump welcomed American teacher Marc Fogel home after his release from a Russian prison, stating that Vladimir Putin gained &#x27;not much&#x27; in return. Trump announced another detainee would be freed soon and described the release as a &#x27;show of good faith&#x27; from Russia, potentially aiding in ending the war in Ukraine.",
         "news_epoch": 1739353800.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c15z8983kvzo",
-        "news_original_title": "Trump welcomes back teacher released by Russia",
+        "news_original_title": "Kremlin says Russian citizen freed in US after Trump greets freed schoolteacher",
         "news_group": -1
     },
     {
@@ -146,7 +276,7 @@ const articles = [
         "news_id": "yle_7420143275",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Several international companies, including Accenture, Meta, and Amazon, have discontinued their diversity, equity, and inclusion (DEI) programs. A news agency is seeking experiences from individuals regarding similar changes at their workplaces for a story, ensuring personal data will be handled by Yle&#x27;s journalists only with permission.",
+        "news_header": "Several international companies, including Accenture, Meta, and Amazon, have discontinued their diversity, equity, and inclusion (DEI) programs. A news agency is seeking personal experiences related to similar changes in workplaces for a story, ensuring that personal data will be handled responsibly.",
         "news_epoch": 1739352180.0,
         "news_categories": [
             "business"
@@ -192,7 +322,7 @@ const articles = [
         ],
         "news_url": "https://www.bbc.com/news/articles/cnvqle40183o",
         "news_original_title": "Crackdown on Bangladesh protesters may be crime against humanity, UN says",
-        "news_group": 220
+        "news_group": 225
     },
     {
         "news_id": "yle_7420143274",
@@ -270,7 +400,7 @@ const articles = [
         ],
         "news_url": "https://www.bbc.com/news/articles/c3vp06k90d5o",
         "news_original_title": "Three American goods that could rise in price due to metal tariffs",
-        "news_group": 219
+        "news_group": 224
     },
     {
         "news_id": "bbc_c4gwvxn5377o",
@@ -348,7 +478,7 @@ const articles = [
         ],
         "news_url": "https://www.bbc.com/news/articles/cly4e92wv0qo",
         "news_original_title": "Monty the giant schnauzer wins Best in Show",
-        "news_group": 216
+        "news_group": 221
     },
     {
         "news_id": "arvopaperi_fae43fcd4e06",
@@ -413,19 +543,6 @@ const articles = [
         ],
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/18a829af-47af-4f2e-af7d-343da331a6c1",
         "news_original_title": "Euroopan p\u00f6rssiavauksessa Heineken l\u00e4hti rajuun nousuun olutvolyymien siivitt\u00e4m\u00e4n\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_1a63a51fed9e",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "The Helsinki Stock Exchange Superweek is active with 30 companies reporting results tomorrow. Today, 15 companies announced their performance, including Cargotec and Anora. The general index rose by 0.7%. Kempower saw a significant increase of 14.2% in its share price after strong order intake. Anora&#x27;s profitability improved despite a decrease in turnover.",
-        "news_epoch": 1739342220.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/3fc38c0e-abd4-4a8f-8dc6-bdbcec290c1e",
-        "news_original_title": "Tulosjulkistajat Kempower ja Anora kiit\u00e4v\u00e4t p\u00f6rssin nousuavauksessa",
         "news_group": -1
     },
     {
@@ -575,7 +692,7 @@ const articles = [
         "news_id": "sn_0d813f3db160",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "Researchers have analyzed 500-year-old records from 16th century Transylvania to understand the impact of the Little Ice Age on local populations. They examined diaries and chronicles, revealing a climate marked by heat and droughts followed by increased rainfall, which contributed to famines and diseases.",
+        "news_header": "Researchers have analyzed 16th-century records from Transylvania to understand the impact of the Little Ice Age on local populations. By examining diaries and documents in various languages, they found evidence of climate-related events such as droughts, floods, and famines. This research highlights how past climate conditions may inform our understanding of future climate change impacts.",
         "news_epoch": 1739329200.0,
         "news_categories": [
             "science"
@@ -780,19 +897,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420143145",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Egypt intends to present its plan to rebuild Gaza",
-        "news_epoch": 1739308080.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143145",
-        "news_original_title": "Egypti aikoo esitell\u00e4 suunnitelmansa Gazan j\u00e4lleenrakentamiseksi",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_ceve1xpdjxro",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -822,7 +926,7 @@ const articles = [
         "news_id": "dw_a71577508",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Armed militants in eastern Congo killed over 50 civilians in attacks attributed to CODECO militants, who set homes ablaze and attacked with firearms and machetes. The death toll is expected to rise, with reports including children among the victims. Local officials condemned the violence, and UN peacekeepers faced challenges in protecting displaced people due to the scale of the attacks.",
+        "news_header": "Armed militants in eastern Congo killed over 50 civilians in attacks, with CODECO militants responsible. They set houses on fire and attacked with guns and machetes, leading to many injuries and deaths. The death toll is expected to rise, and previous attacks on displaced persons&#x27; camps were also reported.",
         "news_epoch": 1739298240.0,
         "news_categories": [
             "world"
@@ -910,19 +1014,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_c4gpk267dvwo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Steve Bannon, a former ally of President Trump, pleaded guilty to defrauding donors for a private border wall scheme. He received a conditional discharge for three years, avoiding jail time. Bannon and others were accused of deceiving donors in the &#x27;We Build the Wall&#x27; campaign, which raised $25 million.",
-        "news_epoch": 1739290380.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4gpk267dvwo",
-        "news_original_title": "Steve Bannon pleads guilty in border wall case and avoids jail time",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71574068",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -949,19 +1040,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_cwywq42ng8yo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "A new deepwater fish species named Branchiostegus sanae has been discovered and is inspired by San, the warrior princess from Studio Ghibli&#x27;s film Princess Mononoke. Researchers identified the fish due to its unique facial markings and confirmed it as a new species through genetic analysis. The film, which grossed over 19 billion yen, explores the relationship between humans and nature.",
-        "news_epoch": 1739289300.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cwywq42ng8yo",
-        "news_original_title": "Stripey-faced fish named after warrior princess San",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420143085",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -972,7 +1050,7 @@ const articles = [
         ],
         "news_url": "https://yle.fi/a/74-20143085",
         "news_original_title": "Toimi n\u00e4in, jos olet Nordnetin asiakas \u2013 asiantuntijat antavat vinkkins\u00e4",
-        "news_group": 217
+        "news_group": 222
     },
     {
         "news_id": "bbc_cpdx75zgg88o",
@@ -1121,14 +1199,14 @@ const articles = [
         "news_id": "yle_7420142944",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Recent studies suggest that the Earth&#x27;s core is slowing down and may have changed shape. Scientists believe there is a solid metal core surrounded by a liquid outer layer. Research indicates that the inner core&#x27;s rotation has slowed and may align with the outer shell&#x27;s rhythm. Changes in seismic waves have raised questions about the core&#x27;s shape and rotation.",
+        "news_header": "Recent studies suggest that the Earth&#x27;s core may have changed shape and slowed its rotation, possibly even synchronizing with the outer shell. Seismic measurements indicate a solid metal core surrounded by liquid, and researchers have found that the core&#x27;s edges may be uneven. This distortion is believed to occur where the core is close to melting, but it does not affect life on the surface.",
         "news_epoch": 1739281620.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20142944",
         "news_original_title": "Tutkijoilta erikoinen havainto: Maan ydin on saattanut muuttaa muotoaan",
-        "news_group": 218
+        "news_group": 223
     },
     {
         "news_id": "yle_7420143076",
@@ -1222,19 +1300,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_1ccce01f30c8",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "US government debt interest rates are rising amid concerns over tariffs and inflation.",
-        "news_epoch": 1739273340.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/1755daf4-b720-4cc9-ac00-a35856fb8a8b",
-        "news_original_title": "Ursula von der Leyenilt\u00e4 tiukka vastaus Trumpille \u2013 Markkinakorot nousussa",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420137070",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1287,19 +1352,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142781",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Supercell achieved record revenues of EUR 2.8 billion from six games, with a 77% increase in net sales. The company attributes its success to high-quality games and effective marketing, despite a declining mobile gaming market.",
-        "news_epoch": 1739261100.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142781",
-        "news_original_title": "Supercell rikkoi enn\u00e4tyksens\u00e4 \u2013 Toimitusjohtajan mukaan yhti\u00f6 kaatoi puolella miljardilla \u201dbensaa liekkeihin\u201d",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71562381",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1316,7 +1368,7 @@ const articles = [
         "news_id": "dw_a70988147",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "US authorities have confirmed the spread of avian influenza D1.1 genotype from wild birds to cattle, with significant outbreaks affecting over 950 herds across 16 states. The H5N1 strain poses a low risk to the public, but concerns remain about its potential to mutate and cause a pandemic. Governments are increasing vaccine stocks and surveillance in response to the outbreak, which has also affected humans and pets.",
+        "news_header": "US authorities have confirmed the spread of a new strain of avian influenza, D1.1, from wild birds to cattle, marking a significant outbreak that began in late 2023. The highly pathogenic H5N1 strain has infected over 950 cattle herds across 16 states and has spread to Canada. In January 2024, a second human case of H5N1 was confirmed in the UK, though the public risk remains low.",
         "news_epoch": 1739250840.0,
         "news_categories": [
             "science"
@@ -1855,19 +1907,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "dw_a71558448",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Colombian President Gustavo Petro requested resignations from several Cabinet members after criticizing their performance on national television.",
-        "news_epoch": 1739166060.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/colombia-s-petro-calls-for-cabinet-ministers-to-resign/a-71558448",
-        "news_original_title": "Colombia&#x27;s Petro calls for Cabinet ministers to resign",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71493993",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1904,19 +1943,6 @@ const articles = [
         ],
         "news_url": "https://yle.fi/a/74-20142196",
         "news_original_title": "Tuhansia Neuvostoliittoon paenneita ja loikanneita suomalaisia on l\u00f6ydetty vanhasta arkistosta",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142496",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Whale cubs learn their species&#x27; songs similarly to how human children learn language, with changing melodies and structures reflecting cultural interaction.",
-        "news_epoch": 1739105820.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://yle.fi/a/74-20142496",
-        "news_original_title": "Tutkijat \u00e4\u00e4nittiv\u00e4t ryh\u00e4valaiden laulua kahdeksan vuoden ajan \u2013 tulokset paljastivat yll\u00e4tt\u00e4v\u00e4n yhteyden ihmiskieliin",
         "news_group": -1
     },
     {

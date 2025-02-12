@@ -1,9 +1,139 @@
 [
     {
+        "news_id": "arvopaperi_36407017793e",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Misunderstood mumie artist",
+        "news_epoch": 1739358660.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/fa968aa7-65b7-4679-90f3-55739d1c7d50",
+        "news_original_title": "V\u00e4\u00e4rinymm\u00e4rretty muumitaiteilija",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_96a333ee27aa",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "V\u00e4tskans resultat \u00e4r s\u00e5 l\u00e5gt, \u00e4ven utdelningen \u00e4r inte s\u00e4ker. Trump kan f\u00f6rst\u00f6ra den amerikanska marknaden",
+        "news_epoch": 1739358180.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/3951670b-335f-4343-a1ec-841dd64ae61d",
+        "news_original_title": "Nesteen tulos painuu niin alas, ettei edes osingonjako ole varmaa \u2013 Trump voi sotkea USA:n markkinaa",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_ab7897c4a5ea",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Aktiebolagen har g\u00e5tt igenom en stor omvandling om n\u00e5gra \u00e5r. Det finns mer",
+        "news_epoch": 1739357760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/eaa09444-377d-406e-923e-423cbbbeb468",
+        "news_original_title": "P\u00f6rssin mediayhti\u00f6t ovat k\u00e4yneet muutamassa vuodessa l\u00e4pi valtavan muodonmuutoksen \u2013\u00a0Lis\u00e4\u00e4 on luvassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143319",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Paint Company Tikkurila l\u00e4mnade Ryssland",
+        "news_epoch": 1739357700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143319",
+        "news_original_title": "Maaliyhti\u00f6 Tikkurila l\u00e4hti Ven\u00e4j\u00e4lt\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_ab4410f9a090",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Nya produkter f\u00f6rv\u00e4ntas \u00f6ka Raisios f\u00f6rs\u00e4ljning",
+        "news_epoch": 1739357160.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/d0891b7e-e9f2-4c46-bf4a-9811c3837e87",
+        "news_original_title": "Uutuustuotteiden odotetaan p\u00f6nkitt\u00e4neen Raision myynti\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c2l08gn1zeno",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Mexikanska s\u00e4kerhetsstyrkor har arresterat en pilot, &#x27;El Jando&#x27;, som misst\u00e4nks arbeta f\u00f6r Los Chapitos-kartellen, ledd av s\u00f6nerna till Joaqu\u00edn &#x27;El Chapo&#x27; Guzm\u00e1n. Arresten \u00e4gde rum i Culiac\u00e1n, d\u00e4r han tros vara en nyckelfigur involverad i narkotikahandel och attacker mot s\u00e4kerhetsstyrkor. Efterretningstj\u00e4nsten antyder att han kan ge information om flygningen som ledde till gripandet av kartellledaren &#x27;El Mayo Zambada&#x27; i USA, som p\u00e5st\u00e5s ha blivit f\u00f6rr\u00e5dd av Joaqu\u00edn Guzm\u00e1n L\u00f3pez, en av El Chapos s\u00f6ner.",
+        "news_epoch": 1739357040.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c2l08gn1zeno",
+        "news_original_title": "Pilot suspected of working for Mexican drug cartel arrested",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce85x6w22gwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En paramilit\u00e4r styrka i Sudan, Rapid Support Forces (RSF), har attackerat Zamzam flyktingl\u00e4ger i norra Darfur, plundrat och satt eld p\u00e5 marknaden och flera hem, vilket lett till m\u00e5nga d\u00f6dsfall. Detta \u00e4r f\u00f6rsta g\u00e5ngen RSF anklagas f\u00f6r s\u00e5dana handlingar trots p\u00e5g\u00e5ende artilleribeskjutning i omr\u00e5det. L\u00e4grets cirka en halv miljon f\u00f6rdrivna m\u00e4nniskor lider redan av sv\u00e4lt.",
+        "news_epoch": 1739356920.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce85x6w22gwo",
+        "news_original_title": "Sudan fighters accused of storming famine-hit camp",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143306",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Estlink elektrisk kabelreparation tar minst en m\u00e5nad",
+        "news_epoch": 1739356620.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143306",
+        "news_original_title": "Estlink -s\u00e4hk\u00f6kaapelin korjaus kest\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n kuukauden",
+        "news_group": -1
+    },
+    {
+        "news_id": "arvopaperi_ec8c2ca7c266",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Resultatrapporten har lett till en \u00f6kning av Withsecures kurs. - VD ansvarar f\u00f6r kritik av f\u00f6rs\u00e4ljningsinformation fr\u00e5n konsultenheten",
+        "news_epoch": 1739355960.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/ccc1c6af-ab7d-40d8-b426-d4422925dffc",
+        "news_original_title": "Tulosraportti sai Withsecuren kurssin nousuun \u2013 Toimitusjohtaja vastaa kritiikkiin konsultointiyksik\u00f6n myynnin tiedotuksesta",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71583220",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "DW Africa kommer att genomf\u00f6ra en veckol\u00e5ng turn\u00e9 i Tyskland som b\u00f6rjar den 11 februari 2025 f\u00f6r att rapportera om de federala valen den 23 februari, d\u00e4r 60 miljoner tyskar kommer att r\u00f6sta. Nyckelfr\u00e5gor inkluderar ekonomiska utmaningar, invandringslagar och den v\u00e4xande populariteten f\u00f6r det h\u00f6gerextrema AfD-partiet.",
+        "news_epoch": 1739355840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/dw-africa-tour-germany-ahead-of-the-2025-elections/a-71583220",
+        "news_original_title": "DW Africa tour Germany ahead of the 2025 elections",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c87dv8rvjgxo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Heathrow flygplats har meddelat en investeringsplan p\u00e5 flera miljarder pund f\u00f6r att ut\u00f6ka tv\u00e5 terminaler och f\u00f6rbereder sig f\u00f6r att f\u00f6resl\u00e5 en tredje landningsbana till regeringen. VD Thomas Woldbye siktar p\u00e5 att landningsbanan ska vara i drift innan n\u00e4sta parlament avslutas, trots motst\u00e5nd fr\u00e5n milj\u00f6grupper.",
+        "news_header": "Heathrow flygplats har meddelat en miljardpundsinvestering f\u00f6r att utvidga tv\u00e5 terminaler och f\u00f6rbereder f\u00f6rslag f\u00f6r en tredje landningsbana. VD Thomas Woldbye siktar p\u00e5 att landningsbanan ska vara i drift innan n\u00e4sta parlament avslutas, potentiellt inom tio \u00e5r. Utvidgningen, som st\u00f6ds av finansminister Rachel Reeves, har m\u00f6tt motst\u00e5nd fr\u00e5n milj\u00f6kampanjer.",
         "news_epoch": 1739355360.0,
         "news_categories": [
             "business"
@@ -42,7 +172,7 @@
         "news_id": "yle_7420143285",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Google har tagit bort flera viktiga h\u00f6gtider fr\u00e5n sina online- och mobilkalendrar, inklusive Internationella kvinnodagen, Pride-m\u00e5naden och F\u00f6rintelsens minnesdag, vilket ligger i linje med \u00e5tg\u00e4rder som vidtagits sedan Donald Trumps presidentskap. F\u00f6retaget h\u00e4vdar att det inte \u00e4r h\u00e5llbart att underh\u00e5lla ett brett spektrum av kulturella evenemang, vilket har lett till en \u00e5terg\u00e5ng till en modell som endast inkluderar nationella helgdagar.",
+        "news_header": "Google har tagit bort flera viktiga h\u00f6gtider fr\u00e5n sina online- och mobilkalendrar, inklusive Internationella kvinnodagen, Pride-m\u00e5naden och F\u00f6rintelsens minnesdag, vilket f\u00f6ljer f\u00f6r\u00e4ndringar sedan Trumps presidentskap. F\u00f6retaget h\u00e4vdar att det inte \u00e4r h\u00e5llbart att underh\u00e5lla m\u00e5nga kulturella evenemang och har \u00e5terg\u00e5tt till en modell som endast inkluderar nationella helgdagar.",
         "news_epoch": 1739354700.0,
         "news_categories": [
             "world"
@@ -68,13 +198,13 @@
         "news_id": "bbc_c15z8983kvzo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Donald Trump v\u00e4lkomnade den amerikanska l\u00e4raren Marc Fogel hem efter hans frigivning fr\u00e5n ett ryskt f\u00e4ngelse och sa att Vladimir Putin fick &#x27;inte mycket&#x27; i utbyte. Trump meddelade att en annan f\u00e5nge skulle sl\u00e4ppas snart och beskrev frigivningen som en &#x27;god tro&#x27;-gest fr\u00e5n Ryssland, vilket potentiellt kan hj\u00e4lpa till att avsluta kriget i Ukraina.",
+        "news_header": "Donald Trump v\u00e4lkomnade den amerikanska l\u00e4raren Marc Fogel hem efter hans frigivning fr\u00e5n ett ryskt f\u00e4ngelse och sa att Vladimir Putin fick &#x27;inte mycket&#x27; i utbyte. Trump meddelade att en annan f\u00e5nge skulle sl\u00e4ppas snart och beskrev frigivningen som en &#x27;god vilja&#x27; fr\u00e5n Ryssland, vilket potentiellt kan hj\u00e4lpa till att avsluta kriget i Ukraina.",
         "news_epoch": 1739353800.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c15z8983kvzo",
-        "news_original_title": "Trump welcomes back teacher released by Russia",
+        "news_original_title": "Kremlin says Russian citizen freed in US after Trump greets freed schoolteacher",
         "news_group": -1
     },
     {
@@ -146,7 +276,7 @@
         "news_id": "yle_7420143275",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Flera internationella f\u00f6retag, inklusive Accenture, Meta och Amazon, har avbrutit sina program f\u00f6r m\u00e5ngfald, j\u00e4mlikhet och inkludering (DEI). En nyhetsbyr\u00e5 s\u00f6ker erfarenheter fr\u00e5n individer ang\u00e5ende liknande f\u00f6r\u00e4ndringar p\u00e5 deras arbetsplatser f\u00f6r en artikel, och s\u00e4kerst\u00e4ller att personuppgifter endast hanteras av Yles journalister med tillst\u00e5nd.",
+        "news_header": "Flera internationella f\u00f6retag, inklusive Accenture, Meta och Amazon, har avslutat sina program f\u00f6r m\u00e5ngfald, j\u00e4mlikhet och inkludering (DEI). En nyhetsbyr\u00e5 s\u00f6ker personliga erfarenheter relaterade till liknande f\u00f6r\u00e4ndringar p\u00e5 arbetsplatser f\u00f6r en artikel, och s\u00e4kerst\u00e4ller att personuppgifter hanteras ansvarsfullt.",
         "news_epoch": 1739352180.0,
         "news_categories": [
             "business"
@@ -192,7 +322,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cnvqle40183o",
         "news_original_title": "Crackdown on Bangladesh protesters may be crime against humanity, UN says",
-        "news_group": 220
+        "news_group": 225
     },
     {
         "news_id": "yle_7420143274",
@@ -270,7 +400,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/c3vp06k90d5o",
         "news_original_title": "Three American goods that could rise in price due to metal tariffs",
-        "news_group": 219
+        "news_group": 224
     },
     {
         "news_id": "bbc_c4gwvxn5377o",
@@ -348,7 +478,7 @@
         ],
         "news_url": "https://www.bbc.com/news/articles/cly4e92wv0qo",
         "news_original_title": "Monty the giant schnauzer wins Best in Show",
-        "news_group": 216
+        "news_group": 221
     },
     {
         "news_id": "arvopaperi_fae43fcd4e06",
@@ -413,19 +543,6 @@
         ],
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/18a829af-47af-4f2e-af7d-343da331a6c1",
         "news_original_title": "Euroopan p\u00f6rssiavauksessa Heineken l\u00e4hti rajuun nousuun olutvolyymien siivitt\u00e4m\u00e4n\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "arvopaperi_1a63a51fed9e",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Helsingforsb\u00f6rsens Supervecka \u00e4r aktiv med 30 f\u00f6retag som rapporterar resultat imorgon. Idag meddelade 15 f\u00f6retag sina prestationer, inklusive Cargotec och Anora. Det allm\u00e4nna indexet steg med 0,7%. Kempower s\u00e5g en betydande \u00f6kning p\u00e5 14,2% i aktiekursen efter stark orderintag. Anoras l\u00f6nsamhet f\u00f6rb\u00e4ttrades trots en minskning av oms\u00e4ttningen.",
-        "news_epoch": 1739342220.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/3fc38c0e-abd4-4a8f-8dc6-bdbcec290c1e",
-        "news_original_title": "Tulosjulkistajat Kempower ja Anora kiit\u00e4v\u00e4t p\u00f6rssin nousuavauksessa",
         "news_group": -1
     },
     {
@@ -575,7 +692,7 @@
         "news_id": "sn_0d813f3db160",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "Forskare har analyserat 500 \u00e5r gamla dokument fr\u00e5n 1500-talets Transsylvanien f\u00f6r att f\u00f6rst\u00e5 hur den Lilla istiden p\u00e5verkade lokalbefolkningen. De granskade dagb\u00f6cker och kr\u00f6nikor, vilket avsl\u00f6jade ett klimat pr\u00e4glat av v\u00e4rme och torka f\u00f6ljt av \u00f6kad nederb\u00f6rd, vilket bidrog till hungersn\u00f6d och sjukdomar.",
+        "news_header": "Forskare har analyserat 1500-talets dokument fr\u00e5n Transsylvanien f\u00f6r att f\u00f6rst\u00e5 hur den lilla istiden p\u00e5verkade lokalbefolkningen. Genom att granska dagb\u00f6cker och dokument p\u00e5 olika spr\u00e5k fann de bevis p\u00e5 klimatrelaterade h\u00e4ndelser som torka, \u00f6versv\u00e4mningar och hungersn\u00f6d. Denna forskning belyser hur tidigare klimatf\u00f6rh\u00e5llanden kan informera v\u00e5r f\u00f6rst\u00e5else av framtida klimatf\u00f6r\u00e4ndringar.",
         "news_epoch": 1739329200.0,
         "news_categories": [
             "science"
@@ -780,19 +897,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420143145",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Egypten avser att presentera sin plan f\u00f6r att \u00e5teruppbygga Gaza",
-        "news_epoch": 1739308080.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143145",
-        "news_original_title": "Egypti aikoo esitell\u00e4 suunnitelmansa Gazan j\u00e4lleenrakentamiseksi",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_ceve1xpdjxro",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -822,7 +926,7 @@
         "news_id": "dw_a71577508",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Bev\u00e4pnade militanta grupper i \u00f6stra Kongo d\u00f6dade \u00f6ver 50 civila i attacker som tillskrivs CODECO-militanta, som satte eld p\u00e5 hem och attackerade med skjutvapen och machetes. D\u00f6dssiffran f\u00f6rv\u00e4ntas stiga, med rapporter som inkluderar barn bland offren. Lokala tj\u00e4nstem\u00e4n f\u00f6rd\u00f6mde v\u00e5ldet, och FN:s fredsbevarande styrkor hade sv\u00e5rt att skydda internflyktingar p\u00e5 grund av attackernas omfattning.",
+        "news_header": "Bev\u00e4pnade militanta grupper i \u00f6stra Kongo d\u00f6dade \u00f6ver 50 civila i attacker, d\u00e4r CODECO-militanta var ansvariga. De satte eld p\u00e5 hus och attackerade med vapen och macheter, vilket ledde till m\u00e5nga skador och d\u00f6dsfall. D\u00f6dstalet f\u00f6rv\u00e4ntas stiga, och tidigare attacker mot l\u00e4ger f\u00f6r internflyktingar rapporterades ocks\u00e5.",
         "news_epoch": 1739298240.0,
         "news_categories": [
             "world"
@@ -910,19 +1014,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_c4gpk267dvwo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Steve Bannon, en tidigare allierad till president Trump, har erk\u00e4nt sig skyldig till att ha bedragit givare f\u00f6r ett privat gr\u00e4nsmurprojekt. Han fick en villkorlig dom i tre \u00e5r och undvek f\u00e4ngelse. Bannon och andra anklagades f\u00f6r att ha lurat givare i kampanjen &#x27;We Build the Wall&#x27;, som samlade in 25 miljoner dollar.",
-        "news_epoch": 1739290380.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4gpk267dvwo",
-        "news_original_title": "Steve Bannon pleads guilty in border wall case and avoids jail time",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71574068",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -949,19 +1040,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_cwywq42ng8yo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "En ny djuphavsfiskart, Branchiostegus sanae, har uppt\u00e4ckts och \u00e4r inspirerad av San, krigarprinsessan fr\u00e5n Studio Ghiblis film Prinsessa Mononoke. Forskare identifierade fisken p\u00e5 grund av dess unika ansiktsmarkeringar och bekr\u00e4ftade den som en ny art genom genetisk analys. Filmen, som drog in \u00f6ver 19 miljarder yen, utforskar relationen mellan m\u00e4nniskor och natur.",
-        "news_epoch": 1739289300.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cwywq42ng8yo",
-        "news_original_title": "Stripey-faced fish named after warrior princess San",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420143085",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -972,7 +1050,7 @@
         ],
         "news_url": "https://yle.fi/a/74-20143085",
         "news_original_title": "Toimi n\u00e4in, jos olet Nordnetin asiakas \u2013 asiantuntijat antavat vinkkins\u00e4",
-        "news_group": 217
+        "news_group": 222
     },
     {
         "news_id": "bbc_cpdx75zgg88o",
@@ -1121,14 +1199,14 @@
         "news_id": "yle_7420142944",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Nya studier tyder p\u00e5 att Jordens k\u00e4rna saktar ner och kan ha f\u00f6r\u00e4ndrat form. Forskare tror att det finns en solid metallk\u00e4rna omgiven av ett flytande yttre lager. Forskning indikerar att den inre k\u00e4rnans rotation har saktat ner och kan ha anpassat sig till det yttre skalets rytm. F\u00f6r\u00e4ndringar i seismiska v\u00e5gor har v\u00e4ckt fr\u00e5gor om k\u00e4rnans form och rotation.",
+        "news_header": "Nya studier tyder p\u00e5 att jordens k\u00e4rna kan ha f\u00f6r\u00e4ndrat form och saktat ner sin rotation, eventuellt till och med synkroniserat med det yttre skalet. Seismiska m\u00e4tningar indikerar en solid metallk\u00e4rna omgiven av v\u00e4tska, och forskare har funnit att k\u00e4rnans kanter kan vara oj\u00e4mna. Denna f\u00f6rvr\u00e4ngning tros ske d\u00e4r k\u00e4rnan \u00e4r n\u00e4ra sm\u00e4ltpunkten, men det p\u00e5verkar inte livet p\u00e5 ytan.",
         "news_epoch": 1739281620.0,
         "news_categories": [
             "science"
         ],
         "news_url": "https://yle.fi/a/74-20142944",
         "news_original_title": "Tutkijoilta erikoinen havainto: Maan ydin on saattanut muuttaa muotoaan",
-        "news_group": 218
+        "news_group": 223
     },
     {
         "news_id": "yle_7420143076",
@@ -1222,19 +1300,6 @@
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_1ccce01f30c8",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "R\u00e4ntorna p\u00e5 amerikansk statsskuld \u00f6kar p\u00e5 grund av oro f\u00f6r tullar och inflation.",
-        "news_epoch": 1739273340.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/1755daf4-b720-4cc9-ac00-a35856fb8a8b",
-        "news_original_title": "Ursula von der Leyenilt\u00e4 tiukka vastaus Trumpille \u2013 Markkinakorot nousussa",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420137070",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1287,19 +1352,6 @@
         "news_group": -1
     },
     {
-        "news_id": "yle_7420142781",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Supercell n\u00e5dde rekordint\u00e4kter p\u00e5 2,8 miljarder euro fr\u00e5n sex spel, med en \u00f6kning av nettof\u00f6rs\u00e4ljningen med 77%. F\u00f6retaget tillskriver sin framg\u00e5ng h\u00f6gkvalitativa spel och effektiv marknadsf\u00f6ring, trots en ned\u00e5tg\u00e5ende mobilspelsmarknad.",
-        "news_epoch": 1739261100.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142781",
-        "news_original_title": "Supercell rikkoi enn\u00e4tyksens\u00e4 \u2013 Toimitusjohtajan mukaan yhti\u00f6 kaatoi puolella miljardilla \u201dbensaa liekkeihin\u201d",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71562381",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1316,7 +1368,7 @@
         "news_id": "dw_a70988147",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "USA:s myndigheter har bekr\u00e4ftat spridningen av f\u00e5gelinfluensa D1.1-genotypen fr\u00e5n vilda f\u00e5glar till boskap, med betydande utbrott som p\u00e5verkar \u00f6ver 950 bes\u00e4ttningar i 16 delstater. H5N1-stammen utg\u00f6r en l\u00e5g risk f\u00f6r allm\u00e4nheten, men oro finns f\u00f6r dess potentiella mutation och m\u00f6jlighet att orsaka en pandemi.",
+        "news_header": "USA:s myndigheter har bekr\u00e4ftat spridningen av en ny stam av f\u00e5gelinfluensa, D1.1, fr\u00e5n vilda f\u00e5glar till n\u00f6tkreatur, vilket markerar ett betydande utbrott som b\u00f6rjade i slutet av 2023. Den h\u00f6gpatogena H5N1-stammen har smittat \u00f6ver 950 n\u00f6tkreatursbes\u00e4ttningar i 16 delstater och spridit sig till Kanada.",
         "news_epoch": 1739250840.0,
         "news_categories": [
             "science"
@@ -1855,19 +1907,6 @@
         "news_group": -1
     },
     {
-        "news_id": "dw_a71558448",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Colombianska presidenten Gustavo Petro beg\u00e4rde avg\u00e5ngar fr\u00e5n flera kabinettmedlemmar efter att ha kritiserat deras prestationer i nationell television.",
-        "news_epoch": 1739166060.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/colombia-s-petro-calls-for-cabinet-ministers-to-resign/a-71558448",
-        "news_original_title": "Colombia&#x27;s Petro calls for Cabinet ministers to resign",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71493993",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1904,19 +1943,6 @@
         ],
         "news_url": "https://yle.fi/a/74-20142196",
         "news_original_title": "Tuhansia Neuvostoliittoon paenneita ja loikanneita suomalaisia on l\u00f6ydetty vanhasta arkistosta",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142496",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Valungar l\u00e4r sig sina arts s\u00e5nger p\u00e5 liknande s\u00e4tt som m\u00e4nskliga barn l\u00e4r sig spr\u00e5k, med f\u00f6r\u00e4nderliga melodier och strukturer som speglar kulturell interaktion.",
-        "news_epoch": 1739105820.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://yle.fi/a/74-20142496",
-        "news_original_title": "Tutkijat \u00e4\u00e4nittiv\u00e4t ryh\u00e4valaiden laulua kahdeksan vuoden ajan \u2013 tulokset paljastivat yll\u00e4tt\u00e4v\u00e4n yhteyden ihmiskieliin",
         "news_group": -1
     },
     {
