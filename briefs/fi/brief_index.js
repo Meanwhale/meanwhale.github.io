@@ -1,9 +1,84 @@
 const articles = [
     {
+        "news_id": "bbc_cy0pz3er37jo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Yhdysvaltain puolustusministeri Pete Hegseth totesi, ett\u00e4 Euroopan maiden on otettava johtoasema Ukrainan rahoituksessa, mik\u00e4 osoittaa muutosta Yhdysvaltojen politiikassa.",
+        "news_epoch": 1739374680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cy0pz3er37jo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Hegseth sets out hard line on European defence and Nato",
+        "news_group": 232
+    },
+    {
+        "news_id": "dw_a71587345",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "YK:n ihmisoikeuskomissaari Volker Turk raportoi, ett\u00e4 Bangladeshin entinen hallitus rikkoi j\u00e4rjestelm\u00e4llisesti ihmisoikeuksia tukahduttaakseen protesteja, jotka johtivat Sheikh Hasinan eroon.",
+        "news_epoch": 1739373060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/un-up-to-1-400-killed-in-bangladesh-protests-crackdown/a-71587345",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "UN: Up to 1,400 killed in Bangladesh protests crackdown",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143394",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Yhdysvaltain presidentti Donald Trump puhui Ven\u00e4j\u00e4n presidentin Vladimir Putinin kanssa neuvottelujen aloittamisesta Ukrainan sodan p\u00e4\u00e4tt\u00e4miseksi. He sopivat aloittavansa keskustelut heti ja aikovat soittaa Ukrainan presidentille Volodymyr Zelenskylle.",
+        "news_epoch": 1739372820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143394",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Trump: Keskustelimme Ukrainan sodan lopettamisesta Putinin kanssa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420141051",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Sosiaalinen media usein mainostaa mahdollisuutta ansaita tuhansia euroja kuukaudessa passiivisen tulon avulla, mik\u00e4 kuulostaa houkuttelevalta mutta voi olla harhaanjohtavaa.",
+        "news_epoch": 1739372400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20141051",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Nopea rikastuminen ja passiiviset tulot ovat nyt kaikkien huulilla \u2013 selvitimme, voiko nukkuessaan tienata oikeasti",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71587733",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Afrikan unionin valmistautuessa valitsemaan seuraavaa komission puheenjohtajaa, kolme p\u00e4\u00e4ehdokasta on keski\u00f6ss\u00e4: Mahamoud Ali Youssouf Djiboutista, Richard Randriamandrato Madagaskarilta ja Raila Odinga Keniasta.",
+        "news_epoch": 1739372220.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/african-union-leadership-who-can-best-fix-africa-s-problems/a-71587733",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "African Union leadership: Who can best fix Africa&#x27;s problems?",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143237",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Viime syksyn\u00e4 Nordea koki hakkerihy\u00f6kk\u00e4yksi\u00e4, jotka vahingoittivat luottamusta, mutta kenenk\u00e4\u00e4n tilej\u00e4 ei vaarannettu. Tapaus her\u00e4tti huolta osakev\u00e4litysalalla, erityisesti Nordnetiss\u00e4, jossa asiakasportfoliot olivat saatavilla. Suomalaisen asiakkaan yli 7 000 euron arvoisia osakkeita yritettiin myyd\u00e4, mutta kauppa peruttiin. Vaikka vahinkoja ei makseta, Nordnet voi kohdata merkitt\u00e4vi\u00e4 sakkoja Ruotsin rahoitus- ja tietosuojaviranomaisilta, mahdollisesti jopa 20 miljoonaa euroa. Oikeudelliset asiantuntijat korostavat, ett\u00e4 huolimattomuus ei vapauta vastuusta, ja tapaus voi vaikuttaa Nordnetin asiakasluottamukseen ja kasvutavoitteisiin, vaikka se vaikutti suoraan vain muutamaan sataan asiakkaaseen.",
+        "news_header": "Viime syksyn\u00e4 Nordea kohtasi hakkerihy\u00f6kk\u00e4yksi\u00e4, jotka vahingoittivat luottamusta, mutta kenenk\u00e4\u00e4n tilej\u00e4 ei vaarannettu. Talousreportteri huomautti, ett\u00e4 Nordnetin palvelussa asiakkaat p\u00e4\u00e4siv\u00e4t k\u00e4siksi toistensa salkkuihin, mik\u00e4 johti yritykseen k\u00e4yd\u00e4 kauppaa suomalaisen asiakkaan tilill\u00e4.",
         "news_epoch": 1739371620.0,
         "news_categories": [
             "business"
@@ -18,7 +93,7 @@ const articles = [
         "news_id": "yle_7420143388",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Israelin ja Hezbollahin v\u00e4lill\u00e4 saavutettiin sopimus tulitauosta marraskuussa, jossa Hezbollahin on vet\u00e4ydytt\u00e4v\u00e4 Litan-joen pohjoispuolelle ja Israelin on poistuttava Libanonista. Alkuper\u00e4inen vet\u00e4ytymisen m\u00e4\u00e4r\u00e4aika oli 26. tammikuuta, mutta se on siirretty 2. huhtikuuta, ja Israel on pyyt\u00e4nyt lis\u00e4aikaa 28. helmikuuta asti.",
+        "news_header": "Israelin ja Hezbollahin v\u00e4lill\u00e4 saavutettiin sopimus tulitauosta marraskuussa, mik\u00e4 vaatii Hezbollahia vet\u00e4ytym\u00e4\u00e4n Litan-joen pohjoispuolelle ja Israelia poistumaan Libanonista.",
         "news_epoch": 1739371200.0,
         "news_categories": [
             "world"
@@ -63,7 +138,7 @@ const articles = [
         "news_id": "dw_a71587157",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Klaus Iohannis erosi Romanian presidenttin\u00e4 kahden kauden j\u00e4lkeen, mik\u00e4 merkitsee presidenttikauden p\u00e4\u00e4ttymist\u00e4, joka alkoi uudistusodotuksilla mutta p\u00e4\u00e4ttyi ep\u00e4suosioon. H\u00e4nen eronsa, joka johtui virkasyyteprosesseista, on her\u00e4tt\u00e4nyt huolta \u00e4\u00e4rioikeiston kasvusta Romaniassa. Tarkkailijat ovat jakautuneet eron vaikutusten suhteen; jotkut pelk\u00e4\u00e4v\u00e4t \u00e4\u00e4rioikeiston voittoa, kun taas toiset n\u00e4kev\u00e4t sen strategisena vet\u00e4ytymisen\u00e4. Iohannisin presidenttikausi oli hiljaisuuden ja virheiden t\u00e4ytt\u00e4m\u00e4, mik\u00e4 johti eristyneisyyden tunteeseen kansasta. H\u00e4nen perint\u00f6ns\u00e4 sis\u00e4lt\u00e4\u00e4 vahvistuneen \u00e4\u00e4rioikeiston l\u00e4sn\u00e4olon parlamentissa ja tahraantuneen maineen uudistusodotusten t\u00e4ytt\u00e4misess\u00e4.",
+        "news_header": "Klaus Iohannis erosi Romanian presidenttin\u00e4 kahden kauden j\u00e4lkeen, mik\u00e4 merkitsee h\u00e4pe\u00e4llist\u00e4 loppua h\u00e4nen presidenttikaudelleen. H\u00e4net n\u00e4htiin aikanaan reformihenkil\u00f6n\u00e4, mutta h\u00e4n j\u00e4tt\u00e4\u00e4 viran post-kommunistisessa Romaniassa kaikkein ep\u00e4suosituimpana presidenttin\u00e4.",
         "news_epoch": 1739370540.0,
         "news_categories": [
             "world"
@@ -78,7 +153,7 @@ const articles = [
         "news_id": "bbc_c15z8983kvzo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Ven\u00e4l\u00e4inen kansalainen, joka on vangittuna Yhdysvalloissa rahanpesusyyt\u00f6ksist\u00e4, vapautetaan amerikkalaisen opettajan Marc Fogelin vapauttamista vastaan. Presidentti Trump toivotti Fogelin tervetulleeksi kotiin sen j\u00e4lkeen, kun h\u00e4net oli pid\u00e4tetty Ven\u00e4j\u00e4ll\u00e4. Fogel oli opettajana Moskovassa ja h\u00e4net pid\u00e4tettiin kannabiksen hallussapidosta. H\u00e4nen vapautumistaan pidet\u00e4\u00e4n mahdollisena askeleena Yhdysvaltojen ja Ven\u00e4j\u00e4n suhteiden parantamiseksi, vaikka viranomaiset varoittavat liitt\u00e4m\u00e4st\u00e4 sit\u00e4 suoraan meneill\u00e4\u00e4n olevaan sotaan Ukrainassa. Sopimukseen osalistui Saudi-Arabian kruununprinssi Mohammed bin Salman ja se on osa laajempia neuvotteluja, jotka koskevat useita vangittuja.",
+        "news_header": "Ven\u00e4l\u00e4inen kansalainen, joka oli vangittuna Yhdysvalloissa rahanpesusyytteiden vuoksi, vapautetaan amerikkalaisen opettajan Marc Fogelin vapauttamista vastaan. Fogel, joka oli pid\u00e4tetty Ven\u00e4j\u00e4ll\u00e4 vuodesta 2021 kannabiksen hallussapidosta, sai presidentti Trumpilta l\u00e4mpim\u00e4n vastaanoton.",
         "news_epoch": 1739370000.0,
         "news_categories": [
             "world"
@@ -87,7 +162,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Kremlin says Russian citizen released in US after Trump greets freed teacher",
-        "news_group": 228
+        "news_group": 234
     },
     {
         "news_id": "yle_7420143381",
@@ -123,7 +198,7 @@ const articles = [
         "news_id": "bbc_cg5y9ggqpqdo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Everton jalkapalloseuran paidan etuosan sponsori, Stake, luopuu lisenssist\u00e4\u00e4n Isossa-Britanniassa pornokasvo Bonnie Bluen mainoksen vuoksi. Mainos, joka mainosti uhkapelaamista nuorille, her\u00e4tti huolta kampanjoijien keskuudessa, mik\u00e4 johti uhkapeliviranomaisen varoituksiin lisensoimattomista uhkapelisivustoista. Stake lopettaa toimintansa Isossa-Britanniassa 11. maaliskuuta ja keskittyy paikallisten lisenssien hankkimiseen. Valioliigan seurat aikovat lopettaa uhkapeliyritysten k\u00e4yt\u00f6n p\u00e4\u00e4sponsoreina kauden 2025-26 loppuun menness\u00e4, kasvavan tarkastelun my\u00f6t\u00e4 uhkapelisponsoreiden osalta.",
+        "news_header": "Evertonin jalkapallojoukkueen etuosan sponsoriyritys Stake luopuu lisenssist\u00e4\u00e4n Isossa-Britanniassa pornot\u00e4hti Bonnie Bluen mainoksen tutkinnan j\u00e4lkeen. Mainos, joka julkaistiin sosiaalisessa mediassa, her\u00e4tti huolta seksuaalisen sis\u00e4ll\u00f6n k\u00e4yt\u00f6st\u00e4 nuorten uhkapelien mainostamisessa.",
         "news_epoch": 1739369400.0,
         "news_categories": [
             "business"
@@ -168,7 +243,7 @@ const articles = [
         "news_id": "sn_2ec1a061461f",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "Pieni tutkimus viittaa siihen, ett\u00e4 semaglutidi, diabetes- ja painonhallintal\u00e4\u00e4ke, voi v\u00e4hent\u00e4\u00e4 alkoholin kulutusta alkoholink\u00e4ytt\u00f6h\u00e4iri\u00f6st\u00e4 k\u00e4rsivill\u00e4. Semaglutidia saaneet osallistujat joivat merkitt\u00e4v\u00e4sti v\u00e4hemm\u00e4n alkoholia verrattuna lumel\u00e4\u00e4kett\u00e4 saaneisiin. Kuitenkin laajempia tutkimuksia tarvitaan n\u00e4iden havaintojen vahvistamiseksi.",
+        "news_header": "Pieni kliininen tutkimus viittaa siihen, ett\u00e4 semaglutidi, painonpudotukseen ja diabetekseen k\u00e4ytetty l\u00e4\u00e4ke, saattaa v\u00e4hent\u00e4\u00e4 alkoholin himoa raskaasti juovilla.",
         "news_epoch": 1739368800.0,
         "news_categories": [
             "science"
@@ -183,7 +258,7 @@ const articles = [
         "news_id": "sn_ce8f2ec505ad",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "KM3NeT-teleskoopin \u00e4skett\u00e4in tekem\u00e4 l\u00f6yt\u00f6 paljasti \u00e4\u00e4rimm\u00e4isen energisen kosmisen neutriinon, joka on 20 kertaa energisempi kuin aikaisemmin tunnetut neutriinot. T\u00e4m\u00e4 neutriino, joka havaittiin V\u00e4limeress\u00e4, voi tarjota tietoa \u00e4\u00e4rimm\u00e4isist\u00e4 kosmisista ilmi\u00f6ist\u00e4, kuten supermassiivisista mustista aukoista. KM3NeT-projekti pyrkii parantamaan ymm\u00e4rryst\u00e4mme n\u00e4ist\u00e4 vaikeasti havaittavista hiukkasista, ja lis\u00e4laajennuksia on suunnitteilla havaintokyvyn parantamiseksi.",
+        "news_header": "KM3NeT-teleskoopin \u00e4skett\u00e4in tekem\u00e4 l\u00f6yt\u00f6 V\u00e4limeress\u00e4 paljasti \u00e4\u00e4rimm\u00e4isen korkean energian neutriinon, joka on noin 20 kertaa energisempi kuin aikaisemmin rekister\u00f6idyt.",
         "news_epoch": 1739368800.0,
         "news_categories": [
             "science"
@@ -207,7 +282,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Nato kuuli sen, mit\u00e4 toivoi ja sen, mit\u00e4 pelk\u00e4si \u2013 viisi asiaa, jotka Yhdysvallat vaatii Natolta ja Ukrainalta",
-        "news_group": 226
+        "news_group": 232
     },
     {
         "news_id": "bbc_c3d57zm9m0po",
@@ -378,7 +453,7 @@ const articles = [
         "news_id": "bbc_c391mpmr81xo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "L\u00e4hes 1,8 miljoonaa viljelty\u00e4 ja vangittua lintua on teurastettu Yhdistyneess\u00e4 kuningaskunnassa lintuinfluenssan puhkeamisen vuoksi. Hallitus on ottanut k\u00e4ytt\u00f6\u00f6n majoitusm\u00e4\u00e4r\u00e4yksi\u00e4 lintujen pit\u00e4jille useissa maakunnissa suojellakseen elintarviketurvaa. Vaikka riski ihmisille on alhainen, maanviljelij\u00f6iden mielenterveysongelmat ovat huolestuttavia. Biosecurity-toimenpiteit\u00e4 on toteutettu, ja korvauksia maksetaan teurastetuille terveille linnuille.",
+        "news_header": "L\u00e4hes 1,8 miljoonaa viljelty\u00e4 ja vankeudessa olevaa lintua on teurastettu Isossa-Britanniassa lintuinfluenssan puhkeamisen vuoksi. Hallitus on m\u00e4\u00e4r\u00e4nnyt lintujen pit\u00e4j\u00e4t useissa maakunnissa pit\u00e4m\u00e4\u00e4n parvensa sis\u00e4tiloissa.",
         "news_epoch": 1739364960.0,
         "news_categories": [
             "science"
@@ -402,13 +477,13 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Crackdown on Bangladesh protesters may be crime against humanity, UN says",
-        "news_group": 231
+        "news_group": 237
     },
     {
         "news_id": "dw_a71585386",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Sukupuolitaudit (STI) ovat lis\u00e4\u00e4ntym\u00e4ss\u00e4 Euroopassa, ja vuonna 2023 raportoitiin merkitt\u00e4vi\u00e4 nousuja gonorrean ja kuppataudin tapauksissa. Gonorrhea saavutti enn\u00e4tyslukemat l\u00e4hes 100 000 uudella tapauksella, erityisesti nuorten aikuisten keskuudessa. Klamydia on edelleen yleisin STI, vaikka sen m\u00e4\u00e4r\u00e4t ovat laskussa. Asiantuntijat pit\u00e4v\u00e4t bakteeristen STI:iden lis\u00e4\u00e4ntymisen syyn\u00e4 kondomien k\u00e4yt\u00f6n v\u00e4henemist\u00e4 ja useampia seksikumppaneita, erityisesti nuorten keskuudessa. Tarvitaan parempaa seksuaaliterveyskasvatusta ja STI:iden stigman v\u00e4hent\u00e4mist\u00e4.",
+        "news_header": "Sukupuolitaudit (STI) ovat lis\u00e4\u00e4ntym\u00e4ss\u00e4 Euroopassa, ja vuonna 2023 raportoitiin enn\u00e4tysm\u00e4\u00e4r\u00e4 gonorreaa ja kuppaa. Gonorreatapauksia oli l\u00e4hes 100 000, erityisesti nuorten aikuisten ja miesten, jotka harrastavat seksi\u00e4 miesten kanssa (MSM), keskuudessa.",
         "news_epoch": 1739363280.0,
         "news_categories": [
             "science"
@@ -912,7 +987,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Three American goods that could rise in price due to metal tariffs",
-        "news_group": 230
+        "news_group": 236
     },
     {
         "news_id": "bbc_c4gwvxn5377o",
@@ -963,7 +1038,7 @@ const articles = [
         "news_id": "dw_a71579645",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Saksan Commerzbank valmistautuu henkil\u00f6st\u00f6leikkauksiin vastauksena italialaisen pankkiryhm\u00e4n UniCreditin yrityksiin. Commerzbank puolustaa itsen\u00e4isyytt\u00e4\u00e4n varoittaen, ett\u00e4 fuusio voisi johtaa 3 000\u20134 000 ty\u00f6paikan menetyksiin. Pankin valvontakunta keskustelee kustannuss\u00e4\u00e4st\u00f6ist\u00e4 ja uusista tavoitteista, ja uusi strategia esitell\u00e4\u00e4n pian. UniCredit on lis\u00e4nnyt osuuttaan Commerzbankissa ja etsii lis\u00e4investointeja, mik\u00e4 on Saksan liittokansleri Olaf Scholzin mukaan vihamielist\u00e4. Commerzbankin johto pyrkii osoittamaan arvopotentiaalinsa n\u00e4iden haasteiden keskell\u00e4.",
+        "news_header": "Saksan Commerzbank valmistautuu henkil\u00f6st\u00f6leikkauksiin mahdollisten fuusioyritysten vuoksi UniCreditilta, mik\u00e4 voisi johtaa 3 000\u20134 000 ty\u00f6paikan menetykseen. Commerzbank pyrkii pysym\u00e4\u00e4n itsen\u00e4isen\u00e4 ja keskustelee kustannusleikkauksista ja uusista tavoitteista valvontatoimikuntansa kanssa.",
         "news_epoch": 1739347320.0,
         "news_categories": [
             "business"
@@ -987,7 +1062,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Monty the giant schnauzer wins Best in Show",
-        "news_group": 227
+        "news_group": 233
     },
     {
         "news_id": "yle_7420143221",
@@ -1362,7 +1437,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "How will Europe deal with US Defense Secretary Pete Hegseth?",
-        "news_group": -1
+        "news_group": 232
     },
     {
         "news_id": "yle_7420143042",
@@ -1593,7 +1668,7 @@ const articles = [
         "news_id": "yle_7420142944",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Viimeisimm\u00e4t tutkimukset viittaavat siihen, ett\u00e4 Maan ydin on hidastanut py\u00f6rimist\u00e4\u00e4n ja saattanut muuttaa muotoaan viimeisten kahden vuosikymmenen aikana. Tiedemiehet uskovat, ett\u00e4 kiinte\u00e4 metalliydin on nestem\u00e4isen ulkokerroksen ymp\u00e4r\u00f6im\u00e4. Seismiset mittaukset osoittavat, ett\u00e4 ytimen py\u00f6riminen on synkronoitunut Maan ulkokuoren kanssa, ja sen muodon muutokset saattavat vaikuttaa seismisten aaltojen kaavoihin. Tutkimukset viittaavat siihen, ett\u00e4 ydin saattaa olla v\u00e4\u00e4ristynyt erityisesti reunoiltaan, mutta n\u00e4m\u00e4 muutokset eiv\u00e4t vaikuta pinnalla olevaan el\u00e4m\u00e4\u00e4n. Ytimen k\u00e4ytt\u00e4ytymisen ymm\u00e4rt\u00e4minen on t\u00e4rke\u00e4\u00e4 tieteelliselle tutkimukselle, sill\u00e4 se saattaa lopulta j\u00e4\u00e4hty\u00e4 ja lakata py\u00f6rim\u00e4st\u00e4, mik\u00e4 vaikuttaa el\u00e4m\u00e4\u00e4n Maapallolla.",
+        "news_header": "Viimeisimm\u00e4t tutkimukset viittaavat siihen, ett\u00e4 Maan ydin on hidastanut py\u00f6rimist\u00e4\u00e4n ja saattanut muuttaa muotoaan viimeisten 20 vuoden aikana. Tiedemiehet uskovat, ett\u00e4 ytimess\u00e4 on kiinte\u00e4 metalliydin, jota ymp\u00e4r\u00f6i nestem\u00e4inen kerros, ja seismiset mittaukset viittaavat siihen, ett\u00e4 ydinreunat saattavat olla ep\u00e4tasaisia.",
         "news_epoch": 1739281620.0,
         "news_categories": [
             "science"
@@ -1602,7 +1677,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Tutkijoilta erikoinen havainto: Maan ydin on saattanut muuttaa muotoaan",
-        "news_group": 229
+        "news_group": 235
     },
     {
         "news_id": "yle_7420143076",
@@ -1650,21 +1725,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420143088",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Nordnet toimii j\u00e4lleen",
-        "news_epoch": 1739276940.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143088",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Nordnet toimii j\u00e4lleen",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71573937",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1693,6 +1753,21 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Spooky floating lights in South Carolina could be earthquake farts",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_cqx977lrdl1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trumpin 25 %:n tullit ter\u00e4ksen ja alumiinin tuonnille ovat her\u00e4tt\u00e4neet reaktioita suurilta kauppakumppaneilta, mukaan lukien Kanada, Australia, Iso-Britannia, EU, Intia ja Etel\u00e4-Korea.",
+        "news_epoch": 1739273760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cqx977lrdl1o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "With Trump&#x27;s tariffs looming - will countries scramble to cut deals?",
+        "news_group": 236
     },
     {
         "news_id": "dw_a71571323",
@@ -1770,21 +1845,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "dw_a71566523",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Kaksi yksityislentokonetta t\u00f6rm\u00e4si Scottsdale Airportilla, Arizonassa, mik\u00e4 johti yhteen kuolemaan ja useisiin vammoihin.",
-        "news_epoch": 1739229180.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/us-private-jet-collision-in-scottsdale-arizona-kills-1/a-71566523",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "US: Private jet collision in Scottsdale, Arizona, kills 1",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c23v3kxknrno",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1797,21 +1857,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Why do kindness influencers get criticised?",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71565597",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Ranskan presidentti Macron ilmoitti uudesta eurooppalaisesta teko\u00e4lystrategiasta teko\u00e4lyhuippukokouksessa Pariisissa, korostaen Ranskan sitoutumista teko\u00e4lyn kehitt\u00e4miseen ja investointeihin.",
-        "news_epoch": 1739209860.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/macron-says-france-will-apply-notre-dame-strategy-on-ai/a-71565597",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Macron says France will apply &#x27;Notre Dame strategy&#x27; on AI",
         "news_group": -1
     },
     {
@@ -1888,6 +1933,21 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "A fast radio burst from a dead galaxy puzzles astronomers",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_c98yv3e1yyqo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Presidentti Trump aikoo asettaa 25 %:n tuontiveron ter\u00e4kselle ja alumiinille, mik\u00e4 vaikuttaa merkitt\u00e4v\u00e4sti Kanadaan, ja vihjasi vastavuoroisista tulleista muille maille.",
+        "news_epoch": 1739184300.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c98yv3e1yyqo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Trump says tariffs coming on steel and aluminium",
+        "news_group": 236
     },
     {
         "news_id": "yle_7420142718",
@@ -1978,5 +2038,20 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Will Donald Trump&#x27;s tariff gamble pay off?",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_cvg8zg7ll09o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kiina asetti uusia tuontiveroja amerikkalaisille tuotteille, mik\u00e4 pahentaa kauppasotaa, kun Trump uhkaa lis\u00e4\u00e4 veroja.",
+        "news_epoch": 1739160000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvg8zg7ll09o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "China&#x27;s tit-for-tat tariffs on US take effect",
+        "news_group": 236
     }
 ];

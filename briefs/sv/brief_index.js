@@ -1,9 +1,84 @@
 const articles = [
     {
+        "news_id": "bbc_cy0pz3er37jo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "USA:s f\u00f6rsvarsminister Pete Hegseth sade att europeiska nationer m\u00e5ste ta ledningen i finansieringen av Ukraina, vilket indikerar en f\u00f6r\u00e4ndring i USA:s politik. Han betonade att det \u00e4r orealistiskt att f\u00f6rv\u00e4nta sig att Ukraina ska \u00e5terg\u00e5 till gr\u00e4nserna f\u00f6re 2014 och nedtonade m\u00f6jligheten f\u00f6r Ukraina att g\u00e5 med i NATO.",
+        "news_epoch": 1739374680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cy0pz3er37jo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Hegseth sets out hard line on European defence and Nato",
+        "news_group": 232
+    },
+    {
+        "news_id": "dw_a71587345",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "FN:s h\u00f6gkommissarie f\u00f6r m\u00e4nskliga r\u00e4ttigheter Volker Turk rapporterade att Bangladeshs tidigare regering systematiskt br\u00f6t mot m\u00e4nskliga r\u00e4ttigheter f\u00f6r att undertrycka protester som ledde till Sheikh Hasinas avg\u00e5ng.",
+        "news_epoch": 1739373060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/un-up-to-1-400-killed-in-bangladesh-protests-crackdown/a-71587345",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "UN: Up to 1,400 killed in Bangladesh protests crackdown",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143394",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "USA:s president Donald Trump talade med den ryska presidenten Vladimir Putin om att inleda f\u00f6rhandlingar f\u00f6r att avsluta kriget i Ukraina. De kom \u00f6verens om att omedelbart p\u00e5b\u00f6rja samtal och planerar att ringa Ukrainas president Volodymyr Zelensky.",
+        "news_epoch": 1739372820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143394",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Trump: Keskustelimme Ukrainan sodan lopettamisesta Putinin kanssa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420141051",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Sociala medier fr\u00e4mjar ofta id\u00e9n om att tj\u00e4na tusentals euro i m\u00e5naden genom passiv inkomst, vilket l\u00e5ter lockande men kan vara vilseledande. M\u00e5nga influencers tj\u00e4nar pengar p\u00e5 att l\u00e4ra andra hur man blir rik ist\u00e4llet f\u00f6r att skapa h\u00e5llbara inkomstk\u00e4llor sj\u00e4lva.",
+        "news_epoch": 1739372400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20141051",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Nopea rikastuminen ja passiiviset tulot ovat nyt kaikkien huulilla \u2013 selvitimme, voiko nukkuessaan tienata oikeasti",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71587733",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "N\u00e4r den Afrikanska unionen f\u00f6rbereder sig f\u00f6r att v\u00e4lja sin n\u00e4sta kommissionens ordf\u00f6rande, \u00e4r tre huvudkandidater i fokus: Mahamoud Ali Youssouf fr\u00e5n Djibouti, Richard Randriamandrato fr\u00e5n Madagaskar och Raila Odinga fr\u00e5n Kenya.",
+        "news_epoch": 1739372220.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/african-union-leadership-who-can-best-fix-africa-s-problems/a-71587733",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "African Union leadership: Who can best fix Africa&#x27;s problems?",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143237",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "F\u00f6rra h\u00f6sten drabbades Nordea av hackerattacker som skadade f\u00f6rtroendet, men inga konton komprometterades. Incidenten v\u00e4ckte oro inom aktiem\u00e4klingssektorn, s\u00e4rskilt med Nordnet, d\u00e4r kundportf\u00f6ljer var tillg\u00e4ngliga. En finsk kunds aktier v\u00e4rda \u00f6ver 7 000 euro f\u00f6rs\u00f6kte s\u00e4ljas, men transaktionen avbr\u00f6ts. Trots att inga skador betalades kan Nordnet st\u00e5 inf\u00f6r betydande b\u00f6ter fr\u00e5n svenska finans- och dataskyddsmyndigheter, potentiellt upp till 20 miljoner euro. Juridiska experter betonar att oaktsamhet inte befriar fr\u00e5n ansvar, och incidenten kan p\u00e5verka Nordnets kundf\u00f6rtroende och tillv\u00e4xtm\u00e5l, trots att den direkt p\u00e5verkade endast n\u00e5gra hundra kunder.",
+        "news_header": "F\u00f6rra h\u00f6sten drabbades Nordea av hackerattacker som skadade f\u00f6rtroendet, men inga konton komprometterades. En finansiell reporter noterade att kunder i Nordnets tj\u00e4nst hade tillg\u00e5ng till varandras portf\u00f6ljer, vilket ledde till ett f\u00f6rs\u00f6k att handla p\u00e5 en finsk kunds konto.",
         "news_epoch": 1739371620.0,
         "news_categories": [
             "business"
@@ -18,7 +93,7 @@ const articles = [
         "news_id": "yle_7420143388",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Israel och Hezbollah kom \u00f6verens om en vapenvila i november, d\u00e4r Hezbollah m\u00e5ste dra sig tillbaka norr om Litani-floden och Israel m\u00e5ste dra sig tillbaka fr\u00e5n Libanon. Den ursprungliga tidsfristen f\u00f6r Israels tillbakadragande var den 26 januari, men den har skjutits upp till den 2 april, med en beg\u00e4ran om ytterligare f\u00f6rl\u00e4ngning till den 28 februari.",
+        "news_header": "Israel och Hezbollah kom \u00f6verens om en vapenvila i november, vilket kr\u00e4ver att Hezbollah drar sig tillbaka norr om Litanfloden och att Israel drar sig tillbaka fr\u00e5n Libanon.",
         "news_epoch": 1739371200.0,
         "news_categories": [
             "world"
@@ -63,7 +138,7 @@ const articles = [
         "news_id": "dw_a71587157",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Klaus Iohannis avgick som Rum\u00e4niens president efter tv\u00e5 mandatperioder, vilket markerar slutet p\u00e5 ett presidentskap som b\u00f6rjade med f\u00f6rhoppningar om reform men slutade i impopularitet. Hans avg\u00e5ng, som utl\u00f6stes av riksr\u00e4ttsprocesser, har v\u00e4ckt oro f\u00f6r den v\u00e4xande h\u00f6gerextrema r\u00f6relsen i Rum\u00e4nien. Observat\u00f6rer \u00e4r delade om konsekvenserna av hans avg\u00e5ng; vissa fruktar en seger f\u00f6r h\u00f6gerextremismen, medan andra ser det som ett strategiskt tillbakadragande. Iohannis presidentskap pr\u00e4glades av offentlig tystnad och misstag, vilket ledde till en k\u00e4nsla av avst\u00e5nd fr\u00e5n folket. Hans arv inkluderar en f\u00f6rst\u00e4rkt h\u00f6gerextrem n\u00e4rvaro i parlamentet och ett fl\u00e4ckat rykte f\u00f6r att inte ha levt upp till reformf\u00f6rv\u00e4ntningarna.",
+        "news_header": "Klaus Iohannis avgick som Rum\u00e4niens president efter tv\u00e5 mandatperioder, vilket markerar ett f\u00f6r\u00f6dmjukande slut p\u00e5 hans presidentskap. En g\u00e5ng hyllad som en reformhj\u00e4lte l\u00e4mnar han \u00e4mbetet som den mest impopul\u00e4ra presidenten i postkommunistiska Rum\u00e4nien.",
         "news_epoch": 1739370540.0,
         "news_categories": [
             "world"
@@ -78,7 +153,7 @@ const articles = [
         "news_id": "bbc_c15z8983kvzo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "En rysk medborgare som sitter f\u00e4ngslad i USA f\u00f6r penningtv\u00e4tt kommer att sl\u00e4ppas i utbyte mot den amerikanska l\u00e4raren Marc Fogel, som v\u00e4lkomnades hem av president Trump efter att ha varit f\u00e4ngslad i Ryssland. Fogel hade undervisat i Moskva och greps f\u00f6r innehav av cannabis. Hans frigivning ses som ett potentiellt steg mot att f\u00f6rb\u00e4ttra relationerna mellan USA och Ryssland, \u00e4ven om tj\u00e4nstem\u00e4n varnar f\u00f6r att koppla det direkt till det p\u00e5g\u00e5ende kriget i Ukraina. Avtalet involverade Saudiarabiens kronprins Mohammed bin Salman och \u00e4r en del av bredare f\u00f6rhandlingar som involverar flera f\u00e5ngar.",
+        "news_header": "En rysk medborgare som sitter f\u00e4ngslad i USA f\u00f6r penningtv\u00e4tt kommer att sl\u00e4ppas i utbyte mot den amerikanska l\u00e4raren Marc Fogel, som v\u00e4lkomnades hem av president Trump.",
         "news_epoch": 1739370000.0,
         "news_categories": [
             "world"
@@ -87,7 +162,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Kremlin says Russian citizen released in US after Trump greets freed teacher",
-        "news_group": 228
+        "news_group": 234
     },
     {
         "news_id": "yle_7420143381",
@@ -123,7 +198,7 @@ const articles = [
         "news_id": "bbc_cg5y9ggqpqdo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Everton fotbollsklubs framsponsorer, Stake, avst\u00e5r fr\u00e5n sin licens i Storbritannien efter en utredning kring en annons med porrstj\u00e4rnan Bonnie Blue. Annonsen, som marknadsf\u00f6rde spelande till unga, v\u00e4ckte oro bland kampanjf\u00f6respr\u00e5kare, vilket ledde till varningar fr\u00e5n Spelkommissionen om olicensierade spelwebbplatser. Stake kommer att avsluta sin verksamhet i Storbritannien den 11 mars och fokusera p\u00e5 att skaffa lokala licenser. Premier League-klubbar planerar att sluta anv\u00e4nda spelbolag som huvud sponsorer senast i slutet av s\u00e4songen 2025-26, mitt i \u00f6kad granskning av spelande sponsring inom fotboll.",
+        "news_header": "Everton fotbollsklubs framsponsor, Stake, avs\u00e4ger sig sin licens i Storbritannien efter en utredning av en annons med porrstj\u00e4rnan Bonnie Blue. Annonsen, som d\u00f6k upp p\u00e5 sociala medier, v\u00e4ckte oro \u00f6ver anv\u00e4ndningen av sexuellt inneh\u00e5ll f\u00f6r att marknadsf\u00f6ra spelande till unga m\u00e4nniskor.",
         "news_epoch": 1739369400.0,
         "news_categories": [
             "business"
@@ -168,7 +243,7 @@ const articles = [
         "news_id": "sn_2ec1a061461f",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "En liten studie tyder p\u00e5 att semaglutid, ett l\u00e4kemedel f\u00f6r diabetes och viktminskning, kan minska alkoholkonsumtionen hos personer med alkoholmissbruk. Deltagare som fick semaglutid drack betydligt mindre alkohol j\u00e4mf\u00f6rt med de som fick placebo. Fler omfattande studier beh\u00f6vs f\u00f6r att bekr\u00e4fta dessa resultat.",
+        "news_header": "En liten klinisk studie tyder p\u00e5 att semaglutid, ett l\u00e4kemedel som anv\u00e4nds f\u00f6r viktminskning och diabetes, kan minska alkoholsug hos tunga drickare. Deltagare som fick semaglutid drack betydligt mindre alkohol j\u00e4mf\u00f6rt med de som fick placebo.",
         "news_epoch": 1739368800.0,
         "news_categories": [
             "science"
@@ -183,7 +258,7 @@ const articles = [
         "news_id": "sn_ce8f2ec505ad",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "En nyligen uppt\u00e4ckte av KM3NeT-teleskopet avsl\u00f6jade en ultrah\u00f6genergisk kosmisk neutrino som \u00e4r 20 g\u00e5nger mer energisk \u00e4n tidigare k\u00e4nda neutrinos. Denna neutrino, som uppt\u00e4cktes i Medelhavet, har potential att ge insikter om extrema kosmiska fenomen som supermassiva svarta h\u00e5l. KM3NeT-projektet syftar till att \u00f6ka v\u00e5r f\u00f6rst\u00e5else av dessa sv\u00e5rf\u00e5ngade partiklar, med ytterligare expansioner planerade f\u00f6r att f\u00f6rb\u00e4ttra detektionsf\u00f6rm\u00e5gan.",
+        "news_header": "En nyligen uppt\u00e4ckte ultra-h\u00f6genergi neutrino av KM3NeT-teleskopet i Medelhavet visade sig vara ungef\u00e4r 20 g\u00e5nger mer energirik \u00e4n tidigare registrerade neutrinos.",
         "news_epoch": 1739368800.0,
         "news_categories": [
             "science"
@@ -207,7 +282,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Nato kuuli sen, mit\u00e4 toivoi ja sen, mit\u00e4 pelk\u00e4si \u2013 viisi asiaa, jotka Yhdysvallat vaatii Natolta ja Ukrainalta",
-        "news_group": 226
+        "news_group": 232
     },
     {
         "news_id": "bbc_c3d57zm9m0po",
@@ -378,7 +453,7 @@ const articles = [
         "news_id": "bbc_c391mpmr81xo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "N\u00e4stan 1,8 miljoner uppf\u00f6dda och f\u00e5ngade f\u00e5glar har avlivats i Storbritannien p\u00e5 grund av utbrott av f\u00e5gelinfluensa. Regeringen har inf\u00f6rt boendem\u00f6jligheter f\u00f6r f\u00e5gelh\u00e5llare i flera l\u00e4n f\u00f6r att skydda livsmedelss\u00e4kerheten. \u00c4ven om risken f\u00f6r m\u00e4nniskor \u00e4r l\u00e5g, \u00e4r den mentala h\u00e4lsop\u00e5verkan p\u00e5 b\u00f6nder oroande. Bios\u00e4kerhets\u00e5tg\u00e4rder \u00e4r p\u00e5 plats, och ers\u00e4ttning kommer att ges f\u00f6r avlivade friska f\u00e5glar.",
+        "news_header": "N\u00e4stan 1,8 miljoner uppf\u00f6dda och f\u00e5ngade f\u00e5glar har avlivats i Storbritannien p\u00e5 grund av utbrott av f\u00e5gelinfluensa. Regeringen har beordrat f\u00e5gelh\u00e5llare i flera grevskap att h\u00e5lla sina flockar inomhus.",
         "news_epoch": 1739364960.0,
         "news_categories": [
             "science"
@@ -402,13 +477,13 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Crackdown on Bangladesh protesters may be crime against humanity, UN says",
-        "news_group": 231
+        "news_group": 237
     },
     {
         "news_id": "dw_a71585386",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "K\u00f6nssjukdomar (STI) \u00f6kar i Europa, med betydande \u00f6kningar av gonorr\u00e9- och syfilisfall rapporterade 2023. Gonorr\u00e9 n\u00e5dde en rekordh\u00f6g niv\u00e5 med n\u00e4stan 100 000 nya fall, s\u00e4rskilt bland unga vuxna. Klamydia f\u00f6rblir den vanligaste STI, \u00e4ven om dess niv\u00e5er sjunker. Experter tillskriver \u00f6kningen av bakteriella STI:er minskad anv\u00e4ndning av kondomer och fler sexuella partners, s\u00e4rskilt bland unga m\u00e4nniskor. Det finns ett behov av b\u00e4ttre sexuell h\u00e4lsoutbildning och avstigmatisering av STI:er.",
+        "news_header": "K\u00f6nssjukdomar (STI) \u00f6kar i Europa, med rekordh\u00f6ga fall av gonorr\u00e9 och syfilis rapporterade 2023. Gonorr\u00e9fallen n\u00e5dde n\u00e4stan 100 000, s\u00e4rskilt bland unga vuxna och m\u00e4n som har sex med m\u00e4n (MSM).",
         "news_epoch": 1739363280.0,
         "news_categories": [
             "science"
@@ -912,7 +987,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Three American goods that could rise in price due to metal tariffs",
-        "news_group": 230
+        "news_group": 236
     },
     {
         "news_id": "bbc_c4gwvxn5377o",
@@ -963,7 +1038,7 @@ const articles = [
         "news_id": "dw_a71579645",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Tyska Commerzbank f\u00f6rbereder personalnedsk\u00e4rningar som svar p\u00e5 uppk\u00f6psf\u00f6rs\u00f6k fr\u00e5n den italienska bankgruppen UniCredit. Commerzbank argumenterar f\u00f6r sin sj\u00e4lvst\u00e4ndighet och varnar f\u00f6r att en sammanslagning kan leda till 3 000 till 4 000 f\u00f6rlorade jobb. Bankens \u00f6vervakande styrelse kommer att diskutera kostnadsbesparingar och nya m\u00e5l, med en ny strategi som ska presenteras snart. UniCredit har \u00f6kat sin andel i Commerzbank och s\u00f6ker ytterligare investeringar, vilket har kritiserats av den tyska f\u00f6rbundskanslern Olaf Scholz som fientligt. Commerzbanks ledning str\u00e4var efter att visa sitt v\u00e4rdepotential mitt i dessa utmaningar.",
+        "news_header": "Tyska Commerzbank f\u00f6rbereder personalnedsk\u00e4rningar i samband med potentiella sammanslagningsf\u00f6rs\u00f6k fr\u00e5n UniCredit, vilket kan leda till 3 000 till 4 000 f\u00f6rlorade jobb.",
         "news_epoch": 1739347320.0,
         "news_categories": [
             "business"
@@ -987,7 +1062,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Monty the giant schnauzer wins Best in Show",
-        "news_group": 227
+        "news_group": 233
     },
     {
         "news_id": "yle_7420143221",
@@ -1362,7 +1437,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "How will Europe deal with US Defense Secretary Pete Hegseth?",
-        "news_group": -1
+        "news_group": 232
     },
     {
         "news_id": "yle_7420143042",
@@ -1593,7 +1668,7 @@ const articles = [
         "news_id": "yle_7420142944",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Nya studier tyder p\u00e5 att jordens k\u00e4rna har saktat ner sin rotation och kan ha \u00e4ndrat form under de senaste tv\u00e5 decennierna. Forskare tror att det finns en solid metallk\u00e4rna omgiven av ett flytande yttre lager. Seismiska m\u00e4tningar indikerar att k\u00e4rnans rotation har synkroniserats med jordens yttre skal, och f\u00f6r\u00e4ndringar i dess form kan p\u00e5verka seismiska v\u00e5gm\u00f6nster. Forskning tyder p\u00e5 att k\u00e4rnan kan vara f\u00f6rvr\u00e4ngd, s\u00e4rskilt vid dess kanter, men dessa f\u00f6r\u00e4ndringar p\u00e5verkar inte livet p\u00e5 ytan. Att f\u00f6rst\u00e5 k\u00e4rnans beteende \u00e4r avg\u00f6rande f\u00f6r vetenskaplig forskning, eftersom den en dag kan kylas ner och sluta snurra, vilket p\u00e5verkar livet p\u00e5 jorden.",
+        "news_header": "F\u00e4rska studier tyder p\u00e5 att Jordens k\u00e4rna har saktat ner sin rotation och kan ha f\u00f6r\u00e4ndrat form under de senaste 20 \u00e5ren. Forskare tror att det finns en solid metallk\u00e4rna omgiven av ett flytande lager, och seismiska m\u00e4tningar indikerar att k\u00e4rnans kanter kan vara oj\u00e4mna.",
         "news_epoch": 1739281620.0,
         "news_categories": [
             "science"
@@ -1602,7 +1677,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Tutkijoilta erikoinen havainto: Maan ydin on saattanut muuttaa muotoaan",
-        "news_group": 229
+        "news_group": 235
     },
     {
         "news_id": "yle_7420143076",
@@ -1650,21 +1725,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "yle_7420143088",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Nordnet \u00e4r tillbaka online",
-        "news_epoch": 1739276940.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143088",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Nordnet toimii j\u00e4lleen",
-        "news_group": -1
-    },
-    {
         "news_id": "dw_a71573937",
         "news_source": "dw",
         "news_source_lang": "en",
@@ -1693,6 +1753,21 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Spooky floating lights in South Carolina could be earthquake farts",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_cqx977lrdl1o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trumps 25 %:s tull p\u00e5 st\u00e5l- och aluminiumimport har f\u00e5tt stora handelspartner att reagera, inklusive Kanada, Australien, Storbritannien, EU, Indien och Sydkorea.",
+        "news_epoch": 1739273760.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cqx977lrdl1o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "With Trump&#x27;s tariffs looming - will countries scramble to cut deals?",
+        "news_group": 236
     },
     {
         "news_id": "dw_a71571323",
@@ -1770,21 +1845,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "dw_a71566523",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Tv\u00e5 privata jetplan kolliderade p\u00e5 Scottsdale Airport, Arizona, vilket resulterade i en d\u00f6d och flera skador.",
-        "news_epoch": 1739229180.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/us-private-jet-collision-in-scottsdale-arizona-kills-1/a-71566523",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "US: Private jet collision in Scottsdale, Arizona, kills 1",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c23v3kxknrno",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1797,21 +1857,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Why do kindness influencers get criticised?",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71565597",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Den franske presidenten Macron tillk\u00e4nnagav en ny europeisk AI-strategi vid en AI-toppm\u00f6te i Paris och betonade Frankrikes engagemang f\u00f6r AI-utveckling och investeringar.",
-        "news_epoch": 1739209860.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/macron-says-france-will-apply-notre-dame-strategy-on-ai/a-71565597",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Macron says France will apply &#x27;Notre Dame strategy&#x27; on AI",
         "news_group": -1
     },
     {
@@ -1888,6 +1933,21 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "A fast radio burst from a dead galaxy puzzles astronomers",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_c98yv3e1yyqo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "President Trump planerar att inf\u00f6ra en 25 % importskatt p\u00e5 st\u00e5l och aluminium, vilket kommer att p\u00e5verka Kanada betydligt, och antydde \u00f6msesidiga tullar mot andra l\u00e4nder.",
+        "news_epoch": 1739184300.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c98yv3e1yyqo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Trump says tariffs coming on steel and aluminium",
+        "news_group": 236
     },
     {
         "news_id": "yle_7420142718",
@@ -1978,5 +2038,20 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Will Donald Trump&#x27;s tariff gamble pay off?",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_cvg8zg7ll09o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kina inf\u00f6rde nya importskatter p\u00e5 amerikanska varor, vilket eskalerar handelskriget, medan Trump hotar med fler skatter.",
+        "news_epoch": 1739160000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvg8zg7ll09o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "China&#x27;s tit-for-tat tariffs on US take effect",
+        "news_group": 236
     }
 ];

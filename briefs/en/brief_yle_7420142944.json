@@ -1,14 +1,14 @@
 {
     "news_source": "yle",
     "news_id": "yle_7420142944",
-    "news_header": "Recent studies suggest that the Earth&#x27;s core has slowed its rotation and may have changed shape over the past two decades. Scientists believe there is a solid metal core surrounded by a liquid outer layer. Seismic measurements indicate that the core&#x27;s rotation has synchronized with the Earth&#x27;s outer shell, and changes in its shape might be affecting seismic wave patterns. Research indicates that the core may be distorted, particularly at its edges, but these changes do not impact life on the surface. Understanding the core&#x27;s behavior is crucial for scientific research, as it may eventually cool and stop spinning, impacting life on Earth.",
+    "news_header": "Recent studies suggest that the Earth&#x27;s core has slowed its rotation and may have changed shape over the last 20 years. Scientists believe there is a solid metal core surrounded by a liquid layer, and seismic measurements indicate that the core&#x27;s edges may be uneven.",
     "news_original_title": "Tutkijoilta erikoinen havainto: Maan ydin on saattanut muuttaa muotoaan",
-    "news_text": "",
+    "news_text": "The core&#x27;s rotation has been linked to the planet&#x27;s magnetic field, and changes in seismic waves could be due to the core&#x27;s shape or rotation. Despite these changes, they do not affect life on Earth&#x27;s surface. Understanding the core is crucial for scientific research, as it may eventually cool and stop spinning.",
     "news_url": "https://yle.fi/a/74-20142944",
     "news_time": 1739281620.0,
     "news_categories": [
         "science"
     ],
     "news_source_lang": "en",
-    "news_group": 229
+    "news_group": 235
 }

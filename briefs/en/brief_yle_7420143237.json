@@ -1,9 +1,9 @@
 {
     "news_source": "yle",
     "news_id": "yle_7420143237",
-    "news_header": "Last autumn, Nordea experienced hacker attacks that damaged trust, but no accounts were compromised. The incident raised concerns in the stock brokerage sector, especially with Nordnet, where customer portfolios were accessible. A Finnish customer&#x27;s shares worth over EUR 7,000 were attempted to be sold but the transaction was canceled. Despite no damages being paid, Nordnet may face significant penalties from Swedish financial and data protection authorities, potentially amounting to EUR 20 million. Legal experts emphasize that negligence does not absolve responsibility, and the incident could impact Nordnet&#x27;s customer trust and growth targets, despite only affecting a few hundred customers directly.",
+    "news_header": "Last autumn, Nordea faced hacker attacks that damaged trust, but no accounts were compromised. A financial reporter noted that in Nordnet&#x27;s service, customers could access each other&#x27;s portfolios, leading to an attempted trade on a Finnish customer&#x27;s account.",
     "news_original_title": "Analyysi: T\u00e4m\u00e4 moka voi maksaa Nordnetille miljoonia",
-    "news_text": "",
+    "news_text": "Although the trade was canceled, potential penalties from Swedish financial and data protection authorities loom, with fines possibly reaching up to 4% of Nordnet&#x27;s turnover. The incident may harm customer trust, affecting Nordnet&#x27;s growth targets, despite only a few hundred customers being directly impacted.",
     "news_url": "https://yle.fi/a/74-20143237",
     "news_time": 1739371620.0,
     "news_categories": [
