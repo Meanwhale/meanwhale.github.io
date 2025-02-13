@@ -1,5 +1,415 @@
 const articles = [
     {
+        "news_id": "nasdaq_dac6821efd21",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "AEO 4. huhtikuuta optiot alkavat kaupank\u00e4ynnin",
+        "news_epoch": 1739453640.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/aeo-april-4th-options-begin-trading",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "AEO April 4th Options Begin Trading",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_3bf8b69dd173",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "GEO 4. huhtikuuta optiot alkavat kaupank\u00e4ynnin",
+        "news_epoch": 1739453640.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/geo-april-4th-options-begin-trading",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "GEO April 4th Options Begin Trading",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_954fecc036dc",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Mielenkiintoisia HLI Put and Call vaihtoehtoja 19. syyskuuta",
+        "news_epoch": 1739453580.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/interesting-hli-put-and-call-options-september-19th",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Interesting HLI Put And Call Options For September 19th",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_ea98413f1dcd",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Torstai 2/13 Sis\u00e4piiriostoraportti: MTH, MAGN",
+        "news_epoch": 1739453520.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/thursday-2-13-insider-buying-report-mth-magn",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Thursday 2/13 Insider Buying Report: MTH, MAGN",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_a404645da419",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Mielenkiintoinen KNF Put and Call vaihtoehtoja 21. maaliskuuta",
+        "news_epoch": 1739453520.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/interesting-knf-put-and-call-options-march-21st",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Interesting KNF Put And Call Options For March 21st",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_082a4d588b8b",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "International Paper Ilmestyy nelj\u00e4n US Facilities; Vaikutus 674 ty\u00f6paikkaa",
+        "news_epoch": 1739453100.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/international-paper-announces-closure-4-us-facilities-impact-674-jobs",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "International Paper Announces Closure Of 4 US Facilities; To Impact 674 Jobs",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_8e9a1ef67925",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Lis\u00e4\u00e4 palaset: VBK voisi olla arvoltaan 335 dollaria",
+        "news_epoch": 1739453040.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/add-pieces-vbk-could-be-worth-335",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Add Up The Pieces: VBK Could Be Worth $335",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_908a518d0130",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Analyytikot Odottaa MGC Saavuttaa $248",
+        "news_epoch": 1739453040.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/analysts-expect-mgc-will-reach-248",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Analysts Expect MGC Will Reach $248",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_1e0842220a4c",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Nasdaq 100 muutossa: TTD, APP",
+        "news_epoch": 1739453040.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/nasdaq-100-movers-ttd-app",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Nasdaq 100 Movers: TTD, APP",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_b5d833c0b8a6",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "S&amp;P 500 -muuttajat: WST, MGM",
+        "news_epoch": 1739452980.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/sp-500-movers-wst-mgm",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "S&amp;P 500 Movers: WST, MGM",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_655666e09375",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Analyytikot Ennuste 15% Voitot Edess\u00e4 IJK",
+        "news_epoch": 1739452920.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/analysts-forecast-15-gains-ahead-ijk",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Analysts Forecast 15% Gains Ahead For IJK",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_df8c5599df18",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Katso mit\u00e4 Viimeisin 13F Filers Holds Marvell tekniikka",
+        "news_epoch": 1739452920.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/see-which-latest-13f-filers-holds-marvell-technology",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "See Which Of The Latest 13F Filers Holds Marvell Technology",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_e2344c66c8c2",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Dow Movers: MSFT, CSCO",
+        "news_epoch": 1739452920.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/dow-movers-msft-csco",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Dow Movers: MSFT, CSCO",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143538",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Analyysi: Ukrainan pahimmat pelot alkavat toteutua, kun Trump paljasti korttinsa",
+        "news_epoch": 1739452860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143538",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Analyysi: Ukrainan pahimmat pelot alkavat toteutua, kun Trump paljasti korttinsa",
+        "news_group": 287
+    },
+    {
+        "news_id": "nasdaq_2993a536ae11",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Miten palaset lis\u00e4t\u00e4: BGDV suunnattu 28 dollaria",
+        "news_epoch": 1739452860.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/how-pieces-add-bgdv-headed-28",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "How The Pieces Add Up: BGDV Headed For $28",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_c7f025a46b48",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Katso, mik\u00e4 viime 13F Filers omistaa Procter &amp; Gamble",
+        "news_epoch": 1739452860.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/see-which-latest-13f-filers-holds-procter-gamble-4",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "See Which Of The Latest 13F Filers Holds Procter &amp; Gamble",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143626",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Joulukuussa presidentti Yoon julisti Etel\u00e4-Koreassa poikkeustilan, mik\u00e4 johti poliittiseen kaaokseen. Parlamentti kumosi h\u00e4nen julistuksensa huolimatta h\u00e4nen yrityksist\u00e4\u00e4n est\u00e4\u00e4 se.",
+        "news_epoch": 1739452800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143626",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Etel\u00e4-Korean Yoonin virkasyytek\u00e4sittely jatkuu \u2013 uusi kuuleminen ensi viikolla",
+        "news_group": 279
+    },
+    {
+        "news_id": "arvopaperi_2b0b22ffb248",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Wall Street punnertaa nousussa kauppaj\u00e4nnitteiden ja inflaatiotilastojen keskell\u00e4",
+        "news_epoch": 1739452500.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/587459de-00f0-46f0-96c8-ee0a6ee2c0f9",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Wall Street punnertaa nousussa kauppaj\u00e4nnitteiden ja inflaatiotilastojen keskell\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0e43dqv271o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Jotkut asuntolainakorot laskivat alle 4% kilpailun noustessa",
+        "news_epoch": 1739451720.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0e43dqv271o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Some mortgage rates cut below 4% as competition picks up",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_cdbdc657d5f2",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "First American Financial Corp. j\u00e4rjest\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 11:00 ET keskustellakseen Q4 2024 tuloksista.",
+        "news_epoch": 1739451660.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/first-american-financial-q4-24-earnings-conference-call-11-00-am-et",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "First American Financial Q4 24 Earnings Conference Call At 11:00 AM ET",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_4a149bdfc836",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Palatin Technologies Inc. pit\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 11:00 ET keskustellakseen Q2 25 tuloksista.",
+        "news_epoch": 1739451660.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/palatin-technologies-q2-25-earnings-conference-call-11-00-am-et",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Palatin Technologies Q2 25 Earnings Conference Call At 11:00 AM ET",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_f22c4324c18b",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Graniittirakentaminen Q4 24 Ansioluettelo klo 11 ET",
+        "news_epoch": 1739451660.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/granite-construction-q4-24-earnings-conference-call-11-00-am-et",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Granite Construction Q4 24 Earnings Conference Call At 11:00 AM ET",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_bb5afeecb913",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Valedian guru-perusteinen raportti Nucor Corpista (NUE) osoittaa, ett\u00e4 se saa korkeimmat pisteet 22 guru-strategian joukossa Benjamin Grahamin strategiaan perustuvan Arvostusinvestorin mallin avulla, keskittyen mataliin P/B- ja P/E-suhteisiin.",
+        "news_epoch": 1739451600.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-nue-benjamin-graham-9",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Guru Fundamental Report for NUE - Benjamin Graham",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_21b369fa960c",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Valedian guru-perustietoraportti Johnson Controls International PLC:st\u00e4 (JCI) osoittaa, ett\u00e4 JCI saa korkeimmat pisteet 22:sta guru-strategiasta Pim van Vliet&#x27;n strategiaan perustuvan monitekij\u00e4mallin avulla, joka keskittyy matalan volatiliteetin osakkeisiin.",
+        "news_epoch": 1739451600.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-jci-1",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Guru Fundamental Report for JCI",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143624",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ministeri\u00f6 on muokkaamassa pyk\u00e4l\u00e4\u00e4, joka her\u00e4tti akateemikoissa huolta tieteen vapaudesta",
+        "news_epoch": 1739451480.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20143624",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Ministeri\u00f6 on muokkaamassa pyk\u00e4l\u00e4\u00e4, joka her\u00e4tti akateemikoissa huolta tieteen vapaudesta",
+        "news_group": 280
+    },
+    {
+        "news_id": "bbc_c77r05nx11po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kysymyksi\u00e4 on her\u00e4nnyt kansleri Rachel Reevesin verkossa olevan CV:n tarkkuudesta ja h\u00e4nen kulukorvauksistaan Halifax Bank of Scotlandilla ty\u00f6skennelless\u00e4\u00e4n. Tutkimus paljasti eroja h\u00e4nen v\u00e4itt\u00e4m\u00e4ss\u00e4\u00e4n ty\u00f6ajassa Englannin pankissa, jossa h\u00e4n v\u00e4itti ty\u00f6skennelleens\u00e4 vuosikymmenen, mutta todellisuudessa h\u00e4n l\u00e4hti maaliskuussa 2006 viiden ja puolen vuoden j\u00e4lkeen.",
+        "news_epoch": 1739451360.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c77r05nx11po",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Questions raised over Rachel Reeves&#x27;s CV and expenses",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143618",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -15,10 +425,40 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "dw_a71595277",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Nepalin sosiaalisen median lasku her\u00e4tt\u00e4\u00e4 sananvapauden huolenaiheita",
+        "news_epoch": 1739450160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/nepal-s-social-media-bill-raises-free-speech-concerns/a-71595277",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Nepal&#x27;s social media bill raises free speech concerns",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71595629",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Donald Trumpin toisen kauden alle kuukauden kuluttua Yhdysvaltojen ja Kiinan v\u00e4linen uusi kauppasota on alkamassa molempien osapuolten vastatullien my\u00f6t\u00e4. Yhdysvallat asetti 10 %:n tullin kaikille kiinalaisille tuontitavaroille, mik\u00e4 sai Kiinan vastaamaan tulleilla Yhdysvaltojen raaka\u00f6ljylle ja muille tuotteille.",
+        "news_epoch": 1739449860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/can-china-come-out-on-top-in-a-us-trade-war/a-71595629",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Can China come out on top in a US trade war?",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143500",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Nordnet koki tietomurron, joka vaikutti 1 500 asiakkaaseen Pohjoismaissa, joista 500 oli Tanskassa ja Suomessa, 350 Norjassa ja 200 Ruotsissa. Asiakkaat pystyiv\u00e4t n\u00e4kem\u00e4\u00e4n ja jopa myym\u00e4\u00e4n muiden sijoitustietoja.",
+        "news_header": "Nordnetin 1 500 asiakkaan tiedot n\u00e4kyiv\u00e4t muille \u2013 suomalaisia joukossa 500",
         "news_epoch": 1739449860.0,
         "news_categories": [
             "business"
@@ -27,189 +467,333 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Nordnetin 1 500 asiakkaan tiedot n\u00e4kyiv\u00e4t muille \u2013 suomalaisia joukossa 500",
-        "news_group": 268
+        "news_group": 288
     },
     {
-        "news_id": "nasdaq_a3a70e993715",
+        "news_id": "nasdaq_3d3f717ff613",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Steve Madden hankkia Kurt Geiger varten 289 Mln k\u00e4teisell\u00e4",
-        "news_epoch": 1739449860.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/steve-madden-acquire-kurt-geiger-gbp-289-mln-cash",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Steve Madden To Acquire Kurt Geiger For GBP 289 Mln In Cash",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_8e2f1bf75e97",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Deere Q1 Voitto Halves, Misses Arviot",
+        "news_header": "Rautavuori (IRM) Q4 Tulos: Katsaus Key Metrics Versus Arviot",
         "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/deere-q1-profit-halves-misses-estimates",
+        "news_url": "https://www.nasdaq.com/articles/iron-mountain-irm-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Deere Q1 Profit Halves, Misses Estimates",
+        "news_original_title": "Iron Mountain (IRM) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_f41a2f60249c",
+        "news_id": "nasdaq_0a4f43ee5241",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Osakemarkkinat Turmoil on tulossa. Harkitse N\u00e4m\u00e4 &quot; piilotettu&quot; 12,5% tuottoja",
+        "news_header": "Onity (ONIT) Q4 Tulos: Katsaus Key Metrics Versus Arviot",
         "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/stock-market-turmoil-coming-consider-these-hidden-125-yields",
+        "news_url": "https://www.nasdaq.com/articles/onity-onit-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Stock Market Turmoil Is Coming. Consider These &amp;quot;Hidden&amp;quot; 12.5% Yields",
+        "news_original_title": "Onity (ONIT) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_6c6960a236a2",
+        "news_id": "nasdaq_6bd9e1d8624e",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Can Solana Merkki Oletko miljon\u00e4\u00e4ri vuonna 2025?",
-        "news_epoch": 1739449260.0,
+        "news_header": "AEP:n (AEP) raportit Q4 Tulos: Mik\u00e4 Key Metrics T\u00e4ytyy sanoa",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/can-solana-make-you-millionaire-2025",
+        "news_url": "https://www.nasdaq.com/articles/aep-aep-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Can Solana Make You a Millionaire in 2025?",
+        "news_original_title": "AEP (AEP) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_c9c1eeba4225",
+        "news_id": "nasdaq_d722ca0d773f",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Ennuste: Brookfield Corporation soi yli seuraavat 5 vuotta. T\u00e4ss\u00e4 on yksi syy miksi.",
-        "news_epoch": 1739449260.0,
+        "news_header": "Walker &amp; Dunlop (WD) Q4 Tulos: Katsaus Key Metrics Versus Arviot",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/prediction-brookfield-corporation-will-soar-over-next-5-years-heres-1-reason-why",
+        "news_url": "https://www.nasdaq.com/articles/walker-dunlop-wd-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Prediction: Brookfield Corporation Will Soar Over the Next 5 Years. Here&#x27;s 1 Reason Why.",
+        "news_original_title": "Walker &amp; Dunlop (WD) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_76ae53ef378d",
+        "news_id": "nasdaq_df07cff86253",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Siemens Q1 Nettovoitto Surges, Tilaukset alas; Backs FY25 N\u00e4yt\u00e4; Varastoi",
-        "news_epoch": 1739449200.0,
+        "news_header": "GEHC Kertomukset Q4 Tulos: Mik\u00e4 Key Metrics T\u00e4ytyy sanoa",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/siemens-q1-net-profit-surges-orders-down-backs-fy25-view-stock",
+        "news_url": "https://www.nasdaq.com/articles/ge-healthcare-gehc-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Siemens Q1 Net Profit Surges, Orders Down; Backs FY25 View; Stock Up",
+        "news_original_title": "GE HealthCare (GEHC) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_dbc50a47d96e",
+        "news_id": "nasdaq_211694e79101",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Datadog: 2025 Ohjaus Huolet Sijoittajat",
-        "news_epoch": 1739449200.0,
+        "news_header": "Molson Coors (TAP) Q4 Tulos: Miten Key Metrics Vertaa Wall Street Arviot",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/datadog-2025-guidance-worries-investors",
+        "news_url": "https://www.nasdaq.com/articles/molson-coors-tap-q4-earnings-how-key-metrics-compare-wall-street-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Datadog: 2025 Guidance Worries Investors",
+        "news_original_title": "Molson Coors (TAP) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_3b7ab6df6c5e",
+        "news_id": "nasdaq_fc2fc0d862b5",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Deere &amp; Co. Pudota 50% Q1 2025",
-        "news_epoch": 1739448960.0,
+        "news_header": "Pagaya Technologies Ltd. (PFY) Reports Q4 Tulos: Mik\u00e4 Key Metrics T\u00e4ytyy sanoa",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/deere-co-earnings-drop-50-q1-2025",
+        "news_url": "https://www.nasdaq.com/articles/pagaya-technologies-ltd-pgy-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Deere &amp; Co. Earnings Drop 50% in Q1 2025",
+        "news_original_title": "Pagaya Technologies Ltd. (PGY) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_7e86b191fbe1",
+        "news_id": "nasdaq_cc90f38c7612",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "US Foods Q4 Earnings Slide",
+        "news_header": "Moody&#x27;s (MCO) Kertomukset Q4 Tulos: Mik\u00e4 Key Metrics T\u00e4ytyy sanoa",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/moodys-mco-reports-q4-earnings-what-key-metrics-have-say",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Moody&#x27;s (MCO) Reports Q4 Earnings: What Key Metrics Have to Say",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_dc90fc67eda0",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Sally Beauty (SBH) -raportit Q1 Tulos: Mik\u00e4 Key Metrics T\u00e4ytyy sanoa",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/sally-beauty-sbh-reports-q1-earnings-what-key-metrics-have-say",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Sally Beauty (SBH) Reports Q1 Earnings: What Key Metrics Have to Say",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_651183d76039",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "T\u00e4ss\u00e4 Key Metrics kertoo meille PBF Energy (PBF) Q4 Ansainta",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-pbf-energy-pbf-q4-earnings",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Here&#x27;s What Key Metrics Tell Us About PBF Energy (PBF) Q4 Earnings",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_c6a328b087c0",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Maailmanlaajuiset maksut (GPN) Q4 Tulos: Katsaus Key Metrics Versus Arviot",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/global-payments-gpn-q4-earnings-taking-look-key-metrics-versus-estimates",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Global Payments (GPN) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_1d19ca50e324",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Dominion Energy (D) Q4 Tulos: Katsaus Key Metrics Versus Arviot",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/dominion-energy-d-q4-earnings-taking-look-key-metrics-versus-estimates",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Dominion Energy (D) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_b15be1dbc0d9",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Howmet (HWM) Q4 Tulos: Katsaus Key Metrics Versus Arviot",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/howmet-hwm-q4-earnings-taking-look-key-metrics-versus-estimates",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Howmet (HWM) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_86a10993db6e",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Zoetis (ZTS) -raportit Q4 Tulos: Mik\u00e4 Key Metrics T\u00e4ytyy sanoa",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/zoetis-zts-reports-q4-earnings-what-key-metrics-have-say",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Zoetis (ZTS) Reports Q4 Earnings: What Key Metrics Have to Say",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_24597e8b689d",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "T\u00e4ss\u00e4 mit\u00e4 Key Metrics kertoo meille CyberArk (CEBR) Q4 Ansainta",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-cyberark-cybr-q4-earnings",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Here&#x27;s What Key Metrics Tell Us About CyberArk (CYBR) Q4 Earnings",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_52f0d5ee5949",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "T\u00e4ss\u00e4 tekstiss\u00e4 k\u00e4sitell\u00e4\u00e4n International Flavorsin (IFF) tulevaa Q4-tulosraporttia joulukuulta 2024, keskittyen arvioihin, jotka ylitt\u00e4v\u00e4t pelk\u00e4t liikevaihto- ja EPS-arviot, sek\u00e4 analysoimalla keskeisi\u00e4 mittareita syvempien oivallusten saamiseksi.",
         "news_epoch": 1739448900.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/us-foods-q4-earnings-slide",
+        "news_url": "https://www.nasdaq.com/articles/countdown-international-flavors-iff-q4-earnings-look-estimates-beyond-revenue-and-eps",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "US Foods Q4 Earnings Slide",
+        "news_original_title": "Countdown to International Flavors (IFF) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_ef9330d20ed8",
+        "news_id": "nasdaq_9b3e3e90fbbc",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Rigetti Computing vs. Archer Aviation: A Head-to-Head Growth Stock Showdown",
+        "news_header": "Analyytikoiden ennusteet keskeisist\u00e4 mittareista tarjoavat n\u00e4kemyksi\u00e4 CF:n Q4-tuloksista, auttaen ymm\u00e4rt\u00e4m\u00e4\u00e4n yrityksen suoriutumista vuoden 2024 joulukuussa p\u00e4\u00e4ttyneell\u00e4 nelj\u00e4nneksell\u00e4.",
         "news_epoch": 1739448900.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/rigetti-computing-vs-archer-aviation-head-head-growth-stock-showdown",
+        "news_url": "https://www.nasdaq.com/articles/what-analyst-projections-key-metrics-reveal-about-cf-cf-q4-earnings",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Rigetti Computing vs. Archer Aviation: A Head-to-Head Growth Stock Showdown",
+        "news_original_title": "What Analyst Projections for Key Metrics Reveal About CF (CF) Q4 Earnings",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_f392e896a3b0",
+        "news_id": "nasdaq_dcb20805b87a",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Pari Kaupank\u00e4ynti: H\u00e4m\u00e4t\u00e4 Palantir ja ostaa T\u00e4m\u00e4 Fantastic teko\u00e4ly Stock Trading at Alennuksella",
-        "news_epoch": 1739448300.0,
+        "news_header": "Analysoi Genuine Parts (GPC) Q4 -tuloksia keskittyen avainmittareihin, jotka ylitt\u00e4v\u00e4t Wall Streetin arvion joulukuussa 2024.",
+        "news_epoch": 1739448900.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/pair-trade-fade-palantir-and-buy-fantastic-ai-stock-trading-discount",
+        "news_url": "https://www.nasdaq.com/articles/gear-genuine-parts-gpc-q4-earnings-wall-street-estimates-key-metrics",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Pair Trade: Fade Palantir and Buy This Fantastic AI Stock Trading at a Discount",
+        "news_original_title": "Gear Up for Genuine Parts (GPC) Q4 Earnings: Wall Street Estimates for Key Metrics",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_7775b4913fe9",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "T\u00e4m\u00e4 teksti k\u00e4sittelee Jones Lang LaSalle (JLL):n odotettuja Q4-tuloja joulukuussa 2024, ehdottaen syvemp\u00e4\u00e4 analyysi\u00e4 keskeisist\u00e4 mittareista Wall Streetin perusennusteiden lis\u00e4ksi.",
+        "news_epoch": 1739448900.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/seeking-clues-jones-lang-lasalle-jll-q4-earnings-peek-wall-street-projections-key-metrics",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Seeking Clues to Jones Lang LaSalle (JLL) Q4 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_8bb4e7e13f5d",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Laskenta CoStar (CSGP) Q4-tuloksille: Wall Street ennustaa avainmittareita ja arvioita yrityksen suoriutumisesta vuoden 2024 joulukuussa p\u00e4\u00e4ttyneell\u00e4 nelj\u00e4nneksell\u00e4.",
+        "news_epoch": 1739448900.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/countdown-costar-csgp-q4-earnings-wall-street-forecasts-key-metrics",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Countdown to CoStar (CSGP) Q4 Earnings: Wall Street Forecasts for Key Metrics",
         "news_group": -1
     },
     {
         "news_id": "bbc_crlky380wd7o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Google Maps on est\u00e4nyt arvostelut Meksikonlahdelle sen j\u00e4lkeen, kun se nimettiin &#x27;Amerikanlahdeksi&#x27; Yhdysvaltojen k\u00e4ytt\u00e4jille presidentti Trumpin m\u00e4\u00e4r\u00e4yksest\u00e4. Yritys on poistanut negatiivisia arvosteluja ja puolustanut toimiaan sanomalla, ett\u00e4 se suojaa paikkoja odotettujen ep\u00e4olennaisten kontribuutioiden aikana.",
+        "news_header": "Google Maps est\u00e4\u00e4 Persianlahden arviot uudelleennime\u00e4misen j\u00e4lkeen kritiikki",
         "news_epoch": 1739448240.0,
         "news_categories": [
             "business"
@@ -221,154 +805,10 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_07a250bcfcfe",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "MSA Safety Inc. pit\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 10:00 ET keskustellakseen Q4 24 tuloksista.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/msa-safety-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "MSA Safety Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_fd3d31991dba",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Hyatt Hotels Corp. pit\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 10:00 ET keskustellakseen Q4 2024 tuloksista.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/hyatt-hotels-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Hyatt Hotels Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_1cba6d4ef17d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Ventas Inc. pit\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 10:00 ET keskustellakseen Q4 24 tuloksista.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/ventas-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Ventas Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_9c9aea9f2096",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Howmet Aerospace Inc. j\u00e4rjest\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 10:00 ET keskustellakseen Q4 24 tuloksista.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/howmet-aerospace-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Howmet Aerospace Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_9cd564aeabdf",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Manitowoc Company Inc. j\u00e4rjest\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 10:00 ET keskustellakseen Q4 24 tuloksista.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/manitowoc-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Manitowoc Q4 24 Earnings Conference Call AT 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c28cd585b5a2",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Tyler Technologies Inc. pit\u00e4\u00e4 konferenssipuhelun 13. helmikuuta 2025 klo 10:00 ET keskustellakseen Q4 24 tuloksista.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/tyler-technologies-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Tyler Technologies Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_cc2a5604f6e3",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Sun Life Financial Q4 24 Earnings Conference Call klo 10:00 ET",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/sun-life-financial-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Sun Life Financial Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_83c0ef00b59f",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Teknologiayrityksiin sijoittaminen on t\u00e4rke\u00e4\u00e4 pitk\u00e4aikaisille voitoille, sill\u00e4 n\u00e4m\u00e4 yritykset vaikuttavat merkitt\u00e4v\u00e4sti talouteen.",
-        "news_epoch": 1739448000.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/got-5000-2-tech-stocks-buy-and-hold-long-term-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Got $5,000? 2 Tech Stocks to Buy and Hold for the Long Term",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3be8e34fba36",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Valedian guru-perusteinen raportti Johnson &amp; Johnsonista (JNJ) osoittaa, ett\u00e4 se saa korkeimmat arvosanat 22 guru-strategian joukossa k\u00e4ytt\u00e4en osakkeenomistajatuotto-investorimallia, joka perustuu Meb Faberiin strategiaan, joka keskittyy yrityksiin, jotka palauttavat rahaa osakkeenomistajille.",
-        "news_epoch": 1739448000.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-jnj-67",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Guru Fundamental Report for JNJ",
-        "news_group": -1
-    },
-    {
         "news_id": "sn_27b425ff60ce",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "Norovirus on eritt\u00e4in tarttuva ja sen puhkeamiset ovat lis\u00e4\u00e4ntyneet merkitt\u00e4v\u00e4sti Yhdysvalloissa t\u00e4n\u00e4 talvena, oireina oksentelu, ripuli ja pahoinvointi. Se vaikuttaa erityisesti nuoriin, vanhuksiin ja immuunipuutteisiin, aiheuttaen miljoonia sairastumisia ja tuhansia kuolemia vuosittain.",
+        "news_header": "Miksi norovirusrokote ei ole viel\u00e4 saatavilla",
         "news_epoch": 1739448000.0,
         "news_categories": [
             "science"
@@ -392,13 +832,13 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "UK signals it will seek US steel tariff exemption",
-        "news_group": 262
+        "news_group": -1
     },
     {
         "news_id": "dw_a71590013",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Ghana on suurelta osin s\u00e4\u00e4stynyt jihadistihy\u00f6kk\u00e4yksilt\u00e4, vaikka se sijaitsee l\u00e4hell\u00e4 Burkina Fasoa, joka k\u00e4rsii terroristiryhmist\u00e4. Analyytikot varoittavat, ett\u00e4 ghanalaiset, erityisesti ty\u00f6tt\u00f6m\u00e4t nuoret, ovat vaarassa rekrytoitua n\u00e4ihin ryhmiin usein perhesiteiden kautta rajan yli.",
+        "news_header": "Ghana on p\u00e4\u00e4asiassa s\u00e4\u00e4stynyt jihadistihy\u00f6kk\u00e4yksilt\u00e4, huolimatta sen l\u00e4heisyydest\u00e4 Burkina Fasoon, joka on kohdannut merkitt\u00e4vi\u00e4 terroriuhkia. Analyytikot varoittavat, ett\u00e4 ghanaalaiset, erityisesti ty\u00f6tt\u00f6m\u00e4t nuoret, ovat vaarassa joutua jihadistiryhmien rekrytoimiksi, usein perhesiteiden kautta rajan yli.",
         "news_epoch": 1739447580.0,
         "news_categories": [
             "world"
@@ -422,7 +862,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "N\u00e4in raaka on Trumpin rauha: alueluovutuksia, ei Nato-joukkoja, ei taetta pysyv\u00e4st\u00e4 rauhasta",
-        "news_group": 261
+        "news_group": 287
     },
     {
         "news_id": "arvopaperi_a874811501ef",
@@ -443,7 +883,7 @@ const articles = [
         "news_id": "bbc_c3vpqr6511yo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Hamas on sitoutunut Gazan tulitaukosopimukseen Israelin kanssa ja jatkaa panttivankien vapauttamista aikataulun mukaisesti. Egyptin ja Qatari v\u00e4limiehet ty\u00f6skentelev\u00e4t esteiden poistamiseksi, kun taas Israel on varoittanut, ett\u00e4 tulitauko p\u00e4\u00e4ttyy, jos panttivankeja ei palauteta lauantaihin menness\u00e4.",
+        "news_header": "Hamas sanoo, ett\u00e4 se jatkaa israelilaisten panttivankien vapauttamista Gazan sopimuksen nojalla",
         "news_epoch": 1739445180.0,
         "news_categories": [
             "world"
@@ -452,102 +892,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Hamas says it will continue releasing Israeli hostages under Gaza deal",
-        "news_group": 264
-    },
-    {
-        "news_id": "nasdaq_9e9c1ad745d8",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Allegiant Travel Company ja A-Mark Precious Metals&#x27; on korostettu Zacks Bull ja Bear of the Day",
-        "news_epoch": 1739445000.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/allegiant-travel-company-and-mark-precious-metals-box-have-been-highlighted-zacks-bull-and",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Allegiant Travel Company and A-Mark Precious Metals&#x27; in the Box have been highlighted as Zacks Bull and Bear of the Day",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c77r05nx11po",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Rachel Reevesin LinkedIn-profiili v\u00e4itti virheellisesti, ett\u00e4 h\u00e4n ty\u00f6skenteli Englannin pankissa vuosikymmenen, vaikka h\u00e4n oikeasti vietti siell\u00e4 viisi ja puoli vuotta, j\u00e4tt\u00e4en pankin maaliskuussa 2006.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c77r05nx11po",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Reeves&#x27;s CV exaggerated time at Bank of England",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_97e4922c8ff8",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "N\u00e4iden kolmen huipputason, parhaiten menestyv\u00e4n ja hyvin hallinnoidun sijoitusrahaston lis\u00e4\u00e4minen el\u00e4kesalkkuusi voi maksimoida tuottoasi.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/make-most-your-retirement-these-top-ranked-mutual-funds-68",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Make the Most of Your Retirement with These Top-Ranked Mutual Funds",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3cd1a7853f37",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "ETF-strategiat voivat auttaa hallitsemaan korkeaa inflaatiota tammikuussa.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/etf-strategies-play-hot-january-inflation",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "ETF Strategies to Play Hot January Inflation",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_db318866ff14",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "N\u00e4m\u00e4 kolme parhaiten sijoittunutta, hyvin hoidettua rahastoa voivat auttaa sinua maksimoimaan el\u00e4kesijoitustesi tuottoa.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-you-add-these-3-top-performing-mutual-funds-your-portfolio-79",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should You Add These 3 Top-Performing Mutual Funds to Your Portfolio?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3d11d4de3c53",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Harkitse n\u00e4iden kolmen huipputason sijoitusrahaston lis\u00e4\u00e4mist\u00e4 el\u00e4kesijoituksesi tuottojen parantamiseksi.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-you-add-these-3-top-performing-mutual-funds-your-portfolio-80",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should You Add These 3 Top-Performing Mutual Funds to Your Portfolio?",
-        "news_group": -1
+        "news_group": 283
     },
     {
         "news_id": "arvopaperi_99e6b14f5ccb",
@@ -644,7 +989,7 @@ const articles = [
         "news_id": "dw_a71530790",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Portugali, Italia, Espanja ja Kreikka ovat siirtyneet EU:n ongelmalapsista mahdollisiksi ratkaisujen tarjoajiksi, erityisesti uusiutuvassa energiassa. Kuitenkin euroalueen talous on pys\u00e4htynyt, p\u00e4\u00e4asiassa Saksan vaikeuksien vuoksi.",
+        "news_header": "Miksi Euroopan etel\u00e4iset reuna-alueet tukevat euroalueen kasvua",
         "news_epoch": 1739440980.0,
         "news_categories": [
             "business"
@@ -653,86 +998,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Why Europe&#x27;s southern periphery props up eurozone growth",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_b3a06450dedd",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Raportti arvioi, onko T. Rowe Price New Horizons (PRNHX) t\u00e4ll\u00e4 hetkell\u00e4 vahva sijoitusrahasto, tarkastellen sen suorituskyky\u00e4 ja potentiaalia.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/t-rowe-price-new-horizons-prnhx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is T. Rowe Price New Horizons (PRNHX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_6ef149ff78a9",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Matthews China Investor (MCHFX) arvioidaan t\u00e4ll\u00e4 hetkell\u00e4 vahvaksi sijoitusrahastoksi, joka keskittyy sijoitusmahdollisuuksiin Kiinassa.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/matthews-china-investor-mchfx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Matthews China Investor (MCHFX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_a6eab35d89ee",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Vanguard Wellington Admiral (VWENX) on t\u00e4ll\u00e4 hetkell\u00e4 vahva sijoitusrahasto, koska sen suorituskyky ja hallinta ovat hyvi\u00e4.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/vanguard-wellington-admiral-vwenx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Vanguard Wellington Admiral (VWENX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_52e82934e1b2",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Fidelity Select Health Care (FSPHX) arvioidaan t\u00e4ll\u00e4 hetkell\u00e4 vahvaksi sijoitusrahastoksi sen suorituskyvyn ja markkinaolosuhteiden perusteella.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/fidelity-select-health-care-fsphx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Fidelity Select Health Care (FSPHX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_8b24280fd5bf",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Vanguard Energy Investor (VGENX) arvioidaan t\u00e4ll\u00e4 hetkell\u00e4 potentiaaliseksi vahvaksi sijoituskohteeksi yhteissijoitusrahastoissa. Raportti analysoi sen suorituskyky\u00e4, hallintoa ja markkinaolosuhteita sijoittajien soveltuvuuden m\u00e4\u00e4ritt\u00e4miseksi.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/vanguard-energy-investor-vgenx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Vanguard Energy Investor (VGENX) a Strong Mutual Fund Pick Right Now?",
         "news_group": -1
     },
     {
@@ -778,181 +1043,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SHORT",
         "news_original_title": "Neste tarvitsee uuden tarinan \u2013 Heikki Malinen k\u00e4ytti samaa resepti\u00e4 Outokummussa",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c0e43dqv271o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Kaksi suurta lainanantajaa on tuonut markkinoille alle 4 %:n korkoisia asuntolainatarjouksia, mik\u00e4 johtuu kilpailusta ja mahdollisista korkoleikkauksista Englannin pankilta.",
-        "news_epoch": 1739438820.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0e43dqv271o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Some mortgage rates cut below 4% as competition picks up",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3def4b3d7708",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Invesco S&amp;P SmallCap 600 Pure Value ETF (RZV) arvioidaan t\u00e4ll\u00e4 hetkell\u00e4 vahvaksi sijoitusvaihtoehdoksi Smart Beta ETF -raportin perusteella.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/invesco-sp-smallcap-600-pure-value-etf-rzv-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Invesco S&amp;P SmallCap 600 Pure Value ETF (RZV) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_f0421983cae6",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "WisdomTree U.S. MidCap ETF (EZM) arvioidaan t\u00e4ll\u00e4 hetkell\u00e4 vahvaksi ETF:ksi sen suorituskyvyn ja \u00e4lykk\u00e4\u00e4n beta-strategian perusteella.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/wisdomtree-us-midcap-etf-ezm-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is WisdomTree U.S. MidCap ETF (EZM) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_f9ed84f6e51d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "iShares Morningstar Small-Cap Value ETF (ISCV) on rahasto, joka keskittyy pienyhti\u00f6iden arvo-osakkeisiin. Sijoittajien tulisi harkita sen suorituskyky\u00e4, kuluja ja seurattavaa indeksi\u00e4 p\u00e4\u00e4tt\u00e4ess\u00e4\u00e4n sijoittaa.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-ishares-morningstar-small-cap-value-etf-iscv-be-your-investing-radar-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should iShares Morningstar Small-Cap Value ETF (ISCV) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_e4361bce9a5d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "SPDR Russell 1000 Yield Focus ETF (ONEY) on rahoitustuote, joka keskittyy Russell 1000 -indeksin korkeatuottoisiin osakkeisiin. Sijoittajien tulisi harkita sen suorituskyky\u00e4, kulusuhteita ja tulonmuodostuspotentiaalia arvioidessaan sit\u00e4 salkuissaan.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-spdr-russell-1000-yield-focus-etf-oney-be-your-investing-radar-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should SPDR Russell 1000 Yield Focus ETF (ONEY) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c5514b4a2e05",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Invesco Large Cap Growth ETF (PWB) arvioidaan t\u00e4ll\u00e4 hetkell\u00e4 sijoitusvaihtoehtona. Smart Beta ETF -raportti tarjoaa tietoa sen suorituskyvyst\u00e4 ja potentiaalista.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/invesco-large-cap-growth-etf-pwb-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Invesco Large Cap Growth ETF (PWB) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c127f497a6b2",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Schwab Fundamental U.S. Small Company ETF (FNDA) on huomionarvoinen sijoitusvaihtoehto, jota sijoittajien tulisi harkita. Se keskittyy pieniin yrityksiin, joilla on vahvat perusteet, mik\u00e4 voi tarjota kasvumahdollisuuksia markkinoilla.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-schwab-fundamental-us-small-company-etf-fnda-be-your-investing-radar-2",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should Schwab Fundamental U.S. Small Company ETF (FNDA) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_2b9d148cb009",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Invesco FTSE RAFI Kehittyneet Markkinat ilman Yhdysvaltoja ETF (PXF) arvioidaan t\u00e4ll\u00e4 hetkell\u00e4 vahvaksi sijoitusvaihtoehdoksi Smart Beta ETF -kategorian sis\u00e4ll\u00e4.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/invesco-ftse-rafi-developed-markets-ex-us-etf-pxf-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Invesco FTSE RAFI Developed Markets ex-U.S. ETF (PXF) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_2348fd58ccda",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Pit\u00e4isi Vanguard Russell 1000 kasvu ETF (VONG) Oletko Investoivassa tutkassa?",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-vanguard-russell-1000-growth-etf-vong-be-your-investing-radar-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should Vanguard Russell 1000 Growth ETF (VONG) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_d7fdfa3c07b4",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Onko iShares USA Small-Cap Equity Factor ETF (SMF) vahva ETF juuri nyt?",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/ishares-us-small-cap-equity-factor-etf-smlf-strong-etf-right-now-2",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is iShares U.S. Small-Cap Equity Factor ETF (SMLF) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_a44291e4f9dc",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Pit\u00e4isik\u00f6 Schwab Fundamental Yhdysvaltain suuri yritys ETF (FNDX) olla Investing Tutka?",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-schwab-fundamental-us-large-company-etf-fndx-be-your-investing-radar-2",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should Schwab Fundamental U.S. Large Company ETF (FNDX) Be on Your Investing Radar?",
         "news_group": -1
     },
     {
@@ -1034,7 +1124,7 @@ const articles = [
         "news_id": "dw_a71589236",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Tutkimus paljastaa, ett\u00e4 Irakin pohjoisosa, erityisesti Zagros-vuorten ymp\u00e4rill\u00e4, uppoaa maapallon pinnan alla olevan valtameren laatan vuoksi. T\u00e4m\u00e4 geologinen prosessi on \u00e4\u00e4rimm\u00e4isen hidasta, ja se kest\u00e4\u00e4 miljoonia vuosia, ja se liittyy mannerlaattojen liikkeeseen.",
+        "news_header": "T\u00e4m\u00e4 Irakin alue uppoaa maahan (hyvin hitaasti)",
         "news_epoch": 1739436300.0,
         "news_categories": [
             "science"
@@ -1058,7 +1148,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Grenade attack in French bar injures 12",
-        "news_group": 266
+        "news_group": 285
     },
     {
         "news_id": "bbc_c1jg4enkr3lo",
@@ -1148,7 +1238,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "T\u00e4m\u00e4n tied\u00e4mme Ukrainan rauhanneuvotteluiden alkamisesta \u2013 Trumpille tarjolla sek\u00e4 sankarin ett\u00e4 petturin rooli",
-        "news_group": 261
+        "news_group": 287
     },
     {
         "news_id": "dw_a71591784",
@@ -1178,7 +1268,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Liettuan ulkoministeri: Maa nostaa asemenonsa Trumpin vaatimalle tasolle",
-        "news_group": 261
+        "news_group": 282
     },
     {
         "news_id": "yle_7420143495",
@@ -1373,7 +1463,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Yle seuraa tulosp\u00e4iv\u00e4\u00e4: Outokummun liikevaihto laski, S-ryhm\u00e4n tulos kasvoi",
-        "news_group": 265
+        "news_group": 284
     },
     {
         "news_id": "arvopaperi_70bf4e261c33",
@@ -1436,21 +1526,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_4043de2d66c0",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Finnairin osinkoehdotus ylitti odotukset",
-        "news_epoch": 1739424300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/70705bf5-e64c-4d30-a285-3c3baf1cfa6e",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Finnairin osinkoehdotus ylitti odotukset",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420143452",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1463,7 +1538,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Finnair: Ty\u00f6markkinatilanne aiheuttaa ep\u00e4varmuutta",
-        "news_group": 265
+        "news_group": 284
     },
     {
         "news_id": "yle_7420143448",
@@ -1478,7 +1553,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Neste on entist\u00e4 pahemmassa kriisiss\u00e4: Sadoille tulossa potkut, osakekurssi sy\u00f6ksyss\u00e4",
-        "news_group": 265
+        "news_group": 284
     },
     {
         "news_id": "yle_7420143438",
@@ -1508,7 +1583,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "N. Korea destroys meeting place for war-separated families",
-        "news_group": 267
+        "news_group": 286
     },
     {
         "news_id": "yle_7420141363",
@@ -1553,7 +1628,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Etel\u00e4-Korean Yoon mahdollisesti virkasyytek\u00e4sittelyns\u00e4 viimeisess\u00e4 kuulemisessa",
-        "news_group": -1
+        "news_group": 279
     },
     {
         "news_id": "bbc_cj91d3jkpvlo",
@@ -1604,7 +1679,7 @@ const articles = [
         "news_id": "yle_7420143276",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Siltam\u00e4ki v\u00e4itt\u00e4\u00e4, ett\u00e4 osaamisvajeeseen Suomessa ei voida puuttua koulutustason laskemisella. Hallitus on k\u00e4ynnist\u00e4nyt ohjelman uusien l\u00e4\u00e4k\u00e4rien kouluttamiseksi, mutta huolia her\u00e4tt\u00e4\u00e4 koulutuksen laadun heikkeneminen ja valmistumisen vaatimusten laskeminen.",
+        "news_header": "Siltam\u00e4ki v\u00e4itt\u00e4\u00e4, ett\u00e4 osaamisvajeeseen Suomessa ei voida puuttua koulutustason laskemisella. Hallitus on k\u00e4ynnist\u00e4nyt ohjelman uusien l\u00e4\u00e4k\u00e4rien kouluttamiseksi, mutta nuorten aikuisten koulutustaso on laskenut, ja huomion tulisi olla laadussa m\u00e4\u00e4r\u00e4n sijaan.",
         "news_epoch": 1739414700.0,
         "news_categories": [
             "science"
@@ -1628,7 +1703,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Akateemikko uudesta lakihankkeesta: Olisi erikoista, ett\u00e4 demokratiassa lakiin kirjattaisiin, mit\u00e4 tutkimuksen pit\u00e4\u00e4 olla",
-        "news_group": -1
+        "news_group": 280
     },
     {
         "news_id": "yle_7420143267",
@@ -1643,7 +1718,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Animaatio n\u00e4ytt\u00e4\u00e4 pakotetankkerien rallin It\u00e4merell\u00e4 \u2013 seuraava askel sen kuriinsaamiseksi voi olla EU:lle vaikea",
-        "news_group": 263
+        "news_group": 281
     },
     {
         "news_id": "bbc_cvgmygm2n80o",
@@ -1688,7 +1763,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "France: Grenade thrown into Grenoble bar injures several",
-        "news_group": 266
+        "news_group": 285
     },
     {
         "news_id": "bbc_c07kljvv5mko",
@@ -1733,7 +1808,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Ranskan Grenoblessa baariin heitetty kranaatti r\u00e4j\u00e4hti \u2013 toistakymment\u00e4 haavoittui",
-        "news_group": 266
+        "news_group": 285
     },
     {
         "news_id": "yle_7420143411",
@@ -1778,7 +1853,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Confusion clouds efforts to save Gaza ceasefire",
-        "news_group": 264
+        "news_group": 283
     },
     {
         "news_id": "nasdaq_ac111c7ba8ac",
@@ -1794,6 +1869,21 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SHORT",
         "news_original_title": "Breaking Down the Current Earnings Outlook",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_7f616e6d2375",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Hegseth kertoo Natolle Ukrainan j\u00e4senyyden ep\u00e4todenn\u00e4k\u00f6isyyden, kuten Trump sanoo Putin keskustelee sodan lopettamisesta",
+        "news_epoch": 1739397300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/hegseth-tells-nato-ukraine-membership-unlikely-as-trump-says-putin-will-discuss-ending-war",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Hegseth tells NATO Ukraine membership unlikely as Trump says Putin will discuss ending war",
         "news_group": -1
     },
     {
@@ -1813,6 +1903,36 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "pbs_371d043d49b8",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Asiantuntijat analysoivat Yhdysvaltojen politiikan muutosten vaikutuksia Ukrainaan ja Natoon, ja tuovat esiin Evelyn Farkasin ja John Mearsheimerin n\u00e4kemyksi\u00e4 Trumpin hallinnon merkitt\u00e4vien diplomaattisten toimien keskell\u00e4.",
+        "news_epoch": 1739397000.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/experts-examine-what-the-u-s-policy-shifts-on-ukraine-mean-for-nato",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Experts examine what the U.S. policy shifts on Ukraine mean for NATO",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_82f873bd436d",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Yhdysvallat on vapauttanut kyberrikollisen Vinnikin Mark Fogelin vankivaihdossa. Presidentti Trump ehdottaa, ett\u00e4 t\u00e4m\u00e4 vaihto voisi auttaa p\u00e4\u00e4tt\u00e4m\u00e4\u00e4n sodan Ukrainassa.",
+        "news_epoch": 1739396700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/news-wrap-u-s-frees-cybercriminal-vinnik-in-russian-prisoner-swap-for-mark-fogel",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "News Wrap: U.S. frees cybercriminal Vinnik in Russian prisoner swap for Mark Fogel",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143409",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1826,21 +1946,6 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Maakuntakeskuksista Helsinki verottaa keskituloisia kaikkein kevyimmin",
         "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143408",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Saksa, Ranska, Britannia, Puola, Italia, Espanja ja Euroopan komissio ilmensiv\u00e4t valmiuttaan tukea Ukrainaa ja korostivat, ett\u00e4 Euroopan on oltava mukana neuvotteluissa, jotka koskevat Ukrainan tulevaisuutta.",
-        "news_epoch": 1739392800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143408",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Euroopan mailta lupaus yhteisty\u00f6st\u00e4 Yhdysvaltojen kanssa Ukrainan tulevaisuudesta \u2013 \u201dEurooppa osaksi neuvotteluja\u201d",
-        "news_group": 261
     },
     {
         "news_id": "bbc_cp3j0e79q52o",
@@ -1919,6 +2024,21 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "pbs_66b4bdd81a90",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "YK arvioi, ett\u00e4 jopa 1 400 ihmist\u00e4 kuoli Bangladeshissa viime kes\u00e4n\u00e4 opiskelijoiden johtamien protestien tukahduttamisen aikana.",
+        "news_epoch": 1739383320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/un-estimates-up-to-1400-killed-in-bangladesh-during-crackdown-on-protests-last-year",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "UN estimates up to 1,400 killed in Bangladesh during crackdown on protests last year",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_cg5y9ggqpqdo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1949,6 +2069,21 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "pbs_bf6b44a0c723",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Israelin puolustusministeri varoittaa, ett\u00e4 &#x27;kaikki helvetti p\u00e4\u00e4see irti&#x27;, jos Hamas ei vapauta kolmea panttivankia suunnitellusti t\u00e4n\u00e4 viikonloppuna.",
+        "news_epoch": 1739380500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/israel-threatens-all-hell-will-break-loose-is-hamas-fails-to-free-hostages-as-planned",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Israel threatens &amp;#8216;all hell will break loose&amp;#8217; is Hamas fails to free hostages as planned",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c334kyl37jmo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1961,7 +2096,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "&#x27;It&#x27;s a new reality&#x27; - US stance on Ukraine a bitter blow to Zelensky",
-        "news_group": 261
+        "news_group": 282
     },
     {
         "news_id": "bbc_cpvme8jw9dro",
@@ -2043,7 +2178,7 @@ const articles = [
         "news_id": "bbc_cx2jdnv0ywyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Arkeologit ovat l\u00f6yt\u00e4neet merkitt\u00e4v\u00e4n osan Lontoon ensimm\u00e4isest\u00e4 basilikasta, 2 000 vuotta vanhasta roomalaisesta julkisesta rakennuksesta, toimistorakennuksen alta, joka on m\u00e4\u00e4r\u00e4 purkaa.",
+        "news_header": "Roman Londonin alkuja l\u00f6ytyi toimistokellarista",
         "news_epoch": 1739376000.0,
         "news_categories": [
             "science"
@@ -2112,7 +2247,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Analyysi: T\u00e4m\u00e4 moka voi maksaa Nordnetille miljoonia",
-        "news_group": 268
+        "news_group": 288
     },
     {
         "news_id": "yle_7420141669",
@@ -2461,406 +2596,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Next ad banned as pose made model look too thin",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_0d813f3db160",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Tutkijat ovat tutkineet 500 vuotta vanhoja asiakirjoja 1500-luvun Transylvaniasta ymm\u00e4rt\u00e4\u00e4kseen Pienen j\u00e4\u00e4kauden vaikutuksia alueella. Analysoimalla p\u00e4iv\u00e4kirjoja ja asiakirjoja eri kielill\u00e4 he l\u00f6ysiv\u00e4t todisteita ilmasto-olosuhteista, jotka sis\u00e4lsiv\u00e4t l\u00e4mp\u00f6\u00e4, kuivuuksia ja my\u00f6hempi\u00e4 voimakkaita sateita. Tulokset viittaavat siihen, ett\u00e4 Pieni j\u00e4\u00e4kausi saattoi olla viiv\u00e4stynyt Transylvaniassa verrattuna L\u00e4nsi-Eurooppaan, ja ne korostavat, kuinka ilmasto-olosuhteet vaikuttivat ihmisten k\u00e4rsimykseen, mukaan lukien n\u00e4l\u00e4nh\u00e4t\u00e4 ja taudit. T\u00e4m\u00e4 tutkimus on t\u00e4rke\u00e4 tulevien ilmastonmuutoksen vaikutusten ymm\u00e4rt\u00e4miseksi.",
-        "news_epoch": 1739329200.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/records-people-little-ice-age-weather",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Historical writings reveal how people weathered the Little Ice Age",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c0qwvppk0zzo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Asiantuntijat etsiv\u00e4t harvinaisia brittil\u00e4isi\u00e4 narsisseja, jotka saattavat piileskell\u00e4 puutarhoissa ja puistoissa. He ovat laatineet listan kadonneista lajikkeista, mukaan lukien &#x27;bonfire yellow&#x27; narsissi Sussexista. N\u00e4m\u00e4 kukat, jotka ovat t\u00e4rkeit\u00e4 kauneutensa ja mahdollisten l\u00e4\u00e4ketieteellisten k\u00e4ytt\u00f6tarkoitustensa vuoksi, ovat vaarassa kadota.",
-        "news_epoch": 1739317140.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0qwvppk0zzo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Hunt for rare daffodils that are feared lost",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cglyjn7le2ko",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Kansainv\u00e4linen asianajotoimisto Hill Dickinson on rajoittanut p\u00e4\u00e4sy\u00e4 teko\u00e4lyty\u00f6kaluihin havaittuaan merkitt\u00e4v\u00e4n k\u00e4yt\u00f6n lis\u00e4\u00e4ntymisen henkil\u00f6st\u00f6n keskuudessa. Toimisto ilmoitti, ett\u00e4 suuri osa t\u00e4st\u00e4 k\u00e4yt\u00f6st\u00e4 ei ollut sen teko\u00e4lypolitiikan mukaista. Tulevaisuudessa p\u00e4\u00e4sy teko\u00e4lyty\u00f6kaluihin my\u00f6nnet\u00e4\u00e4n vain hakemusprosessin kautta.",
-        "news_epoch": 1739311440.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cglyjn7le2ko",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Law firm restricts AI after &#x27;significant&#x27; staff use",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_90c0f1ea3e31",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Asiantuntijat korostavat kiireellist\u00e4 tarvetta Yhdysvaltojen kriittisten mineraalien ja hopean tuotannon lis\u00e4\u00e4miselle, korostaen s\u00e4\u00e4ntelytuen ja verokannustimien merkityst\u00e4.",
-        "news_epoch": 1739304000.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/perfect-timing-experts-urge-investors-get-serious-critical-minerals-and-silver",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Perfect Timing? Experts Urge Investors to Get Serious on Critical Minerals and Silver",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_2e83c942e53b",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Kymmenen parasta grafiittia tuottavaa maata ovat Kiina, Madagaskar, Mosambik, Brasilia, Intia, Tansania, Kanada, Ven\u00e4j\u00e4, Etel\u00e4-Korea ja Pohjois-Korea. Kiina johtaa 1,27 miljoonalla tonnilla tuotantoa vuonna 2024, mik\u00e4 kattaa 78 % maailman tarjonnasta.",
-        "news_epoch": 1739303700.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/top-10-graphite-producing-countries",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Top 10 Graphite-producing Countries",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c3304aaf4a34",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "5 Canadian Potash Stocks",
-        "news_epoch": 1739303400.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/5-canadian-potash-stocks",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "5 Canadian Potash Stocks",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_9820bc8b1915",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "12. helmikuuta 2025 useat yritykset, mukaan lukien CME, CVS, VRT, D, EXC, WAB, KHC, MLM, GOLD, WAT, BAM ja QSR, odotetaan raportoivan tuloksensa ennen markkinoiden avautumista.",
-        "news_epoch": 1739300400.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/pre-market-earnings-report-february-12-2025-cme-cvs-vrt-d-exc-wab-khc-mlm-gold-wat-bam-qsr",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Pre-Market Earnings Report for February 12, 2025 :  CME, CVS, VRT, D, EXC, WAB, KHC, MLM, GOLD, WAT, BAM, QSR",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71577508",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Aseistetut militantit It\u00e4-Kongossa tappoivat yli 50 siviili\u00e4 hy\u00f6kk\u00e4yksiss\u00e4, joissa CODECO-militantit olivat vastuussa. He sytyttiv\u00e4t taloja tuleen ja hy\u00f6kk\u00e4siv\u00e4t aseilla ja miekkoilla, mik\u00e4 johti moniin vammoihin ja kuolemiin. Kuolonuhrien m\u00e4\u00e4r\u00e4n odotetaan nousevan, ja aiempia hy\u00f6kk\u00e4yksi\u00e4 sis\u00e4isesti siirtyneiden leireihin raportoitiin my\u00f6s.",
-        "news_epoch": 1739298240.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/dr-congo-militia-kill-dozens-of-villagers-in-ituri-province/a-71577508",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "DR Congo: Militia kill dozens of villagers in Ituri province",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_f9399d53dee1",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Vuosisadan puoliv\u00e4liin menness\u00e4 monet alueet voivat kohdata \u00e4\u00e4rimm\u00e4isi\u00e4 l\u00e4mp\u00f6tapahtumia, jotka ovat vaarallisia ihmisten terveydelle, jos globaalit l\u00e4mp\u00f6tilat nousevat 2 astetta celsiusasteita esiteollisiin tasoihin verrattuna. T\u00e4m\u00e4 voi vaikuttaa laajoihin alueisiin, erityisesti Etel\u00e4-Aasiassa, Etel\u00e4-Amerikassa ja Yhdysvaltojen kaakkoisosissa, tehden olosuhteista hengenvaarallisia, erityisesti vanhemmille aikuisille.",
-        "news_epoch": 1739296800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/global-warming-temperature-extreme-heat",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Just a small rise in global temperatures could be deadly",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71577121",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Viimeisen kahden vuosikymmenen aikana on syntynyt globaali trendi, jossa Yhdysvallat innovoi teknologiassa, Kiina vie sit\u00e4 eteenp\u00e4in ja Eurooppa keskittyy s\u00e4\u00e4ntelyyn. EU on ottanut k\u00e4ytt\u00f6\u00f6n merkitt\u00e4vi\u00e4 s\u00e4\u00e4nt\u00f6j\u00e4 hallitakseen suurten teknologiyritysten vaikutusta, mukaan lukien lait haitallisesta verkkosis\u00e4ll\u00f6st\u00e4 ja teko\u00e4lylains\u00e4\u00e4d\u00e4nt\u00f6.",
-        "news_epoch": 1739296320.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/eu-vows-to-cut-red-tape-as-us-slams-bloc-s-tech-rules/a-71577121",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "EU vows to &#x27;cut red tape&#x27; as US slams bloc&#x27;s tech rules",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_0caad3de843d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "11. helmikuuta 2025 useat yritykset, mukaan lukien Gilead Sciences (GILD), Welltower (WELL) ja Dash (DASH), odotetaan raportoivan tuloksensa ty\u00f6ajan j\u00e4lkeen. Gilead Sciences raportoi nelj\u00e4nnekselt\u00e4, joka p\u00e4\u00e4ttyy 31.",
-        "news_epoch": 1739293200.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/after-hours-earnings-report-february-11-2025-gild-well-dash-et-aig-ew-smci-es-z-wpc-aiz",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "After-Hours Earnings Report for February 11, 2025 :  GILD, WELL, DASH, ET, AIG, EW, SMCI, ES, Z, WPC, AIZ, EXEL",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71574415",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Maanomistus on edelleen kiistanalainen kysymys Etel\u00e4-Afrikassa, jossa suurin osa maatalousmaasta on yh\u00e4 valkoisten omistuksessa vuosikymmeni\u00e4 apartheidin p\u00e4\u00e4ttymisen j\u00e4lkeen. Demokraattinen liitto on k\u00e4ynnist\u00e4nyt oikeusjutun uusia maanuudistuksia vastaan, v\u00e4itt\u00e4en niiden rikkovan perustuslakia. J\u00e4nnitteet Yhdysvaltojen kanssa ovat lis\u00e4\u00e4ntyneet, kun presidentti Trump j\u00e4\u00e4dytti avustukset Etel\u00e4-Afrikalle n\u00e4iden tapahtumien vuoksi, Elon Muskin kommenttien vaikuttaessa.",
-        "news_epoch": 1739291820.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/listicle-the-aftermath-of-south-africa-s-land-reforms/a-71574415",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Listicle: The aftermath of South Africa&#x27;s land reforms",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71575417",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Naton puolustusministerit kokoontuvat, ja Euroopan liittolaiset kohtaavat ensimm\u00e4ist\u00e4 kertaa uuden Yhdysvaltojen puolustusministerin Pete Hegsethinin. Vaikka on olemassa yhteisymm\u00e4rrys puolustusmenojen lis\u00e4\u00e4misest\u00e4 yli 2%, tarkkoja prosentteja k\u00e4sitell\u00e4\u00e4n Naton huippukokouksessa kes\u00e4kuussa. Hegsethinin skeptisyys Natoa kohtaan tuo haasteita, sill\u00e4 h\u00e4n on aiemmin ehdottanut, ett\u00e4 liitto on vanhentunut.",
-        "news_epoch": 1739291400.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/how-will-europe-deal-with-us-defense-secretary-pete-hegseth/a-71575417",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "How will Europe deal with US Defense Secretary Pete Hegseth?",
-        "news_group": 261
-    },
-    {
-        "news_id": "dw_a71574068",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Viimeaikaiset keskustelut Gazan palestiinalaisten tulevaisuudesta ovat kiihtyneet Trumpin ja Netanyahun tapaamisen j\u00e4lkeen. Trump ehdotti palestiinalaisten siirt\u00e4mist\u00e4 naapurimaihin, kuten Egyptiin ja Jordaniaan, mik\u00e4 asiantuntijoiden mukaan rikkoo kansainv\u00e4list\u00e4 lakia. Saudi-Arabia, yhdess\u00e4 Egyptin ja Jordanian kanssa, on hyl\u00e4nnyt ajatuksen palestiinalaisten hyv\u00e4ksymisest\u00e4, korostaen heid\u00e4n oikeuttaan maahansa.",
-        "news_epoch": 1739290380.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/saudi-arabia-israel-are-trump-s-mideast-ideas-derailing-normalization-plans/a-71574068",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Saudi Arabia-Israel: Are Trump&#x27;s Mideast ideas derailing normalization plans?",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_7080d1f0f664",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Tuore tutkimus paljastaa, ett\u00e4 pienet korvalihakset, joita ihmiset voivat liikuttaa, aktivoituvat yritt\u00e4ess\u00e4\u00e4n kuulla vaikeissa olosuhteissa. Vaikka n\u00e4m\u00e4 lihakset eiv\u00e4t ehk\u00e4 paranna kuuloa, niiden aktiivisuus voi viitata henkil\u00f6n kuunteluponnisteluihin, mik\u00e4 voisi auttaa kuulolaitteiden teknologiaa. Tutkimus korostaa korvalihasten koon vaihtelua ja yksil\u00f6iden ainutlaatuisia kykyj\u00e4 hallita korvansa liikkeit\u00e4.",
-        "news_epoch": 1739289600.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/wiggling-ears-hearing",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Wiggling ears may have once helped us hear",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_604e1ac0f073",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Kolme liiketoimintapalveluyrityst\u00e4, Block (XYZ), Coinbase (COIN) ja V2X (VVX), odotetaan ylitt\u00e4v\u00e4n tulosennusteet nelj\u00e4nnell\u00e4 nelj\u00e4nneksell\u00e4.",
-        "news_epoch": 1739287320.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-service-firms-poised-beat-estimates-q4-earnings",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "3 Service Firms Poised to Beat Estimates in Q4 Earnings",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cpdx75zgg88o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "OpenAI:n toimitusjohtaja Sam Altman ilmoitti, ett\u00e4 yritys ei ole &#x27;myynniss\u00e4&#x27; Elon Muskin johtaman konsortion esitetty\u00e4 97,4 miljardin dollarin ostotarjouksen. Altman korosti OpenAI:n teht\u00e4v\u00e4\u00e4 kehitt\u00e4\u00e4 AGI:ta ihmiskunnan hyv\u00e4ksi. Muskin asianajaja vahvisti tarjouksen, kun taas Altman ilmaisi ep\u00e4ilyksens\u00e4 Muskin motiiveista, viitaten kilpailuun heid\u00e4n yritystens\u00e4 v\u00e4lill\u00e4.",
-        "news_epoch": 1739286780.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cpdx75zgg88o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "&#x27;We are not for sale,&#x27; ChatGPT boss says after Musk bid",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c391ml9x878o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Yhdysvaltain presidentti Donald Trump on keskeytt\u00e4nyt korruptionvastaisen lain t\u00e4yt\u00e4nt\u00f6\u00f6npanon, joka mahdollistaa amerikkalaisten syytt\u00e4misen ulkomaisten viranomaisten lahjomisesta.",
-        "news_epoch": 1739286120.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c391ml9x878o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Trump halts prosecution of firms accused of bribery abroad",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cqx97xynejzo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Britannian hallitus on p\u00e4\u00e4tt\u00e4nyt olla vastaamatta v\u00e4litt\u00f6m\u00e4sti Yhdysvaltojen ter\u00e4s- ja alumiinitullien uusimiseen, valiten harkitun reaktion. Kauppaministeri Douglas Alexander korosti rauhallisen l\u00e4hestymistavan tarvetta, huolimatta teollisuuden vaatimuksista voimakkaammasta toiminnasta. Tullit, jotka tulevat voimaan 12.",
-        "news_epoch": 1739284980.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cqx97xynejzo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "UK not planning to hit back at US on steel tariffs",
-        "news_group": 262
-    },
-    {
-        "news_id": "dw_a71577038",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Pitk\u00e4n matkan junan ja puoli-rekan v\u00e4linen onnettomuus Hampurin esikaupungissa aiheutti yli 12 vamman, joista yksi henkil\u00f6 kuoli my\u00f6hemmin vakavista vammoista. Junassa oli yli 250 matkustajaa, jotka kaikki olivat vahingoittumattomia. Onnettomuuden syy ei ole viel\u00e4 selvill\u00e4.",
-        "news_epoch": 1739284980.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/germany-train-collides-with-truck-in-hamburg-killing-1/a-71577038",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Germany: Train collides with truck in Hamburg, killing 1",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_ee2179773a7c",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Presidentti Trump on j\u00e4lleen nostanut esiin ajatuksen Kanadan muuttamisesta 51. osavaltioksi, yhdist\u00e4en sen Kanadan luonnonvaroihin. H\u00e4n ilmoitti 25 %:n tullimaksuista ter\u00e4ksen ja alumiinin tuonnille, mukaan lukien Kanadasta, vedoten sotilaspuolustuksen kustannuksiin.",
-        "news_epoch": 1739284200.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/trump-doubles-down-51st-state-talk-enacts-tariffs-steel-and-aluminum",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Trump Doubles Down on &amp;quot;51st State&amp;quot; Talk, Enacts Tariffs on Steel and Aluminum",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_4fb1013a3bce",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "BC:n hallitus nopeuttaa 18 kaivosprojektia, joiden arvo on 20 miljardia Kanadan dollaria, v\u00e4hent\u00e4\u00e4kseen riippuvuutta Yhdysvaltojen kaupasta kasvavien j\u00e4nnitteiden keskell\u00e4.",
-        "news_epoch": 1739283900.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/bc-moves-expedite-18-mining-projects-us-trade-tensions-rise",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "BC Moves to Expedite 18 Mining Projects as US Trade Tensions Rise",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c0m17d8827ko",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "BBC:n tutkimus paljasti, ett\u00e4 nelj\u00e4 suurta teko\u00e4lychatbottia, mukaan lukien OpenAI:n ChatGPT ja Googlen Gemini, tiivistiv\u00e4t uutistarinoita virheellisesti, ja niiss\u00e4 oli merkitt\u00e4vi\u00e4 ep\u00e4tarkkuuksia ja faktavirheit\u00e4. BBC:n Deborah Turness korosti teko\u00e4lyn v\u00e4\u00e4ristymien mahdollisia todellisia vahinkoja ja kehotti teknologiayrityksi\u00e4 yhteisty\u00f6h\u00f6n julkaisijoiden kanssa tarkkuuden parantamiseksi.",
-        "news_epoch": 1739283600.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0m17d8827ko",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "AI chatbots unable to accurately summarise news, BBC finds",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_31b1c0e08376",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Horizon Minerals ja Poseidon Nickel ovat saaneet lopullisen tuomioistuimen hyv\u00e4ksynn\u00e4n fuusiolleen, joka on nyt laillisesti voimassa. Fuusio ilmoitettiin lokakuussa 2024, ja Horizonin osakkeenomistajat omistavat 69,8 % uudesta yhti\u00f6st\u00e4.",
-        "news_epoch": 1739283600.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/horizon-minerals-poseidon-get-final-court-approval-merger",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Horizon Minerals, Poseidon Get Final Court Approval for Merger",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_768f691b6dd8",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Kolme siruvarastoa kaupank\u00e4ynniss\u00e4 on t\u00e4ll\u00e4 hetkell\u00e4 v\u00e4hint\u00e4\u00e4n 50 % alle 52 viikon huippujensa, mik\u00e4 korostaa puolijohdeteollisuuden kasvavaa merkityst\u00e4 erityisesti teko\u00e4lyn nousun my\u00f6t\u00e4.",
-        "news_epoch": 1739283180.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-chip-stocks-still-trading-50-below-their-52-week-highs",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "3 Chip Stocks Still Trading 50% Below Their 52-Week Highs",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_4535c226502f",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Uudet mielenterapiat keskittyv\u00e4t toistuvan negatiivisen ajattelun k\u00e4sittelyyn, joka on yleist\u00e4 erilaisissa mielenterveysh\u00e4iri\u00f6iss\u00e4. Terapeutteja kannustetaan kohdistamaan huomio n\u00e4ihin ajatusmalleihin ilman virallisia diagnooseja. Tutkimukset viittaavat siihen, ett\u00e4 n\u00e4iden ajatusmallien hoitaminen voi auttaa est\u00e4m\u00e4\u00e4n vakavampia mielenterveysongelmia.",
-        "news_epoch": 1739282400.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/negative-thoughts-anxiety-depression",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Breaking negative thought\u00a0patterns\u00a0could ward off anxiety, depression",
         "news_group": -1
     }
 ];

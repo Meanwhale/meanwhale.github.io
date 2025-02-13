@@ -1,5 +1,415 @@
 const articles = [
     {
+        "news_id": "nasdaq_dac6821efd21",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "AEO 4 april alternativ b\u00f6rjar handla",
+        "news_epoch": 1739453640.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/aeo-april-4th-options-begin-trading",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "AEO April 4th Options Begin Trading",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_3bf8b69dd173",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "GEO April 4th Options b\u00f6rjar handla",
+        "news_epoch": 1739453640.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/geo-april-4th-options-begin-trading",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "GEO April 4th Options Begin Trading",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_954fecc036dc",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Intressant HLI S\u00e4tt och ring alternativ f\u00f6r 19 september",
+        "news_epoch": 1739453580.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/interesting-hli-put-and-call-options-september-19th",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Interesting HLI Put And Call Options For September 19th",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_ea98413f1dcd",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Torsdag 2/13 Insider Buying Report: MTH, MAGN",
+        "news_epoch": 1739453520.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/thursday-2-13-insider-buying-report-mth-magn",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Thursday 2/13 Insider Buying Report: MTH, MAGN",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_a404645da419",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Intressant KNF s\u00e4tter och ringer alternativ f\u00f6r 21 mars",
+        "news_epoch": 1739453520.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/interesting-knf-put-and-call-options-march-21st",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Interesting KNF Put And Call Options For March 21st",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_082a4d588b8b",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Internationellt papper tillk\u00e4nnager st\u00e4ngning av 4 amerikanska anl\u00e4ggningar; att p\u00e5verka 674 jobb",
+        "news_epoch": 1739453100.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/international-paper-announces-closure-4-us-facilities-impact-674-jobs",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "International Paper Announces Closure Of 4 US Facilities; To Impact 674 Jobs",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_8e9a1ef67925",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "L\u00e4gg upp bitarna: VBK kan vara v\u00e4rt $ 335",
+        "news_epoch": 1739453040.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/add-pieces-vbk-could-be-worth-335",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Add Up The Pieces: VBK Could Be Worth $335",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_908a518d0130",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Analytiker f\u00f6rv\u00e4ntar MGC kommer att n\u00e5 $ 248",
+        "news_epoch": 1739453040.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/analysts-expect-mgc-will-reach-248",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Analysts Expect MGC Will Reach $248",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_1e0842220a4c",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Nasdaq 100 Movers: TTD, APP",
+        "news_epoch": 1739453040.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/nasdaq-100-movers-ttd-app",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Nasdaq 100 Movers: TTD, APP",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_b5d833c0b8a6",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "S&amp;P 500 Movers: WST, MGM",
+        "news_epoch": 1739452980.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/sp-500-movers-wst-mgm",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "S&amp;P 500 Movers: WST, MGM",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_655666e09375",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Analytiker f\u00f6ruts\u00e4ger 15% vinster fram\u00e5t f\u00f6r IJK",
+        "news_epoch": 1739452920.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/analysts-forecast-15-gains-ahead-ijk",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Analysts Forecast 15% Gains Ahead For IJK",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_df8c5599df18",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Se vilken av de senaste 13F-filerna som h\u00e5ller Marvell Technology",
+        "news_epoch": 1739452920.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/see-which-latest-13f-filers-holds-marvell-technology",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "See Which Of The Latest 13F Filers Holds Marvell Technology",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_e2344c66c8c2",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Dow Movers: MSFT, CSCO",
+        "news_epoch": 1739452920.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/dow-movers-msft-csco",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Dow Movers: MSFT, CSCO",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143538",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ukrainas v\u00e4rsta farh\u00e5gor b\u00f6rjar bli sanna n\u00e4r Trump avsl\u00f6jade sitt kort",
+        "news_epoch": 1739452860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143538",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Analyysi: Ukrainan pahimmat pelot alkavat toteutua, kun Trump paljasti korttinsa",
+        "news_group": 287
+    },
+    {
+        "news_id": "nasdaq_2993a536ae11",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Hur bitarna l\u00e4gger till: BGDV Headed f\u00f6r $ 28",
+        "news_epoch": 1739452860.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/how-pieces-add-bgdv-headed-28",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "How The Pieces Add Up: BGDV Headed For $28",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_c7f025a46b48",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Se vilken av de senaste 13F-filerna som h\u00e5ller Procter &amp; Gamble",
+        "news_epoch": 1739452860.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/see-which-latest-13f-filers-holds-procter-gamble-4",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "See Which Of The Latest 13F Filers Holds Procter &amp; Gamble",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143626",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "I december f\u00f6rklarade president Yoon undantagstillst\u00e5nd i Sydkorea, vilket ledde till politiskt kaos. Parlamentet upph\u00e4vde hans deklaration trots hans f\u00f6rs\u00f6k att f\u00f6rhindra det.",
+        "news_epoch": 1739452800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143626",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Etel\u00e4-Korean Yoonin virkasyytek\u00e4sittely jatkuu \u2013 uusi kuuleminen ensi viikolla",
+        "news_group": 279
+    },
+    {
+        "news_id": "arvopaperi_2b0b22ffb248",
+        "news_source": "arvopaperi",
+        "news_source_lang": "fi",
+        "news_header": "Wall Street driver upp i handelssp\u00e4nningar och inflationsstatistik",
+        "news_epoch": 1739452500.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.arvopaperi.fi/uutiset/ap/587459de-00f0-46f0-96c8-ee0a6ee2c0f9",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Wall Street punnertaa nousussa kauppaj\u00e4nnitteiden ja inflaatiotilastojen keskell\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0e43dqv271o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Vissa hypoteksl\u00e5n s\u00e4nks under 4% n\u00e4r konkurrensen plockar upp",
+        "news_epoch": 1739451720.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0e43dqv271o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Some mortgage rates cut below 4% as competition picks up",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_cdbdc657d5f2",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "First American Financial Corp. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 klockan 11:00 ET f\u00f6r att diskutera sina Q4 2024 resultat.",
+        "news_epoch": 1739451660.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/first-american-financial-q4-24-earnings-conference-call-11-00-am-et",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "First American Financial Q4 24 Earnings Conference Call At 11:00 AM ET",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_4a149bdfc836",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Palatin Technologies Inc. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 kl. 11:00 ET f\u00f6r att diskutera Q2 25 resultat.",
+        "news_epoch": 1739451660.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/palatin-technologies-q2-25-earnings-conference-call-11-00-am-et",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Palatin Technologies Q2 25 Earnings Conference Call At 11:00 AM ET",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_f22c4324c18b",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Granitkonstruktion Q4 24 Resultatkonferenssamtal klockan 11:00",
+        "news_epoch": 1739451660.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/granite-construction-q4-24-earnings-conference-call-11-00-am-et",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Granite Construction Q4 24 Earnings Conference Call At 11:00 AM ET",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_bb5afeecb913",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Valideas guru-fundamentala rapport f\u00f6r Nucor Corp (NUE) visar att det rankas h\u00f6gst bland 22 guru-strategier med hj\u00e4lp av Value Investor-modellen baserad p\u00e5 Benjamin Grahams strategi, som fokuserar p\u00e5 aktier med l\u00e5ga P/B- och P/E-tal.",
+        "news_epoch": 1739451600.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-nue-benjamin-graham-9",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Guru Fundamental Report for NUE - Benjamin Graham",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_21b369fa960c",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Valideas guru-fundamentala rapport f\u00f6r Johnson Controls International PLC (JCI) visar att JCI rankas h\u00f6gst bland 22 guru-strategier med hj\u00e4lp av Multi-Factor Investor-modellen baserad p\u00e5 Pim van Vliets strategi, som fokuserar p\u00e5 aktier med l\u00e5g volatilitet.",
+        "news_epoch": 1739451600.0,
+        "news_categories": [
+            "business",
+            "markets"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-jci-1",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Guru Fundamental Report for JCI",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143624",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ministeriet h\u00e5ller p\u00e5 att \u00e4ndra den artikel som v\u00e4ckte oro f\u00f6r akademiker om vetenskaplig frihet",
+        "news_epoch": 1739451480.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20143624",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Ministeri\u00f6 on muokkaamassa pyk\u00e4l\u00e4\u00e4, joka her\u00e4tti akateemikoissa huolta tieteen vapaudesta",
+        "news_group": 280
+    },
+    {
+        "news_id": "bbc_c77r05nx11po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Fr\u00e5gor har uppst\u00e5tt ang\u00e5ende noggrannheten i kansler Rachel Reeves online-CV och hennes utgifter under sin tid p\u00e5 Halifax Bank of Scotland. En utredning avsl\u00f6jade avvikelser i hennes p\u00e5st\u00e5dda anst\u00e4llningstid p\u00e5 Bank of England, d\u00e4r hon h\u00e4vdade att hon arbetade i ett decennium men faktiskt l\u00e4mnade i mars 2006 efter fem och ett halvt \u00e5r.",
+        "news_epoch": 1739451360.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c77r05nx11po",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Questions raised over Rachel Reeves&#x27;s CV and expenses",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143618",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -15,10 +425,40 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "dw_a71595277",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Nepals sociala medier\u00e4kning v\u00e4cker yttrandefrihet",
+        "news_epoch": 1739450160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/nepal-s-social-media-bill-raises-free-speech-concerns/a-71595277",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Nepal&#x27;s social media bill raises free speech concerns",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71595629",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Mindre \u00e4n en m\u00e5nad in i Donald Trumps andra mandatperiod framtr\u00e4der en ny handelskrig mellan USA och Kina med \u00f6msesidiga tullar fr\u00e5n b\u00e5da sidor. USA inf\u00f6rde en 10 % tull p\u00e5 alla kinesiska importer, vilket fick Kina att svara med tullar p\u00e5 amerikansk r\u00e5olja och andra varor.",
+        "news_epoch": 1739449860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/can-china-come-out-on-top-in-a-us-trade-war/a-71595629",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_original_title": "Can China come out on top in a US trade war?",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143500",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Nordnet upplevde ett dataintr\u00e5ng som p\u00e5verkade 1 500 kunder i de nordiska l\u00e4nderna, med 500 i Danmark och Finland, 350 i Norge och 200 i Sverige. Kunder kunde se och till och med s\u00e4lja andras investeringsinformation.",
+        "news_header": "Nordnets 1 500 kunders information var synlig f\u00f6r andra - finl\u00e4ndarna inkluderade 500",
         "news_epoch": 1739449860.0,
         "news_categories": [
             "business"
@@ -27,189 +467,333 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Nordnetin 1 500 asiakkaan tiedot n\u00e4kyiv\u00e4t muille \u2013 suomalaisia joukossa 500",
-        "news_group": 268
+        "news_group": 288
     },
     {
-        "news_id": "nasdaq_a3a70e993715",
+        "news_id": "nasdaq_3d3f717ff613",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Steve Madden f\u00f6rv\u00e4rvar Kurt Geiger f\u00f6r GBP 289 Mln i kontanter",
-        "news_epoch": 1739449860.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/steve-madden-acquire-kurt-geiger-gbp-289-mln-cash",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Steve Madden To Acquire Kurt Geiger For GBP 289 Mln In Cash",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_8e2f1bf75e97",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Deere Q1 vinsthalvor, missar uppskattningar",
+        "news_header": "Iron Mountain (IRM) Q4 Int\u00e4kter: Ta en titt p\u00e5 Key Metrics Versus Uppskattningar",
         "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/deere-q1-profit-halves-misses-estimates",
+        "news_url": "https://www.nasdaq.com/articles/iron-mountain-irm-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Deere Q1 Profit Halves, Misses Estimates",
+        "news_original_title": "Iron Mountain (IRM) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_f41a2f60249c",
+        "news_id": "nasdaq_0a4f43ee5241",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Stock Market Turmoil kommer. \u00d6verv\u00e4ga Dessa &quot;Hidden&quot; 12,5% avkastning",
+        "news_header": "Onity (ONIT) Q4 Int\u00e4kter: Ta en titt p\u00e5 Key Metrics Versus Uppskattningar",
         "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/stock-market-turmoil-coming-consider-these-hidden-125-yields",
+        "news_url": "https://www.nasdaq.com/articles/onity-onit-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Stock Market Turmoil Is Coming. Consider These &amp;quot;Hidden&amp;quot; 12.5% Yields",
+        "news_original_title": "Onity (ONIT) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_6c6960a236a2",
+        "news_id": "nasdaq_6bd9e1d8624e",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Kan Solana G\u00f6r Du miljon\u00e4r 2025?",
-        "news_epoch": 1739449260.0,
+        "news_header": "AEP (AEP) rapporterar Q4 Resultat: Vad Key Metrics M\u00e5ste s\u00e4ga",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/can-solana-make-you-millionaire-2025",
+        "news_url": "https://www.nasdaq.com/articles/aep-aep-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Can Solana Make You a Millionaire in 2025?",
+        "news_original_title": "AEP (AEP) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_c9c1eeba4225",
+        "news_id": "nasdaq_d722ca0d773f",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Brookfield Corporation kommer att sv\u00e4va under de kommande 5 \u00e5ren. H\u00e4r \u00e4r 1 anledning till varf\u00f6r.",
-        "news_epoch": 1739449260.0,
+        "news_header": "Walker &amp; Dunlop (WD) Q4 Int\u00e4kter: Ta en titt p\u00e5 Key Metrics Versus Estimates",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/prediction-brookfield-corporation-will-soar-over-next-5-years-heres-1-reason-why",
+        "news_url": "https://www.nasdaq.com/articles/walker-dunlop-wd-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Prediction: Brookfield Corporation Will Soar Over the Next 5 Years. Here&#x27;s 1 Reason Why.",
+        "news_original_title": "Walker &amp; Dunlop (WD) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_76ae53ef378d",
+        "news_id": "nasdaq_df07cff86253",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Siemens Q1 Net Profit Surges, Orders Down; Backs FY25 Utsikt; Stock Up",
-        "news_epoch": 1739449200.0,
+        "news_header": "GE HealthCare (GEHC) Rapporter Q4 Resultat: Vad Key Metrics M\u00e5ste s\u00e4ga",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/siemens-q1-net-profit-surges-orders-down-backs-fy25-view-stock",
+        "news_url": "https://www.nasdaq.com/articles/ge-healthcare-gehc-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Siemens Q1 Net Profit Surges, Orders Down; Backs FY25 View; Stock Up",
+        "news_original_title": "GE HealthCare (GEHC) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_dbc50a47d96e",
+        "news_id": "nasdaq_211694e79101",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Datadog: 2025 V\u00e4gledning oroar investerare",
-        "news_epoch": 1739449200.0,
+        "news_header": "Molson Coors (TAP) Q4 Resultat: Hur viktiga m\u00e4tv\u00e4rden j\u00e4mf\u00f6rs med Wall Street Estimates",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/datadog-2025-guidance-worries-investors",
+        "news_url": "https://www.nasdaq.com/articles/molson-coors-tap-q4-earnings-how-key-metrics-compare-wall-street-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Datadog: 2025 Guidance Worries Investors",
+        "news_original_title": "Molson Coors (TAP) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_3b7ab6df6c5e",
+        "news_id": "nasdaq_fc2fc0d862b5",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Deere &amp; Co. Int\u00e4kter Drop 50% i Q1 2025",
-        "news_epoch": 1739448960.0,
+        "news_header": "Pagaya Technologies Ltd. (PGY) rapporterar Q4 Resultat: Vad Key Metrics M\u00e5ste s\u00e4ga",
+        "news_epoch": 1739449800.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/deere-co-earnings-drop-50-q1-2025",
+        "news_url": "https://www.nasdaq.com/articles/pagaya-technologies-ltd-pgy-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Deere &amp; Co. Earnings Drop 50% in Q1 2025",
+        "news_original_title": "Pagaya Technologies Ltd. (PGY) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_7e86b191fbe1",
+        "news_id": "nasdaq_cc90f38c7612",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Amerikanska livsmedel Q4 Earnings Slide",
+        "news_header": "Moody&#x27;s (MCO) Rapporter Q4 Resultat: Vad Key Metrics M\u00e5ste s\u00e4ga",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/moodys-mco-reports-q4-earnings-what-key-metrics-have-say",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Moody&#x27;s (MCO) Reports Q4 Earnings: What Key Metrics Have to Say",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_dc90fc67eda0",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Sally Beauty (SBH) rapporterar Q1 Resultat: Vad Key Metrics M\u00e5ste s\u00e4ga",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/sally-beauty-sbh-reports-q1-earnings-what-key-metrics-have-say",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Sally Beauty (SBH) Reports Q1 Earnings: What Key Metrics Have to Say",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_651183d76039",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "H\u00e4r \u00e4r vad Key Metrics ber\u00e4ttar om PBF Energy (PBF) Q4 Int\u00e4kter",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-pbf-energy-pbf-q4-earnings",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Here&#x27;s What Key Metrics Tell Us About PBF Energy (PBF) Q4 Earnings",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_c6a328b087c0",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Globala betalningar (GPN) Q4 Int\u00e4kter: Ta en titt p\u00e5 Key Metrics Versus Uppskattningar",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/global-payments-gpn-q4-earnings-taking-look-key-metrics-versus-estimates",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Global Payments (GPN) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_1d19ca50e324",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Dominion Energy (D) Q4 Int\u00e4kter: Ta en titt p\u00e5 Key Metrics Versus Uppskattningar",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/dominion-energy-d-q4-earnings-taking-look-key-metrics-versus-estimates",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Dominion Energy (D) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_b15be1dbc0d9",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Hurmet (HWM) Q4 Int\u00e4kter: Ta en titt p\u00e5 Key Metrics Versus Uppskattningar",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/howmet-hwm-q4-earnings-taking-look-key-metrics-versus-estimates",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Howmet (HWM) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_86a10993db6e",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Zoetis (ZTS) rapporterar Q4 Resultat: Vad Key Metrics M\u00e5ste s\u00e4ga",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/zoetis-zts-reports-q4-earnings-what-key-metrics-have-say",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Zoetis (ZTS) Reports Q4 Earnings: What Key Metrics Have to Say",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_24597e8b689d",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "H\u00e4r \u00e4r vad Key Metrics ber\u00e4ttar om CyberArk (CYBR) Q4 Int\u00e4kter",
+        "news_epoch": 1739449800.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-cyberark-cybr-q4-earnings",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Here&#x27;s What Key Metrics Tell Us About CyberArk (CYBR) Q4 Earnings",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_52f0d5ee5949",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Denna text diskuterar den kommande Q4-resultatr\u00e4kningen f\u00f6r International Flavors (IFF) f\u00f6r december 2024, med fokus p\u00e5 uppskattningar bortom bara int\u00e4kter och EPS, samt analyserar nyckelm\u00e5tt f\u00f6r djupare insikter.",
         "news_epoch": 1739448900.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/us-foods-q4-earnings-slide",
+        "news_url": "https://www.nasdaq.com/articles/countdown-international-flavors-iff-q4-earnings-look-estimates-beyond-revenue-and-eps",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "US Foods Q4 Earnings Slide",
+        "news_original_title": "Countdown to International Flavors (IFF) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_ef9330d20ed8",
+        "news_id": "nasdaq_9b3e3e90fbbc",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Rigetti Computing vs Archer Aviation: A Head-to-Head Growth Stock Showdown",
+        "news_header": "Analytikers prognoser f\u00f6r nyckeltal ger insikter om CF:s Q4-resultat, vilket hj\u00e4lper till att f\u00f6rst\u00e5 f\u00f6retagets prestation f\u00f6r kvartalet som slutade i december 2024.",
         "news_epoch": 1739448900.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/rigetti-computing-vs-archer-aviation-head-head-growth-stock-showdown",
+        "news_url": "https://www.nasdaq.com/articles/what-analyst-projections-key-metrics-reveal-about-cf-cf-q4-earnings",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Rigetti Computing vs. Archer Aviation: A Head-to-Head Growth Stock Showdown",
+        "news_original_title": "What Analyst Projections for Key Metrics Reveal About CF (CF) Q4 Earnings",
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_f392e896a3b0",
+        "news_id": "nasdaq_dcb20805b87a",
         "news_source": "nasdaq",
         "news_source_lang": "en",
-        "news_header": "Pair Trade: Fade Palantir och k\u00f6p denna fantastiska AI Stock Trading p\u00e5 en rabatt",
-        "news_epoch": 1739448300.0,
+        "news_header": "Analysera Genuine Parts (GPC) Q4-resultat med fokus p\u00e5 nyckelm\u00e5tt bortom Wall Streets uppskattningar f\u00f6r december 2024.",
+        "news_epoch": 1739448900.0,
         "news_categories": [
             "business",
-            "markets"
+            "tech"
         ],
-        "news_url": "https://www.nasdaq.com/articles/pair-trade-fade-palantir-and-buy-fantastic-ai-stock-trading-discount",
+        "news_url": "https://www.nasdaq.com/articles/gear-genuine-parts-gpc-q4-earnings-wall-street-estimates-key-metrics",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
-        "news_original_title": "Pair Trade: Fade Palantir and Buy This Fantastic AI Stock Trading at a Discount",
+        "news_original_title": "Gear Up for Genuine Parts (GPC) Q4 Earnings: Wall Street Estimates for Key Metrics",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_7775b4913fe9",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Denna text handlar om de f\u00f6rv\u00e4ntade Q4-resultaten f\u00f6r Jones Lang LaSalle (JLL) f\u00f6r december 2024, och f\u00f6resl\u00e5r en djupare analys av nyckelm\u00e5tt ut\u00f6ver Wall Streets grundl\u00e4ggande uppskattningar.",
+        "news_epoch": 1739448900.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/seeking-clues-jones-lang-lasalle-jll-q4-earnings-peek-wall-street-projections-key-metrics",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Seeking Clues to Jones Lang LaSalle (JLL) Q4 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+        "news_group": -1
+    },
+    {
+        "news_id": "nasdaq_8bb4e7e13f5d",
+        "news_source": "nasdaq",
+        "news_source_lang": "en",
+        "news_header": "Nedr\u00e4kning till CoStar (CSGP) Q4-resultat: Wall Street f\u00f6rutser nyckeltal och uppskattningar f\u00f6r f\u00f6retagets prestation under kvartalet som slutade i december 2024.",
+        "news_epoch": 1739448900.0,
+        "news_categories": [
+            "business",
+            "tech"
+        ],
+        "news_url": "https://www.nasdaq.com/articles/countdown-costar-csgp-q4-earnings-wall-street-forecasts-key-metrics",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Countdown to CoStar (CSGP) Q4 Earnings: Wall Street Forecasts for Key Metrics",
         "news_group": -1
     },
     {
         "news_id": "bbc_crlky380wd7o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Google Maps har blockerat recensioner f\u00f6r Mexikanska golfen efter att ha d\u00f6pt om den till &#x27;Amerikanska golfen&#x27; f\u00f6r anv\u00e4ndare i USA, efter president Trumps order.",
+        "news_header": "Google Maps blockerar Gulf of America-recensioner efter namnkritik",
         "news_epoch": 1739448240.0,
         "news_categories": [
             "business"
@@ -221,154 +805,10 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "nasdaq_07a250bcfcfe",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "MSA Safety Inc. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 klockan 10:00 ET f\u00f6r att diskutera Q4 24 resultat.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/msa-safety-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "MSA Safety Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_fd3d31991dba",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Hyatt Hotels Corp. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 klockan 10:00 ET f\u00f6r att diskutera Q4 2024 resultat.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/hyatt-hotels-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Hyatt Hotels Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_1cba6d4ef17d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Ventas Inc. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 klockan 10:00 ET f\u00f6r att diskutera Q4 24 resultat.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/ventas-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Ventas Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_9c9aea9f2096",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Howmet Aerospace Inc. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 klockan 10:00 ET f\u00f6r att diskutera Q4 24 resultat.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/howmet-aerospace-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Howmet Aerospace Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_9cd564aeabdf",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Manitowoc Company Inc. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 klockan 10:00 ET f\u00f6r att diskutera sina Q4 24 resultat.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/manitowoc-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Manitowoc Q4 24 Earnings Conference Call AT 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c28cd585b5a2",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Tyler Technologies Inc. kommer att h\u00e5lla en konferenssamtal den 13 februari 2025 klockan 10:00 ET f\u00f6r att diskutera sina Q4 24 resultat.",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/tyler-technologies-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Tyler Technologies Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_cc2a5604f6e3",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Sun Life Financial Q4 24 Ankomstkonferenssamtal klockan 10:00 ET",
-        "news_epoch": 1739448060.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/sun-life-financial-q4-24-earnings-conference-call-10-00-am-et",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Sun Life Financial Q4 24 Earnings Conference Call At 10:00 AM ET",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_83c0ef00b59f",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Att investera i teknikaktier \u00e4r avg\u00f6rande f\u00f6r l\u00e5ngsiktiga vinster, eftersom dessa f\u00f6retag har en betydande inverkan p\u00e5 ekonomin.",
-        "news_epoch": 1739448000.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/got-5000-2-tech-stocks-buy-and-hold-long-term-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Got $5,000? 2 Tech Stocks to Buy and Hold for the Long Term",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3be8e34fba36",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Valideas guru-fundamentala rapport f\u00f6r Johnson &amp; Johnson (JNJ) visar att f\u00f6retaget rankas h\u00f6gst bland 22 guru-strategier med hj\u00e4lp av Shareholder Yield Investor-modellen baserad p\u00e5 Meb Fabers strategi, som fokuserar p\u00e5 f\u00f6retag som \u00e5terbetalar pengar till aktie\u00e4garna.",
-        "news_epoch": 1739448000.0,
-        "news_categories": [
-            "business",
-            "markets"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-jnj-67",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Guru Fundamental Report for JNJ",
-        "news_group": -1
-    },
-    {
         "news_id": "sn_27b425ff60ce",
         "news_source": "sn",
         "news_source_lang": "en",
-        "news_header": "Norovirus \u00e4r mycket smittsam och har sett en betydande \u00f6kning av utbrott i USA denna vinter, med symptom som kr\u00e4kningar, diarr\u00e9 och illam\u00e5ende. Det p\u00e5verkar fr\u00e4mst unga, \u00e4ldre och immunf\u00f6rsvagade, vilket leder till miljontals sjukdomar och tusentals d\u00f6dsfall \u00e5rligen.",
+        "news_header": "Varf\u00f6r ett norovirusvaccin inte \u00e4r tillg\u00e4ngligt \u2013 men",
         "news_epoch": 1739448000.0,
         "news_categories": [
             "science"
@@ -392,13 +832,13 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "UK signals it will seek US steel tariff exemption",
-        "news_group": 262
+        "news_group": -1
     },
     {
         "news_id": "dw_a71590013",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Ghana \u00e4r till stor del oskadd av jihadistattacker, trots sin n\u00e4rhet till Burkina Faso, som pl\u00e5gas av terroristgrupper. Analytiker varnar f\u00f6r att ghananer, s\u00e4rskilt arbetsl\u00f6sa ungdomar, riskerar att rekryteras av dessa grupper, ofta genom familjeband \u00f6ver gr\u00e4nsen.",
+        "news_header": "Ghana f\u00f6rblir i stort sett oskadd av jihadistattacker, trots sin n\u00e4rhet till Burkina Faso, som har st\u00e5tt inf\u00f6r betydande terroristhot. Analytiker varnar f\u00f6r att ghananer, s\u00e4rskilt arbetsl\u00f6sa ungdomar, riskerar att rekryteras av jihadistgrupper, ofta genom familjeband \u00f6ver gr\u00e4nsen.",
         "news_epoch": 1739447580.0,
         "news_categories": [
             "world"
@@ -422,7 +862,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "N\u00e4in raaka on Trumpin rauha: alueluovutuksia, ei Nato-joukkoja, ei taetta pysyv\u00e4st\u00e4 rauhasta",
-        "news_group": 261
+        "news_group": 287
     },
     {
         "news_id": "arvopaperi_a874811501ef",
@@ -443,7 +883,7 @@ const articles = [
         "news_id": "bbc_c3vpqr6511yo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Hamas har \u00e5tagit sig att genomf\u00f6ra vapenvilan i Gaza med Israel och kommer att forts\u00e4tta frig\u00f6ra gisslan enligt schemat. Medlare fr\u00e5n Egypten och Qatar arbetar f\u00f6r att ta bort hinder, medan Israel har varnat f\u00f6r att vapenvilan kommer att upph\u00f6ra om gisslan inte \u00e5terl\u00e4mnas senast p\u00e5 l\u00f6rdag.",
+        "news_header": "Hamas s\u00e4ger att det kommer att forts\u00e4tta sl\u00e4ppa israeliska gisslan under Gazaavtalet",
         "news_epoch": 1739445180.0,
         "news_categories": [
             "world"
@@ -452,102 +892,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Hamas says it will continue releasing Israeli hostages under Gaza deal",
-        "news_group": 264
-    },
-    {
-        "news_id": "nasdaq_9e9c1ad745d8",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Allegiant Travel Company och A-Mark Precious Metals i l\u00e5dan har markerats som Zacks Bull och Bear of the Day",
-        "news_epoch": 1739445000.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/allegiant-travel-company-and-mark-precious-metals-box-have-been-highlighted-zacks-bull-and",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Allegiant Travel Company and A-Mark Precious Metals&#x27; in the Box have been highlighted as Zacks Bull and Bear of the Day",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c77r05nx11po",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Rachel Reeves LinkedIn-profil \u00f6verdrev hur l\u00e4nge hon arbetade p\u00e5 Bank of England, d\u00e4r hon p\u00e5stod sig ha arbetat i ett decennium, medan hon faktiskt tillbringade fem och ett halvt \u00e5r d\u00e4r och l\u00e4mnade i mars 2006.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c77r05nx11po",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Reeves&#x27;s CV exaggerated time at Bank of England",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_97e4922c8ff8",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Att l\u00e4gga till dessa tre topprankade, b\u00e4st presterande och v\u00e4lsk\u00f6tta fonder i din pensionsportf\u00f6lj kan maximera dina avkastningar.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/make-most-your-retirement-these-top-ranked-mutual-funds-68",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Make the Most of Your Retirement with These Top-Ranked Mutual Funds",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3cd1a7853f37",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "ETF-strategier kan hj\u00e4lpa till att hantera h\u00f6g inflation i januari.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/etf-strategies-play-hot-january-inflation",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "ETF Strategies to Play Hot January Inflation",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_db318866ff14",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Dessa tre topprankade, b\u00e4st presterande och v\u00e4lsk\u00f6tta fonder kan hj\u00e4lpa dig att maximera avkastningen p\u00e5 din pensionsportf\u00f6lj.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-you-add-these-3-top-performing-mutual-funds-your-portfolio-79",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should You Add These 3 Top-Performing Mutual Funds to Your Portfolio?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3d11d4de3c53",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "\u00d6verv\u00e4g att l\u00e4gga till dessa tre topprankade fonder f\u00f6r att f\u00f6rb\u00e4ttra avkastningen p\u00e5 din pensionsportf\u00f6lj.",
-        "news_epoch": 1739444400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-you-add-these-3-top-performing-mutual-funds-your-portfolio-80",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should You Add These 3 Top-Performing Mutual Funds to Your Portfolio?",
-        "news_group": -1
+        "news_group": 283
     },
     {
         "news_id": "arvopaperi_99e6b14f5ccb",
@@ -644,7 +989,7 @@ const articles = [
         "news_id": "dw_a71530790",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Portugal, Italien, Spanien och Grekland har g\u00e5tt fr\u00e5n att betraktas som EU:s problembarn till potentiella bidragsgivare till l\u00f6sningar, s\u00e4rskilt inom f\u00f6rnybar energi.",
+        "news_header": "Varf\u00f6r Europas s\u00f6dra periferi rekvisiterar tillv\u00e4xten i euroomr\u00e5det",
         "news_epoch": 1739440980.0,
         "news_categories": [
             "business"
@@ -653,86 +998,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Why Europe&#x27;s southern periphery props up eurozone growth",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_b3a06450dedd",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Rapporten utv\u00e4rderar om T. Rowe Price New Horizons (PRNHX) \u00e4r ett starkt val av fond just nu, genom att analysera dess prestation och potential.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/t-rowe-price-new-horizons-prnhx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is T. Rowe Price New Horizons (PRNHX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_6ef149ff78a9",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Matthews China Investor (MCHFX) utv\u00e4rderas f\u00f6r n\u00e4rvarande som ett starkt alternativ f\u00f6r en fond, med fokus p\u00e5 investeringsm\u00f6jligheter i Kina.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/matthews-china-investor-mchfx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Matthews China Investor (MCHFX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_a6eab35d89ee",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Vanguard Wellington Admiral (VWENX) anses f\u00f6r n\u00e4rvarande vara ett starkt val av fond p\u00e5 grund av sin stabila prestation och f\u00f6rvaltning.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/vanguard-wellington-admiral-vwenx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Vanguard Wellington Admiral (VWENX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_52e82934e1b2",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Fidelity Select Health Care (FSPHX) bed\u00f6ms just nu som ett starkt fondalternativ baserat p\u00e5 dess prestation och marknadsf\u00f6rh\u00e5llanden.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/fidelity-select-health-care-fsphx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Fidelity Select Health Care (FSPHX) a Strong Mutual Fund Pick Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_8b24280fd5bf",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Vanguard Energy Investor (VGENX) utv\u00e4rderas f\u00f6r n\u00e4rvarande som en potentiellt stark investering i en aktiefond. Rapporten analyserar dess prestation, f\u00f6rvaltning och marknadsf\u00f6rh\u00e5llanden f\u00f6r att avg\u00f6ra dess l\u00e4mplighet f\u00f6r investerare.",
-        "news_epoch": 1739440800.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/vanguard-energy-investor-vgenx-strong-mutual-fund-pick-right-now-0",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Vanguard Energy Investor (VGENX) a Strong Mutual Fund Pick Right Now?",
         "news_group": -1
     },
     {
@@ -778,181 +1043,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SHORT",
         "news_original_title": "Neste tarvitsee uuden tarinan \u2013 Heikki Malinen k\u00e4ytti samaa resepti\u00e4 Outokummussa",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c0e43dqv271o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tv\u00e5 stora l\u00e5ngivare har lanserat bol\u00e5neerbjudanden med r\u00e4ntor under 4 %, drivet av konkurrens och potentiella s\u00e4nkningar av basr\u00e4ntan fr\u00e5n Bank of England. Dessa erbjudanden kanske dock inte \u00e4r tillg\u00e4ngliga f\u00f6r alla l\u00e5ntagare, s\u00e4rskilt inte f\u00f6r f\u00f6rstag\u00e5ngsk\u00f6pare, och kan involvera betydande avgifter.",
-        "news_epoch": 1739438820.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0e43dqv271o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Some mortgage rates cut below 4% as competition picks up",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_3def4b3d7708",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Invesco S&amp;P SmallCap 600 Pure Value ETF (RZV) bed\u00f6ms f\u00f6r n\u00e4rvarande som ett starkt investeringsalternativ baserat p\u00e5 dess Smart Beta ETF-rapport.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/invesco-sp-smallcap-600-pure-value-etf-rzv-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Invesco S&amp;P SmallCap 600 Pure Value ETF (RZV) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_f0421983cae6",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "WisdomTree U.S. MidCap ETF (EZM) bed\u00f6ms f\u00f6r n\u00e4rvarande som en stark ETF baserat p\u00e5 dess prestation och smart beta-strategi.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/wisdomtree-us-midcap-etf-ezm-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is WisdomTree U.S. MidCap ETF (EZM) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_f9ed84f6e51d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "iShares Morningstar Small-Cap Value ETF (ISCV) \u00e4r en fond som fokuserar p\u00e5 sm\u00e5bolagsv\u00e4rdeaktier. Investerare b\u00f6r \u00f6verv\u00e4ga dess prestation, avgifter och det underliggande indexet n\u00e4r de beslutar om de ska investera.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-ishares-morningstar-small-cap-value-etf-iscv-be-your-investing-radar-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should iShares Morningstar Small-Cap Value ETF (ISCV) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_e4361bce9a5d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "SPDR Russell 1000 Yield Focus ETF (ONEY) \u00e4r en finansiell produkt som fokuserar p\u00e5 h\u00f6gavkastande aktier fr\u00e5n Russell 1000-indexet. Investerare b\u00f6r \u00f6verv\u00e4ga dess prestation, kostnadsf\u00f6rh\u00e5llanden och potential f\u00f6r inkomstgenerering n\u00e4r de utv\u00e4rderar den f\u00f6r sina portf\u00f6ljer.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-spdr-russell-1000-yield-focus-etf-oney-be-your-investing-radar-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should SPDR Russell 1000 Yield Focus ETF (ONEY) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c5514b4a2e05",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Invesco Large Cap Growth ETF (PWB) utv\u00e4rderas f\u00f6r n\u00e4rvarande som en investeringsm\u00f6jlighet. En Smart Beta ETF-rapport ger insikter om dess prestation och potential.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/invesco-large-cap-growth-etf-pwb-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Invesco Large Cap Growth ETF (PWB) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c127f497a6b2",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Schwab Fundamental U.S. Small Company ETF (FNDA) \u00e4r ett anm\u00e4rkningsv\u00e4rt investeringsalternativ som investerare b\u00f6r \u00f6verv\u00e4ga. Den fokuserar p\u00e5 sm\u00e5 f\u00f6retag med starka fundamenta, vilket potentiellt kan erbjuda tillv\u00e4xtm\u00f6jligheter p\u00e5 marknaden.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-schwab-fundamental-us-small-company-etf-fnda-be-your-investing-radar-2",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should Schwab Fundamental U.S. Small Company ETF (FNDA) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_2b9d148cb009",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Invesco FTSE RAFI Utvecklade Marknader ex-USA ETF (PXF) bed\u00f6ms f\u00f6r n\u00e4rvarande som ett starkt investeringsalternativ inom Smart Beta ETF-kategorin.",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/invesco-ftse-rafi-developed-markets-ex-us-etf-pxf-strong-etf-right-now-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is Invesco FTSE RAFI Developed Markets ex-U.S. ETF (PXF) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_2348fd58ccda",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Skulle Vanguard Russell 1000 Growth ETF (VONG) Var p\u00e5 din investering radar?",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-vanguard-russell-1000-growth-etf-vong-be-your-investing-radar-3",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should Vanguard Russell 1000 Growth ETF (VONG) Be on Your Investing Radar?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_d7fdfa3c07b4",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "\u00c4r iShares US Small-Cap Equity Factor ETF (SMLF) en stark ETF just nu?",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/ishares-us-small-cap-equity-factor-etf-smlf-strong-etf-right-now-2",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Is iShares U.S. Small-Cap Equity Factor ETF (SMLF) a Strong ETF Right Now?",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_a44291e4f9dc",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Ska Schwab Fundamental US Large Company ETF (FNDX) vara p\u00e5 din investeringsradar?",
-        "news_epoch": 1739438400.0,
-        "news_categories": [
-            "business",
-            "tech"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/should-schwab-fundamental-us-large-company-etf-fndx-be-your-investing-radar-2",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Should Schwab Fundamental U.S. Large Company ETF (FNDX) Be on Your Investing Radar?",
         "news_group": -1
     },
     {
@@ -1034,7 +1124,7 @@ const articles = [
         "news_id": "dw_a71589236",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "En studie visar att den norra delen av Irak, s\u00e4rskilt kring Zagrosbergen, sjunker p\u00e5 grund av en oceanisk platta under jordens yta. Denna geologiska process \u00e4r extremt l\u00e5ngsam och tar miljontals \u00e5r, och \u00e4r kopplad till r\u00f6relsen av tektoniska plattor.",
+        "news_header": "Denna region i Irak sjunker ner i jorden (mycket l\u00e5ngsamt)",
         "news_epoch": 1739436300.0,
         "news_categories": [
             "science"
@@ -1058,7 +1148,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Grenade attack in French bar injures 12",
-        "news_group": 266
+        "news_group": 285
     },
     {
         "news_id": "bbc_c1jg4enkr3lo",
@@ -1148,7 +1238,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "T\u00e4m\u00e4n tied\u00e4mme Ukrainan rauhanneuvotteluiden alkamisesta \u2013 Trumpille tarjolla sek\u00e4 sankarin ett\u00e4 petturin rooli",
-        "news_group": 261
+        "news_group": 287
     },
     {
         "news_id": "dw_a71591784",
@@ -1178,7 +1268,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Liettuan ulkoministeri: Maa nostaa asemenonsa Trumpin vaatimalle tasolle",
-        "news_group": 261
+        "news_group": 282
     },
     {
         "news_id": "yle_7420143495",
@@ -1373,7 +1463,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Yle seuraa tulosp\u00e4iv\u00e4\u00e4: Outokummun liikevaihto laski, S-ryhm\u00e4n tulos kasvoi",
-        "news_group": 265
+        "news_group": 284
     },
     {
         "news_id": "arvopaperi_70bf4e261c33",
@@ -1436,21 +1526,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "arvopaperi_4043de2d66c0",
-        "news_source": "arvopaperi",
-        "news_source_lang": "fi",
-        "news_header": "Finnairs utdelningsf\u00f6rslag \u00f6vertr\u00e4ffade f\u00f6rv\u00e4ntningarna",
-        "news_epoch": 1739424300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.arvopaperi.fi/uutiset/ap/70705bf5-e64c-4d30-a285-3c3baf1cfa6e",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Finnairin osinkoehdotus ylitti odotukset",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420143452",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1463,7 +1538,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Finnair: Ty\u00f6markkinatilanne aiheuttaa ep\u00e4varmuutta",
-        "news_group": 265
+        "news_group": 284
     },
     {
         "news_id": "yle_7420143448",
@@ -1478,7 +1553,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Neste on entist\u00e4 pahemmassa kriisiss\u00e4: Sadoille tulossa potkut, osakekurssi sy\u00f6ksyss\u00e4",
-        "news_group": 265
+        "news_group": 284
     },
     {
         "news_id": "yle_7420143438",
@@ -1508,7 +1583,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "N. Korea destroys meeting place for war-separated families",
-        "news_group": 267
+        "news_group": 286
     },
     {
         "news_id": "yle_7420141363",
@@ -1553,7 +1628,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Etel\u00e4-Korean Yoon mahdollisesti virkasyytek\u00e4sittelyns\u00e4 viimeisess\u00e4 kuulemisessa",
-        "news_group": -1
+        "news_group": 279
     },
     {
         "news_id": "bbc_cj91d3jkpvlo",
@@ -1604,7 +1679,7 @@ const articles = [
         "news_id": "yle_7420143276",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Siltam\u00e4ki h\u00e4vdar att kompetensbristen i Finland inte kan l\u00f6sas genom att s\u00e4nka utbildningsstandarderna. Regeringen har inlett ett program f\u00f6r att utbilda nya l\u00e4kare, men det finns oro f\u00f6r den minskande kvaliteten p\u00e5 utbildningen och s\u00e4nkningen av examenskraven.",
+        "news_header": "Siltam\u00e4ki h\u00e4vdar att kompetensbristen i Finland inte kan l\u00f6sas genom att s\u00e4nka utbildningsstandarderna. Regeringen har inlett ett program f\u00f6r att utbilda nya l\u00e4kare, men utbildningsniv\u00e5n bland unga vuxna har sjunkit, och fokus b\u00f6r ligga p\u00e5 kvalitet snarare \u00e4n kvantitet.",
         "news_epoch": 1739414700.0,
         "news_categories": [
             "science"
@@ -1628,7 +1703,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Akateemikko uudesta lakihankkeesta: Olisi erikoista, ett\u00e4 demokratiassa lakiin kirjattaisiin, mit\u00e4 tutkimuksen pit\u00e4\u00e4 olla",
-        "news_group": -1
+        "news_group": 280
     },
     {
         "news_id": "yle_7420143267",
@@ -1643,7 +1718,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Animaatio n\u00e4ytt\u00e4\u00e4 pakotetankkerien rallin It\u00e4merell\u00e4 \u2013 seuraava askel sen kuriinsaamiseksi voi olla EU:lle vaikea",
-        "news_group": 263
+        "news_group": 281
     },
     {
         "news_id": "bbc_cvgmygm2n80o",
@@ -1688,7 +1763,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "France: Grenade thrown into Grenoble bar injures several",
-        "news_group": 266
+        "news_group": 285
     },
     {
         "news_id": "bbc_c07kljvv5mko",
@@ -1733,7 +1808,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Ranskan Grenoblessa baariin heitetty kranaatti r\u00e4j\u00e4hti \u2013 toistakymment\u00e4 haavoittui",
-        "news_group": 266
+        "news_group": 285
     },
     {
         "news_id": "yle_7420143411",
@@ -1778,7 +1853,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Confusion clouds efforts to save Gaza ceasefire",
-        "news_group": 264
+        "news_group": 283
     },
     {
         "news_id": "nasdaq_ac111c7ba8ac",
@@ -1794,6 +1869,21 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SHORT",
         "news_original_title": "Breaking Down the Current Earnings Outlook",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_7f616e6d2375",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Hegseth ber\u00e4ttar Nato Ukrainas medlemskap osannolikt eftersom Trump s\u00e4ger att Putin kommer att diskutera slutkriget",
+        "news_epoch": 1739397300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/hegseth-tells-nato-ukraine-membership-unlikely-as-trump-says-putin-will-discuss-ending-war",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Hegseth tells NATO Ukraine membership unlikely as Trump says Putin will discuss ending war",
         "news_group": -1
     },
     {
@@ -1813,6 +1903,36 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "pbs_371d043d49b8",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Experter analyserar konsekvenserna av USA:s policy\u00e4ndringar g\u00e4llande Ukraina f\u00f6r NATO, med insikter fr\u00e5n Evelyn Farkas och John Mearsheimer under betydande diplomatiska aktiviteter fr\u00e5n Trump-administrationen.",
+        "news_epoch": 1739397000.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/experts-examine-what-the-u-s-policy-shifts-on-ukraine-mean-for-nato",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Experts examine what the U.S. policy shifts on Ukraine mean for NATO",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_82f873bd436d",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "USA har frigett cyberbrottslingen Vinnik i en f\u00e5ngutbyte f\u00f6r Mark Fogel. President Trump f\u00f6resl\u00e5r att denna utbyte kan hj\u00e4lpa till att avsluta kriget i Ukraina. Dessutom st\u00e4mmer \u00e5tta statliga tillsynsmyndigheter Trump f\u00f6r deras pl\u00f6tsliga avskedanden, och Kennedy Centers nya styrelse har utsett Trump till ordf\u00f6rande och avskedat president Deborah Rutter.",
+        "news_epoch": 1739396700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/news-wrap-u-s-frees-cybercriminal-vinnik-in-russian-prisoner-swap-for-mark-fogel",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "News Wrap: U.S. frees cybercriminal Vinnik in Russian prisoner swap for Mark Fogel",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143409",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -1826,21 +1946,6 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Maakuntakeskuksista Helsinki verottaa keskituloisia kaikkein kevyimmin",
         "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143408",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Tyskland, Frankrike, Storbritannien, Polen, Italien, Spanien och Europeiska kommissionen uttryckte beredskap att st\u00f6dja Ukraina och betonade behovet av att Europa ska vara involverat i f\u00f6rhandlingarna om Ukrainas framtid.",
-        "news_epoch": 1739392800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143408",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Euroopan mailta lupaus yhteisty\u00f6st\u00e4 Yhdysvaltojen kanssa Ukrainan tulevaisuudesta \u2013 \u201dEurooppa osaksi neuvotteluja\u201d",
-        "news_group": 261
     },
     {
         "news_id": "bbc_cp3j0e79q52o",
@@ -1919,6 +2024,21 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "pbs_66b4bdd81a90",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "FN uppskattar att upp till 1 400 personer kan ha d\u00f6tt i Bangladesh under en nedslagning av protester f\u00f6rra sommaren.",
+        "news_epoch": 1739383320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/un-estimates-up-to-1400-killed-in-bangladesh-during-crackdown-on-protests-last-year",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "UN estimates up to 1,400 killed in Bangladesh during crackdown on protests last year",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_cg5y9ggqpqdo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1949,6 +2069,21 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "pbs_bf6b44a0c723",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Israels f\u00f6rsvarsminister varnar f\u00f6r att &#x27;allt helvete kommer att bryta ut&#x27; om Hamas inte sl\u00e4pper tre gisslan som planerat denna helg.",
+        "news_epoch": 1739380500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/israel-threatens-all-hell-will-break-loose-is-hamas-fails-to-free-hostages-as-planned",
+        "news_status": "public",
+        "news_type": "NewsType.SHORT",
+        "news_original_title": "Israel threatens &amp;#8216;all hell will break loose&amp;#8217; is Hamas fails to free hostages as planned",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c334kyl37jmo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -1961,7 +2096,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "&#x27;It&#x27;s a new reality&#x27; - US stance on Ukraine a bitter blow to Zelensky",
-        "news_group": 261
+        "news_group": 282
     },
     {
         "news_id": "bbc_cpvme8jw9dro",
@@ -2043,7 +2178,7 @@ const articles = [
         "news_id": "bbc_cx2jdnv0ywyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Arkeologer har uppt\u00e4ckt en betydande del av Londons f\u00f6rsta basilika, en 2 000 \u00e5r gammal romersk offentlig byggnad, under en kontorsbyggnad som ska rivas. Fyndet inkluderar sektioner av stenv\u00e4ggar och artefakter, vilket belyser Londons ursprung och dess historiska betydelse.",
+        "news_header": "B\u00f6rjan p\u00e5 Roman London uppt\u00e4cktes i kontorsk\u00e4llaren",
         "news_epoch": 1739376000.0,
         "news_categories": [
             "science"
@@ -2112,7 +2247,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Analyysi: T\u00e4m\u00e4 moka voi maksaa Nordnetille miljoonia",
-        "news_group": 268
+        "news_group": 288
     },
     {
         "news_id": "yle_7420141669",
@@ -2461,406 +2596,6 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_original_title": "Next ad banned as pose made model look too thin",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_0d813f3db160",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Forskare har unders\u00f6kt 500 \u00e5r gamla dokument fr\u00e5n 1500-talet i Transsylvanien f\u00f6r att f\u00f6rst\u00e5 hur Lilla istiden p\u00e5verkade regionen. Genom att analysera dagb\u00f6cker och dokument skrivna p\u00e5 olika spr\u00e5k fann de bevis p\u00e5 klimatf\u00f6rh\u00e5llanden som inkluderade v\u00e4rme, torka och efterf\u00f6ljande kraftigt regn. Resultaten tyder p\u00e5 att Lilla istiden kan ha f\u00f6rdr\u00f6jts i Transsylvanien j\u00e4mf\u00f6rt med V\u00e4steuropa och belyser hur klimatf\u00f6r\u00e4ndringar p\u00e5verkade m\u00e4nskligt lidande, inklusive hungersn\u00f6d och sjukdomar. Denna forskning \u00e4r avg\u00f6rande f\u00f6r att f\u00f6rst\u00e5 framtida effekter av klimatf\u00f6r\u00e4ndringar.",
-        "news_epoch": 1739329200.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/records-people-little-ice-age-weather",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Historical writings reveal how people weathered the Little Ice Age",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c0qwvppk0zzo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Experter s\u00f6ker s\u00e4llsynta brittiska p\u00e5skliljor som kan g\u00f6mma sig i tr\u00e4dg\u00e5rdar och parker. De har skapat en lista \u00f6ver f\u00f6rlorade sorter, inklusive &#x27;bonfire yellow&#x27; p\u00e5skliljan fr\u00e5n Sussex. Dessa blommor, viktiga f\u00f6r sin sk\u00f6nhet och potentiella medicinska anv\u00e4ndningar, riskerar att g\u00e5 f\u00f6rlorade. RHS ber allm\u00e4nheten om hj\u00e4lp med att lokalisera dessa p\u00e5skliljor, som har en rik historia och \u00e4r kopplade till lokala uppf\u00f6dare.",
-        "news_epoch": 1739317140.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0qwvppk0zzo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Hunt for rare daffodils that are feared lost",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cglyjn7le2ko",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Ett internationellt advokatbyr\u00e5, Hill Dickinson, har begr\u00e4nsat tillg\u00e5ngen till AI-verktyg efter att ha noterat en betydande \u00f6kning av anv\u00e4ndningen bland sin personal. Byr\u00e5n meddelade att mycket av denna anv\u00e4ndning inte var i enlighet med dess AI-policy. Fram\u00f6ver kommer tillg\u00e5ng till AI-verktyg endast att beviljas genom en beg\u00e4ran.",
-        "news_epoch": 1739311440.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cglyjn7le2ko",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Law firm restricts AI after &#x27;significant&#x27; staff use",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_90c0f1ea3e31",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Experter betonar det akuta behovet av \u00f6kad amerikansk produktion av kritiska mineraler och silver, och framh\u00e4ver vikten av regleringsst\u00f6d och skatteincitament. Under Vancouver Resource Investment Conference diskuterade Anthony Milewski den strategiska betydelsen av dessa mineraler f\u00f6r nationell s\u00e4kerhet och ekonomisk tillv\u00e4xt, och n\u00e4mnde Perpetua Resources framg\u00e5ng med att s\u00e4kra statlig finansiering.",
-        "news_epoch": 1739304000.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/perfect-timing-experts-urge-investors-get-serious-critical-minerals-and-silver",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Perfect Timing? Experts Urge Investors to Get Serious on Critical Minerals and Silver",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_2e83c942e53b",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "De tio st\u00f6rsta grafitproducerande l\u00e4nderna inkluderar Kina, Madagaskar, Mo\u00e7ambique, Brasilien, Indien, Tanzania, Kanada, Ryssland, Sydkorea och Nordkorea. Kina leder med 1,27 miljoner ton producerat 2024, vilket st\u00e5r f\u00f6r 78 % av det globala utbudet.",
-        "news_epoch": 1739303700.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/top-10-graphite-producing-countries",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Top 10 Graphite-producing Countries",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_c3304aaf4a34",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "5 Kanadensiska Potash Stocks",
-        "news_epoch": 1739303400.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/5-canadian-potash-stocks",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "5 Canadian Potash Stocks",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_9820bc8b1915",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Den 12 februari 2025 f\u00f6rv\u00e4ntas flera f\u00f6retag, inklusive CME, CVS, VRT, D, EXC, WAB, KHC, MLM, GOLD, WAT, BAM och QSR, rapportera sina vinster innan marknaden \u00f6ppnar.",
-        "news_epoch": 1739300400.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/pre-market-earnings-report-february-12-2025-cme-cvs-vrt-d-exc-wab-khc-mlm-gold-wat-bam-qsr",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Pre-Market Earnings Report for February 12, 2025 :  CME, CVS, VRT, D, EXC, WAB, KHC, MLM, GOLD, WAT, BAM, QSR",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71577508",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Bev\u00e4pnade militanta grupper i \u00f6stra Kongo d\u00f6dade \u00f6ver 50 civila i attacker, d\u00e4r CODECO-militanta var ansvariga. De satte eld p\u00e5 hus och attackerade med vapen och macheter, vilket ledde till m\u00e5nga skador och d\u00f6dsfall. D\u00f6dstalet f\u00f6rv\u00e4ntas stiga, och tidigare attacker mot l\u00e4ger f\u00f6r internflyktingar rapporterades ocks\u00e5.",
-        "news_epoch": 1739298240.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/dr-congo-militia-kill-dozens-of-villagers-in-ituri-province/a-71577508",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "DR Congo: Militia kill dozens of villagers in Ituri province",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_f9399d53dee1",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Vid mitten av \u00e5rhundradet kan m\u00e5nga regioner st\u00e5 inf\u00f6r extrema v\u00e4rmeh\u00e4ndelser som \u00e4r farliga f\u00f6r m\u00e4nniskors h\u00e4lsa om de globala temperaturerna stiger med 2 grader Celsius \u00f6ver f\u00f6rindustriella niv\u00e5er. Detta kan p\u00e5verka stora omr\u00e5den, s\u00e4rskilt i Sydasien, Sydamerika och delar av syd\u00f6stra USA, vilket g\u00f6r f\u00f6rh\u00e5llandena livshotande, s\u00e4rskilt f\u00f6r \u00e4ldre vuxna.",
-        "news_epoch": 1739296800.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/global-warming-temperature-extreme-heat",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Just a small rise in global temperatures could be deadly",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71577121",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Under de senaste tv\u00e5 decennierna har en global trend uppst\u00e5tt d\u00e4r USA innovativt leder inom teknik, Kina tar det ett steg l\u00e4ngre och Europa fokuserar p\u00e5 reglering. EU har inf\u00f6rt betydande regler f\u00f6r att hantera storf\u00f6retagens inflytande, inklusive lagar om skadligt onlineinneh\u00e5ll och lagstiftning f\u00f6r artificiell intelligens.",
-        "news_epoch": 1739296320.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/eu-vows-to-cut-red-tape-as-us-slams-bloc-s-tech-rules/a-71577121",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "EU vows to &#x27;cut red tape&#x27; as US slams bloc&#x27;s tech rules",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_0caad3de843d",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Den 11 februari 2025 f\u00f6rv\u00e4ntas flera f\u00f6retag, inklusive Gilead Sciences (GILD), Welltower (WELL) och Dash (DASH), rapportera sina vinster efter arbetstid. Gilead Sciences kommer att rapportera f\u00f6r kvartalet som slutar den 31 december 2024.",
-        "news_epoch": 1739293200.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/after-hours-earnings-report-february-11-2025-gild-well-dash-et-aig-ew-smci-es-z-wpc-aiz",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "After-Hours Earnings Report for February 11, 2025 :  GILD, WELL, DASH, ET, AIG, EW, SMCI, ES, Z, WPC, AIZ, EXEL",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71574415",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Mark\u00e4gande \u00e4r en kontroversiell fr\u00e5ga i Sydafrika, d\u00e4r de flesta jordbruksmarker fortfarande \u00e4gs av vita m\u00e4nniskor tre decennier efter apartheidens slut. Det Demokratiska Alliansen har inlett en r\u00e4ttslig process f\u00f6r att ogiltigf\u00f6rklara de nya jordreformlagarna, och h\u00e4vdar att de bryter mot den sydafrikanska konstitutionen.",
-        "news_epoch": 1739291820.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/listicle-the-aftermath-of-south-africa-s-land-reforms/a-71574415",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Listicle: The aftermath of South Africa&#x27;s land reforms",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71575417",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "N\u00e4r NATOs f\u00f6rsvarsministrar m\u00f6ts kommer europeiska allierade f\u00f6r f\u00f6rsta g\u00e5ngen att tr\u00e4ffa den nya amerikanska f\u00f6rsvarsministern Pete Hegseth. Det finns en v\u00e4xande enighet om att \u00f6ka f\u00f6rsvarsutgifterna \u00f6ver 2%, men specifika procentsatser kommer troligen att diskuteras vid Natos toppm\u00f6te i juni. Hegseths skepticism mot NATO utg\u00f6r en utmaning, eftersom han tidigare har f\u00f6reslagit att alliansen \u00e4r f\u00f6r\u00e5ldrad.",
-        "news_epoch": 1739291400.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/how-will-europe-deal-with-us-defense-secretary-pete-hegseth/a-71575417",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "How will Europe deal with US Defense Secretary Pete Hegseth?",
-        "news_group": 261
-    },
-    {
-        "news_id": "dw_a71574068",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "De senaste diskussionerna om framtiden f\u00f6r palestinierna fr\u00e5n Gaza har intensifierats efter ett m\u00f6te mellan USA:s president Trump och Israels premi\u00e4rminister Netanyahu. Trump f\u00f6reslog att palestinier skulle flyttas till grannl\u00e4nder som Egypten och Jordanien, vilket juridiska experter h\u00e4vdar bryter mot internationell lag.",
-        "news_epoch": 1739290380.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/saudi-arabia-israel-are-trump-s-mideast-ideas-derailing-normalization-plans/a-71574068",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Saudi Arabia-Israel: Are Trump&#x27;s Mideast ideas derailing normalization plans?",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_7080d1f0f664",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "En nyligen studie visar att sm\u00e5 \u00f6ronmuskler, som m\u00e4nniskor kan r\u00f6ra, aktiveras n\u00e4r de f\u00f6rs\u00f6ker h\u00f6ra i sv\u00e5ra f\u00f6rh\u00e5llanden. \u00c4ven om dessa muskler kanske inte f\u00f6rb\u00e4ttrar h\u00f6rseln, kan deras aktivitet indikera en persons lyssningsinsats, vilket potentiellt kan hj\u00e4lpa h\u00f6rselteknologin. Forskningen belyser variationen i \u00f6ronmuskelstorlek och unika f\u00f6rm\u00e5gor hos individer att kontrollera sina \u00f6ronr\u00f6relser.",
-        "news_epoch": 1739289600.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/wiggling-ears-hearing",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Wiggling ears may have once helped us hear",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_604e1ac0f073",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Tre aff\u00e4rstj\u00e4nstf\u00f6retag, Block (XYZ), Coinbase (COIN) och V2X (VVX), f\u00f6rv\u00e4ntas \u00f6vertr\u00e4ffa vinstprognoserna under det fj\u00e4rde kvartalet.",
-        "news_epoch": 1739287320.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-service-firms-poised-beat-estimates-q4-earnings",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "3 Service Firms Poised to Beat Estimates in Q4 Earnings",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cpdx75zgg88o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "OpenAIs VD Sam Altman meddelade att f\u00f6retaget &#x27;inte \u00e4r till salu&#x27; efter ett uppk\u00f6pserbjudande p\u00e5 97,4 miljarder dollar fr\u00e5n en konsortie ledd av Elon Musk. Altman betonade OpenAIs uppdrag att utveckla AGI f\u00f6r m\u00e4nsklighetens b\u00e4sta. Musks advokat bekr\u00e4ftade erbjudandet, medan Altman uttryckte skepticism kring Musks motiv, med h\u00e4nvisning till konkurrens mellan deras f\u00f6retag.",
-        "news_epoch": 1739286780.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cpdx75zgg88o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "&#x27;We are not for sale,&#x27; ChatGPT boss says after Musk bid",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c391ml9x878o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "USA:s president Donald Trump har stoppat verkst\u00e4llandet av en korruptionslag som m\u00f6jligg\u00f6r \u00e5tal av amerikaner som anklagas f\u00f6r att muta utl\u00e4ndska tj\u00e4nstem\u00e4n.",
-        "news_epoch": 1739286120.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c391ml9x878o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Trump halts prosecution of firms accused of bribery abroad",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cqx97xynejzo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Den brittiska regeringen har beslutat att inte omedelbart svara p\u00e5 USA:s f\u00f6rnyelse av tullarna p\u00e5 st\u00e5l och aluminium, utan v\u00e4ljer en m\u00e5ttlig reaktion. Handelsminister Douglas Alexander betonade behovet av en lugn strategi, trots branschens krav p\u00e5 starkare \u00e5tg\u00e4rder. Tullarna, som tr\u00e4der i kraft den 12 mars, inneb\u00e4r en importskatt p\u00e5 25 % p\u00e5 st\u00e5l och aluminium som kommer in i USA, vilket kan p\u00e5verka brittisk export och leda till potentiell dumpning av st\u00e5l p\u00e5 den brittiska marknaden.",
-        "news_epoch": 1739284980.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cqx97xynejzo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "UK not planning to hit back at US on steel tariffs",
-        "news_group": 262
-    },
-    {
-        "news_id": "dw_a71577038",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "En kollision mellan ett l\u00e5ngdistans t\u00e5g och en lastbil i en f\u00f6rort till Hamburg resulterade i \u00f6ver 12 skador, varav en person senare dog av allvarliga skador. T\u00e5get hade \u00f6ver 250 passagerare, som alla var oskadda. Orsaken till olyckan \u00e4r fortfarande oklar.",
-        "news_epoch": 1739284980.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/germany-train-collides-with-truck-in-hamburg-killing-1/a-71577038",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Germany: Train collides with truck in Hamburg, killing 1",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_ee2179773a7c",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "President Trump har \u00e5terigen tagit upp id\u00e9n om att Kanada skulle bli den 51:a delstaten, kopplad till Kanadas naturresurser. Han tillk\u00e4nnagav 25 % tullar p\u00e5 st\u00e5l- och aluminiumimport, inklusive fr\u00e5n Kanada, med h\u00e4nvisning till kostnader f\u00f6r milit\u00e4rt skydd.",
-        "news_epoch": 1739284200.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/trump-doubles-down-51st-state-talk-enacts-tariffs-steel-and-aluminum",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Trump Doubles Down on &amp;quot;51st State&amp;quot; Talk, Enacts Tariffs on Steel and Aluminum",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_4fb1013a3bce",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "BC:s regering p\u00e5skyndar 18 gruvprojekt v\u00e4rda 20 miljarder kanadensiska dollar f\u00f6r att minska beroendet av amerikansk handel i takt med \u00f6kande sp\u00e4nningar. Dessa projekt f\u00f6rv\u00e4ntas skapa 8 000 jobb och gynna resursberoende samh\u00e4llen.",
-        "news_epoch": 1739283900.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/bc-moves-expedite-18-mining-projects-us-trade-tensions-rise",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "BC Moves to Expedite 18 Mining Projects as US Trade Tensions Rise",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c0m17d8827ko",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Enligt en studie fr\u00e5n BBC sammanfattade fyra stora AI-chatbots, inklusive OpenAI:s ChatGPT och Googles Gemini, nyhetsartiklar felaktigt, med betydande felaktigheter och faktiska misstag. BBC:s Deborah Turness framh\u00f6ll den potentiella verkliga skadan fr\u00e5n AI:s f\u00f6rvr\u00e4ngningar och uppmanade teknikf\u00f6retag att samarbeta med utgivare f\u00f6r att f\u00f6rb\u00e4ttra noggrannheten.",
-        "news_epoch": 1739283600.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c0m17d8827ko",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "AI chatbots unable to accurately summarise news, BBC finds",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_31b1c0e08376",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Horizon Minerals och Poseidon Nickel har f\u00e5tt slutgiltigt domstolsbeslut f\u00f6r sin sammanslagning, som nu \u00e4r lagligt giltig. Sammanslagningen tillk\u00e4nnagavs i oktober 2024 och kommer att se Horizon-aktie\u00e4gare \u00e4ga 69,8% av den nya enheten.",
-        "news_epoch": 1739283600.0,
-        "news_categories": [
-            "business",
-            "commodities"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/horizon-minerals-poseidon-get-final-court-approval-merger",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "Horizon Minerals, Poseidon Get Final Court Approval for Merger",
-        "news_group": -1
-    },
-    {
-        "news_id": "nasdaq_768f691b6dd8",
-        "news_source": "nasdaq",
-        "news_source_lang": "en",
-        "news_header": "Tre chipaktier handlas f\u00f6r n\u00e4rvarande minst 50 % under sina 52 veckors h\u00f6gsta, vilket belyser halvledarindustrins v\u00e4xande betydelse, s\u00e4rskilt p\u00e5 grund av den \u00f6kande anv\u00e4ndningen av artificiell intelligens.",
-        "news_epoch": 1739283180.0,
-        "news_categories": [
-            "business",
-            "earnings"
-        ],
-        "news_url": "https://www.nasdaq.com/articles/3-chip-stocks-still-trading-50-below-their-52-week-highs",
-        "news_status": "public",
-        "news_type": "NewsType.SHORT",
-        "news_original_title": "3 Chip Stocks Still Trading 50% Below Their 52-Week Highs",
-        "news_group": -1
-    },
-    {
-        "news_id": "sn_4535c226502f",
-        "news_source": "sn",
-        "news_source_lang": "en",
-        "news_header": "Nya terapier f\u00f6r mental h\u00e4lsa fokuserar p\u00e5 att hantera repetitivt negativt t\u00e4nkande, vilket \u00e4r vanligt vid olika psykiska st\u00f6rningar. Kliniker uppmanas att rikta in sig p\u00e5 dessa tankem\u00f6nster direkt, oavsett formella diagnoser. Forskning tyder p\u00e5 att behandling av dessa m\u00f6nster kan hj\u00e4lpa till att f\u00f6rebygga allvarligare psykiska problem.",
-        "news_epoch": 1739282400.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.sciencenews.org/article/negative-thoughts-anxiety-depression",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Breaking negative thought\u00a0patterns\u00a0could ward off anxiety, depression",
         "news_group": -1
     }
 ];
