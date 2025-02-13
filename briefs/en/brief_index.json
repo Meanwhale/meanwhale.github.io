@@ -12,6 +12,7 @@
         "news_url": "https://www.nasdaq.com/articles/aeo-april-4th-options-begin-trading",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "AEO April 4th Options Begin Trading",
         "news_group": -1
     },
@@ -28,6 +29,7 @@
         "news_url": "https://www.nasdaq.com/articles/geo-april-4th-options-begin-trading",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "GEO April 4th Options Begin Trading",
         "news_group": -1
     },
@@ -44,6 +46,7 @@
         "news_url": "https://www.nasdaq.com/articles/interesting-hli-put-and-call-options-september-19th",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Interesting HLI Put And Call Options For September 19th",
         "news_group": -1
     },
@@ -60,6 +63,7 @@
         "news_url": "https://www.nasdaq.com/articles/thursday-2-13-insider-buying-report-mth-magn",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Thursday 2/13 Insider Buying Report: MTH, MAGN",
         "news_group": -1
     },
@@ -76,6 +80,7 @@
         "news_url": "https://www.nasdaq.com/articles/interesting-knf-put-and-call-options-march-21st",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Interesting KNF Put And Call Options For March 21st",
         "news_group": -1
     },
@@ -92,6 +97,7 @@
         "news_url": "https://www.nasdaq.com/articles/international-paper-announces-closure-4-us-facilities-impact-674-jobs",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "International Paper Announces Closure Of 4 US Facilities; To Impact 674 Jobs",
         "news_group": -1
     },
@@ -108,6 +114,7 @@
         "news_url": "https://www.nasdaq.com/articles/add-pieces-vbk-could-be-worth-335",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Add Up The Pieces: VBK Could Be Worth $335",
         "news_group": -1
     },
@@ -124,6 +131,7 @@
         "news_url": "https://www.nasdaq.com/articles/analysts-expect-mgc-will-reach-248",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Analysts Expect MGC Will Reach $248",
         "news_group": -1
     },
@@ -140,6 +148,7 @@
         "news_url": "https://www.nasdaq.com/articles/nasdaq-100-movers-ttd-app",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Nasdaq 100 Movers: TTD, APP",
         "news_group": -1
     },
@@ -156,6 +165,7 @@
         "news_url": "https://www.nasdaq.com/articles/sp-500-movers-wst-mgm",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "S&amp;P 500 Movers: WST, MGM",
         "news_group": -1
     },
@@ -172,6 +182,7 @@
         "news_url": "https://www.nasdaq.com/articles/analysts-forecast-15-gains-ahead-ijk",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Analysts Forecast 15% Gains Ahead For IJK",
         "news_group": -1
     },
@@ -188,6 +199,7 @@
         "news_url": "https://www.nasdaq.com/articles/see-which-latest-13f-filers-holds-marvell-technology",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "See Which Of The Latest 13F Filers Holds Marvell Technology",
         "news_group": -1
     },
@@ -204,6 +216,7 @@
         "news_url": "https://www.nasdaq.com/articles/dow-movers-msft-csco",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Dow Movers: MSFT, CSCO",
         "news_group": -1
     },
@@ -219,6 +232,7 @@
         "news_url": "https://yle.fi/a/74-20143538",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Analyysi: Ukrainan pahimmat pelot alkavat toteutua, kun Trump paljasti korttinsa",
         "news_group": 287
     },
@@ -235,6 +249,7 @@
         "news_url": "https://www.nasdaq.com/articles/how-pieces-add-bgdv-headed-28",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "How The Pieces Add Up: BGDV Headed For $28",
         "news_group": -1
     },
@@ -251,6 +266,7 @@
         "news_url": "https://www.nasdaq.com/articles/see-which-latest-13f-filers-holds-procter-gamble-4",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "See Which Of The Latest 13F Filers Holds Procter &amp; Gamble",
         "news_group": -1
     },
@@ -266,6 +282,7 @@
         "news_url": "https://yle.fi/a/74-20143626",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Etel\u00e4-Korean Yoonin virkasyytek\u00e4sittely jatkuu \u2013 uusi kuuleminen ensi viikolla",
         "news_group": 279
     },
@@ -281,6 +298,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/587459de-00f0-46f0-96c8-ee0a6ee2c0f9",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Wall Street punnertaa nousussa kauppaj\u00e4nnitteiden ja inflaatiotilastojen keskell\u00e4",
         "news_group": -1
     },
@@ -296,6 +314,7 @@
         "news_url": "https://www.bbc.com/news/articles/c0e43dqv271o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Some mortgage rates cut below 4% as competition picks up",
         "news_group": -1
     },
@@ -312,6 +331,7 @@
         "news_url": "https://www.nasdaq.com/articles/first-american-financial-q4-24-earnings-conference-call-11-00-am-et",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "First American Financial Q4 24 Earnings Conference Call At 11:00 AM ET",
         "news_group": -1
     },
@@ -328,6 +348,7 @@
         "news_url": "https://www.nasdaq.com/articles/palatin-technologies-q2-25-earnings-conference-call-11-00-am-et",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Palatin Technologies Q2 25 Earnings Conference Call At 11:00 AM ET",
         "news_group": -1
     },
@@ -344,6 +365,7 @@
         "news_url": "https://www.nasdaq.com/articles/granite-construction-q4-24-earnings-conference-call-11-00-am-et",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Granite Construction Q4 24 Earnings Conference Call At 11:00 AM ET",
         "news_group": -1
     },
@@ -360,6 +382,7 @@
         "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-nue-benjamin-graham-9",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Guru Fundamental Report for NUE - Benjamin Graham",
         "news_group": -1
     },
@@ -376,6 +399,7 @@
         "news_url": "https://www.nasdaq.com/articles/guru-fundamental-report-jci-1",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Guru Fundamental Report for JCI",
         "news_group": -1
     },
@@ -391,6 +415,7 @@
         "news_url": "https://yle.fi/a/74-20143624",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Ministeri\u00f6 on muokkaamassa pyk\u00e4l\u00e4\u00e4, joka her\u00e4tti akateemikoissa huolta tieteen vapaudesta",
         "news_group": 280
     },
@@ -406,6 +431,7 @@
         "news_url": "https://www.bbc.com/news/articles/c77r05nx11po",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Questions raised over Rachel Reeves&#x27;s CV and expenses",
         "news_group": -1
     },
@@ -421,6 +447,7 @@
         "news_url": "https://yle.fi/a/74-20143618",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Israel uhkaa lopettaa aselevon, jollei Hamas luovuta kolmea elossa olevaa panttivankia",
         "news_group": -1
     },
@@ -436,6 +463,7 @@
         "news_url": "https://www.dw.com/en/nepal-s-social-media-bill-raises-free-speech-concerns/a-71595277",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Nepal&#x27;s social media bill raises free speech concerns",
         "news_group": -1
     },
@@ -451,6 +479,7 @@
         "news_url": "https://www.dw.com/en/can-china-come-out-on-top-in-a-us-trade-war/a-71595629",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Can China come out on top in a US trade war?",
         "news_group": -1
     },
@@ -466,6 +495,7 @@
         "news_url": "https://yle.fi/a/74-20143500",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Nordnetin 1 500 asiakkaan tiedot n\u00e4kyiv\u00e4t muille \u2013 suomalaisia joukossa 500",
         "news_group": 288
     },
@@ -482,6 +512,7 @@
         "news_url": "https://www.nasdaq.com/articles/iron-mountain-irm-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Iron Mountain (IRM) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
@@ -498,6 +529,7 @@
         "news_url": "https://www.nasdaq.com/articles/onity-onit-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Onity (ONIT) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
@@ -514,6 +546,7 @@
         "news_url": "https://www.nasdaq.com/articles/aep-aep-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "AEP (AEP) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
@@ -530,6 +563,7 @@
         "news_url": "https://www.nasdaq.com/articles/walker-dunlop-wd-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Walker &amp; Dunlop (WD) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
@@ -546,6 +580,7 @@
         "news_url": "https://www.nasdaq.com/articles/ge-healthcare-gehc-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "GE HealthCare (GEHC) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
@@ -562,6 +597,7 @@
         "news_url": "https://www.nasdaq.com/articles/molson-coors-tap-q4-earnings-how-key-metrics-compare-wall-street-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Molson Coors (TAP) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
         "news_group": -1
     },
@@ -578,6 +614,7 @@
         "news_url": "https://www.nasdaq.com/articles/pagaya-technologies-ltd-pgy-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Pagaya Technologies Ltd. (PGY) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
@@ -594,6 +631,7 @@
         "news_url": "https://www.nasdaq.com/articles/moodys-mco-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Moody&#x27;s (MCO) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
@@ -610,6 +648,7 @@
         "news_url": "https://www.nasdaq.com/articles/sally-beauty-sbh-reports-q1-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Sally Beauty (SBH) Reports Q1 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
@@ -626,6 +665,7 @@
         "news_url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-pbf-energy-pbf-q4-earnings",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Here&#x27;s What Key Metrics Tell Us About PBF Energy (PBF) Q4 Earnings",
         "news_group": -1
     },
@@ -642,6 +682,7 @@
         "news_url": "https://www.nasdaq.com/articles/global-payments-gpn-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Global Payments (GPN) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
@@ -658,6 +699,7 @@
         "news_url": "https://www.nasdaq.com/articles/dominion-energy-d-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Dominion Energy (D) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
@@ -674,6 +716,7 @@
         "news_url": "https://www.nasdaq.com/articles/howmet-hwm-q4-earnings-taking-look-key-metrics-versus-estimates",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Howmet (HWM) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
         "news_group": -1
     },
@@ -690,6 +733,7 @@
         "news_url": "https://www.nasdaq.com/articles/zoetis-zts-reports-q4-earnings-what-key-metrics-have-say",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Zoetis (ZTS) Reports Q4 Earnings: What Key Metrics Have to Say",
         "news_group": -1
     },
@@ -706,6 +750,7 @@
         "news_url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-cyberark-cybr-q4-earnings",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Here&#x27;s What Key Metrics Tell Us About CyberArk (CYBR) Q4 Earnings",
         "news_group": -1
     },
@@ -722,6 +767,7 @@
         "news_url": "https://www.nasdaq.com/articles/countdown-international-flavors-iff-q4-earnings-look-estimates-beyond-revenue-and-eps",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Countdown to International Flavors (IFF) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS",
         "news_group": -1
     },
@@ -738,6 +784,7 @@
         "news_url": "https://www.nasdaq.com/articles/what-analyst-projections-key-metrics-reveal-about-cf-cf-q4-earnings",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "What Analyst Projections for Key Metrics Reveal About CF (CF) Q4 Earnings",
         "news_group": -1
     },
@@ -754,6 +801,7 @@
         "news_url": "https://www.nasdaq.com/articles/gear-genuine-parts-gpc-q4-earnings-wall-street-estimates-key-metrics",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Gear Up for Genuine Parts (GPC) Q4 Earnings: Wall Street Estimates for Key Metrics",
         "news_group": -1
     },
@@ -770,6 +818,7 @@
         "news_url": "https://www.nasdaq.com/articles/seeking-clues-jones-lang-lasalle-jll-q4-earnings-peek-wall-street-projections-key-metrics",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Seeking Clues to Jones Lang LaSalle (JLL) Q4 Earnings? A Peek Into Wall Street Projections for Key Metrics",
         "news_group": -1
     },
@@ -786,6 +835,7 @@
         "news_url": "https://www.nasdaq.com/articles/countdown-costar-csgp-q4-earnings-wall-street-forecasts-key-metrics",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Countdown to CoStar (CSGP) Q4 Earnings: Wall Street Forecasts for Key Metrics",
         "news_group": -1
     },
@@ -801,6 +851,7 @@
         "news_url": "https://www.bbc.com/news/articles/crlky380wd7o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Google Maps blocks Gulf of America reviews after rename criticism",
         "news_group": -1
     },
@@ -816,6 +867,7 @@
         "news_url": "https://www.sciencenews.org/article/norovirus-vomiting-diarrhea-vaccine",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Why a norovirus vaccine isn\u2019t available \u2014 yet",
         "news_group": -1
     },
@@ -831,6 +883,7 @@
         "news_url": "https://www.bbc.com/news/articles/c203r3erp80o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "UK signals it will seek US steel tariff exemption",
         "news_group": -1
     },
@@ -846,6 +899,7 @@
         "news_url": "https://www.dw.com/en/why-ghana-faces-a-growing-jihadist-threat/a-71590013",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Why Ghana faces a growing jihadist threat",
         "news_group": -1
     },
@@ -861,6 +915,7 @@
         "news_url": "https://yle.fi/a/74-20143503",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "N\u00e4in raaka on Trumpin rauha: alueluovutuksia, ei Nato-joukkoja, ei taetta pysyv\u00e4st\u00e4 rauhasta",
         "news_group": 287
     },
@@ -876,6 +931,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/4443dc71-62d3-4303-bf56-51d8f4b3a3e4",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Tietoevrylle povataan tuloslaskua \u2013 kuuluuko liiketoiminnan myymisest\u00e4 uutisia?",
         "news_group": -1
     },
@@ -891,6 +947,7 @@
         "news_url": "https://www.bbc.com/news/articles/c3vpqr6511yo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Hamas says it will continue releasing Israeli hostages under Gaza deal",
         "news_group": 283
     },
@@ -906,6 +963,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/31666766-48f6-46fa-b3db-da202111bd84",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Helsingin p\u00f6rssin isoimmista yhti\u00f6ist\u00e4 Neste ja Qt Group kokivat rajuimmat liikkeet tulosruuhkassa",
         "news_group": -1
     },
@@ -922,6 +980,7 @@
         "news_url": "https://www.nasdaq.com/articles/sp-metals-mining-index-component-has-18-yield-and-sells-less-book",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "This S&amp;P Metals &amp; Mining Index Component Has A 1.8% Yield And Sells For Less Than Book",
         "news_group": -1
     },
@@ -937,6 +996,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/4a9c9110-d306-489c-b4bb-46be9f56fd10",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "",
         "news_group": -1
     },
@@ -952,6 +1012,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/5c8ff9ee-8155-4b7a-a6bb-2d9ef64a851d",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Excel Compositesin tuloksen odotetaan kohentuneen vaisusta vertailukaudesta",
         "news_group": -1
     },
@@ -967,6 +1028,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/ba526100-69dc-4689-a92c-fe738d8a7fb3",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Wulff ostaa enemmist\u00f6n Convidosta \u2013 Kauppahinta vajaa miljoona euroa",
         "news_group": -1
     },
@@ -982,6 +1044,7 @@
         "news_url": "https://www.bbc.com/news/articles/cx2k1321nedo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Honda-Nissan multi-billion dollar merger collapses",
         "news_group": -1
     },
@@ -997,6 +1060,7 @@
         "news_url": "https://www.dw.com/en/why-europe-s-southern-periphery-props-up-eurozone-growth/a-71530790",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Why Europe&#x27;s southern periphery props up eurozone growth",
         "news_group": -1
     },
@@ -1012,6 +1076,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/8ba35bcc-1706-4553-a76a-996a459db11e",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Huhtam\u00e4elt\u00e4 odotetaan hitaita liikkeit\u00e4 kohti parempaa",
         "news_group": -1
     },
@@ -1027,6 +1092,7 @@
         "news_url": "https://yle.fi/a/74-20143552",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Egyptin media: Gazan tulitauko\u00adsopimuksen toteuttaminen jatkuu",
         "news_group": -1
     },
@@ -1042,23 +1108,9 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/f0d60cc9-84c9-4f43-ac5c-d295b8c17846",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Neste tarvitsee uuden tarinan \u2013 Heikki Malinen k\u00e4ytti samaa resepti\u00e4 Outokummussa",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_c04n622gzx7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739438700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c04n622gzx7o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Ukraine war talks start now, Trump says after Putin call",
-        "news_group": 282
     },
     {
         "news_id": "arvopaperi_a9071e0f84ed",
@@ -1072,6 +1124,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/99c388de-c130-40e5-a1eb-8d23b4da933e",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Nesteen osake jatkaa p\u00f6rssiluisua \u2013 T\u00e4m\u00e4 oli analyytikon mielest\u00e4 suurin yll\u00e4tys",
         "news_group": -1
     },
@@ -1087,6 +1140,7 @@
         "news_url": "https://yle.fi/a/74-20143548",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "El\u00e4keyhti\u00f6 Ilmarisen sijoitukset tuottivat 8,6 prosenttia",
         "news_group": -1
     },
@@ -1102,6 +1156,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/26fd0614-eb69-4a12-83cd-92be1f0bc2b9",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Asuntosalkku k\u00e4ynnist\u00e4\u00e4 omien osakkeiden osto-ohjelman",
         "news_group": -1
     },
@@ -1117,6 +1172,7 @@
         "news_url": "https://www.bbc.com/news/articles/cqldw5y4y0no",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Unofficial TikTok downloads surge in the US",
         "news_group": -1
     },
@@ -1132,6 +1188,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/103d0dfd-e195-4f4d-b1ec-1941458a9c53",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Witted Megacorpin liikevaihto laski tammikuussa",
         "news_group": -1
     },
@@ -1147,6 +1204,7 @@
         "news_url": "https://www.dw.com/en/this-iraq-region-is-sinking-into-the-earth-very-slowly/a-71589236",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "This Iraq region is sinking into the Earth (very slowly)",
         "news_group": -1
     },
@@ -1162,6 +1220,7 @@
         "news_url": "https://www.bbc.com/news/articles/c20g37rrjy1o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Grenade attack in French bar injures 12",
         "news_group": 285
     },
@@ -1177,6 +1236,7 @@
         "news_url": "https://www.bbc.com/news/articles/c1jg4enkr3lo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Surprise growth in UK economy at end of 2024",
         "news_group": -1
     },
@@ -1192,6 +1252,7 @@
         "news_url": "https://www.dw.com/en/romania-drc-who-is-mercenary-leader-horatiu-potra/a-71590938",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Romania, DRC: Who is mercenary leader Horatiu Potra?",
         "news_group": -1
     },
@@ -1207,6 +1268,7 @@
         "news_url": "https://www.bbc.com/news/articles/cdry741vgzno",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "\u20ac5m worth of cocaine seized in Kildare",
         "news_group": -1
     },
@@ -1222,6 +1284,7 @@
         "news_url": "https://yle.fi/a/74-20143523",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Ainakin 28 on loukkaantunut M\u00fcnchenin autoiskussa \u2013 Scholz: ep\u00e4illyn l\u00e4hdett\u00e4v\u00e4 maasta",
         "news_group": -1
     },
@@ -1237,23 +1300,9 @@
         "news_url": "https://yle.fi/a/74-20143520",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Keva teki sijoituksillaan 10,4 prosentin tuoton",
         "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143487",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739432580.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143487",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Analyysi: \u201dPlaneetan paras neuvottelija\u201d ajaa Natoa umpikujaan",
-        "news_group": 287
     },
     {
         "news_id": "yle_7420143461",
@@ -1267,6 +1316,7 @@
         "news_url": "https://yle.fi/a/74-20143461",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "T\u00e4m\u00e4n tied\u00e4mme Ukrainan rauhanneuvotteluiden alkamisesta \u2013 Trumpille tarjolla sek\u00e4 sankarin ett\u00e4 petturin rooli",
         "news_group": 287
     },
@@ -1282,6 +1332,7 @@
         "news_url": "https://www.dw.com/en/afghanistan-apparent-suicide-blast-targets-ministry-complex/a-71591784",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Afghanistan: Apparent suicide blast targets ministry complex",
         "news_group": -1
     },
@@ -1297,6 +1348,7 @@
         "news_url": "https://yle.fi/a/74-20143354",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Liettuan ulkoministeri: Maa nostaa asemenonsa Trumpin vaatimalle tasolle",
         "news_group": 282
     },
@@ -1312,6 +1364,7 @@
         "news_url": "https://yle.fi/a/74-20143495",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Metso paransi tilauskantaansa, mutta liikevaihto laski",
         "news_group": -1
     },
@@ -1327,6 +1380,7 @@
         "news_url": "https://yle.fi/a/74-20141509",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Analyysi: Modi lepyttelee Trumpia my\u00f6nnytyksill\u00e4, jottei Intia joutuisi kauppasodan kohteeksi",
         "news_group": -1
     },
@@ -1342,6 +1396,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/6eb4511c-abce-48d9-873b-bfe5511b6511",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Siemens ja Nestle nousevat tulosjulkistusten j\u00e4lkeen \u2013 Euroopan p\u00f6rsseiss\u00e4 nousuavaus",
         "news_group": -1
     },
@@ -1357,6 +1412,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/955ceea7-60df-48b9-8930-0f32a81e3cf6",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Partneran liikevaihto ja tulos laskussa",
         "news_group": -1
     },
@@ -1372,6 +1428,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/5f352ae6-0460-433a-9b07-794cac30ebff",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Neste luisuu, Qt, Finnair ja Mandatum kiit\u00e4v\u00e4t tuloskauden superp\u00e4iv\u00e4n nousuavauksessa",
         "news_group": -1
     },
@@ -1387,6 +1444,7 @@
         "news_url": "https://yle.fi/a/74-20143483",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Nesteen tarkastus\u00advaliokunnan puheenjohtaja eroaa yhti\u00f6n hallituksesta",
         "news_group": -1
     },
@@ -1402,6 +1460,7 @@
         "news_url": "https://yle.fi/a/74-20143476",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Neuvottelul\u00e4hteet: Gazan aselepo saattaa sittenkin pit\u00e4\u00e4, neuvotteluissa edistyst\u00e4",
         "news_group": -1
     },
@@ -1417,6 +1476,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/b290947e-d9be-4adb-8703-72d0dbb63fee",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Endominesin tulos ponnisti voitolle \u2013 Kullantuotanto kasvamassa t\u00e4n\u00e4 vuonna",
         "news_group": -1
     },
@@ -1432,6 +1492,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/5174be17-a9a9-42ea-8f9a-9d50cfe8d482",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Nesteen hallituksessa muutoksia",
         "news_group": -1
     },
@@ -1447,6 +1508,7 @@
         "news_url": "https://yle.fi/a/74-20143475",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "S-ryhm\u00e4n liiketulos kasvoi reippaasti",
         "news_group": -1
     },
@@ -1462,6 +1524,7 @@
         "news_url": "https://www.dw.com/en/commerzbank-plans-job-cuts-new-goals-to-fend-off-unicredit/a-71579645",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Commerzbank plans job cuts, new goals to fend off UniCredit",
         "news_group": -1
     },
@@ -1477,6 +1540,7 @@
         "news_url": "https://yle.fi/a/74-20143465",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Outokummun liikevaihto laski",
         "news_group": -1
     },
@@ -1492,6 +1556,7 @@
         "news_url": "https://yle.fi/a/74-20143463",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Yle seuraa tulosp\u00e4iv\u00e4\u00e4: Outokummun liikevaihto laski, S-ryhm\u00e4n tulos kasvoi",
         "news_group": 284
     },
@@ -1507,6 +1572,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/1a33db2a-b533-4702-b811-c75d7d440ad7",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "United Bankers ohjeistaa selv\u00e4\u00e4 liikevoiton laskua \u2013 Osinkoon muhkea korotus",
         "news_group": -1
     },
@@ -1522,6 +1588,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/86f35a7e-f249-4b6c-9ec3-c1c145302043",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Relaisilla odotettua vahvempi nelj\u00e4nnes: Liikevaihto ja tulos kasvoivat ennusteita enemm\u00e4n",
         "news_group": -1
     },
@@ -1537,6 +1604,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/cd3d7335-c898-4d5a-8b0e-89ddaeface72",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Optomedin saama iso tilaus kasvatti loppuvuoden liikevaihtoa \u2013\u2009ohjelmistojen myynniss\u00e4 haasteita",
         "news_group": -1
     },
@@ -1552,6 +1620,7 @@
         "news_url": "https://www.arvopaperi.fi/uutiset/ap/f1a886fc-859a-48fc-9ba9-c6ea64da8048",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Harvian tulos niiasi, mutta osinko nousee",
         "news_group": -1
     },
@@ -1567,6 +1636,7 @@
         "news_url": "https://yle.fi/a/74-20143452",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Finnair: Ty\u00f6markkinatilanne aiheuttaa ep\u00e4varmuutta",
         "news_group": 284
     },
@@ -1582,6 +1652,7 @@
         "news_url": "https://yle.fi/a/74-20143448",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Neste on entist\u00e4 pahemmassa kriisiss\u00e4: Sadoille tulossa potkut, osakekurssi sy\u00f6ksyss\u00e4",
         "news_group": 284
     },
@@ -1597,6 +1668,7 @@
         "news_url": "https://yle.fi/a/74-20143438",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Konkurssien m\u00e4\u00e4r\u00e4 nousi 2000-luvun enn\u00e4tykseen \u2013 edellisen kerran kuukausitasolla niit\u00e4 oli n\u00e4in paljon syksyll\u00e4 1997",
         "news_group": -1
     },
@@ -1612,6 +1684,7 @@
         "news_url": "https://www.dw.com/en/n-korea-destroys-meeting-place-for-war-separated-families/a-71590288",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "N. Korea destroys meeting place for war-separated families",
         "news_group": 286
     },
@@ -1627,6 +1700,7 @@
         "news_url": "https://yle.fi/a/74-20141363",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Uudet tuulet puhaltavat nyt Iranissa \u2013 asiantuntija kertoo, mist\u00e4 on kyse",
         "news_group": -1
     },
@@ -1642,6 +1716,7 @@
         "news_url": "https://yle.fi/a/74-20143433",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Taiwanilaisessa ostoskeskuksessa r\u00e4j\u00e4hdys \u2013 ainakin viisi kuollut",
         "news_group": -1
     },
@@ -1657,6 +1732,7 @@
         "news_url": "https://yle.fi/a/74-20143428",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Etel\u00e4-Korean Yoon mahdollisesti virkasyytek\u00e4sittelyns\u00e4 viimeisess\u00e4 kuulemisessa",
         "news_group": 279
     },
@@ -1672,6 +1748,7 @@
         "news_url": "https://www.bbc.com/news/articles/cj91d3jkpvlo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Trade, tariffs and visas to dominate Trump-Modi talks",
         "news_group": -1
     },
@@ -1687,6 +1764,7 @@
         "news_url": "https://www.bbc.com/news/videos/c8d93dd63v2o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Moment SUV driver narrowly escapes train collision",
         "news_group": -1
     },
@@ -1702,6 +1780,7 @@
         "news_url": "https://yle.fi/a/74-20143424",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Elon Muskin X maksaa korvaukset Trumpille \u2013 osapuolet sopuun Trumpin nostamassa oikeusjutussa",
         "news_group": -1
     },
@@ -1717,6 +1796,7 @@
         "news_url": "https://yle.fi/a/74-20143276",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Tuija Siltam\u00e4en kolumni: Rimaa ei voi en\u00e4\u00e4 laskea \u2013 korkeakoulutettujen pit\u00e4isi oikeastikin osata jotain",
         "news_group": -1
     },
@@ -1732,6 +1812,7 @@
         "news_url": "https://yle.fi/a/74-20143320",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Akateemikko uudesta lakihankkeesta: Olisi erikoista, ett\u00e4 demokratiassa lakiin kirjattaisiin, mit\u00e4 tutkimuksen pit\u00e4\u00e4 olla",
         "news_group": 280
     },
@@ -1747,6 +1828,7 @@
         "news_url": "https://yle.fi/a/74-20143267",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Animaatio n\u00e4ytt\u00e4\u00e4 pakotetankkerien rallin It\u00e4merell\u00e4 \u2013 seuraava askel sen kuriinsaamiseksi voi olla EU:lle vaikea",
         "news_group": 281
     },
@@ -1762,6 +1844,7 @@
         "news_url": "https://www.bbc.com/news/articles/cvgmygm2n80o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "&#x27;On a power trip&#x27; or &#x27;obviously brilliant&#x27;? Americans weigh Musk&#x27;s influence",
         "news_group": -1
     },
@@ -1777,6 +1860,7 @@
         "news_url": "https://www.bbc.com/news/articles/c3d57zm9m0po",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "US inflation in surprise increase",
         "news_group": -1
     },
@@ -1792,6 +1876,7 @@
         "news_url": "https://www.dw.com/en/france-grenade-thrown-into-grenoble-bar-injures-several/a-71590176",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "France: Grenade thrown into Grenoble bar injures several",
         "news_group": 285
     },
@@ -1807,23 +1892,9 @@
         "news_url": "https://www.bbc.com/weather/videos/c07kljvv5mko",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "WATCH: Astronaut&#x27;s view of Northern Lights from International Space Station",
         "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143413",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739405280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143413",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Etel\u00e4-Korea: Pohjois-Korea tuhoaa erotettujen perheiden k\u00e4yt\u00f6ss\u00e4 ollutta vierailukeskusta",
-        "news_group": 286
     },
     {
         "news_id": "bbc_cm27g2jzd78o",
@@ -1837,6 +1908,7 @@
         "news_url": "https://www.bbc.com/news/articles/cm27g2jzd78o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Is it checkmate for South Africa after Trump aid freeze?",
         "news_group": -1
     },
@@ -1852,6 +1924,7 @@
         "news_url": "https://yle.fi/a/74-20143412",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Ranskan Grenoblessa baariin heitetty kranaatti r\u00e4j\u00e4hti \u2013 toistakymment\u00e4 haavoittui",
         "news_group": 285
     },
@@ -1867,6 +1940,7 @@
         "news_url": "https://yle.fi/a/74-20143411",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Aiemmin j\u00e4\u00e4dytetty Trumpin hallinnon suunnitelma ty\u00f6voiman v\u00e4hent\u00e4misest\u00e4 saa jatkua",
         "news_group": -1
     },
@@ -1882,6 +1956,7 @@
         "news_url": "https://www.bbc.com/news/articles/cednp178dwdo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Erasing Escobar: Will Colombia ban the sale of memorabilia of the drug lord?",
         "news_group": -1
     },
@@ -1897,6 +1972,7 @@
         "news_url": "https://www.bbc.com/news/articles/cd7d9p0j5qeo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Confusion clouds efforts to save Gaza ceasefire",
         "news_group": 283
     },
@@ -1913,6 +1989,7 @@
         "news_url": "https://www.nasdaq.com/articles/breaking-down-current-earnings-outlook-0",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Breaking Down the Current Earnings Outlook",
         "news_group": -1
     },
@@ -1928,6 +2005,7 @@
         "news_url": "https://www.pbs.org/newshour/show/hegseth-tells-nato-ukraine-membership-unlikely-as-trump-says-putin-will-discuss-ending-war",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Hegseth tells NATO Ukraine membership unlikely as Trump says Putin will discuss ending war",
         "news_group": -1
     },
@@ -1944,6 +2022,7 @@
         "news_url": "https://www.nasdaq.com/articles/breaking-down-current-earnings-outlook",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Breaking Down the Current Earnings Outlook",
         "news_group": -1
     },
@@ -1959,6 +2038,7 @@
         "news_url": "https://www.pbs.org/newshour/show/experts-examine-what-the-u-s-policy-shifts-on-ukraine-mean-for-nato",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Experts examine what the U.S. policy shifts on Ukraine mean for NATO",
         "news_group": -1
     },
@@ -1974,6 +2054,7 @@
         "news_url": "https://www.pbs.org/newshour/show/news-wrap-u-s-frees-cybercriminal-vinnik-in-russian-prisoner-swap-for-mark-fogel",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "News Wrap: U.S. frees cybercriminal Vinnik in Russian prisoner swap for Mark Fogel",
         "news_group": -1
     },
@@ -1989,6 +2070,7 @@
         "news_url": "https://yle.fi/a/74-20143409",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Maakuntakeskuksista Helsinki verottaa keskituloisia kaikkein kevyimmin",
         "news_group": -1
     },
@@ -2004,6 +2086,7 @@
         "news_url": "https://www.bbc.com/news/articles/cp3j0e79q52o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Why India fails to protect its domestic workers despite decades of abuse",
         "news_group": -1
     },
@@ -2019,6 +2102,7 @@
         "news_url": "https://www.bbc.com/news/articles/cy7g45g2nxno",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "&#x27;DeepSeek moved me to tears&#x27;: How young Chinese find therapy in AI",
         "news_group": -1
     },
@@ -2035,6 +2119,7 @@
         "news_url": "https://www.nasdaq.com/articles/pre-market-earnings-report-february-13-2025-de-mco-duk-bn-zts-aep-hwm-ddog-cbre-gehc-alny",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": true,
         "news_original_title": "Pre-Market Earnings Report for February 13, 2025 :  DE, MCO, DUK, BN, ZTS, AEP, HWM, DDOG, CBRE, GEHC, ALNY, PCG",
         "news_group": -1
     },
@@ -2050,6 +2135,7 @@
         "news_url": "https://www.bbc.com/news/articles/c78x3klx4rjo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Austria&#x27;s political crisis deepens as far right fails to form government",
         "news_group": -1
     },
@@ -2065,6 +2151,7 @@
         "news_url": "https://www.bbc.com/news/articles/cy8pzw3we2xo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Israel seeks another extension for Lebanon withdrawal, source says",
         "news_group": -1
     },
@@ -2080,6 +2167,7 @@
         "news_url": "https://www.pbs.org/newshour/world/un-estimates-up-to-1400-killed-in-bangladesh-during-crackdown-on-protests-last-year",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "UN estimates up to 1,400 killed in Bangladesh during crackdown on protests last year",
         "news_group": -1
     },
@@ -2095,6 +2183,7 @@
         "news_url": "https://www.bbc.com/news/articles/cg5y9ggqpqdo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Everton sponsor leaves UK after porn ad probe",
         "news_group": -1
     },
@@ -2110,6 +2199,7 @@
         "news_url": "https://www.bbc.com/news/articles/c1wex4qq792o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Sicily&#x27;s gangsters complain they can&#x27;t get the staff",
         "news_group": -1
     },
@@ -2125,6 +2215,7 @@
         "news_url": "https://www.pbs.org/newshour/world/israel-threatens-all-hell-will-break-loose-is-hamas-fails-to-free-hostages-as-planned",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Israel threatens &amp;#8216;all hell will break loose&amp;#8217; is Hamas fails to free hostages as planned",
         "news_group": -1
     },
@@ -2140,6 +2231,7 @@
         "news_url": "https://www.bbc.com/news/videos/c334kyl37jmo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "&#x27;It&#x27;s a new reality&#x27; - US stance on Ukraine a bitter blow to Zelensky",
         "news_group": 282
     },
@@ -2155,6 +2247,7 @@
         "news_url": "https://www.bbc.com/news/articles/cpvme8jw9dro",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Santorini fears for summer tourist season as earthquakes hit island",
         "news_group": -1
     },
@@ -2170,6 +2263,7 @@
         "news_url": "https://www.sciencenews.org/article/pancreatic-cancer-pac-mann-blood-test",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "A pancreatic cancer blood test called PAC-MANN could spot the disease early",
         "news_group": -1
     },
@@ -2186,6 +2280,7 @@
         "news_url": "https://www.nasdaq.com/articles/after-hours-earnings-report-february-12-2025-csco-app-eqix-wmb-ttd-wcn-hood-hubs-slf-tyl",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": true,
         "news_original_title": "After-Hours Earnings Report for February 12, 2025 :  CSCO, APP, EQIX, WMB, TTD, WCN, HOOD, HUBS, SLF, TYL, VTR, ROL",
         "news_group": -1
     },
@@ -2201,6 +2296,7 @@
         "news_url": "https://www.sciencenews.org/article/bacteria-band-aid-plants-heal-wounds",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "A bacteria-based Band-Aid helps plants heal their wounds",
         "news_group": -1
     },
@@ -2216,23 +2312,9 @@
         "news_url": "https://www.bbc.com/news/articles/czj3z290ngyo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Fifty countries affected by USAID freeze, says WHO",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_cy0pz3er37jo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739376300.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cy0pz3er37jo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_original_title": "Hegseth sets out hard line on European defence and Nato",
-        "news_group": 282
     },
     {
         "news_id": "bbc_cx2jdnv0ywyo",
@@ -2246,6 +2328,7 @@
         "news_url": "https://www.bbc.com/news/articles/cx2jdnv0ywyo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Beginnings of Roman London discovered in office basement",
         "news_group": -1
     },
@@ -2261,6 +2344,7 @@
         "news_url": "https://www.dw.com/en/un-up-to-1-400-killed-in-bangladesh-protests-crackdown/a-71587345",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "UN: Up to 1,400 killed in Bangladesh protests crackdown",
         "news_group": -1
     },
@@ -2276,6 +2360,7 @@
         "news_url": "https://yle.fi/a/74-20141051",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Nopea rikastuminen ja passiiviset tulot ovat nyt kaikkien huulilla \u2013 selvitimme, voiko nukkuessaan tienata oikeasti",
         "news_group": -1
     },
@@ -2291,6 +2376,7 @@
         "news_url": "https://www.dw.com/en/african-union-leadership-who-can-best-fix-africa-s-problems/a-71587733",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "African Union leadership: Who can best fix Africa&#x27;s problems?",
         "news_group": -1
     },
@@ -2306,6 +2392,7 @@
         "news_url": "https://yle.fi/a/74-20143237",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Analyysi: T\u00e4m\u00e4 moka voi maksaa Nordnetille miljoonia",
         "news_group": 288
     },
@@ -2321,6 +2408,7 @@
         "news_url": "https://yle.fi/a/74-20141669",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Peliyritys vei tuotteitaan riskill\u00e4 Kajaanista Yhdysvaltoihin jo ennen Trumpin voittoa \u2013 n\u00e4in tullimaksuja ennakoidaan",
         "news_group": -1
     },
@@ -2336,6 +2424,7 @@
         "news_url": "https://www.dw.com/en/romania-at-the-end-of-klaus-iohannis-two-term-presidency/a-71587157",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Romania at the end of Klaus Iohannis&#x27; two-term presidency",
         "news_group": -1
     },
@@ -2352,6 +2441,7 @@
         "news_url": "https://www.nasdaq.com/articles/gold-crosses-above-key-moving-average-level-0",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "GOLD Crosses Above Key Moving Average Level",
         "news_group": -1
     },
@@ -2367,6 +2457,7 @@
         "news_url": "https://yle.fi/a/74-20143381",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Asuntojen hinnat ja vuokrat nousevat erityisesti Oulussa \u2013 ekonomisti n\u00e4kee siihen kolme syyt\u00e4",
         "news_group": -1
     },
@@ -2382,6 +2473,7 @@
         "news_url": "https://www.sciencenews.org/article/cosmic-neutrino-unknown-energy-records",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "A cosmic neutrino of unknown origins smashes energy records",
         "news_group": -1
     },
@@ -2397,6 +2489,7 @@
         "news_url": "https://www.sciencenews.org/article/ozempic-reduce-drink-alcohol",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Ozempic\u2019s key ingredient may reduce the desire to drink alcohol",
         "news_group": -1
     },
@@ -2412,6 +2505,7 @@
         "news_url": "https://yle.fi/a/74-20143378",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Luuimplanttia kehitt\u00e4nyt BBS-Bioactive Solutions hakeutuu konkurssiin",
         "news_group": -1
     },
@@ -2427,6 +2521,7 @@
         "news_url": "https://www.dw.com/en/donald-trump-chaos-strategy-with-historical-precedents/a-71578095",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Donald Trump: Chaos strategy with historical precedents",
         "news_group": -1
     },
@@ -2442,6 +2537,7 @@
         "news_url": "https://www.dw.com/en/us-and-jordan-walk-tightrope-over-gaza-relocation-proposal/a-71583737",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "US and Jordan walk tightrope over Gaza relocation proposal",
         "news_group": -1
     },
@@ -2457,6 +2553,7 @@
         "news_url": "https://www.bbc.com/news/articles/c391mpmr81xo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Avian flu spread sees 1.8 million farmed birds culled",
         "news_group": -1
     },
@@ -2472,6 +2569,7 @@
         "news_url": "https://www.dw.com/en/stis-in-europe-gonorrhea-and-syphilis-hit-record-highs/a-71585386",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "STIs in Europe: Gonorrhea and syphilis hit record highs",
         "news_group": -1
     },
@@ -2487,6 +2585,7 @@
         "news_url": "https://www.sciencenews.org/article/whale-shark-pit-stop-oil-gas-rig",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Migrating whale sharks make pit stops at oil and gas rigs",
         "news_group": -1
     },
@@ -2502,6 +2601,7 @@
         "news_url": "https://yle.fi/a/74-20143332",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Paalausverkkoja ja -lankaa valmistava Piippo aikoo myyd\u00e4 koneita Portugaliin \u2013 tuotanto Outokummussa loppuu",
         "news_group": -1
     },
@@ -2517,6 +2617,7 @@
         "news_url": "https://www.dw.com/en/transgender-asian-americans-face-double-discrimination/a-71585088",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Transgender Asian Americans face double discrimination",
         "news_group": -1
     },
@@ -2532,6 +2633,7 @@
         "news_url": "https://www.dw.com/en/myanmar-renewed-conflict-dims-rohingya-repatriation-hopes/a-71583753",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Myanmar: Renewed conflict dims Rohingya repatriation hopes",
         "news_group": -1
     },
@@ -2548,6 +2650,7 @@
         "news_url": "https://www.nasdaq.com/articles/rebuilding-stronger-3-stocks-driving-infrastructure-recovery",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Rebuilding Stronger: 3 Stocks Driving Infrastructure Recovery",
         "news_group": -1
     },
@@ -2564,6 +2667,7 @@
         "news_url": "https://www.nasdaq.com/articles/broadcom-stock-why-upside-too-good-ignore",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Broadcom Stock: Why the Upside Is Too Good to Ignore",
         "news_group": -1
     },
@@ -2579,6 +2683,7 @@
         "news_url": "https://yle.fi/a/74-20143306",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Estlink-s\u00e4hk\u00f6kaapelin korjaus kest\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n kuukauden",
         "news_group": -1
     },
@@ -2595,6 +2700,7 @@
         "news_url": "https://www.nasdaq.com/articles/citigroup-analysts-are-betting-big-these-3-stocks-should-you",
         "news_status": "public",
         "news_type": "NewsType.SHORT",
+        "news_more": false,
         "news_original_title": "Citigroup Analysts Are Betting Big on These 3 Stocks\u2014Should You?",
         "news_group": -1
     },
@@ -2610,6 +2716,7 @@
         "news_url": "https://www.dw.com/en/dw-africa-tour-germany-ahead-of-the-2025-elections/a-71583220",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "DW Africa tour Germany ahead of the 2025 elections",
         "news_group": -1
     },
@@ -2625,6 +2732,7 @@
         "news_url": "https://www.bbc.com/news/articles/c87dv8rvjgxo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Heathrow expects third runway take offs in 10 years",
         "news_group": -1
     },
@@ -2640,6 +2748,7 @@
         "news_url": "https://yle.fi/a/74-20143275",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": false,
         "news_original_title": "Onko teid\u00e4n yrityksess\u00e4nne karsittu monimuotoisuus\u00adohjelmia? Kerro Ylelle, teemme juttua",
         "news_group": -1
     },
@@ -2655,6 +2764,7 @@
         "news_url": "https://www.bbc.com/news/articles/c3rw01qr5v1o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
+        "news_more": true,
         "news_original_title": "Next ad banned as pose made model look too thin",
         "news_group": -1
     }
