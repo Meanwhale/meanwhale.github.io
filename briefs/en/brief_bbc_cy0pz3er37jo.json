@@ -1,14 +1,14 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cy0pz3er37jo",
-    "news_header": "US Defense Secretary Pete Hegseth stated that European nations must take the lead in funding Ukraine, indicating a shift in US policy. He emphasized that expecting Ukraine to return to pre-2014 borders is unrealistic and downplayed the likelihood of Ukraine joining NATO.",
+    "news_header": "",
     "news_original_title": "Hegseth sets out hard line on European defence and Nato",
-    "news_text": "Hegseth&#x27;s remarks came amid a phone call between Trump and Putin discussing negotiations to end the war. He called for NATO members to increase defense spending and warned that the US would no longer support an imbalanced relationship with its allies. The situation raises concerns in Ukraine and among European nations regarding future support and security.",
+    "news_text": "",
     "news_url": "https://www.bbc.com/news/articles/cy0pz3er37jo",
-    "news_time": 1739374680.0,
+    "news_time": 1739376300.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": 232
+    "news_group": 243
 }
