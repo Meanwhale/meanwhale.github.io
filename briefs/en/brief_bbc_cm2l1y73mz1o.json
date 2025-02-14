@@ -1,0 +1,14 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cm2l1y73mz1o",
+    "news_header": "A University of Pennsylvania student faced an unexpected fire alarm while testing a robot designed to see through smoke using radio waves. This innovative technology aims to enhance robots&#x27; vision in challenging conditions, potentially aiding in search-and-rescue operations.",
+    "news_original_title": "Scientists work on &#x27;superhuman&#x27; vision systems for robots",
+    "news_text": "The robot employs a spinning array to emit radio waves, which reflect off surfaces, allowing it to create a 3D view of its environment. While traditional sensors are more common, this method could revolutionize how robots perceive their surroundings. However, challenges remain, such as the need for data processing to clean up images and limitations in directional vision.",
+    "news_url": "https://www.bbc.com/news/articles/cm2l1y73mz1o",
+    "news_time": 1739484480.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1
+}

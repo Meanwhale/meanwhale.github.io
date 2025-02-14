@@ -1,14 +1,14 @@
 {
     "news_source": "yle",
     "news_id": "yle_7420143624",
-    "news_header": "The Ministry is in the process of modifying the article that raised concerns in academics about scientific freedom",
+    "news_header": "The Finnish Minister of Education is removing references to foreign and security policy from the Finnish Academy bill. This decision comes after feedback from the scientific community, emphasizing that the freedom of science is constitutionally protected.",
     "news_original_title": "Ministeri\u00f6 on muokkaamassa pyk\u00e4l\u00e4\u00e4, joka her\u00e4tti akateemikoissa huolta tieteen vapaudesta",
-    "news_text": "",
+    "news_text": "The new wording will ensure that the Academy&#x27;s functions do not conflict with national security or international obligations, while still maintaining research integrity. Concerns about the potential misuse of research for military purposes have been addressed, with the responsibility for risk assessment resting on researchers and their organizations.",
     "news_url": "https://yle.fi/a/74-20143624",
     "news_time": 1739451480.0,
     "news_categories": [
         "science"
     ],
     "news_source_lang": "en",
-    "news_group": 280
+    "news_group": -1
 }

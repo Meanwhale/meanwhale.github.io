@@ -1,0 +1,14 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cm2l1y73mz1o",
+    "news_header": "En student vid University of Pennsylvania st\u00f6tte p\u00e5 en ov\u00e4ntad brandalarm n\u00e4r de testade en robot som \u00e4r designad f\u00f6r att se genom r\u00f6k med hj\u00e4lp av radiov\u00e5gor. Denna innovativa teknik syftar till att f\u00f6rb\u00e4ttra robotars syn i utmanande f\u00f6rh\u00e5llanden, vilket potentiellt kan hj\u00e4lpa vid r\u00e4ddningsinsatser.",
+    "news_original_title": "Scientists work on &#x27;superhuman&#x27; vision systems for robots",
+    "news_text": "Robotens snurrande array s\u00e4nder ut radiov\u00e5gor som reflekteras av ytor, vilket g\u00f6r att den kan skapa en 3D-vy av sin omgivning. \u00c4ven om traditionella sensorer \u00e4r mer vanliga, kan denna metod revolutionera hur robotar uppfattar sin omgivning. Utmaningar kvarst\u00e5r dock, s\u00e5som behovet av databehandling f\u00f6r att rensa upp bilder och begr\u00e4nsningar i riktad syn.",
+    "news_url": "https://www.bbc.com/news/articles/cm2l1y73mz1o",
+    "news_time": 1739484480.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "sv",
+    "news_group": -1
+}

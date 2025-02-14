@@ -1,14 +1,14 @@
 {
     "news_source": "yle",
     "news_id": "yle_7420143500",
-    "news_header": "Nordnet&#x27;s 1,500 customers&#x27; information was visible to others - Finns included 500",
+    "news_header": "Nordnet experienced a data breach affecting 1,500 customers across the Nordic countries, with specific numbers being 500 in Denmark and Finland, 350 in Norway, and 200 in Sweden.",
     "news_original_title": "Nordnetin 1 500 asiakkaan tiedot n\u00e4kyiv\u00e4t muille \u2013 suomalaisia joukossa 500",
-    "news_text": "",
+    "news_text": "Customers could see and even sell investments from other accounts. A Finnish customer was mistakenly sold shares worth EUR 7,400. Nordnet acted quickly to close the online service and is in contact with authorities. They face potential penalties under data protection laws, which could amount to EUR 20 million. The company has invested in technology and customer service to prevent future issues.",
     "news_url": "https://yle.fi/a/74-20143500",
     "news_time": 1739449860.0,
     "news_categories": [
         "business"
     ],
     "news_source_lang": "en",
-    "news_group": 288
+    "news_group": -1
 }
