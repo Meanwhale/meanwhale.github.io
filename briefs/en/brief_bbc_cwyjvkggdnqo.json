@@ -1,14 +1,14 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cwyjvkggdnqo",
-    "news_header": "A Russian drone attack targeted the radiation shelter at Chernobyl, causing a fire that has been extinguished. Ukrainian President Zelensky reported that radiation levels remain stable.",
+    "news_header": "",
     "news_original_title": "Chernobyl radiation shield hit by Russian drone, Ukraine says",
-    "news_text": "Russia denied the attack, and the IAEA confirmed no casualties, stating they are on high alert. Zelensky criticized Putin&#x27;s lack of negotiation intentions and called for unified pressure against Russia. The incident follows increased military activity around the Zaporizhzhia Nuclear Power Plant, raising concerns about nuclear safety.",
+    "news_text": "",
     "news_url": "https://www.bbc.com/news/articles/cwyjvkggdnqo",
-    "news_time": 1739524140.0,
+    "news_time": 1739550240.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": -1
+    "news_group": 337
 }
