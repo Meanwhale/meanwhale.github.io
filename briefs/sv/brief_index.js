@@ -272,6 +272,22 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "bbc_c9qjq4z0xw8o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "",
+        "news_epoch": 1739778060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c9qjq4z0xw8o",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Can Europe and UK persuade Trump they&#x27;re relevant to Ukraine&#x27;s future?",
+        "news_group": 360
+    },
+    {
         "news_id": "yle_7420144094",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -349,6 +365,22 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "L\u00e4hde: Hamas valmis luovuttamaan Gazan palestiinalaishallinnolle",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144067",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739765280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144067",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Ihmisoikeusj\u00e4rjest\u00f6jen raportti: EU:n rajoilta k\u00e4\u00e4nnytettiin laittomasti viime vuonna jopa 120 000 ihmist\u00e4",
         "news_group": -1
     },
     {
