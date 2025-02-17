@@ -1,1266 +1,770 @@
 const articles = [
     {
-        "news_id": "yle_7420143913",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "P\u00e5 l\u00f6rdag f\u00f6rv\u00e4ntas Israel sl\u00e4ppa 369 palestinska f\u00e5ngar medan Hamas f\u00f6rv\u00e4ntas frig\u00f6ra tre israeliska gisslan som en del av ett vapenvilaavtal. Detta markerar den sj\u00e4tte f\u00e5ngutbytet sedan vapenvilan b\u00f6rjade den 19 januari.",
-        "news_epoch": 1739599620.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143913",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Hamas vapauttaa kolme israelilaista panttivankia",
-        "news_group": 341
-    },
-    {
-        "news_id": "bbc_czdl6d0r2g5o",
+        "news_id": "bbc_c1kmk09xxdko",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "FN:s fredsbevarande styrka i Libanon rapporterade att dess avg\u00e5ende st\u00e4llf\u00f6retr\u00e4dande bef\u00e4lhavare skadades i en v\u00e5ldsam attack mot en konvoj som transporterade fredsbevarande till Beiruts flygplats.",
-        "news_epoch": 1739597760.0,
+        "news_header": "Pope Francis \u00e4r inlagd p\u00e5 sjukhus p\u00e5 grund av en komplex klinisk situation som involverar en polymikrobiell infektion i luftv\u00e4garna, vilket kr\u00e4ver en f\u00f6r\u00e4ndring i behandlingen.",
+        "news_epoch": 1739795220.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.bbc.com/news/articles/czdl6d0r2g5o",
+        "news_url": "https://www.bbc.com/news/articles/c1kmk09xxdko",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Senior UN peacekeeper injured in convoy attack in Lebanon",
-        "news_group": 342
-    },
-    {
-        "news_id": "bbc_cj91kgv8v1lo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Den sista str\u00e4ckan till Searle-parens hem avsl\u00f6jar en chockerande brottsplats d\u00e4r Dawn Searle hittades d\u00f6d utanf\u00f6r deras hus och hennes make Andrew inomhus. Samh\u00e4llet \u00e4r r\u00e4dd n\u00e4r utredningen fortskrider, utan tydliga bevis f\u00f6r motiv eller g\u00e4rningsperson.",
-        "news_epoch": 1739597580.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cj91kgv8v1lo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Frightened looks and military vehicles in French hamlet where British couple died",
+        "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
         "news_group": -1
     },
     {
-        "news_id": "bbc_c4g9nmeyzkjo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Vid M\u00fcnchen s\u00e4kerhetskonferens kritiserade USA:s vicepresident JD Vance Washingtons allierade och fokuserade p\u00e5 desinformation och yttrandefrihet ist\u00e4llet f\u00f6r konferensens huvudteman om kriget i Ukraina och \u00f6kad f\u00f6rsvarsutgift i Europa.",
-        "news_epoch": 1739595840.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4g9nmeyzkjo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Vance&#x27;s blast at Europe ignores Ukraine and defence agenda",
-        "news_group": 343
-    },
-    {
-        "news_id": "dw_a71614047",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "USAs president Donald Trumps kontroversiella &#x27;Gaza Riviera&#x27;-f\u00f6rslag, baserat p\u00e5 ett dokument av ekonomen Joseph Pelzman, f\u00f6resl\u00e5r omfattande \u00e5teruppbyggnad i Gaza, inklusive f\u00f6rnybar energi och infrastruktur.",
-        "news_epoch": 1739595060.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/can-arab-nations-stop-trump-s-gaza-riviera-plans/a-71614047",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Can Arab nations stop Trump&#x27;s &#x27;Gaza Riviera&#x27; plans?",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71618567",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Tio pilgrimer omkom i en trafikolycka n\u00e4r de reste till Maha Kumbh Mela i Indien. En bil fr\u00e5n Chattisgarh krockade med en buss p\u00e5 Prayagraj-Mirzapur motorv\u00e4gen, vilket skadade 19 andra.",
-        "news_epoch": 1739594220.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/india-10-maha-kumbh-devotees-killed-in-car-crash/a-71618567",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "India: 10 Maha Kumbh devotees killed in car crash",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143907",
+        "news_id": "yle_7420144207",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Den nederl\u00e4ndska knarkhandlaren Marco Ebben sk\u00f6ts till d\u00f6ds i Atizap\u00e1n de Zaragoza, Mexiko, tidigare denna vecka. Han var 32 \u00e5r gammal och listad som en av Europas mest efterlysta brottslingar av Europol.",
-        "news_epoch": 1739592420.0,
+        "news_header": "Israel har d\u00f6dat bef\u00e4lhavaren f\u00f6r Hamas i s\u00f6dra Libanon, som rapporterades planera attacker mot Israel med iranskt st\u00f6d. Libanesiska s\u00e4kerhetsmyndigheter har inte bekr\u00e4ftat offrets identitet, men k\u00e4llor indikerar att han var kopplad till den palestinska militanta gruppen.",
+        "news_epoch": 1739794860.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://yle.fi/a/74-20143907",
+        "news_url": "https://yle.fi/a/74-20144207",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Euroopan etsityimpiin kuulunut rikollinen tapettiin Meksikossa",
-        "news_group": -1
+        "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
+        "news_group": 355
     },
     {
-        "news_id": "yle_7420143796",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Trumps v\u00e5rdsl\u00f6sa id\u00e9er utg\u00f6r en fara, s\u00e4rskilt eftersom han s\u00e4llan drar tillbaka dem. Hans senaste f\u00f6rslag ang\u00e5ende Gaza chockade till och med hans medarbetare och den israeliska premi\u00e4rministern Netanyahu, vilket indikerar brist p\u00e5 f\u00f6rutseende.",
-        "news_epoch": 1739588700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143796",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Analyysi: Koko maailma j\u00e4nnitt\u00e4\u00e4, kun Trump keksii holtittomia ideoita p\u00e4iv\u00e4st\u00e4 toiseen",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71618290",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "En kvinna som anklagat Sean &#x27;Diddy&#x27; Combs och Jay-Z f\u00f6r att ha v\u00e5ldtagit henne n\u00e4r hon var 13 \u00e5r har dragit tillbaka sin civilr\u00e4ttsliga st\u00e4mning. Den anonyma kvinnan fr\u00e5n Alabama hade lagt till Jay-Z i sin st\u00e4mning mot Combs, d\u00e4r hon p\u00e5stod att hon blev attackerad \u00e5r 2000.",
-        "news_epoch": 1739581020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/jay-z-sean-diddy-combs-accuser-drops-sexual-assault-case/a-71618290",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Jay-Z, Sean &#x27;Diddy&#x27; Combs accuser drops sexual assault case",
-        "news_group": 345
-    },
-    {
-        "news_id": "bbc_cy8xlxx58l4o",
+        "news_id": "bbc_ckg7gewqevqo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Mike Elvis Tusubira, en motorcykeltaxif\u00f6rare i Uganda som lever med HIV, st\u00e5r inf\u00f6r allvarliga konsekvenser efter att USA stoppade utl\u00e4ndsk hj\u00e4lp. Han fruktar f\u00f6r sin \u00f6verlevnad och slutet p\u00e5 sitt \u00e4ktenskap p\u00e5 grund av bristen p\u00e5 livr\u00e4ddande mediciner och f\u00f6rebyggande \u00e5tg\u00e4rder.",
-        "news_epoch": 1739580960.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cy8xlxx58l4o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "&#x27;My wife fears sex, I fear death&#x27; - impacts of the USAID freeze",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143904",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Elon Musk ledde en grupp investerare som erbj\u00f6d 97,4 miljarder dollar f\u00f6r att k\u00f6pa OpenAI, men f\u00f6retagets styrelse avvisade enh\u00e4lligt budet. OpenAI meddelade att de inte \u00e4r till salu och kritiserade Musks f\u00f6rs\u00f6k att st\u00f6ra konkurrenterna.",
-        "news_epoch": 1739580060.0,
+        "news_header": "F\u00f6retag i Storbritannien planerar att sk\u00e4ra ner p\u00e5 jobb eller anst\u00e4lla f\u00e4rre medarbetare p\u00e5 grund av stigande nationella f\u00f6rs\u00e4kringsavgifter och l\u00f6ner. En unders\u00f6kning visade att \u00f6ver en tredjedel av f\u00f6retagen avser att minska sin arbetsstyrka, medan 42 % planerar att h\u00f6ja priserna f\u00f6r att kompensera f\u00f6r h\u00f6gre anst\u00e4llningskostnader.",
+        "news_epoch": 1739794560.0,
         "news_categories": [
             "business"
         ],
-        "news_url": "https://yle.fi/a/74-20143904",
+        "news_url": "https://www.bbc.com/news/articles/ckg7gewqevqo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Teko\u00e4ly-yhti\u00f6 OpenAI:n hallitus hylk\u00e4si Muskin ostotarjouksen",
+        "news_original_title": "Firms plan job cuts as employment costs rise",
         "news_group": -1
     },
     {
-        "news_id": "bbc_cvgerr2jvkgo",
+        "news_id": "bbc_cvgpgeve76qo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Elon Musks barn har f\u00f6ljt med honom till olika h\u00f6gprofilerade evenemang, inklusive m\u00f6ten med v\u00e4rldsledare och betydande politiska sammankomster. Deras n\u00e4rvaro ses som en strategi f\u00f6r att humanisera Musk och skapa en mer personlig bild.",
-        "news_epoch": 1739578440.0,
+        "news_header": "President Trump har \u00f6verklagat till USA:s h\u00f6gsta domstol f\u00f6r att avskeda chefen f\u00f6r en oberoende etisk myndighet som skyddar visselbl\u00e5sare. Detta fall \u00e4r betydelsefullt eftersom det \u00e4r det f\u00f6rsta relaterat till Trumps verkst\u00e4llande \u00e5tg\u00e4rder som n\u00e5r h\u00f6gsta domstolen.",
+        "news_epoch": 1739792940.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.bbc.com/news/articles/cvgerr2jvkgo",
+        "news_url": "https://www.bbc.com/news/articles/cvgpgeve76qo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "What it means when Elon Musk brings his children to work",
+        "news_original_title": "Trump appeals to Supreme Court over firing of US agency boss",
         "news_group": -1
     },
     {
-        "news_id": "bbc_cm29drxjlxmo",
+        "news_id": "bbc_cp9x97yvjp4o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "En indisk domstols beslut att en mans tvingade sex med sin fru inte \u00e4r ett brott har v\u00e4ckt uppr\u00f6rdhet och krav p\u00e5 b\u00e4ttre skydd f\u00f6r gifta kvinnor. H\u00f6gsta domstolen frik\u00e4nde en man som d\u00f6mdes f\u00f6r v\u00e5ldt\u00e4kt och onaturligt sex efter att hans fru dog efter \u00f6vergreppet, med h\u00e4nvisning till att Indien inte erk\u00e4nner \u00e4ktenskapsv\u00e5ldt\u00e4kt.",
-        "news_epoch": 1739574000.0,
+        "news_header": "Trump-administrationens val av Saudiarabien som plats f\u00f6r viktiga samtal om Ukraina understryker kungad\u00f6mets diplomatiska \u00e5terh\u00e4mtning sedan mordet p\u00e5 Khashoggi.",
+        "news_epoch": 1739791920.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.bbc.com/news/articles/cm29drxjlxmo",
+        "news_url": "https://www.bbc.com/news/articles/cp9x97yvjp4o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "India anger as judge frees man accused of raping wife who then died",
+        "news_original_title": "Why Saudi Arabia is the venue of choice for Trump talks on Ukraine",
         "news_group": -1
     },
     {
-        "news_id": "bbc_c5y7ndlrl3vo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Zakaria, en 11-\u00e5rig pojke fr\u00e5n Gaza, har bevittnat tusentals kroppar sedan kriget b\u00f6rjade. Ist\u00e4llet f\u00f6r att g\u00e5 i skolan volont\u00e4rar han p\u00e5 al-Aqsa-sjukhuset, d\u00e4r han hj\u00e4lper till att transportera patienter och assistera medicinsk personal.",
-        "news_epoch": 1739573340.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c5y7ndlrl3vo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Ambulances, school and TikTok: The lives of three children I filmed surviving Gaza war",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143902",
+        "news_id": "yle_7420144185",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Ukrainska presidenten Volodymyr Zelensky sade i en NBC-intervju att Ukrainas chanser att \u00f6verleva den ryska invasionen \u00e4r sm\u00e5 utan st\u00f6d fr\u00e5n USA. Han betonade att \u00e4ven om \u00f6verlevnad kan vara m\u00f6jlig, \u00e4r det mycket osannolikt utan hj\u00e4lp.",
-        "news_epoch": 1739572320.0,
+        "news_header": "Skatteverket avvisar id\u00e9n om att en annan myndighet skulle ha obegr\u00e4nsad tillg\u00e5ng till personuppgifter f\u00f6r miljoner. Den amerikanska myndigheten f\u00f6r administrativ effektivitet (DOGE), ledd av Elon Musk, vill ha obegr\u00e4nsad tillg\u00e5ng till skatteverkets filer f\u00f6r att ta itu med sl\u00f6seri inom den offentliga sektorn.",
+        "news_epoch": 1739791800.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://yle.fi/a/74-20143902",
+        "news_url": "https://yle.fi/a/74-20144185",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Zelenskyi NBC:n haastattelussa: Ukraina ei todenn\u00e4k\u00f6isesti selviydy sodasta ilman USA:n tukea",
-        "news_group": 346
-    },
-    {
-        "news_id": "yle_7420143901",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Vita huset har tillf\u00e4lligt nekat AP News-reportrar och fotografer tillg\u00e5ng till presidentens arbetsrum och flygplan, med h\u00e4nvisning till en tvist om namnet p\u00e5 Mexikanska golfen.",
-        "news_epoch": 1739571900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143901",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Uutistoimisto AP:n toimittajilta ev\u00e4tty toistaiseksi p\u00e4\u00e4sy Yhdysvaltain presidentin lentokoneeseen ja ty\u00f6huoneeseen",
+        "news_original_title": "Muskin DOGE-virasto haluaa p\u00e4\u00e4syn verotiedostoihin",
         "news_group": -1
     },
     {
-        "news_id": "bbc_cvgmj00zjrpo",
+        "news_id": "bbc_c1wewj551q0o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "M23-rebeller har g\u00e5tt in i Bukavu, den n\u00e4st st\u00f6rsta staden i \u00f6stra DR Kongo, trots internationella krav p\u00e5 vapenvila. Rebellerna, som st\u00f6ds av Rwanda, har tvingat hundratusentals m\u00e4nniskor p\u00e5 flykt och har tidigare tagit Goma.",
-        "news_epoch": 1739570460.0,
+        "news_header": "Minst 10 personer har d\u00f6tt p\u00e5 grund av sv\u00e5ra \u00f6versv\u00e4mningar i syd\u00f6stra USA, s\u00e4rskilt i Kentucky och Georgia. Kentuckys guvern\u00f6r Andy Beshear rapporterade nio d\u00f6dsfall i sin delstat, och m\u00e5nga m\u00e4nniskor r\u00e4ddades fr\u00e5n \u00f6versv\u00e4mningsvatten.",
+        "news_epoch": 1739791260.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.bbc.com/news/articles/cvgmj00zjrpo",
+        "news_url": "https://www.bbc.com/news/articles/c1wewj551q0o",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "DR Congo M23 rebels enter city of Bukavu",
-        "news_group": 344
+        "news_original_title": "At least 10 dead in US floods and heavy rain",
+        "news_group": 351
     },
     {
-        "news_id": "pbs_6d05139e1f67",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Vice President J.D. Vance tr\u00e4ffade Ukrainas president Zelenskyj och tyska ledare, inklusive ledaren f\u00f6r det h\u00f6gerextrema AfD-partiet, under M\u00fcnchen s\u00e4kerhetskonferens.",
-        "news_epoch": 1739569200.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/vance-lectures-european-allies-on-democracy-at-security-summit-in-munich",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Vance lectures European allies on democracy at security summit in Munich",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_ff4c71a3bda6",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Europeiska tj\u00e4nstem\u00e4n f\u00e5r blandade budskap fr\u00e5n Trump-administrationen ang\u00e5ende Ukraina. Medan vissa tj\u00e4nstem\u00e4n uttrycker f\u00f6rtroende f\u00f6r USA:s st\u00f6d, ifr\u00e5gas\u00e4tter andra, inklusive f\u00f6rsvarsminister Pete Hegseth, Ukrainas f\u00f6rm\u00e5ga att \u00e5terf\u00e5 ockuperade territorier.",
-        "news_epoch": 1739569080.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/eus-foreign-policy-chief-discusses-the-future-of-ukraine-amid-shifting-u-s-support",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "EU&amp;rsquo;s foreign policy chief discusses the future of Ukraine amid shifting U.S. support",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143900",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Justitiedepartementet har beordrat federala \u00e5klagare att l\u00e4gga ner korruptionsanklagelserna mot New Yorks borgm\u00e4stare Eric Adams, med h\u00e4nvisning till ol\u00e4mplig tidpunkt i f\u00f6rh\u00e5llande till hans kommande borgm\u00e4starvalkampanj.",
-        "news_epoch": 1739568960.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143900",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "New Yorkin pormestaria Eric Adamsia vastaan nostetuista rikossyytteist\u00e4 luovutaan \u2013 taustalla oikeusministeri\u00f6n pyynt\u00f6",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143899",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "EU:s utrikespolitiska representant Kaja Kallas har bjudit in EU:s utrikesministrar till ett m\u00f6te p\u00e5 s\u00f6ndag f\u00f6r att diskutera EU:s relationer med USA och kriget i Ukraina.",
-        "news_epoch": 1739567520.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143899",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Kallas kutsui EU-maiden ulkoministerit keskustelemaan Yhdysvalloista ja Ukrainasta",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cq8kn5v37wxo",
+        "news_id": "bbc_clyzym0vn8go",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Donald Trump hotar med att inf\u00f6ra stora tullar p\u00e5 EU:s bilimport p\u00e5 grund av l\u00e5ga amerikanska bilf\u00f6rs\u00e4ljningar i Europa, vilket han tillskriver faktorer som storleken p\u00e5 amerikanska fordon och h\u00f6gre br\u00e4nslepriser i Europa.",
-        "news_epoch": 1739566440.0,
+        "news_header": "Sydkorea har f\u00f6rbjudit nya nedladdningar av Kinas DeepSeek AI-chatbot p\u00e5 grund av oro kring personlig dataskydd. Appen blev snabbt popul\u00e4r och n\u00e5dde \u00f6ver en miljon veckovisa anv\u00e4ndare, men m\u00f6tte granskning fr\u00e5n olika l\u00e4nder.",
+        "news_epoch": 1739787960.0,
         "news_categories": [
             "business"
         ],
-        "news_url": "https://www.bbc.com/news/articles/cq8kn5v37wxo",
+        "news_url": "https://www.bbc.com/news/articles/clyzym0vn8go",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Why don&#x27;t Europeans buy more American cars?",
+        "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
         "news_group": -1
     },
     {
-        "news_id": "bbc_cjw4e55lgnqo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "En 86-\u00e5rig man i Kansas City, Missouri, har erk\u00e4nt sig skyldig till andra gradens \u00f6vergrepp f\u00f6r att ha skjutit Ralph Yarl, en 16-\u00e5ring som av misstag gick till fel adress.",
-        "news_epoch": 1739562480.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cjw4e55lgnqo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Man pleads guilty in shooting of US teen Ralph Yarl",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8d9z853jndo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "En studie har funnit att sp\u00e4dbarnsd\u00f6dligheten har \u00f6kat i amerikanska delstater med abortf\u00f6rbud, med en uppskattning av 478 sp\u00e4dbarnsd\u00f6dsfall i 14 delstater p\u00e5 grund av dessa lagar.",
-        "news_epoch": 1739562120.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8d9z853jndo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Infant mortality rises in US states with abortion bans, study finds",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_4e4ee329a4fb",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "En dr\u00f6narattack vid k\u00e4rnkraftverket i Tjernobyl, som Ukraina skyller p\u00e5 Ryssland, v\u00e4ckte oro f\u00f6r k\u00e4rns\u00e4kerheten men br\u00f6t inte anl\u00e4ggningens inre skydd. Incidenten intr\u00e4ffade under den p\u00e5g\u00e5ende M\u00fcnchens s\u00e4kerhetskonferens.",
-        "news_epoch": 1739562000.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/chernobyl-was-hit-by-a-drone-what-are-the-dangers",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Chernobyl was hit by a drone. What are the dangers?",
-        "news_group": 337
-    },
-    {
-        "news_id": "bbc_cglywwn29n6o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Trump-administrationen har tagit bort referenser till transpersoner fr\u00e5n Stonewall National Monument-webbplatsen och f\u00f6rkortat LGBTQ+ till LGB. Aktivister protesterade mot detta beslut och betonade transpersoners betydelse i LGBTQ+-r\u00f6relsen.",
-        "news_epoch": 1739561340.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cglywwn29n6o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Transgender references removed from Stonewall monument website",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_crlkypydyn6o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "M\u00fcnchen s\u00e4kerhetskonferens (MSC) fokuserar p\u00e5 Ukrainas framtid efter ett betydande telefonsamtal mellan USA:s president Trump och Rysslands president Putin, d\u00e4r de diskuterade f\u00f6rhandlingar f\u00f6r att avsluta Ukraina-kriget.",
-        "news_epoch": 1739558940.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/crlkypydyn6o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Ukraine end game: What each side wants from a peace deal",
-        "news_group": 339
-    },
-    {
-        "news_id": "bbc_cjr8wexly4xo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Polisen i Lima, Peru, anv\u00e4nde en kapybara-kostym under en narkotika-r\u00e4d, som en del av en tradition d\u00e4r Escuadron Verde camouflerar sina agenter f\u00f6r festliga tillf\u00e4llen.",
-        "news_epoch": 1739555940.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/cjr8wexly4xo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Peruvian policeman in capybara costume makes Valentine&#x27;s drug bust",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71606578",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "P\u00e5ven Franciskus har blivit inlagd p\u00e5 sjukhus i Rom f\u00f6r behandling av p\u00e5g\u00e5ende bronkit. Den 88-\u00e5rige p\u00e5ven togs in efter att ha upplevt andf\u00e5ddhet och har genomg\u00e5tt diagnostiska tester.",
-        "news_epoch": 1739555700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/pope-francis-hospitalized-with-bronchitis-vatican-says/a-71606578",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Pope Francis hospitalized with bronchitis, Vatican says",
-        "news_group": 338
-    },
-    {
-        "news_id": "pbs_dd6c2465dd1a",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "En 24-\u00e5rig afghansk man greps i M\u00fcnchen efter att ha k\u00f6rt en bil in i en facklig demonstration och skadat 39 personer. Myndigheterna misst\u00e4nker en islamistisk extremism, men har inte funnit n\u00e5gra kopplingar till radikala n\u00e4tverk.",
-        "news_epoch": 1739553000.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/german-authorities-say-they-are-investigating-possible-islamic-extremist-motive-for-munich-car-ramming-attack",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "German authorities say they are investigating possible Islamic extremist motive for Munich car-ramming attack",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71614418",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Irans h\u00f6gste ledare Ayatollah Ali Khamenei svarar trotsigt p\u00e5 USA:s president Trumps hot och uppmanar den iranska regeringen att st\u00e4rka sina milit\u00e4ra kapabiliteter.",
-        "news_epoch": 1739549640.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/will-iran-bow-to-donald-trump-s-maximum-pressure/a-71614418",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Will Iran bow to Donald Trump&#x27;s &#x27;maximum pressure?&#x27;",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c4g7189x9wno",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "P\u00e5 Alla hj\u00e4rtans dag strejkar tusentals Uber-, Bolt- och Addison Lee-f\u00f6rare i Storbritannien mellan 16:00 och 22:00 GMT f\u00f6r b\u00e4ttre l\u00f6n och arbetsvillkor. Independent Workers Union of Great Britain (IWGB) st\u00f6der f\u00f6rarna och lyfter fram deras kamp med l\u00e5ga l\u00f6ner och os\u00e4kerhet.",
-        "news_epoch": 1739546880.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4g7189x9wno",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Uber and Bolt drivers strike on Valentine&#x27;s Day",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cy4m3wx9w04o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "I Kairo finner gazaner som flytt fr\u00e5n kriget mot Hamas s\u00e4kerhet men oroar sig f\u00f6r sina n\u00e4ra hemma. Egyptiska tj\u00e4nstem\u00e4n f\u00f6rhandlar med Hamas f\u00f6r att uppr\u00e4tth\u00e5lla en vapenvila, medan president Trumps f\u00f6rslag om att f\u00f6rflytta palestinier v\u00e4cker oro bland egyptierna.",
-        "news_epoch": 1739545080.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cy4m3wx9w04o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Gaza plans put Egypt-US relations to tough test",
-        "news_group": 340
-    },
-    {
-        "news_id": "bbc_cly50k8zypmo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Kajakpaddlaren Adri\u00e1n Simancas blev av misstag uppslukad av en kn\u00f6lval medan han paddlade i Magellansundet. Efter en kort stund av panik spottade valen ut honom oskadd.",
-        "news_epoch": 1739544000.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cly50k8zypmo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "&#x27;I felt a slimy texture brush my face&#x27;: Man describes being swallowed by whale",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71614467",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Indiska s\u00e4kerhetsstyrkor d\u00f6dade minst 31 maoistiska rebeller i Chhattisgarh, vilket markerar en av de d\u00f6dligaste sammandrabbningarna i den p\u00e5g\u00e5ende konflikten mot Naxaliterna.",
-        "news_epoch": 1739543100.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/india-60-years-of-maoist-insurgency-and-its-human-cost/a-71614467",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "India: 60 Years of Maoist insurgency and its human cost",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71602759",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "De p\u00e5g\u00e5ende konflikterna i Sudan och Demokratiska republiken Kongo f\u00f6rv\u00e4ntas dominera diskussionerna vid Afrikanska unionens toppm\u00f6te i Addis Abeba. Sudans inb\u00f6rdeskrig har lett till en humanit\u00e4r kris med miljontals f\u00f6rdrivna, medan v\u00e5ldet i DRC har resulterat i tusentals d\u00f6dsfall och miljontals som flytt sina hem.",
-        "news_epoch": 1739542140.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/au-summit-what-s-next-for-the-conflicts-in-drc-and-sudan/a-71602759",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "AU summit: What&#x27;s next for the conflicts in DRC and Sudan?",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71600884",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Intresset f\u00f6r kommission\u00e4rer och reparationsservice f\u00f6r hush\u00e5llsapparater \u00f6kar i Ryssland p\u00e5 grund av stigande levnadskostnader. Konsumenter v\u00e4ljer begagnade varor framf\u00f6r nya produkter, s\u00e4rskilt med tanke p\u00e5 den ekonomiska instabiliteten och stigande inflation.",
-        "news_epoch": 1739541720.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/why-russia-is-seeing-a-rise-in-demand-for-second-hand-goods/a-71600884",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Why Russia is seeing a rise in demand for second-hand goods",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_7668825c1f27",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Vice President JD Vance talade till europeiska tj\u00e4nstem\u00e4n vid M\u00fcnchen s\u00e4kerhetskonferens och uppmanade dem att kontrollera olaglig migration och betonade behovet av att NATO-l\u00e4nder \u00f6kar sina f\u00f6rsvarsutgifter.",
-        "news_epoch": 1739541180.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/politics/watch-vance-tells-europe-immigration-most-urgent-issue-says-voters-dont-want-floodgates-open",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "WATCH: Vance tells Europe immigration most &amp;lsquo;urgent&amp;rsquo; issue, says voters don&amp;#8217;t want &amp;#8216;floodgates&amp;#8217; open",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_crr0ypp84x9o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Forskare har uppt\u00e4ckt att mumifierade kroppar fr\u00e5n det antika Egypten, \u00e4ven efter 5 000 \u00e5r, fortfarande avger behagliga dofter som beskrivs som &#x27;tr\u00e4iga&#x27;, &#x27;kryddiga&#x27; och &#x27;s\u00f6ta&#x27;.",
-        "news_epoch": 1739540940.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/crr0ypp84x9o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Ancient Egyptian mummies still smell nice, study finds",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c863zd9zz42o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Orosmoln v\u00e4xer i Storbritannien ang\u00e5ende potentiell exponering f\u00f6r amerikanska handelsskatter efter president Trumps tillk\u00e4nnagivande att rikta in sig p\u00e5 moms. Inf\u00f6randet av moms i tullber\u00e4kningar kan p\u00e5verka brittiska f\u00f6retag avsev\u00e4rt, s\u00e4rskilt inom bilar, l\u00e4kemedel och livsmedel.",
-        "news_epoch": 1739540520.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c863zd9zz42o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Trump tariff VAT threat raises fears of hit to UK",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cm213pvdr22o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Hamas har meddelat namnen p\u00e5 tre gisslan som ska sl\u00e4ppas p\u00e5 l\u00f6rdag i utbyte mot palestinska f\u00e5ngar i Israel, mitt under oro \u00f6ver vapenvilans framtid. Gisslan \u00e4r Alexander Troufanov, Yair Horn och Sagui Dekel-Chen.",
-        "news_epoch": 1739540280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cm213pvdr22o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Hamas releases names of hostages due for release on Saturday",
-        "news_group": 341
-    },
-    {
-        "news_id": "yle_7420143864",
+        "news_id": "yle_7420144151",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "President Donald Trump meddelade att Indien och USA inleder handelsf\u00f6rhandlingar efter ett m\u00f6te med Indiens premi\u00e4rminister Narendra Modi. Trump betonade planer p\u00e5 att s\u00e4lja fler vapen, inklusive F-35-jaktflygplan, till Indien, samtidigt som han tog upp oro \u00f6ver h\u00f6ga tullar som komplicerar aff\u00e4rer.",
-        "news_epoch": 1739536800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143864",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Yhdysvallat aikoo myyd\u00e4 Intialle lis\u00e4\u00e4 aseita, kertoi Trump",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c4gw1wvdykgo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "F\u00f6r\u00e4ldrar b\u00f6r f\u00e5 anv\u00e4nda lojalitetspo\u00e4ng och kuponger f\u00f6r att k\u00f6pa babymj\u00f6lk i stormarknader, enligt konkurrensmyndigheten. \u00c4ven om priskampanjer f\u00f6r formel b\u00f6r f\u00f6rbli begr\u00e4nsade f\u00f6r att uppmuntra amning, kan anv\u00e4ndning av po\u00e4ng och kuponger hj\u00e4lpa familjer att spara pengar.",
-        "news_epoch": 1739535300.0,
+        "news_header": "P\u00e5 m\u00e5ndag morgon upplevde Nordea st\u00f6rningar i sina n\u00e4tbanktj\u00e4nster, vilket hindrade vissa kunder fr\u00e5n att logga in. Problemet l\u00f6stes tidigt p\u00e5 eftermiddagen, med rapporter om \u00f6kade incidenter noterade efter 11:00.",
+        "news_epoch": 1739786160.0,
         "news_categories": [
             "business"
         ],
-        "news_url": "https://www.bbc.com/news/articles/c4gw1wvdykgo",
+        "news_url": "https://yle.fi/a/74-20144151",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Call for parents to be able to use loyalty card points to buy baby milk",
+        "news_original_title": "Nordean verkkopankkih\u00e4iri\u00f6 on ohi",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144076",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Den brittiska premi\u00e4rministern \u00e4r \u00f6ppen f\u00f6r att skicka fredsbevarande styrkor till Ukraina efter en freds\u00f6verenskommelse. Forskaren Joel Linnainm\u00e4ki framh\u00e4ver utmaningar, inklusive behovet av stridsdugliga trupper, och noterar att USA har sagt att det inte skulle vara en NATO-operation.",
+        "news_epoch": 1739785500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144076",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Britannia harkitsee rauhanturvaajien l\u00e4hett\u00e4mist\u00e4 Ukrainaan \u2013 joukkojen pit\u00e4isi olla taistelukelpoisia, sanoo tutkija",
+        "news_group": 349
+    },
+    {
+        "news_id": "dw_a71610611",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "En studie f\u00f6resl\u00e5r att online-satir riktad mot Taylor Swift kan ha bidragit till att hon blev buad p\u00e5 Super Bowl, trots att hon var mycket popul\u00e4r bara m\u00e5nader tidigare.",
+        "news_epoch": 1739785440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/could-satire-lead-to-swift-reputational-damage/a-71610611",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Could satire lead to Swift reputational damage?",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_clyzy300vlzo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Den amerikanska utrikesdepartementet har tagit bort ett uttalande fr\u00e5n sin webbplats som h\u00e4vdade att Washington inte st\u00f6der Taiwans sj\u00e4lvst\u00e4ndighet, vilket har v\u00e4ckt ilska i Kina.",
+        "news_epoch": 1739783940.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/clyzy300vlzo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "China anger as US amends wording on Taiwan independence",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144129",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "USA:s utrikesminister Marco Rubio har anl\u00e4nt till Saudiarabien f\u00f6r att tr\u00e4ffa ryska representanter i Riyadh, f\u00f6r att f\u00f6rbereda f\u00f6rhandlingar om att avsluta Rysslands krig i Ukraina.",
+        "news_epoch": 1739783100.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144129",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Yhdysvaltain ulkoministeri saapui Saudi-Arabiaan",
+        "news_group": 353
+    },
+    {
+        "news_id": "yle_7420144081",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Aff\u00e4rskonferensen i Peking belyser en f\u00f6r\u00e4ndring i f\u00f6rh\u00e5llandet mellan Kinas ledarskap och den privata sektorn. President Xi Jinping h\u00f6ll ett m\u00f6te med nyckelfigurer inom aff\u00e4rsv\u00e4rlden, inklusive Alibabas Jack Ma, som har \u00e5terkommit efter en tid av fr\u00e5nvaro.",
+        "news_epoch": 1739782080.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144081",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Jopa Alibaban Jack Ma p\u00e4\u00e4si pannasta, kun Kiinan Xi tarvitsee kipe\u00e4sti yksityist\u00e4 sektoria vauhdittamaan kasvua",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144094",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Den historiska staden Palmyra har lidit under ISIS-terrorism, och arkeologiska experter \u00e5terv\u00e4nder nu f\u00f6r att bed\u00f6ma skadorna p\u00e5 kulturella skatter. Palmyra var en g\u00e5ng en viktig turistdestination, men ISIS f\u00f6rst\u00f6rde dess tempel och gravar.",
+        "news_epoch": 1739775900.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144094",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Syyrian kulttuuriaarteiden kunnostusty\u00f6 p\u00e4\u00e4sem\u00e4ss\u00e4 alkuun",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71586872",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Koreanska familjer har bott i Ukraina i \u00e5rtionden, fr\u00e4mst i Mykolaiv-regionen, d\u00e4r de arbetar som b\u00f6nder. Trots utmaningar p\u00e5 grund av den ryska invasionen forts\u00e4tter m\u00e5nga, som Olena och Oleh Pak, att uppr\u00e4tth\u00e5lla sina kulturella traditioner samtidigt som de bidrar till sitt samh\u00e4lle.",
+        "news_epoch": 1739769720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/despite-war-ethnic-koreans-feel-at-home-in-ukraine/a-71586872",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Despite war, ethnic Koreans &#x27;feel at home&#x27; in Ukraine",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143222",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Reparationsindustrin st\u00e5r inf\u00f6r en kris trots ett v\u00e4xande intresse f\u00f6r reparationer bland konsumenter. M\u00e5nga m\u00e4nniskor f\u00f6redrar att k\u00f6pa nya apparater ist\u00e4llet f\u00f6r att reparera gamla p\u00e5 grund av h\u00f6ga kostnader och produktdesign som g\u00f6r reparationer sv\u00e5ra.",
+        "news_epoch": 1739768400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143222",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Tavaroiden korjaaminen on v\u00e4hentynyt jo kauan \u2013 kahdella alalla on kuitenkin onnistuttu k\u00e4\u00e4nt\u00e4m\u00e4\u00e4n tilanne",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144069",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Egypten har rapporterats ha pressat Hamas att \u00f6verl\u00e4mna kontrollen \u00f6ver Gazaremsan till den palestinska myndigheten, som leds av det mer moderata Fatah-partiet. Hamas \u00e4r villigt att sl\u00e5 samman sina anst\u00e4llda med den palestinska myndigheten och till\u00e5ta pensioneringar om pensionerna garanteras.",
+        "news_epoch": 1739766840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144069",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "L\u00e4hde: Hamas valmis luovuttamaan Gazan palestiinalaishallinnolle",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce8yl47p4k3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "OpenAI:s styrelse har avvisat Elon Musks erbjudande p\u00e5 97,4 miljarder dollar f\u00f6r f\u00f6retaget, vilket kan komplicera VD Sam Altmans planer p\u00e5 att omvandla OpenAI till ett vinstdrivande f\u00f6retag.",
+        "news_epoch": 1739764200.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce8yl47p4k3o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Could Musk damage OpenAI despite his failed bid?",
+        "news_group": 354
+    },
+    {
+        "news_id": "yle_7420143054",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tyskland st\u00e5r inf\u00f6r stort tryck inf\u00f6r valet, fr\u00e4mst p\u00e5 grund av \u00f6kande oro kring invandring efter en tragisk knivattack av en asyls\u00f6kande som resulterade i ett barns d\u00f6d.",
+        "news_epoch": 1739762400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20143054",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Saksa siirtyy nyt vauhdilla oikealle, ja t\u00e4m\u00e4 lihakauppias tiet\u00e4\u00e4 syyn",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce85709xdk4o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "FN:s klimatm\u00f6te 2023 i F\u00f6renade Arabemiraten uppmanade till en \u00f6verg\u00e5ng bort fr\u00e5n fossila br\u00e4nslen, men ett \u00e5r senare verkar det globala engagemanget avta n\u00e4r konsumtionen av fossila br\u00e4nslen \u00f6kar.",
+        "news_epoch": 1739761440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce85709xdk4o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "How Trump&#x27;s &#x27;drill, baby, drill&#x27; pledge is affecting other countries",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_clye46n565xo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Teherans museum f\u00f6r samtidskonst rymmer en av v\u00e4rldens s\u00e4llsyntaste konstsamlingar, med m\u00e4sterverk av konstn\u00e4rer som Picasso, Van Gogh och Warhol, v\u00e4rderad till cirka 3 miljarder dollar.",
+        "news_epoch": 1739759700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/clye46n565xo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "A glimpse at Picasso and Pollock masterpieces kept in Tehran vault",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c8r56vr40jvo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Donald Trump har prioriterat massdeportation av pappersl\u00f6sa invandrare, med cirka 18 000 indiska medborgare identifierade som olagligt intr\u00e4de i USA. Indien har g\u00e5tt med p\u00e5 att ta tillbaka sina medborgare, och en studie visar p\u00e5 motstridiga uppskattningar av pappersl\u00f6sa indier i USA, som varierar fr\u00e5n 220 000 till 700 000.",
+        "news_epoch": 1739758020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c8r56vr40jvo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Illegal and unseen: Nine surprising facts about Indians in the US",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_ba332e63f32e",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Rwanda-st\u00f6dda M23-rebeller har ockuperat Bukavu, en stor stad i \u00f6stra Kongo, med lite motst\u00e5nd fr\u00e5n regeringsstyrkor. Rebellerna, som h\u00e4vdar att de f\u00f6rsvarar etniska tutsier, f\u00e5r st\u00f6d av rwandiska trupper och har orsakat en humanit\u00e4r kris som har tvingat \u00f6ver 6 miljoner m\u00e4nniskor att fly.",
+        "news_epoch": 1739757600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/congo-says-m23-rebels-backed-by-rwanda-have-taken-a-2nd-major-eastern-city",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Congo says M23 rebels backed by Rwanda have taken a 2nd major eastern city",
+        "news_group": 352
+    },
+    {
+        "news_id": "pbs_11861ec411c6",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Israels premi\u00e4rminister Benjamin Netanyahu g\u00e5r vidare med USA:s president Trumps f\u00f6rslag att \u00f6verf\u00f6ra den palestinska befolkningen fr\u00e5n Gaza, vilket han kallar den enda livskraftiga planen f\u00f6r regionens framtid.",
+        "news_epoch": 1739756640.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/israels-netanyahu-signals-hes-moving-ahead-with-trumps-plan-to-move-palestinians-from-gaza",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Israel&amp;#8217;s Netanyahu signals he&amp;#8217;s moving ahead with Trump&amp;#8217;s plan to move Palestinians from Gaza",
+        "news_group": 348
+    },
+    {
+        "news_id": "bbc_cglywyjg0kwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "En man beskrev hur han n\u00e4stan blev lurad av brottslingar som l\u00e5tsades vara inkassof\u00f6rr\u00e4ttare, som p\u00e5stod att han hade en fiktiv skuld och hotade att ta hans egendom.",
+        "news_epoch": 1739750520.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cglywyjg0kwo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;Fake bailiffs said they&#x27;d take my furniture&#x27;",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_3d23a7513f32",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Ukrainska presidenten Volodymyr Zelenskyy har instruerat sina ministrar att inte skriva under ett f\u00f6reslaget avtal som skulle ge USA tillg\u00e5ng till Ukrainas s\u00e4llsynta jordartsmetaller, med h\u00e4nvisning till att det fr\u00e4mst gynnar amerikanska intressen utan att erbjuda tillr\u00e4ckliga s\u00e4kerhetsgarantier f\u00f6r Ukraina.",
+        "news_epoch": 1739746800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/the-u-s-presented-ukraine-with-proposal-to-access-its-minerals-offering-no-guarantees-in-return",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "The U.S. presented Ukraine with proposal to access its minerals, offering no guarantees in return",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_78311ae3cb66",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "En stampede vid en j\u00e4rnv\u00e4gsstation i New Delhi resulterade i att minst 18 personer, inklusive 14 kvinnor, dog, varav m\u00e5nga var hinduiska pilgrimer p\u00e5 v\u00e4g till Maha Kumbh-festivalen.",
+        "news_epoch": 1739743320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/stampede-at-new-delhi-railway-station-in-india-leaves-at-least-18-people-dead",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Stampede at New Delhi railway station in India leaves at least 18 people dead",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c39190ev9pxo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "President Trump deltog i Nascar-s\u00e4songens \u00f6ppning i Daytona, medan en regnstorm orsakade skador i LA County. Filmen &#x27;Conclave&#x27; leder BAFTA-nomineringarna, och en hund vid namn Monty vann ett topppris i New York.",
+        "news_epoch": 1739742180.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/c39190ev9pxo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Watch: Trump&#x27;s motorcade drives lap of Daytona 500 racetrack",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144051",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Vissa produkter kan vara knappa p\u00e5 grund av kommande strejker, men det \u00f6vergripande k\u00f6pbeteendet f\u00f6rblir of\u00f6r\u00e4ndrat, enligt chefen f\u00f6r S-Gruppens livsmedelsbutik.",
+        "news_epoch": 1739733120.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144051",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Kaupan lakko sai osan suomalaisista varautumaan, ja hyllyj\u00e4kin tyhjeni \u2013 \u201dOstin kyll\u00e4 hieman enemm\u00e4n\u201d",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144045",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ett \u00e5r efter oppositionens ledare Alexei Navalnys d\u00f6d samlades supportrar vid Borisovo-kyrkog\u00e5rden och uttryckte blandade k\u00e4nslor av stolthet och sorg. M\u00e5nga hedrade honom med blommor, vilket reflekterade det politiska klimatet i Ryssland och bristen p\u00e5 en framtr\u00e4dande oppositionsfigur.",
+        "news_epoch": 1739732400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144045",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Ven\u00e4j\u00e4ll\u00e4 muistettiin Aleksei Navalnyia \u2013 oppositiojohtajan haudalle kulki p\u00e4iv\u00e4ll\u00e4 pitk\u00e4 jono Moskovassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144058",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "En studie visar att kommunikationen minskar i ordantal, d\u00e4r kvinnor anv\u00e4nder upp till 3 000 fler ord dagligen \u00e4n m\u00e4n. Denna trend har observerats i minst 40 \u00e5r. Genom att analysera 630 000 ljudinspelningar fr\u00e5n 22 studier i fyra l\u00e4nder fann forskarna att kvinnor i \u00e5ldern 25-65 talar mer \u00e4n m\u00e4n, med en genomsnittlig skillnad p\u00e5 1 073 ord per dag.",
+        "news_epoch": 1739730420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144058",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Tutkimus: Naiset k\u00e4ytt\u00e4v\u00e4t enemm\u00e4n sanoja kuin miehet",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143558",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Finska f\u00f6retag delar ut en begr\u00e4nsad m\u00e4ngd av sina vinster till \u00e4garna, till skillnad fr\u00e5n i USA d\u00e4r vinster \u00e5terinvesteras. Sm\u00e5investerare, som Jaakko Vettenniemi, drar nytta av utdelningar, s\u00e4rskilt under en l\u00f6nsam v\u00e5r f\u00f6r aktie\u00e4gare p\u00e5 Helsingforsb\u00f6rsen.",
+        "news_epoch": 1739725860.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143558",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "N\u00e4in kymmenen suosittua kansanosaketta jakaa muhkeita osinkoja \u2013 osa tilitt\u00e4\u00e4 vuoden voittonsa kokonaan omistajilleen",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144054",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Muhsin Hendricks, v\u00e4rldens f\u00f6rsta \u00f6ppet homosexuella imam, sk\u00f6ts i Sydafrika n\u00e4r han var p\u00e5 v\u00e4g till ett br\u00f6llop. Motiv f\u00f6r attacken \u00e4r ok\u00e4nt och g\u00e4rningspersonerna flydde fr\u00e5n platsen.",
+        "news_epoch": 1739725020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144054",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Maailman ensimm\u00e4inen avoimesti homoseksuaali-imaami on murhattu",
+        "news_group": 356
+    },
+    {
+        "news_id": "yle_7420144046",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Pinnawala, en viktig turistdestination och elefantreservat i Sri Lanka, firade sin 50-\u00e5rsdag. Pinnawala Elephant Orphanage, grundat 1975, tar hand om f\u00f6r\u00e4ldral\u00f6sa asiatiska elefanter.",
+        "news_epoch": 1739722140.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144046",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Kuvat: Norsujen orpokoti vietti 50-vuotisjuhliaan Sri Lankassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cx2483zrz0zo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Imponerande amerikanska tullavgifter p\u00e5 brittisk st\u00e5l skulle ha negativa effekter f\u00f6r b\u00e5da l\u00e4nderna, enligt den brittiska handelsministern Jonathan Reynolds. Han betonade behovet av f\u00f6rhandlingar f\u00f6r att undanta Storbritannien fr\u00e5n en f\u00f6reslagen 25 % importskatt av president Trump.",
+        "news_epoch": 1739721780.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2483zrz0zo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Trump steel tariffs negative for UK and US, says Reynolds",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c87d9z4g5ywo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Mer \u00e4n 40 personer, mestadels kvinnor, d\u00f6dades n\u00e4r en olaglig guldgruva kollapsade i Malis Kayes-region. Offren letade efter guldskrot i \u00f6ppna gruvor som l\u00e4mnats av industriella gruvdriftare.",
+        "news_epoch": 1739721000.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c87d9z4g5ywo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Dozens killed in Mali illegal gold mine collapse",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c4g7gd0vx5go",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Hongkongs Ocean Park har introducerat tvillingpandabebisar som lockar stora folkmassor vid sin debut. Bebisarna, tillf\u00e4lligt d\u00f6pta till &#x27;Storasyster&#x27; och &#x27;Lillebror&#x27;, deltar i en namnt\u00e4vling.",
+        "news_epoch": 1739720820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/videos/c4g7gd0vx5go",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Panda-stic! Twin cubs attract hundreds of visitors on debut",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71593167",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Europeiska unionen har tillk\u00e4nnagett ett finansieringsprogram p\u00e5 200 miljarder euro f\u00f6r artificiell intelligens (AI) f\u00f6r att konkurrera med USA och Kina, som leder inom AI-utveckling.",
+        "news_epoch": 1739719200.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/german-ai-on-the-cutting-edge-but-commercially-at-a-loss/a-71593167",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "German AI on the cutting edge, but commercially at a loss",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c626p25egddo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Den sydkoreanska sk\u00e5despelerskan Kim Sae-ron har hittats d\u00f6d i sitt hem i Seoul vid 24 \u00e5rs \u00e5lder. Polisen rapporterade att det inte fanns n\u00e5gra tecken p\u00e5 brott och utreder d\u00f6dsorsaken.",
+        "news_epoch": 1739719020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c626p25egddo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "South Korean actress Kim Sae-ron, 24, found dead",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cg5ynv58y8yo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Tyska v\u00e4ljare kommer den 23 februari att besluta om vem som ska leda deras n\u00e4sta regering, d\u00e4r Friedrich Merz konservativa kristdemokrater f\u00f6rv\u00e4ntas bli det st\u00f6rsta partiet.",
+        "news_epoch": 1739713980.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cg5ynv58y8yo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Who&#x27;s who in German elections and why this vote is important",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cjw4jj0p5jdo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ett kniv\u00f6verfall i Villach, \u00d6sterrike, resulterade i att en 14-\u00e5ring dog och fem andra skadades. Attacken har identifierats som en islamistisk attack kopplad till Islamiska staten.",
+        "news_epoch": 1739713620.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cjw4jj0p5jdo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Austria attack that killed teen linked to IS, officials say",
+        "news_group": 347
+    },
+    {
+        "news_id": "yle_7420144007",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "En handelsstrejk inleddes inom logistik p\u00e5 m\u00e5ndag och kommer att utvidgas till butiker p\u00e5 onsdag, med cirka 70 000 anst\u00e4llda involverade p\u00e5 3 000 platser. Strejken ber\u00e4knas p\u00e5g\u00e5 till torsdag morgon f\u00f6r logistik och l\u00f6rdag morgon f\u00f6r butiker.",
+        "news_epoch": 1739700060.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144007",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Kaupan alan lakot alkoivat maanantaina \u2013 \u201dRuoka ei tule loppumaan Suomesta\u201d, sanoo Kaupan liiton johtaja",
+        "news_group": 350
+    },
+    {
+        "news_id": "dw_a71628048",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "P\u00e5 \u00e5rsdagen av Alexei Navalnys d\u00f6d sa den tyske f\u00f6rbundskanslern Olaf Scholz att Navalny dog f\u00f6r demokrati och frihet i Ryssland. Navalny avled i en rysk f\u00e4ngelsekoloni under oklara omst\u00e4ndigheter, och hans supportrar skyller p\u00e5 Kreml.",
+        "news_epoch": 1739696520.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/navalny-death-anniversary-scholz-hails-activist-s-courage/a-71628048",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Navalny death anniversary: Scholz hails activist&#x27;s &#x27;courage&#x27;",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71626685",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Turkiet \u00e4r den n\u00e4st st\u00f6rsta honungsleverant\u00f6ren globalt, med en \u00e5rlig produktion p\u00e5 115 000 ton. Honungssektorn v\u00e4rderas till 270 miljoner euro, med Tyskland och USA som de st\u00f6rsta import\u00f6rerna.",
+        "news_epoch": 1739695980.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/turkish-fake-honey-production-on-the-rise/a-71626685",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Turkish fake honey production on the rise",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420142739",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Personer f\u00f6dda 1964 m\u00e5ste v\u00e4nta tills de \u00e4r 62 \u00e5r f\u00f6r att kvalificera sig f\u00f6r en delvis f\u00f6rtidspension, eftersom minimi\u00e5ldern har h\u00f6jts. Denna f\u00f6r\u00e4ndring har lett till en minskning av antalet s\u00f6kande f\u00f6r pensionen i \u00e5r, med uppskattningar som tyder p\u00e5 att cirka 20 000 nya pension\u00e4rer j\u00e4mf\u00f6rt med 31 000 f\u00f6rra \u00e5ret.",
+        "news_epoch": 1739687400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20142739",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Osittaisen vanhuus\u00adel\u00e4kkeen voi saada, vaikka olisi ty\u00f6t\u00f6n \u2013 ik\u00e4raja nousi \u00e4skett\u00e4in",
         "news_group": -1
     },
     {
         "news_id": "dw_a71608717",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Studentprotesterna vid universitetet i Novi Sad b\u00f6rjade den 2 november, drivet av krav p\u00e5 ansvar efter en tragisk h\u00e4ndelse som d\u00f6dade 15 personer. Studenterna har organiserat blockader, skapat en demokratisk beslutsstruktur och bildat s\u00e4kerhetsteam f\u00f6r att hantera protesterna.",
-        "news_epoch": 1739533500.0,
+        "news_header": "Studentblockaderna vid universitetet i Novi Sad i Serbien inleddes den 2 november efter ett polismeddelande. Studenter, ledda av Olga Pantic, kr\u00e4vde ansvar f\u00f6r en tragisk h\u00e4ndelse som d\u00f6dade 15 personer.",
+        "news_epoch": 1739685180.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.dw.com/en/inside-serbia-s-student-protest-movement/a-71608717",
+        "news_url": "https://www.dw.com/en/how-serbia-s-student-protesters-organize-fight-for-justice/a-71608717",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Inside Serbia&#x27;s student protest movement",
+        "news_original_title": "How Serbia&#x27;s student protesters organize fight for justice",
         "news_group": -1
     },
     {
-        "news_id": "yle_7420143779",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Ett filippinskt djurskydd anordnade ett evenemang p\u00e5 alla hj\u00e4rtans dag kallat &#x27;Furst date&#x27; d\u00e4r deltagarna kunde interagera med hundar och katter, vilket potentiellt kan leda till adoptioner.",
-        "news_epoch": 1739532660.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143779",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Katso video: Filippiineill\u00e4 halailtiin kodittomia kissoja ja koiria yst\u00e4v\u00e4np\u00e4iv\u00e4n kunniaksi",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143831",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Donald Trump har f\u00f6reslagit att palestinier ska flyttas fr\u00e5n Gaza, och Saudiarabien planerar att vara v\u00e4rd f\u00f6r ett toppm\u00f6te med ledare fr\u00e5n Egypten, Jordanien, Qatar och F\u00f6renade Arabemiraten f\u00f6r att diskutera detta f\u00f6rslag.",
-        "news_epoch": 1739531160.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143831",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Hallintol\u00e4hde: Saudi-Arabia is\u00e4nn\u00f6i huippukokouksen Trumpin Gaza-suunnitelmasta",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143710",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Nordnet upplevde en dataintr\u00e5ng som p\u00e5verkade 1500 individers kontoinformation p\u00e5 grund av en komponentfel, vilket tillf\u00e4lligt var synligt f\u00f6r andra kunder. F\u00f6retaget meddelade de svenska s\u00e4kerhetsmyndigheterna och den svenska Finansinspektionen inom den f\u00f6reskrivna 72-timmars tidsramen.",
-        "news_epoch": 1739530560.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143710",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Nordnet on j\u00e4tt\u00e4nyt tietoturvaloukkauksesta ilmoituksen Ruotsin valvovalle viranomaiselle",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143724",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Den tyska arm\u00e9n har f\u00f6rsvagats under kriget i Ukraina, med en beredskapsgrad som sjunkit under 50%. Bundeswehr lider av en betydande brist p\u00e5 soldater och utrustning, med m\u00e5let att ha 10 brigader redo till 2030.",
-        "news_epoch": 1739530380.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143724",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Reuters: Saksan armeija on heikentynyt Ven\u00e4j\u00e4n hy\u00f6kk\u00e4yssodan aikana",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cy4m312ll24o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Thames Water har \u00f6verklagat f\u00f6r att f\u00e5 h\u00f6ja avgifterna \u00f6ver regulatorns gr\u00e4ns p\u00e5 35% under de kommande fem \u00e5ren p\u00e5 grund av ekonomiska sv\u00e5righeter och behovet av investeringar i infrastrukturen.",
-        "news_epoch": 1739529660.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cy4m312ll24o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Thames Water launches appeal for larger bill rise",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143814",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "F\u00f6rsvarsminister Pete Hegseth sade att Europa inte kan r\u00e4kna med att USA kommer att stanna d\u00e4r p\u00e5 obest\u00e4md tid och betonade att f\u00f6rtroende f\u00f6r den ryska presidenten Putin inte \u00e4r n\u00f6dv\u00e4ndigt f\u00f6r framtida f\u00f6rhandlingar om kriget i Ukraina.",
-        "news_epoch": 1739529000.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143814",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Yhdysvaltain puolustusministeri: Putiniin ei tarvitse luottaa",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143699",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Utredaren Charly Salonius-Pasternak f\u00f6resl\u00e5r att J.D. Vances mjukare h\u00e5llning gentemot Trump ang\u00e5ende Ukraina kanske inte \u00e4r en strategisk taktik. Vance diskuterade potentiellt milit\u00e4rt och ekonomiskt tryck p\u00e5 Ryssland om fredssamtalen misslyckas, vilket indikerar en mer positiv syn p\u00e5 Ukraina \u00e4n Trumps senaste kommentarer.",
-        "news_epoch": 1739528460.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143699",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Tutkija: Vancen puheilla ei ole mit\u00e4\u00e4n arvoa, eik\u00e4 Kremliss\u00e4 uskota ni\u00edhin",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143802",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Byggnadsf\u00f6rbundet deltar i Industrif\u00f6rbundets arbetsnedl\u00e4ggning fr\u00e5n 24-28 februari, vilket godk\u00e4ndes av kommissionen den 13 februari. Byggnadsarbetarf\u00f6rbundets bidrag st\u00f6der avtalsarbete vid Borealis Polymers, Neste raffinaderi och Wipak fabrik, med syftet att p\u00e5skynda avslutandet av kollektivavtal inom industrisektorn och st\u00f6dja de strejker som utlysts av Industrif\u00f6rbundet f\u00f6r samma period, som ber\u00f6r 63 f\u00f6retag och 8 500 anst\u00e4llda.",
-        "news_epoch": 1739527620.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143802",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Rakennusliitto kertoo tukilakoista",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c203rnepzexo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Hus\u00e4gare med ol\u00e4mplig isolering st\u00e5r inf\u00f6r allvarliga problem, inklusive fukt och m\u00f6gel, men m\u00e5nga \u00e4r inte ber\u00e4ttigade till statligt st\u00f6d p\u00e5 grund av tidpunkten f\u00f6r sina installationer.",
-        "news_epoch": 1739527560.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c203rnepzexo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "&#x27;Mould, damp and decay&#x27;: Homes excluded from insulation scandal help",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71596247",
+        "news_id": "dw_a71627300",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "P\u00e5 torsdagen beordrade president Trump utvecklingen av \u00f6msesidiga tullar p\u00e5 importer till USA, vilket uppfyller ett kampanjl\u00f6fte. Han uttalade att USA kommer att ta ut samma tullar som andra l\u00e4nder p\u00e5 amerikanska varor.",
-        "news_epoch": 1739526240.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.dw.com/en/what-are-reciprocal-tariffs-trump-s-trade-agenda-explained/a-71596247",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "What are reciprocal tariffs? Trump&#x27;s trade agenda explained",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143517",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Annons\u00f6rer \u00e5terv\u00e4nder till plattformen som de tidigare bojkottade, d\u00e4r Amazon planerar att g\u00f6ra betydande investeringar i X-reklam. Apple har \u00e5terupptagit annonsering p\u00e5 X efter ett \u00e5rs bojkott.",
-        "news_epoch": 1739525940.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143517",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Elon Musk aiheutti mainostajien joukkopaon viestipalvelu X:st\u00e4 \u2013 USA:n presidentinvaalit n\u00e4ytt\u00e4\u00e4 k\u00e4\u00e4nt\u00e4neen trendin",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71607477",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Nigerianska lagstiftare har godk\u00e4nt ytterligare 200 miljoner dollarer f\u00f6r h\u00e4lsosektorn f\u00f6r att kompensera f\u00f6r avst\u00e4ngningen av amerikansk utl\u00e4ndsk hj\u00e4lp. Denna finansiering \u00e4r avg\u00f6rande f\u00f6r att forts\u00e4tta insatser mot sjukdomar som malaria, HIV och tuberkulos.",
-        "news_epoch": 1739525340.0,
+        "news_header": "Argentinas president Javier Milei st\u00e5r inf\u00f6r kritik och hot om riksr\u00e4tt efter att ha marknadsf\u00f6rt en kryptovaluta p\u00e5 sociala medier som snabbt tappade i v\u00e4rde. Kryptovalutan steg initialt till 5 dollar innan den rasade under 1 dollar, vilket ledde till anklagelser om en &#x27;rug pull&#x27;-skandal.",
+        "news_epoch": 1739680080.0,
         "news_categories": [
             "world"
         ],
-        "news_url": "https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477",
+        "news_url": "https://www.dw.com/en/argentina-milei-faces-impeachment-threat-over-crypto-post/a-71627300",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Nigeria approves $200M to offset shortfall from US aid cuts",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c5yvn90pl5no",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tv\u00e5 amerikanska lagstiftare har f\u00f6rd\u00f6mt Storbritanniens beg\u00e4ran om att f\u00e5 tillg\u00e5ng till krypterade data fr\u00e5n Apple-anv\u00e4ndare, och kallat det en farlig hot mot amerikansk integritet och s\u00e4kerhet.",
-        "news_epoch": 1739524980.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c5yvn90pl5no",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "US politicians furious at UK demand for encrypted Apple data",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cn57vpp5zvxo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Strejkerna av Avanti West Coast t\u00e5gchefer har st\u00e4llts in f\u00f6r att m\u00f6jligg\u00f6ra f\u00f6rhandlingar i en tvist om arbete p\u00e5 vilodagar. RMT-facket hade planerat strejker de kommande tre s\u00f6ndagarna, men efter att en reviderad proposition avvisades, meddelade de nya strejkdatum.",
-        "news_epoch": 1739524560.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cn57vpp5zvxo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Avanti West Coast strikes suspended for talks",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71603432",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Indiens premi\u00e4rminister Narendra Modi och USA:s president Donald Trump delar en \u00f6msesidig f\u00f6rst\u00e5else, f\u00f6rst\u00e4rkt av deras populistiska dragning och stora folkmassor.",
-        "news_epoch": 1739522760.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/modi-meets-trump-personal-rapport-despite-tariffs/a-71603432",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Modi meets Trump: Personal rapport despite tariffs",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71605928",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Indiens premi\u00e4rminister Narendra Modis bes\u00f6k i Frankrike inkluderade ett stopp i Marseille, d\u00e4r president Emmanuel Macron lyfte fram staden som en nyckelpunkt f\u00f6r Indien-Mellan\u00f6stern-Europa Ekonomisk Korridor (IMEC).",
-        "news_epoch": 1739522580.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/macron-pitches-france-as-india-s-european-trade-gateway/a-71605928",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Macron pitches France as India&#x27;s European trade gateway",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143757",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Datacenter st\u00e5r f\u00f6r en stor del av den globala elf\u00f6rbrukningen, som f\u00f6rv\u00e4ntas \u00f6ka. \u00c5bo Akademi samarbetar med RISE f\u00f6r att utveckla energieffektiva och h\u00e5llbara datacenter.",
-        "news_epoch": 1739520840.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143757",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Turkulaisyliopisto kehitt\u00e4\u00e4 tulevaisuuden datakeskuksia Ruotsin valtiollisen tutkimuslaitoksen kanssa",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71603682",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Andrej Babis, ledare f\u00f6r oppositionen i Tjeckien, siktar p\u00e5 att bli premi\u00e4rminister igen i de kommande valen, d\u00e4r hans parti ANO leder i opinionsm\u00e4tningar. Babis planerar att omstrukturera den offentliga median, g\u00e5 bort fr\u00e5n den nuvarande finansieringsmodellen och sl\u00e5 samman Tjeckisk radio och TV till en statligt finansierad enhet.",
-        "news_epoch": 1739520420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/czech-opposition-leader-eyes-state-funding-for-public-media/a-71603682",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Czech opposition leader eyes state funding for public media",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143698",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Byggandet av nya bost\u00e4der har minskat kraftigt, med endast 21 000 nya bost\u00e4der byggda 2023, det l\u00e4gsta p\u00e5 ett decennium. Trots behovet av tiotusentals nya bost\u00e4der \u00e5rligen finns det ingen tydlig \u00e5terh\u00e4mtning inom byggandet.",
-        "news_epoch": 1739517300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143698",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Suomeen tarvitaan hurja m\u00e4\u00e4r\u00e4 uusia asuntoja \u2013 muuten edess\u00e4 on hintaralli, arvioi selvitys",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71605032",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "En explosion i sydv\u00e4stra Pakistan d\u00f6dade minst 10 arbetare som reste till en marknad i Harnai n\u00e4r deras fordon tr\u00e4ffades av en improviserad spr\u00e4nganordning. Lokala tj\u00e4nstem\u00e4n rapporterade att m\u00e5nga av de skadade var i kritiskt tillst\u00e5nd.",
-        "news_epoch": 1739517240.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/pakistan-at-least-10-workers-killed-in-balochistan-blast/a-71605032",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Pakistan: At least 10 workers killed in Balochistan blast",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143720",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Olli Rehn kommer att presenteras f\u00f6r andra mandatperioden f\u00f6r att leda Finlands Bank",
-        "news_epoch": 1739514000.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143720",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Olli Rehni\u00e4 esitet\u00e4\u00e4n toiselle kaudelle Suomen Pankin johtoon",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143717",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Postoms\u00e4ttningen minskade",
-        "news_epoch": 1739513460.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143717",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Postin liikevaihto laski",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143715",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "S\u00e4kra investeringar producerade 10,2 procent",
-        "news_epoch": 1739513400.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143715",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Varman sijoitukset tuottivat 10,2 prosenttia",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143687",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Sotkamo Silver rapporterade ett positivt \u00e5rligt resultat trots en minskning av silverinneh\u00e5llet i malmen och \u00f6kande kostnader. F\u00f6retaget gjorde en r\u00f6relsevinst p\u00e5 32 miljoner SEK under 2023, vilket \u00e4r en minskning fr\u00e5n 67 miljoner SEK 2022.",
-        "news_epoch": 1739512020.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143687",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Suomen ainoa hopeakaivos teki viime vuonna voitollisen tuloksen",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71583132",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Mali, Niger och Burkina Faso, trots att de \u00e4r bland Afrikas fattigaste nationer, har betydande mineralresurser, inklusive guld och litium. Efter milit\u00e4rkuppar har dessa l\u00e4nder distanserat sig fr\u00e5n v\u00e4sterl\u00e4ndskt inflytande, l\u00e4mnat ECOWAS och bildat sin egen Allians av Sahelstater.",
-        "news_epoch": 1739511120.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/lithium-uranium-gold-how-sahel-states-ditched-western-mining-interests/a-71583132",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Lithium, uranium, gold: How Sahel states ditched Western mining interests",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143697",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "VR \u00f6kade tydligt sina int\u00e4kter",
-        "news_epoch": 1739510760.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143697",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "VR kasvatti tulostaan selv\u00e4sti",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71577773",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Ungef\u00e4r tre fj\u00e4rdedelar av v\u00e4rldens tigrar lever nu i Indien, d\u00e4r deras population mer \u00e4n f\u00f6rdubblades fr\u00e5n 1 706 \u00e5r 2010 till n\u00e4stan 3 700 \u00e5r 2022 tack vare bevarandeinsatser.",
-        "news_epoch": 1739509020.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.dw.com/en/conservation-efforts-double-india-s-tiger-population/a-71577773",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Conservation efforts double India&#x27;s tiger population",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420142748",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Under 2010-talet etablerade ryssar ett datacenter och en larmfabrik i Savonlinna, Finland. Trustnet och Argus Spectrum var de huvudsakliga f\u00f6retagen, d\u00e4r Trustnet stod inf\u00f6r konkurs och Argus Spectrum k\u00e4mpade med personal- och \u00e4garproblem.",
-        "news_epoch": 1739507460.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20142748",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Ven\u00e4l\u00e4isten perustama datakeskus hurisee edelleen Savonlinnan konkurssikiinteist\u00f6ss\u00e4 \u2013 kaupunkilaiset yhteydess\u00e4 supoon",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cg5yjqv5zv8o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Blue Origin, som \u00e4gs av Jeff Bezos, s\u00e4ger upp cirka 1 400 anst\u00e4llda, eller 10 % av sin arbetsstyrka, som en del av en strategi f\u00f6r att fokusera p\u00e5 att \u00f6ka raketlanceringarna.",
-        "news_epoch": 1739507340.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cg5yjqv5zv8o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Jeff Bezos space firm Blue Origin to cut a tenth of jobs",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143676",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Ekonomin v\u00e4xte med 0,7 procent i slutet av f\u00f6rra \u00e5ret",
-        "news_epoch": 1739506860.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143676",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Talous kasvoi 0,7 prosentin tahtia viime vuoden lopulla",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cnvql2m5mz7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Flygbolag och hotell\u00e4gare kr\u00e4ver en reform av Heathrow&#x27;s finansieringsmodell innan n\u00e5gra investeringar g\u00f6rs i den f\u00f6reslagna tredje landningsbanan. De h\u00e4vdar att den nuvarande modellen g\u00f6r Heathrow till den dyraste flygplatsen i v\u00e4rlden, och utan f\u00f6r\u00e4ndringar kommer den tredje landningsbanan inte att vara genomf\u00f6rbar p\u00e5 grund av h\u00f6ga kostnader.",
-        "news_epoch": 1739505780.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cnvql2m5mz7o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Change Heathrow funding or third runway won&#x27;t happen - businesses",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143666",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "En unders\u00f6kning fr\u00e5n Danske Bank visar att 33% av kvinnorna k\u00e4nner att de saknar ekonomiska m\u00f6jligheter att s\u00e4ga upp sig fr\u00e5n sina jobb, d\u00e4r finska kvinnor k\u00e4nner sig s\u00e4rskilt begr\u00e4nsade.",
-        "news_epoch": 1739502300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143666",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Kysely: Naiset kokevat miehi\u00e4 useammin, ettei heill\u00e4 ole varaa erota",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143501",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Gr\u00f6na investeringar i Finland n\u00e4rmar sig 8,5 miljarder euro i \u00e5r, trots ekonomiska utmaningar. Finlands Industrif\u00f6rbund rapporterar en \u00f6kning av avslutade projekt, med \u00f6ver 900 p\u00e5g\u00e5ende.",
-        "news_epoch": 1739502000.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143501",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "T\u00e4llaisia vihre\u00e4n siirtym\u00e4n hankkeita Suomeen valmistuu t\u00e4n\u00e4 vuonna \u2013 tuulivoima j\u00e4\u00e4 datakeskusten jalkoihin",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71602870",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "TikTok-appen har \u00e5terv\u00e4nt till Apple App Store och Google Play Store i USA efter en f\u00f6rsening av sitt f\u00f6rbud av president Trump. Trump-administrationen f\u00f6rs\u00e4krade appbutikerna att de inte skulle f\u00e5 b\u00f6ter f\u00f6r att uppr\u00e4tth\u00e5lla TikTok.",
-        "news_epoch": 1739496000.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/tiktok-returns-to-us-app-stores-weeks-after-trump-delays-ban/a-71602870",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "TikTok returns to US app stores weeks after Trump delays ban",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cx2qz8x3j8no",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Antalet utl\u00e4ndska arbetare som rapporterar om utnyttjande, mobbning och d\u00e5liga f\u00f6rh\u00e5llanden p\u00e5 brittiska g\u00e5rdar \u00f6kade kraftigt under 2024, med n\u00e4stan 700 klagom\u00e5l till Worker Support Centre.",
-        "news_epoch": 1739490840.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cx2qz8x3j8no",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "More migrant workers claim UK farm exploitation",
+        "news_original_title": "Argentina: Milei faces impeachment threat over crypto post",
         "news_group": -1
     }
 ];
