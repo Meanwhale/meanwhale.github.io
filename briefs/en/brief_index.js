@@ -1,9 +1,57 @@
 const articles = [
     {
+        "news_id": "bbc_c4gwgpjgl5zo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Average wages in the UK are rising faster than inflation, with a 3.4% increase from October to December compared to the previous year. The unemployment rate remains at 4.4%, but hiring intentions have weakened, particularly in the hospitality and retail sectors.",
+        "news_epoch": 1739864340.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c4gwgpjgl5zo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "UK wages continue to outpace inflation",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144348",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Israel does not fully trust the Lebanese army despite a ceasefire agreement that led to the withdrawal of Israeli troops from southern Lebanon. Israel retains five bases in the region, citing the Lebanese army&#x27;s inability to control Hezbollah&#x27;s activities.",
+        "news_epoch": 1739862420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144348",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
+        "news_group": 414
+    },
+    {
+        "news_id": "yle_7420144347",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nokia Panimo plans to list on the First North market of the Helsinki Stock Exchange. It is the second largest brewery in Finland with net sales of EUR 12 million and an operating profit of EUR 1.7 million.",
+        "news_epoch": 1739862300.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144347",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Nokian Panimo aikoo listautua p\u00f6rssiin",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420144334",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Despite the destruction, returnees to Homs, the heart of the Syrian uprising, are grateful to be back in their neighborhood after years of conflict. The ceasefire has allowed families to return to homes that are mostly ruined, yet they express joy and hope for the future, determined to rebuild their lives.",
+        "news_header": "Despite the destruction in Homs, returnees are joyful to be back in their neighborhood after years of conflict. The Syrian revolution in November has enabled many families to return home for the first time in nearly a decade.",
         "news_epoch": 1739858340.0,
         "news_categories": [
             "world"
@@ -11,7 +59,7 @@ const articles = [
         "news_url": "https://yle.fi/a/74-20144334",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
-        "news_more": false,
+        "news_more": true,
         "news_original_title": "Syyrian pakolaiset alkavat palailla vallankumouksen syntypaikkaan, Homsiin",
         "news_group": -1
     },
@@ -30,6 +78,22 @@ const articles = [
         "news_more": false,
         "news_original_title": "Yhdysvallat ja Ven\u00e4j\u00e4 pohjustavat rauhanneuvotteluja Ukrainan p\u00e4\u00e4n yli Saudi-Arabiassa \u2013 osapuolilla eroja odotuksissa",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_cdryr8m1k2eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A Delta Air Lines flight crashed and flipped while landing at Toronto Pearson International Airport. All 80 people on board survived, though 18 were injured, with three seriously hurt.",
+        "news_epoch": 1739857320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Witnesses tell of moment plane crashed and flipped",
+        "news_group": 412
     },
     {
         "news_id": "yle_7420144329",
@@ -51,7 +115,7 @@ const articles = [
         "news_id": "bbc_cn4z4w3v5y8o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Sir Keir Starmer emphasized that any peace deal for Ukraine would need a &#x27;US backstop&#x27; to deter Russia from future aggression. He mentioned the possibility of deploying UK troops if a lasting agreement is reached.",
+        "news_header": "Sir Keir Starmer emphasized the need for a US backstop in any Ukraine peace deal to deter Russia from future aggression. Following a meeting with European leaders, he mentioned the possibility of deploying UK troops if a lasting peace agreement is reached.",
         "news_epoch": 1739856420.0,
         "news_categories": [
             "world"
@@ -60,7 +124,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Starmer says US &#x27;backstop&#x27; needed for Ukraine peace deal",
+        "news_original_title": "Starmer says US &#x27;backstop&#x27; needed for Ukraine deal",
         "news_group": -1
     },
     {
@@ -83,7 +147,7 @@ const articles = [
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "A Delta Airlines flight crashed while landing at Toronto&#x27;s Pearson International Airport, injuring at least 19 people. Severe storms in the South have resulted in 12 deaths, with ongoing rescue efforts in Kentucky.",
+        "news_header": "A Delta Airlines flight crashed while landing in Toronto, injuring at least 19 people. Severe storms in the South have resulted in 12 deaths, with ongoing rescue operations in Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -125,7 +189,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 409
+        "news_group": 418
     },
     {
         "news_id": "yle_7420144323",
@@ -185,11 +249,11 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "All passengers and crew survive plane crash at Toronto airport",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "yle_7420144317",
@@ -237,7 +301,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -253,7 +317,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -285,7 +349,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 407
+        "news_group": 416
     },
     {
         "news_id": "yle_7420144315",
@@ -333,7 +397,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 409
+        "news_group": 418
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -349,7 +413,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 410
+        "news_group": 419
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -365,7 +429,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 406
+        "news_group": 415
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -387,7 +451,7 @@ const articles = [
         "news_id": "bbc_c8636e7xq5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Chancellor Rachel Reeves&#x27; attempt to intervene in a significant case regarding car loans was blocked by the UK&#x27;s Supreme Court. The case will determine if lenders should have disclosed their commission from car loans.",
+        "news_header": "Chancellor Rachel Reeves&#x27; attempt to intervene in a significant case regarding car loans was blocked by the UK&#x27;s Supreme Court. The case, set for April, will determine if lenders should have disclosed their commission from car loans.",
         "news_epoch": 1739834220.0,
         "news_categories": [
             "business"
@@ -413,7 +477,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 405
+        "news_group": 413
     },
     {
         "news_id": "yle_7420144311",
@@ -525,7 +589,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "yle_7420144304",
@@ -669,7 +733,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 410
+        "news_group": 419
     },
     {
         "news_id": "dw_a71642337",
@@ -701,7 +765,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 411
+        "news_group": 420
     },
     {
         "news_id": "yle_7420144293",
@@ -765,7 +829,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 406
+        "news_group": 415
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -845,7 +909,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 411
+        "news_group": 420
     },
     {
         "news_id": "dw_a71639204",
@@ -1005,7 +1069,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": -1
+        "news_group": 414
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1069,7 +1133,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 405
+        "news_group": 413
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1085,7 +1149,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 407
+        "news_group": 416
     },
     {
         "news_id": "yle_7420144151",
@@ -1117,7 +1181,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Britannia harkitsee rauhanturvaajien l\u00e4hett\u00e4mist\u00e4 Ukrainaan \u2013 joukkojen pit\u00e4isi olla taistelukelpoisia, sanoo tutkija",
-        "news_group": 408
+        "news_group": 417
     },
     {
         "news_id": "dw_a71610611",
@@ -1533,7 +1597,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Britannian p\u00e4\u00e4ministeri valmis l\u00e4hett\u00e4m\u00e4\u00e4n joukkoja rauhanturvateht\u00e4viin Ukrainaan \u2013 armeijan johto n\u00e4kee vaikeana",
-        "news_group": 408
+        "news_group": 417
     },
     {
         "news_id": "yle_7420144064",
@@ -1549,7 +1613,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Ainakin kahdeksan kuollut tulvissa Kentuckyssa Yhdysvalloissa",
-        "news_group": 405
+        "news_group": 413
     },
     {
         "news_id": "pbs_3d23a7513f32",
@@ -1565,54 +1629,6 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "The U.S. presented Ukraine with proposal to access its minerals, offering no guarantees in return",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144062",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739743620.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144062",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Ukrainan osallistumisesta USA:n ja Ven\u00e4j\u00e4n neuvotteluihin Saudi-Arabiassa liikkuu ristiriitaisia tietoja",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_78311ae3cb66",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "A stampede at a railway station in New Delhi resulted in the deaths of at least 18 people, including 14 women, many of whom were Hindu pilgrims heading to the Maha Kumbh festival.",
-        "news_epoch": 1739743320.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/stampede-at-new-delhi-railway-station-in-india-leaves-at-least-18-people-dead",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Stampede at New Delhi railway station in India leaves at least 18 people dead",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c39190ev9pxo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "President Trump participated in the Nascar season opener at Daytona, while a rainstorm caused damage in LA County. The film &#x27;Conclave&#x27; leads BAFTA nominations, and a dog named Monty won a top prize in New York.",
-        "news_epoch": 1739742180.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/c39190ev9pxo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Watch: Trump&#x27;s motorcade drives lap of Daytona 500 racetrack",
         "news_group": -1
     }
 ];

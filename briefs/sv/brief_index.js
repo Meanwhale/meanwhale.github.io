@@ -1,9 +1,57 @@
 const articles = [
     {
+        "news_id": "bbc_c4gwgpjgl5zo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Genomsnittliga l\u00f6ner i Storbritannien \u00f6kar snabbare \u00e4n inflationen, med en \u00f6kning p\u00e5 3,4 % fr\u00e5n oktober till december j\u00e4mf\u00f6rt med f\u00f6reg\u00e5ende \u00e5r. Arbetsl\u00f6sheten ligger kvar p\u00e5 4,4 %, men anst\u00e4llningsintentionerna har f\u00f6rsvagats, s\u00e4rskilt inom hotell- och detaljhandelssektorerna.",
+        "news_epoch": 1739864340.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c4gwgpjgl5zo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "UK wages continue to outpace inflation",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144348",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Israel litar inte helt p\u00e5 den libanesiska arm\u00e9n trots ett eldupph\u00f6rsavtal som ledde till att israeliska trupper drog sig tillbaka fr\u00e5n s\u00f6dra Libanon. Israel beh\u00e5ller fem baser i regionen och h\u00e4nvisar till den libanesiska arm\u00e9ns of\u00f6rm\u00e5ga att kontrollera Hezbollahs aktiviteter.",
+        "news_epoch": 1739862420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144348",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
+        "news_group": 414
+    },
+    {
+        "news_id": "yle_7420144347",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Nokia Panimo planerar att notera sig p\u00e5 First North-marknaden p\u00e5 Helsingforsb\u00f6rsen. Det \u00e4r Finlands n\u00e4st st\u00f6rsta bryggeri med en nettof\u00f6rs\u00e4ljning p\u00e5 12 miljoner euro och en r\u00f6relsevinst p\u00e5 1,7 miljoner euro.",
+        "news_epoch": 1739862300.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144347",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Nokian Panimo aikoo listautua p\u00f6rssiin",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420144334",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Trots f\u00f6rst\u00f6relsen \u00e4r \u00e5terv\u00e4ndarna till Homs, hj\u00e4rtat av den syriska upproret, tacksamma f\u00f6r att vara tillbaka i sitt grannskap efter \u00e5r av konflikt. Vapenvilan har gjort det m\u00f6jligt f\u00f6r familjer att \u00e5terv\u00e4nda till sina mestadels f\u00f6rst\u00f6rda hem, men de uttrycker gl\u00e4dje och hopp f\u00f6r framtiden, beslutsamma att \u00e5teruppbygga sina liv.",
+        "news_header": "Trots f\u00f6rst\u00f6relsen i Homs \u00e4r \u00e5terv\u00e4ndarna glada att vara tillbaka i sitt grannskap efter \u00e5r av konflikt. Den syriska revolutionen i november har m\u00f6jliggjort f\u00f6r m\u00e5nga familjer att \u00e5terv\u00e4nda hem f\u00f6r f\u00f6rsta g\u00e5ngen p\u00e5 n\u00e4stan ett decennium.",
         "news_epoch": 1739858340.0,
         "news_categories": [
             "world"
@@ -11,7 +59,7 @@ const articles = [
         "news_url": "https://yle.fi/a/74-20144334",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
-        "news_more": false,
+        "news_more": true,
         "news_original_title": "Syyrian pakolaiset alkavat palailla vallankumouksen syntypaikkaan, Homsiin",
         "news_group": -1
     },
@@ -30,6 +78,22 @@ const articles = [
         "news_more": false,
         "news_original_title": "Yhdysvallat ja Ven\u00e4j\u00e4 pohjustavat rauhanneuvotteluja Ukrainan p\u00e4\u00e4n yli Saudi-Arabiassa \u2013 osapuolilla eroja odotuksissa",
         "news_group": -1
+    },
+    {
+        "news_id": "bbc_cdryr8m1k2eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ett Delta Air Lines-flyg kraschade och v\u00e4nde upp och ner vid landning p\u00e5 Toronto Pearson International Airport. Alla 80 personer ombord \u00f6verlevde, \u00e4ven om 18 skadades, varav tre allvarligt.",
+        "news_epoch": 1739857320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Witnesses tell of moment plane crashed and flipped",
+        "news_group": 412
     },
     {
         "news_id": "yle_7420144329",
@@ -51,7 +115,7 @@ const articles = [
         "news_id": "bbc_cn4z4w3v5y8o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Sir Keir Starmer betonade att en eventuell fredsavtal f\u00f6r Ukraina skulle beh\u00f6va ett &#x27;amerikanskt st\u00f6d&#x27; f\u00f6r att avskr\u00e4cka Ryssland fr\u00e5n framtida aggression. Han n\u00e4mnde m\u00f6jligheten att skicka brittiska trupper om ett varaktigt avtal n\u00e5s.",
+        "news_header": "Sir Keir Starmer betonade behovet av ett amerikanskt st\u00f6d i en eventuell freds\u00f6verenskommelse f\u00f6r Ukraina f\u00f6r att avskr\u00e4cka Ryssland fr\u00e5n framtida aggressioner. Efter ett m\u00f6te med europeiska ledare n\u00e4mnde han m\u00f6jligheten att skicka brittiska trupper om en varaktig fredsavtal n\u00e5s.",
         "news_epoch": 1739856420.0,
         "news_categories": [
             "world"
@@ -60,7 +124,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Starmer says US &#x27;backstop&#x27; needed for Ukraine peace deal",
+        "news_original_title": "Starmer says US &#x27;backstop&#x27; needed for Ukraine deal",
         "news_group": -1
     },
     {
@@ -83,7 +147,7 @@ const articles = [
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "Ett Delta Airlines-flyg kraschade vid landning p\u00e5 Torontos Pearson internationella flygplats, vilket skadade minst 19 personer. Allvarliga stormar i s\u00f6dern har resulterat i 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
+        "news_header": "Ett Delta Airlines-flyg kraschade vid landning i Toronto och skadade minst 19 personer. Allvarliga stormar i s\u00f6dern har resulterat i 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -125,7 +189,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 409
+        "news_group": 418
     },
     {
         "news_id": "yle_7420144323",
@@ -185,11 +249,11 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "All passengers and crew survive plane crash at Toronto airport",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "yle_7420144317",
@@ -237,7 +301,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -253,7 +317,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -285,7 +349,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 407
+        "news_group": 416
     },
     {
         "news_id": "yle_7420144315",
@@ -333,7 +397,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 409
+        "news_group": 418
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -349,7 +413,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 410
+        "news_group": 419
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -365,7 +429,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 406
+        "news_group": 415
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -387,7 +451,7 @@ const articles = [
         "news_id": "bbc_c8636e7xq5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Kansler Rachel Reeves f\u00f6rs\u00f6k att ingripa i ett betydande fall ang\u00e5ende bill\u00e5n blockerades av Storbritanniens h\u00f6gsta domstol. Fallet kommer att avg\u00f6ra om l\u00e5ngivare borde ha informerat kunderna om sin provision fr\u00e5n bill\u00e5n.",
+        "news_header": "Kansler Rachel Reeves f\u00f6rs\u00f6k att ingripa i ett betydande fall ang\u00e5ende bill\u00e5n blockerades av Storbritanniens h\u00f6gsta domstol. Fallet, som \u00e4r planerat till april, kommer att avg\u00f6ra om l\u00e5ngivare borde ha informerat kunderna om sin provision fr\u00e5n bill\u00e5n.",
         "news_epoch": 1739834220.0,
         "news_categories": [
             "business"
@@ -413,7 +477,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 405
+        "news_group": 413
     },
     {
         "news_id": "yle_7420144311",
@@ -525,7 +589,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 404
+        "news_group": 412
     },
     {
         "news_id": "yle_7420144304",
@@ -669,7 +733,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 410
+        "news_group": 419
     },
     {
         "news_id": "dw_a71642337",
@@ -701,7 +765,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 411
+        "news_group": 420
     },
     {
         "news_id": "yle_7420144293",
@@ -765,7 +829,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 406
+        "news_group": 415
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -845,7 +909,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 411
+        "news_group": 420
     },
     {
         "news_id": "dw_a71639204",
@@ -1005,7 +1069,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": -1
+        "news_group": 414
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1069,7 +1133,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 405
+        "news_group": 413
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1085,7 +1149,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 407
+        "news_group": 416
     },
     {
         "news_id": "yle_7420144151",
@@ -1117,7 +1181,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Britannia harkitsee rauhanturvaajien l\u00e4hett\u00e4mist\u00e4 Ukrainaan \u2013 joukkojen pit\u00e4isi olla taistelukelpoisia, sanoo tutkija",
-        "news_group": 408
+        "news_group": 417
     },
     {
         "news_id": "dw_a71610611",
@@ -1533,7 +1597,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Britannian p\u00e4\u00e4ministeri valmis l\u00e4hett\u00e4m\u00e4\u00e4n joukkoja rauhanturvateht\u00e4viin Ukrainaan \u2013 armeijan johto n\u00e4kee vaikeana",
-        "news_group": 408
+        "news_group": 417
     },
     {
         "news_id": "yle_7420144064",
@@ -1549,7 +1613,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Ainakin kahdeksan kuollut tulvissa Kentuckyssa Yhdysvalloissa",
-        "news_group": 405
+        "news_group": 413
     },
     {
         "news_id": "pbs_3d23a7513f32",
@@ -1565,54 +1629,6 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "The U.S. presented Ukraine with proposal to access its minerals, offering no guarantees in return",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144062",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739743620.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144062",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Ukrainan osallistumisesta USA:n ja Ven\u00e4j\u00e4n neuvotteluihin Saudi-Arabiassa liikkuu ristiriitaisia tietoja",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_78311ae3cb66",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "En stampede vid en j\u00e4rnv\u00e4gsstation i New Delhi resulterade i att minst 18 personer, inklusive 14 kvinnor, dog, varav m\u00e5nga var hinduiska pilgrimer p\u00e5 v\u00e4g till Maha Kumbh-festivalen.",
-        "news_epoch": 1739743320.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/stampede-at-new-delhi-railway-station-in-india-leaves-at-least-18-people-dead",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Stampede at New Delhi railway station in India leaves at least 18 people dead",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c39190ev9pxo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "President Trump deltog i Nascar-s\u00e4songens \u00f6ppning i Daytona, medan en regnstorm orsakade skador i LA County. Filmen &#x27;Conclave&#x27; leder BAFTA-nomineringarna, och en hund vid namn Monty vann ett topppris i New York.",
-        "news_epoch": 1739742180.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/c39190ev9pxo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Watch: Trump&#x27;s motorcade drives lap of Daytona 500 racetrack",
         "news_group": -1
     }
 ];
