@@ -1,14 +1,14 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c20g02djlv7o",
-    "news_header": "All passengers and crew survived a flight crash at Toronto Pearson Airport, with only minor injuries reported. The Delta Air Lines flight from Minneapolis overturned while landing, resulting in critical injuries to one child and two adults.",
-    "news_original_title": "All passengers and crew survive plane crash at Toronto airport",
-    "news_text": "Emergency services responded quickly, and the airport resumed operations later that day despite some delays. Investigations are ongoing regarding the crash, which occurred amid adverse weather conditions.",
+    "news_header": "All 80 people on board a Delta Air Lines flight that crashed while landing in Toronto survived. The plane overturned and came to a stop upside down, with 18 people injured, though only a few seriously.",
+    "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
+    "news_text": "Emergency responders were praised for their quick action. Investigators are looking into the cause of the crash, which occurred amid adverse weather conditions. The airport was temporarily closed, leading to delays and cancellations for other flights.",
     "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-    "news_time": 1739849280.0,
+    "news_time": 1739875020.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": 404
+    "news_group": 429
 }

@@ -1,9 +1,121 @@
 const articles = [
     {
+        "news_id": "bbc_cg7z7ddmd5eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Thames Water on saanut \u00a33 miljardin pelastuslainan korkeimmalta oikeudelta, v\u00e4ltt\u00e4en hallituksen kontrollia, kun se kamppailee \u00a317 miljardin velan kanssa. Laina auttaa yhti\u00f6t\u00e4 uudelleenj\u00e4rjestelyss\u00e4, vaikka sen tulevaisuus on ep\u00e4varma.",
+        "news_epoch": 1739875620.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cg7z7ddmd5eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Thames Water secures \u00a33bn lifeline after court ruling",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c20g02djlv7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kaikki 80 lentomatkustajaa Delta Air Linesin lennolla, joka sy\u00f6ksyi maahan Torontossa, selviytyiv\u00e4t. Lentokone kaatui ja pys\u00e4htyi yl\u00f6salaisin, ja 18 henkil\u00f6\u00e4 sai vammoja, mutta vain muutama vakavasti.",
+        "news_epoch": 1739875020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
+        "news_group": 429
+    },
+    {
+        "news_id": "yle_7420144429",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Israel on valmis neuvottelemaan Gazan tulitauon toisesta vaiheesta, keskittyen pysyv\u00e4\u00e4n tulitaukoon, israelilaisten panttivankien vapauttamiseen ja israelilaisten joukkojen vet\u00e4miseen Gazasta.",
+        "news_epoch": 1739874720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144429",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Ministeri:  Israel valmis aloittamaan Gazan aselevon toisen vaiheen neuvottelut",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143750",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Suomessa kauneushoitoja tehd\u00e4\u00e4n yh\u00e4 enemm\u00e4n kyseenalaisilla laitteilla yksityisasunnoissa, mik\u00e4 johtaa noin 80 potilaan hoitoon vuosittain HUS:ssa n\u00e4iden toimenpiteiden komplikaatioiden vuoksi.",
+        "news_epoch": 1739871960.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143750",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Asiantuntijat huolissaan Kiinasta tilatuista kauneudenhoitolaitteista \u2013 halpavekotin ylitt\u00e4\u00e4 laillisen s\u00e4teilyrajan jopa satakertaisesti",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce8j88gym3ro",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Uuden-Seelannin uusi matkailuslogan &#x27;Kaikkien on ment\u00e4v\u00e4!&#x27; on her\u00e4tt\u00e4nyt kiistaa, ja sit\u00e4 on tulkittu sek\u00e4 turistien houkuttelemiseksi ett\u00e4 paikallisten uhkaksi kasvavan maastamuuton ja ty\u00f6tt\u00f6myyden keskell\u00e4.",
+        "news_epoch": 1739871660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce8j88gym3ro",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;Everyone must go&#x27;: New Zealand&#x27;s tourism drive draws ire",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144408",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ymp\u00e4rist\u00f6j\u00e4rjest\u00f6t v\u00e4itt\u00e4v\u00e4t, ett\u00e4 Japanin uudet p\u00e4\u00e4st\u00f6v\u00e4hennystavoitteet ovat riitt\u00e4m\u00e4tt\u00f6mi\u00e4. Hallitus aikoo v\u00e4hent\u00e4\u00e4 ilmastop\u00e4\u00e4st\u00f6j\u00e4 60 % vuoden 2013 tasosta, mutta kriitikot sanovat, ett\u00e4 t\u00e4m\u00e4 ei riit\u00e4 Pariisin sopimuksen vaatimuksiin.",
+        "news_epoch": 1739871300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144408",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Japani asetti uudet tavoitteet ilmastop\u00e4\u00e4st\u00f6jen v\u00e4hent\u00e4miselle",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cx2k2ly8j75o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Pohjois-It\u00e4-Pakistanissa on pid\u00e4tetty pari, joka ep\u00e4ill\u00e4\u00e4n 13-vuotiaan tyt\u00f6n, Iqran, murhasta, joka ty\u00f6skenteli heid\u00e4n palvelijanaan ja jota syytettiin suklaiden varastamisesta.",
+        "news_epoch": 1739869320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2k2ly8j75o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;Died for stealing chocolate&#x27;: Pakistan anger over death of child maid",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c8636e7xq5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Kansleri Rachel Reevesin yritys puuttua merkitt\u00e4v\u00e4\u00e4n autolainojen tapaukseen estettiin Yhdistyneen kuningaskunnan korkeimmassa oikeudessa. Tapaus, joka on aikataulutettu huhtikuulle, k\u00e4sittelee rahoitusyhti\u00f6iden valitusta sen j\u00e4lkeen, kun tuomioistuin katsoi, ett\u00e4 lainanantajien ei ole laillista maksaa komissioita j\u00e4lleenmyyjille ilman asiakkaan suostumusta.",
+        "news_header": "Kansleri Rachel Reevesin puuttuminen merkitt\u00e4v\u00e4\u00e4n tapaukseen, joka koskee kiistanalaisia autolainoja, on estetty Yhdistyneen kuningaskunnan korkeimmassa oikeudessa.",
         "news_epoch": 1739868720.0,
         "news_categories": [
             "business"
@@ -35,7 +147,7 @@ const articles = [
         "news_id": "yle_7420144361",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Yhdysvaltojen ja Ven\u00e4j\u00e4n ulkoministerien kokous Saudi-Arabiassa pyrkii helpottamaan mahdollisia rauhanneuvotteluja Ukrainassa, vaikka Ukraina itse ei ole mukana.",
+        "news_header": "Yhdysvaltojen ja Ven\u00e4j\u00e4n ulkoministerien kokous Saudi-Arabiassa pyrkii helpottamaan mahdollisia rauhanneuvotteluja Ukrainan suhteen, johon ei ole edustusta kokouksessa.",
         "news_epoch": 1739867700.0,
         "news_categories": [
             "world"
@@ -51,7 +163,7 @@ const articles = [
         "news_id": "yle_7420144379",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Asuntorakentaminen jatkui laskussa viime vuoden lopussa, ja asuinrakennuksille my\u00f6nnetyt rakennusluvat v\u00e4heniv\u00e4t 12 % vuodentakaisesta. Valmistuneiden asuntojen m\u00e4\u00e4r\u00e4 laski viel\u00e4 enemm\u00e4n, ja lokakuusta joulukuuhun valmistui 5 100 asuntoa, mik\u00e4 on 47 % v\u00e4hemm\u00e4n kuin edellisen\u00e4 vuonna.",
+        "news_header": "Asuntorakentaminen v\u00e4heni viime vuoden lopussa, ja asuinrakennuksille my\u00f6nnetyt rakennusluvat laskivat 12 % vuodesta. Valmiiden asuntojen m\u00e4\u00e4r\u00e4 laski viel\u00e4 enemm\u00e4n, vain 5 100 asuntoa valmistui lokakuusta joulukuuhun, mik\u00e4 on 47 % v\u00e4hemm\u00e4n kuin edellisen\u00e4 vuonna.",
         "news_epoch": 1739866920.0,
         "news_categories": [
             "business"
@@ -67,17 +179,17 @@ const articles = [
         "news_id": "bbc_cdryr8m1k2eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Delta Air Linesin lento Minneapolisista sy\u00f6ksyi maahan laskeutuessaan Toronto Pearsonin kansainv\u00e4liselle lentokent\u00e4lle, k\u00e4\u00e4ntyen yl\u00f6salaisin. Kaikki 80 matkustajaa ja miehist\u00f6\u00e4 selviytyiv\u00e4t, vaikka 18 sai vammoja.",
+        "news_header": "",
         "news_epoch": 1739866200.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "yle_7420144252",
@@ -96,22 +208,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_c20g02djlv7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739865600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
-        "news_group": 421
-    },
-    {
         "news_id": "yle_7420144348",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -125,7 +221,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 423
+        "news_group": 431
     },
     {
         "news_id": "yle_7420144347",
@@ -227,7 +323,7 @@ const articles = [
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "Delta Airlinesin lento sy\u00f6ksyi maahan Toronton Pearsonin kansainv\u00e4lisell\u00e4 lentokent\u00e4ll\u00e4, loukaten ainakin 19 ihmist\u00e4. Etel\u00e4ss\u00e4 vakavat myrskyt ovat aiheuttaneet v\u00e4hint\u00e4\u00e4n 12 kuolemaa, ja Kentuckyss\u00e4 on k\u00e4ynniss\u00e4 pelastustoimet.",
+        "news_header": "Delta Airlinesin lento sy\u00f6ksyi maahan Toronton Pearsonin kansainv\u00e4lisell\u00e4 lentokent\u00e4ll\u00e4, ja ainakin 19 ihmist\u00e4 sai vammoja. Etel\u00e4ss\u00e4 vakavat myrskyt ovat aiheuttaneet 12 kuolemaa, ja Kentuckyssa jatkuu pelastusty\u00f6.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -269,7 +365,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 426
+        "news_group": 434
     },
     {
         "news_id": "yle_7420144323",
@@ -365,7 +461,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -381,7 +477,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -413,7 +509,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 425
+        "news_group": 433
     },
     {
         "news_id": "yle_7420144315",
@@ -461,7 +557,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 426
+        "news_group": 434
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -477,7 +573,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 427
+        "news_group": 435
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -493,7 +589,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 424
+        "news_group": 432
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -525,7 +621,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 422
+        "news_group": 430
     },
     {
         "news_id": "yle_7420144311",
@@ -637,7 +733,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "yle_7420144304",
@@ -781,7 +877,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 427
+        "news_group": 435
     },
     {
         "news_id": "dw_a71642337",
@@ -813,7 +909,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 428
+        "news_group": 436
     },
     {
         "news_id": "yle_7420144293",
@@ -877,7 +973,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 424
+        "news_group": 432
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -957,7 +1053,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 428
+        "news_group": 436
     },
     {
         "news_id": "dw_a71639204",
@@ -1117,7 +1213,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": 423
+        "news_group": 431
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1181,7 +1277,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 422
+        "news_group": 430
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1197,7 +1293,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 425
+        "news_group": 433
     },
     {
         "news_id": "yle_7420144151",
@@ -1533,54 +1629,6 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "A glimpse at Picasso and Pollock masterpieces kept in Tehran vault",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8r56vr40jvo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Donald Trump on priorisoinut laittomien maahanmuuttajien massadeportaatioita, ja noin 18 000 intialaista kansalaista on tunnistettu laittomasti Yhdysvaltoihin tulleiksi.",
-        "news_epoch": 1739758020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8r56vr40jvo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Illegal and unseen: Nine surprising facts about Indians in the US",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_ba332e63f32e",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Rwanda-tukemat M23-kapinoitsijat ovat vallanneet Bukavun, merkitt\u00e4v\u00e4n kaupungin It\u00e4-Kongossa, ilman merkitt\u00e4v\u00e4\u00e4 vastarintaa hallituksen joukoilta. Kapinoitsijat, jotka v\u00e4itt\u00e4v\u00e4t puolustavansa etnisi\u00e4 tutsseja, saavat tukea ruandalaisilta joukoilta ja ovat aiheuttaneet humanitaarisen kriisin, joka on pakottanut yli 6 miljoonaa ihmist\u00e4 l\u00e4htem\u00e4\u00e4n kodeistaan.",
-        "news_epoch": 1739757600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/congo-says-m23-rebels-backed-by-rwanda-have-taken-a-2nd-major-eastern-city",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Congo says M23 rebels backed by Rwanda have taken a 2nd major eastern city",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_11861ec411c6",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Israelin p\u00e4\u00e4ministeri Benjamin Netanyahu edist\u00e4\u00e4 Yhdysvaltain presidentti Trumpin ehdotusta siirt\u00e4\u00e4 palestiinalaisv\u00e4est\u00f6 Gazasta, jota h\u00e4n kutsuu ainoaksi elinkelpoiseksi suunnitelmaksi alueen tulevaisuudelle.",
-        "news_epoch": 1739756640.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/israels-netanyahu-signals-hes-moving-ahead-with-trumps-plan-to-move-palestinians-from-gaza",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Israel&amp;#8217;s Netanyahu signals he&amp;#8217;s moving ahead with Trump&amp;#8217;s plan to move Palestinians from Gaza",
         "news_group": -1
     }
 ];

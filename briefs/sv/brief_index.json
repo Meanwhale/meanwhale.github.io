@@ -1,9 +1,121 @@
 [
     {
+        "news_id": "bbc_cg7z7ddmd5eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Thames Water har s\u00e4krat ett r\u00e4ddningsl\u00e5n p\u00e5 \u00a33 miljarder fr\u00e5n H\u00f6gsta domstolen, vilket undviker statlig kontroll medan f\u00f6retaget k\u00e4mpar med \u00a317 miljarder i skuld.",
+        "news_epoch": 1739875620.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cg7z7ddmd5eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Thames Water secures \u00a33bn lifeline after court ruling",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c20g02djlv7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Alla 80 personer ombord p\u00e5 ett Delta Air Lines-flyg som kraschade vid landning i Toronto \u00f6verlevde. Planet v\u00e4lte och stannade upp och ner, med 18 personer skadade, men endast ett f\u00e5tal allvarligt.",
+        "news_epoch": 1739875020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
+        "news_group": 429
+    },
+    {
+        "news_id": "yle_7420144429",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Israel \u00e4r redo att inleda f\u00f6rhandlingar om den andra fasen av vapenvilan i Gaza, med fokus p\u00e5 en permanent vapenvila, frigivning av israeliska gisslan och tillbakadragande av israeliska styrkor fr\u00e5n Gaza.",
+        "news_epoch": 1739874720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144429",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Ministeri:  Israel valmis aloittamaan Gazan aselevon toisen vaiheen neuvottelut",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143750",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "I Finland utf\u00f6rs sk\u00f6nhetsbehandlingar alltmer med tveksamma apparater i privata milj\u00f6er, vilket leder till att cirka 80 patienter \u00e5rligen behandlas vid HUS p\u00e5 grund av komplikationer fr\u00e5n dessa procedurer.",
+        "news_epoch": 1739871960.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143750",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Asiantuntijat huolissaan Kiinasta tilatuista kauneudenhoitolaitteista \u2013 halpavekotin ylitt\u00e4\u00e4 laillisen s\u00e4teilyrajan jopa satakertaisesti",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce8j88gym3ro",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Nya Zeelands nya turismslogan &#x27;Alla m\u00e5ste g\u00e5!&#x27; har v\u00e4ckt kontroverser, d\u00e5 den tolkas b\u00e5de som en uppmaning till turister och ett hot mot lokalbefolkningen i takt med \u00f6kande emigration och arbetsl\u00f6shet.",
+        "news_epoch": 1739871660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce8j88gym3ro",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;Everyone must go&#x27;: New Zealand&#x27;s tourism drive draws ire",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144408",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Milj\u00f6organisationer anser att Japans nya utsl\u00e4ppsm\u00e5l \u00e4r otillr\u00e4ckliga. Regeringen siktar p\u00e5 att minska klimatutsl\u00e4ppen med 60 % j\u00e4mf\u00f6rt med 2013 \u00e5rs niv\u00e5er, men kritiker menar att detta inte uppfyller kraven i Parisavtalet.",
+        "news_epoch": 1739871300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144408",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Japani asetti uudet tavoitteet ilmastop\u00e4\u00e4st\u00f6jen v\u00e4hent\u00e4miselle",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cx2k2ly8j75o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Ett par i nord\u00f6stra Pakistan har gripits misst\u00e4nkt f\u00f6r att ha m\u00f6rdat en 13-\u00e5rig flicka, Iqra, som arbetade som deras tj\u00e4nare efter att hon anklagats f\u00f6r att ha stulit choklad.",
+        "news_epoch": 1739869320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2k2ly8j75o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;Died for stealing chocolate&#x27;: Pakistan anger over death of child maid",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c8636e7xq5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Kansler Rachel Reeves f\u00f6rs\u00f6k att ingripa i ett betydande fall ang\u00e5ende bill\u00e5n blockerades av Storbritanniens h\u00f6gsta domstol. Fallet, som \u00e4r planerat till april, involverar en \u00f6verklagan fr\u00e5n finansf\u00f6retag efter att en domstol bed\u00f6mt att det var olagligt f\u00f6r l\u00e5ngivare att betala provision till \u00e5terf\u00f6rs\u00e4ljare utan kundens samtycke.",
+        "news_header": "Kansler Rachel Reeves f\u00f6rs\u00f6k att ingripa i ett betydande fall ang\u00e5ende kontroversiella bill\u00e5n har blockerats av Storbritanniens h\u00f6gsta domstol. Fallet, som \u00e4r planerat till april, involverar en \u00f6verklagan fr\u00e5n finansf\u00f6retag efter en dom som ans\u00e5g att det var olagligt f\u00f6r l\u00e5ngivare att betala provision till \u00e5terf\u00f6rs\u00e4ljare utan kundens samtycke.",
         "news_epoch": 1739868720.0,
         "news_categories": [
             "business"
@@ -35,7 +147,7 @@
         "news_id": "yle_7420144361",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "M\u00f6tet mellan USA:s och Rysslands utrikesministrar i Saudiarabien syftar till att underl\u00e4tta potentiella fredsf\u00f6rhandlingar f\u00f6r Ukraina, \u00e4ven om Ukraina sj\u00e4lv inte \u00e4r inkluderat.",
+        "news_header": "M\u00f6tet mellan USA:s och Rysslands utrikesministrar i Saudiarabien syftar till att underl\u00e4tta potentiella fredsf\u00f6rhandlingar ang\u00e5ende Ukraina, som inte \u00e4r representerat vid m\u00f6tet.",
         "news_epoch": 1739867700.0,
         "news_categories": [
             "world"
@@ -51,7 +163,7 @@
         "news_id": "yle_7420144379",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Bostadsbyggandet fortsatte att minska i slutet av f\u00f6rra \u00e5ret, med bygglov f\u00f6r bostadsbyggnader som minskade med 12 % j\u00e4mf\u00f6rt med \u00e5ret innan. Antalet f\u00e4rdigst\u00e4llda bost\u00e4der minskade \u00e4nnu mer, med 5 100 f\u00e4rdigst\u00e4llda fr\u00e5n oktober till december, en minskning med 47 % j\u00e4mf\u00f6rt med f\u00f6reg\u00e5ende \u00e5r.",
+        "news_header": "Bostadsbyggandet minskade i slutet av f\u00f6rra \u00e5ret, med bygglov f\u00f6r bost\u00e4der som sj\u00f6nk med 12 % j\u00e4mf\u00f6rt med \u00e5ret innan. Antalet f\u00e4rdigst\u00e4llda bost\u00e4der minskade \u00e4nnu mer, med endast 5 100 f\u00e4rdiga mellan oktober och december, en minskning med 47 % fr\u00e5n f\u00f6reg\u00e5ende \u00e5r.",
         "news_epoch": 1739866920.0,
         "news_categories": [
             "business"
@@ -67,17 +179,17 @@
         "news_id": "bbc_cdryr8m1k2eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Ett Delta Air Lines-flyg fr\u00e5n Minneapolis kraschade vid landning p\u00e5 Toronto Pearson International Airport och v\u00e4nde upp och ner. Alla 80 passagerare och bes\u00e4ttning \u00f6verlevde, \u00e4ven om 18 skadades.",
+        "news_header": "",
         "news_epoch": 1739866200.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "yle_7420144252",
@@ -96,22 +208,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_c20g02djlv7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739865600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
-        "news_group": 421
-    },
-    {
         "news_id": "yle_7420144348",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -125,7 +221,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 423
+        "news_group": 431
     },
     {
         "news_id": "yle_7420144347",
@@ -227,7 +323,7 @@
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "Ett Delta Airlines-flyg kraschade vid landning p\u00e5 Torontos Pearson internationella flygplats och skadade minst 19 personer. Sv\u00e5ra stormar i s\u00f6dern har resulterat i minst 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
+        "news_header": "Ett Delta Airlines-flyg kraschade vid landning p\u00e5 Torontos Pearson internationella flygplats, vilket skadade minst 19 personer. Sv\u00e5ra stormar i s\u00f6dern har resulterat i 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -269,7 +365,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 426
+        "news_group": 434
     },
     {
         "news_id": "yle_7420144323",
@@ -365,7 +461,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -381,7 +477,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -413,7 +509,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 425
+        "news_group": 433
     },
     {
         "news_id": "yle_7420144315",
@@ -461,7 +557,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 426
+        "news_group": 434
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -477,7 +573,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 427
+        "news_group": 435
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -493,7 +589,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 424
+        "news_group": 432
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -525,7 +621,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 422
+        "news_group": 430
     },
     {
         "news_id": "yle_7420144311",
@@ -637,7 +733,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "yle_7420144304",
@@ -781,7 +877,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 427
+        "news_group": 435
     },
     {
         "news_id": "dw_a71642337",
@@ -813,7 +909,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 428
+        "news_group": 436
     },
     {
         "news_id": "yle_7420144293",
@@ -877,7 +973,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 424
+        "news_group": 432
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -957,7 +1053,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 428
+        "news_group": 436
     },
     {
         "news_id": "dw_a71639204",
@@ -1117,7 +1213,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": 423
+        "news_group": 431
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1181,7 +1277,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 422
+        "news_group": 430
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1197,7 +1293,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 425
+        "news_group": 433
     },
     {
         "news_id": "yle_7420144151",
@@ -1533,54 +1629,6 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "A glimpse at Picasso and Pollock masterpieces kept in Tehran vault",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8r56vr40jvo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Donald Trump har prioriterat massdeportation av pappersl\u00f6sa invandrare, med cirka 18 000 indiska medborgare identifierade som olagligt intr\u00e4de i USA. Indien har g\u00e5tt med p\u00e5 att ta tillbaka sina medborgare, och en studie visar p\u00e5 motstridiga uppskattningar av pappersl\u00f6sa indier i USA, som varierar fr\u00e5n 220 000 till 700 000.",
-        "news_epoch": 1739758020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8r56vr40jvo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Illegal and unseen: Nine surprising facts about Indians in the US",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_ba332e63f32e",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Rwanda-st\u00f6dda M23-rebeller har ockuperat Bukavu, en stor stad i \u00f6stra Kongo, med lite motst\u00e5nd fr\u00e5n regeringsstyrkor. Rebellerna, som h\u00e4vdar att de f\u00f6rsvarar etniska tutsier, f\u00e5r st\u00f6d av rwandiska trupper och har orsakat en humanit\u00e4r kris som har tvingat \u00f6ver 6 miljoner m\u00e4nniskor att fly.",
-        "news_epoch": 1739757600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/congo-says-m23-rebels-backed-by-rwanda-have-taken-a-2nd-major-eastern-city",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Congo says M23 rebels backed by Rwanda have taken a 2nd major eastern city",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_11861ec411c6",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Israels premi\u00e4rminister Benjamin Netanyahu g\u00e5r vidare med USA:s president Trumps f\u00f6rslag att \u00f6verf\u00f6ra den palestinska befolkningen fr\u00e5n Gaza, vilket han kallar den enda livskraftiga planen f\u00f6r regionens framtid.",
-        "news_epoch": 1739756640.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/israels-netanyahu-signals-hes-moving-ahead-with-trumps-plan-to-move-palestinians-from-gaza",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Israel&amp;#8217;s Netanyahu signals he&amp;#8217;s moving ahead with Trump&amp;#8217;s plan to move Palestinians from Gaza",
         "news_group": -1
     }
 ]

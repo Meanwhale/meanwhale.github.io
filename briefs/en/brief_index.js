@@ -1,9 +1,121 @@
 const articles = [
     {
+        "news_id": "bbc_cg7z7ddmd5eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Thames Water has secured a \u00a33bn rescue loan from the High Court, avoiding government control as it faces \u00a317bn in debt. The loan will help the company restructure, although its future remains uncertain.",
+        "news_epoch": 1739875620.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cg7z7ddmd5eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Thames Water secures \u00a33bn lifeline after court ruling",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c20g02djlv7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "All 80 people on board a Delta Air Lines flight that crashed while landing in Toronto survived. The plane overturned and came to a stop upside down, with 18 people injured, though only a few seriously.",
+        "news_epoch": 1739875020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
+        "news_group": 429
+    },
+    {
+        "news_id": "yle_7420144429",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Israel is ready to negotiate the second phase of the Gaza truce, focusing on a permanent ceasefire, the release of Israeli hostages, and the withdrawal of Israeli forces from Gaza.",
+        "news_epoch": 1739874720.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144429",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Ministeri:  Israel valmis aloittamaan Gazan aselevon toisen vaiheen neuvottelut",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420143750",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "In Finland, beauty treatments are increasingly performed with questionable equipment in private settings, leading to around 80 patients treated annually at HUS due to complications from these procedures.",
+        "news_epoch": 1739871960.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20143750",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Asiantuntijat huolissaan Kiinasta tilatuista kauneudenhoitolaitteista \u2013 halpavekotin ylitt\u00e4\u00e4 laillisen s\u00e4teilyrajan jopa satakertaisesti",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_ce8j88gym3ro",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "New Zealand&#x27;s new tourism slogan &#x27;Everyone Must Go!&#x27; has sparked controversy, being interpreted as both a call for tourists and a threat to locals amid rising emigration and unemployment.",
+        "news_epoch": 1739871660.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce8j88gym3ro",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;Everyone must go&#x27;: New Zealand&#x27;s tourism drive draws ire",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144408",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Environmental organizations argue that Japan&#x27;s new emission reduction targets are insufficient. The government aims to cut climate emissions by 60% from 2013 levels, but critics say this falls short of the Paris Agreement requirements.",
+        "news_epoch": 1739871300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144408",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Japani asetti uudet tavoitteet ilmastop\u00e4\u00e4st\u00f6jen v\u00e4hent\u00e4miselle",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cx2k2ly8j75o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A couple in north-east Pakistan has been detained for allegedly murdering a 13-year-old girl, Iqra, who worked as their maid after she was accused of stealing chocolates.",
+        "news_epoch": 1739869320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2k2ly8j75o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;Died for stealing chocolate&#x27;: Pakistan anger over death of child maid",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c8636e7xq5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Chancellor Rachel Reeves&#x27; attempt to intervene in a significant case regarding car loans was blocked by the UK&#x27;s Supreme Court. The case, scheduled for April, involves an appeal from finance firms after a ruling deemed it unlawful for lenders to pay commissions to dealers without customer consent.",
+        "news_header": "Chancellor Rachel Reeves&#x27; intervention in a significant case regarding controversial car loans has been blocked by the UK&#x27;s Supreme Court. The case, set for April, involves an appeal from finance firms after a ruling deemed it unlawful for lenders to pay commissions to dealers without customer consent.",
         "news_epoch": 1739868720.0,
         "news_categories": [
             "business"
@@ -35,7 +147,7 @@ const articles = [
         "news_id": "yle_7420144361",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "The meeting between US and Russian Foreign Ministers in Saudi Arabia aims to facilitate potential peace negotiations for Ukraine, although Ukraine itself is not included.",
+        "news_header": "The meeting between US and Russian Foreign Ministers in Saudi Arabia aims to facilitate potential peace negotiations regarding Ukraine, which is not represented at the meeting.",
         "news_epoch": 1739867700.0,
         "news_categories": [
             "world"
@@ -51,7 +163,7 @@ const articles = [
         "news_id": "yle_7420144379",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Housing construction continued to decline at the end of last year, with building permits for residential buildings down 12% year-on-year. The number of completed dwellings fell even more, with 5,100 completed from October to December, a 47% decrease compared to the previous year.",
+        "news_header": "Housing construction declined at the end of last year, with building permits for residential buildings down 12% year-on-year. The number of completed dwellings fell even more, with only 5,100 completed from October to December, a 47% decrease from the previous year.",
         "news_epoch": 1739866920.0,
         "news_categories": [
             "business"
@@ -67,17 +179,17 @@ const articles = [
         "news_id": "bbc_cdryr8m1k2eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "A Delta Air Lines flight from Minneapolis crashed while landing at Toronto Pearson International Airport, flipping upside down. All 80 passengers and crew survived, though 18 were injured.",
+        "news_header": "",
         "news_epoch": 1739866200.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "yle_7420144252",
@@ -96,22 +208,6 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_c20g02djlv7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739865600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
-        "news_group": 421
-    },
-    {
         "news_id": "yle_7420144348",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -125,7 +221,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 423
+        "news_group": 431
     },
     {
         "news_id": "yle_7420144347",
@@ -227,7 +323,7 @@ const articles = [
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "A Delta Airlines flight crashed while landing at Toronto&#x27;s Pearson International Airport, injuring at least 19 people. Severe storms in the South have resulted in at least 12 deaths, with ongoing rescue efforts in Kentucky.",
+        "news_header": "A Delta Airlines flight crashed while landing at Toronto&#x27;s Pearson International Airport, injuring at least 19 people. Severe storms in the South have resulted in 12 deaths, with ongoing rescue efforts in Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -269,7 +365,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 426
+        "news_group": 434
     },
     {
         "news_id": "yle_7420144323",
@@ -365,7 +461,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -381,7 +477,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -413,7 +509,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 425
+        "news_group": 433
     },
     {
         "news_id": "yle_7420144315",
@@ -461,7 +557,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 426
+        "news_group": 434
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -477,7 +573,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 427
+        "news_group": 435
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -493,7 +589,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 424
+        "news_group": 432
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -525,7 +621,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 422
+        "news_group": 430
     },
     {
         "news_id": "yle_7420144311",
@@ -637,7 +733,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 421
+        "news_group": 429
     },
     {
         "news_id": "yle_7420144304",
@@ -781,7 +877,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 427
+        "news_group": 435
     },
     {
         "news_id": "dw_a71642337",
@@ -813,7 +909,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 428
+        "news_group": 436
     },
     {
         "news_id": "yle_7420144293",
@@ -877,7 +973,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 424
+        "news_group": 432
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -957,7 +1053,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 428
+        "news_group": 436
     },
     {
         "news_id": "dw_a71639204",
@@ -1117,7 +1213,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": 423
+        "news_group": 431
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1181,7 +1277,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 422
+        "news_group": 430
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1197,7 +1293,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 425
+        "news_group": 433
     },
     {
         "news_id": "yle_7420144151",
@@ -1533,54 +1629,6 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "A glimpse at Picasso and Pollock masterpieces kept in Tehran vault",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8r56vr40jvo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Donald Trump has prioritized the mass deportation of undocumented immigrants, with around 18,000 Indian nationals identified as having entered the US illegally. India has agreed to take back its nationals, and a study reveals conflicting estimates of undocumented Indians in the US, ranging from 220,000 to 700,000.",
-        "news_epoch": 1739758020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8r56vr40jvo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Illegal and unseen: Nine surprising facts about Indians in the US",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_ba332e63f32e",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Rwanda-backed M23 rebels have occupied Bukavu, a major city in eastern Congo, with little resistance from government forces. The rebels, who claim to defend ethnic Tutsis, are supported by Rwandan troops and have caused a humanitarian crisis, displacing over 6 million people.",
-        "news_epoch": 1739757600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/congo-says-m23-rebels-backed-by-rwanda-have-taken-a-2nd-major-eastern-city",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Congo says M23 rebels backed by Rwanda have taken a 2nd major eastern city",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_11861ec411c6",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Israeli Prime Minister Benjamin Netanyahu is advancing U.S. President Trump&#x27;s proposal to transfer the Palestinian population out of Gaza, which he calls the only viable plan for the region&#x27;s future.",
-        "news_epoch": 1739756640.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/israels-netanyahu-signals-hes-moving-ahead-with-trumps-plan-to-move-palestinians-from-gaza",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Israel&amp;#8217;s Netanyahu signals he&amp;#8217;s moving ahead with Trump&amp;#8217;s plan to move Palestinians from Gaza",
         "news_group": -1
     }
 ];
