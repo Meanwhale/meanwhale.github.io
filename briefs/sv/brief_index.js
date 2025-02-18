@@ -1,5 +1,21 @@
 const articles = [
     {
+        "news_id": "yle_7420144334",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Trots f\u00f6rst\u00f6relsen \u00e4r \u00e5terv\u00e4ndarna till Homs, hj\u00e4rtat av den syriska upproret, tacksamma f\u00f6r att vara tillbaka i sitt grannskap efter \u00e5r av konflikt. Vapenvilan har gjort det m\u00f6jligt f\u00f6r familjer att \u00e5terv\u00e4nda till sina mestadels f\u00f6rst\u00f6rda hem, men de uttrycker gl\u00e4dje och hopp f\u00f6r framtiden, beslutsamma att \u00e5teruppbygga sina liv.",
+        "news_epoch": 1739858340.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144334",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Syyrian pakolaiset alkavat palailla vallankumouksen syntypaikkaan, Homsiin",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420144330",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -35,7 +51,7 @@ const articles = [
         "news_id": "bbc_cn4z4w3v5y8o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Sir Keir Starmer betonade att en eventuell fredsuppg\u00f6relse f\u00f6r Ukraina skulle beh\u00f6va ett &#x27;US-backstop&#x27; f\u00f6r att avskr\u00e4cka Ryssland fr\u00e5n framtida aggressioner. Efter ett m\u00f6te med europeiska ledare i Paris f\u00f6reslog han m\u00f6jligheten att skicka brittiska trupper om en varaktig fredsuppg\u00f6relse n\u00e5s.",
+        "news_header": "Sir Keir Starmer betonade att en eventuell fredsavtal f\u00f6r Ukraina skulle beh\u00f6va ett &#x27;amerikanskt st\u00f6d&#x27; f\u00f6r att avskr\u00e4cka Ryssland fr\u00e5n framtida aggression. Han n\u00e4mnde m\u00f6jligheten att skicka brittiska trupper om ett varaktigt avtal n\u00e5s.",
         "news_epoch": 1739856420.0,
         "news_categories": [
             "world"
@@ -45,7 +61,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Starmer says US &#x27;backstop&#x27; needed for Ukraine peace deal",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144327",
@@ -67,7 +83,7 @@ const articles = [
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "Ett Delta Airlines-flyg kraschade vid landning p\u00e5 Torontos Pearson-flygplats och skadade minst 19 personer. Allvarliga stormar i s\u00f6dern har resulterat i minst 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
+        "news_header": "Ett Delta Airlines-flyg kraschade vid landning p\u00e5 Torontos Pearson internationella flygplats, vilket skadade minst 19 personer. Allvarliga stormar i s\u00f6dern har resulterat i 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -77,7 +93,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "News Wrap: Delta flight crashes in Toronto, injuring at least 8 people",
-        "news_group": 394
+        "news_group": -1
     },
     {
         "news_id": "pbs_d2064cfc5fb8",
@@ -93,7 +109,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "European leaders are left scrambling as U.S. nears talks with Russia on Ukraine",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "bbc_cd7d7llvz28o",
@@ -109,7 +125,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 400
+        "news_group": 409
     },
     {
         "news_id": "yle_7420144323",
@@ -163,17 +179,17 @@ const articles = [
         "news_id": "bbc_c20g02djlv7o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "",
+        "news_header": "Alla passagerare och bes\u00e4ttning \u00f6verlevde en flygkrasch p\u00e5 Toronto Pearson Airport, med endast mindre skador rapporterade. Delta Air Lines-flygningen fr\u00e5n Minneapolis v\u00e4lte vid landning, vilket resulterade i kritiska skador p\u00e5 ett barn och tv\u00e5 vuxna.",
         "news_epoch": 1739849280.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "hide",
+        "news_status": "public",
         "news_type": "NewsType.SUMMARY",
-        "news_more": false,
+        "news_more": true,
         "news_original_title": "All passengers and crew survive plane crash at Toronto airport",
-        "news_group": 394
+        "news_group": 404
     },
     {
         "news_id": "yle_7420144317",
@@ -221,7 +237,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 394
+        "news_group": 404
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -237,7 +253,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 394
+        "news_group": 404
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -269,7 +285,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 399
+        "news_group": 407
     },
     {
         "news_id": "yle_7420144315",
@@ -317,7 +333,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 400
+        "news_group": 409
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -333,7 +349,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 402
+        "news_group": 410
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -349,7 +365,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 398
+        "news_group": 406
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -365,13 +381,13 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Watch: Why European leaders held emergency Ukraine summit",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "bbc_c8636e7xq5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Kansler Rachel Reeves f\u00f6rs\u00f6k att ingripa i ett betydande fall ang\u00e5ende kontroversiella bill\u00e5n blockerades av Storbritanniens h\u00f6gsta domstol. Fallet, som \u00e4r planerat till april, kommer att avg\u00f6ra om l\u00e5ngivare borde ha informerat kunderna om vilken provision de fick fr\u00e5n f\u00f6rs\u00e4ljning av bill\u00e5n.",
+        "news_header": "Kansler Rachel Reeves f\u00f6rs\u00f6k att ingripa i ett betydande fall ang\u00e5ende bill\u00e5n blockerades av Storbritanniens h\u00f6gsta domstol. Fallet kommer att avg\u00f6ra om l\u00e5ngivare borde ha informerat kunderna om sin provision fr\u00e5n bill\u00e5n.",
         "news_epoch": 1739834220.0,
         "news_categories": [
             "business"
@@ -397,7 +413,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 395
+        "news_group": 405
     },
     {
         "news_id": "yle_7420144311",
@@ -445,7 +461,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Upturned plane lies on Toronto runway after crash",
-        "news_group": 394
+        "news_group": -1
     },
     {
         "news_id": "pbs_2f7a88244d8e",
@@ -461,7 +477,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Ukraine&amp;#8217;s President Zelenskyy travels to United Arab Emirates as momentum grows for peace talks",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "bbc_cly9y1e1kpjo",
@@ -509,7 +525,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 394
+        "news_group": 404
     },
     {
         "news_id": "yle_7420144304",
@@ -525,7 +541,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Israelin puolustusministeri: virasto palestiinalaisten \u201dvapaaehtoiselle\u201d siirtymiselle",
-        "news_group": 396
+        "news_group": -1
     },
     {
         "news_id": "pbs_4e34b2b17d04",
@@ -541,7 +557,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Top Russian, U.S. officials to hold talks on ending the Ukraine war without Kyiv",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "pbs_16c84cc3edf2",
@@ -557,7 +573,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Israeli forces will remain in 5 locations in Lebanon after Tuesday&amp;#8217;s pullout deadline, official says",
-        "news_group": 397
+        "news_group": -1
     },
     {
         "news_id": "pbs_139ea5ddc45d",
@@ -573,7 +589,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "European leaders gather for emergency meeting over fear Trump is isolating EU allies",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144297",
@@ -589,7 +605,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Analyysi: Pariisin h\u00e4t\u00e4kokous oli tarpeellinen ensiaskel, mutta sen anniksi j\u00e4iv\u00e4t riitaisammat EU:n sis\u00e4iset suhteet",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "bbc_cgq0q0eq28no",
@@ -605,7 +621,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Trump dispatches NY real estate dealmaker to solve global crises",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144285",
@@ -621,7 +637,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "H\u00e4kk\u00e4nen A-studiossa: Keskustelu rauhanturvaajien l\u00e4hett\u00e4misest\u00e4 Ukrainaan on ennenaikaista",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144296",
@@ -637,7 +653,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Britannian p\u00e4\u00e4ministeri Pariisissa: Vain USA:n turvatakuilla voidaan est\u00e4\u00e4 Ven\u00e4j\u00e4n uudet hy\u00f6kk\u00e4ykset",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "bbc_c1kmk09xxdko",
@@ -653,7 +669,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 402
+        "news_group": 410
     },
     {
         "news_id": "dw_a71642337",
@@ -685,7 +701,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 403
+        "news_group": 411
     },
     {
         "news_id": "yle_7420144293",
@@ -701,7 +717,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Netanjahu sanoo olevansa sitoutunut Trumpin Gaza-suunnitelmaan \u2013 arabimaiden huippukokous perjantaina",
-        "news_group": 396
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144127",
@@ -717,7 +733,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Analyysi: Ven\u00e4j\u00e4 sai Trumpin hallinnolta vahvat kortit Ukraina-neuvotteluihin",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "bbc_cwypy119yzno",
@@ -733,7 +749,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "What key players want from Ukraine war talks",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144278",
@@ -749,7 +765,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 398
+        "news_group": 406
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -781,7 +797,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Yhdysvallat yritt\u00e4\u00e4 mielistell\u00e4 Ven\u00e4j\u00e4\u00e4 pois Kiinan vaikutus\u00adpiirist\u00e4, tutkija arvioi",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "bbc_ckg7gewqevqo",
@@ -829,7 +845,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 403
+        "news_group": 411
     },
     {
         "news_id": "dw_a71639204",
@@ -861,7 +877,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Trump kommentoi viime p\u00e4ivien isoimpia uutisia lentokent\u00e4ll\u00e4: \u201dPutin haluaa lopettaa sotimisen\u201d",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "dw_a71638481",
@@ -877,7 +893,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "DRC conflict: Pressure mounts on Rwanda as M23 seize Bukavu",
-        "news_group": 393
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144113",
@@ -989,7 +1005,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": 397
+        "news_group": -1
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1053,7 +1069,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 395
+        "news_group": 405
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1069,7 +1085,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 399
+        "news_group": 407
     },
     {
         "news_id": "yle_7420144151",
@@ -1097,11 +1113,11 @@ const articles = [
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20144076",
-        "news_status": "hide",
+        "news_status": "public",
         "news_type": "NewsType.SUMMARY",
-        "news_more": false,
+        "news_more": true,
         "news_original_title": "Britannia harkitsee rauhanturvaajien l\u00e4hett\u00e4mist\u00e4 Ukrainaan \u2013 joukkojen pit\u00e4isi olla taistelukelpoisia, sanoo tutkija",
-        "news_group": 392
+        "news_group": 408
     },
     {
         "news_id": "dw_a71610611",
@@ -1149,7 +1165,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Yhdysvaltain ulkoministeri saapui Saudi-Arabiaan",
-        "news_group": 401
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144081",
@@ -1181,7 +1197,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Can Europe and UK persuade Trump they&#x27;re relevant to Ukraine&#x27;s future?",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144094",
@@ -1229,7 +1245,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Zelenskyi yll\u00e4tt\u00e4en Arabiemiraatteihin \u2013 Euroopan johtajia kokoontuu Ukraina-h\u00e4t\u00e4kokoukseen Pariisiin",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420143222",
@@ -1261,7 +1277,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "L\u00e4hde: Hamas valmis luovuttamaan Gazan palestiinalaishallinnolle",
-        "news_group": 396
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144067",
@@ -1309,7 +1325,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Former U.S. envoy on why Trump is engaging with Russia over Ukraine talks",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "pbs_d0292c6050e5",
@@ -1325,7 +1341,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "&amp;lsquo;We will never be a colony,&amp;rsquo; Canadian foreign minister says to Trump&amp;rsquo;s 51st state remarks",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "pbs_978085f365f3",
@@ -1341,7 +1357,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "News Wrap: Rubio reaffirms Trump&amp;rsquo;s Gaza takeover plan on trip to Israel",
-        "news_group": 401
+        "news_group": -1
     },
     {
         "news_id": "pbs_55b993b5fac6",
@@ -1357,7 +1373,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "On the ground with U.N. forces in Lebanon as Israeli withdrawal deadline looms",
-        "news_group": 397
+        "news_group": -1
     },
     {
         "news_id": "yle_7420143054",
@@ -1437,7 +1453,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Congo says M23 rebels backed by Rwanda have taken a 2nd major eastern city",
-        "news_group": 393
+        "news_group": -1
     },
     {
         "news_id": "pbs_11861ec411c6",
@@ -1453,7 +1469,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel&amp;#8217;s Netanyahu signals he&amp;#8217;s moving ahead with Trump&amp;#8217;s plan to move Palestinians from Gaza",
-        "news_group": 396
+        "news_group": -1
     },
     {
         "news_id": "bbc_cz9eddnnq4go",
@@ -1469,7 +1485,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Netanyahu praises Trump&#x27;s &#x27;bold vision&#x27; for Gaza at Rubio meeting",
-        "news_group": 396
+        "news_group": -1
     },
     {
         "news_id": "bbc_cglywyjg0kwo",
@@ -1501,7 +1517,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Five takeaways from the Munich Security Conference",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144065",
@@ -1517,7 +1533,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Britannian p\u00e4\u00e4ministeri valmis l\u00e4hett\u00e4m\u00e4\u00e4n joukkoja rauhanturvateht\u00e4viin Ukrainaan \u2013 armeijan johto n\u00e4kee vaikeana",
-        "news_group": 392
+        "news_group": 408
     },
     {
         "news_id": "yle_7420144064",
@@ -1533,7 +1549,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Ainakin kahdeksan kuollut tulvissa Kentuckyssa Yhdysvalloissa",
-        "news_group": 395
+        "news_group": 405
     },
     {
         "news_id": "pbs_3d23a7513f32",
@@ -1565,7 +1581,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Ukrainan osallistumisesta USA:n ja Ven\u00e4j\u00e4n neuvotteluihin Saudi-Arabiassa liikkuu ristiriitaisia tietoja",
-        "news_group": 392
+        "news_group": -1
     },
     {
         "news_id": "pbs_78311ae3cb66",
