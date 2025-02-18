@@ -1,10 +1,26 @@
 [
     {
+        "news_id": "bbc_c8636e7xq5eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Chancellor Rachel Reeves&#x27; attempt to intervene in a significant case regarding car loans was blocked by the UK&#x27;s Supreme Court. The case, scheduled for April, involves an appeal from finance firms after a ruling deemed it unlawful for lenders to pay commissions to dealers without customer consent.",
+        "news_epoch": 1739868720.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c8636e7xq5eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Reeves&#x27; intervention in car loans case rejected",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c4gwgpjgl5zo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Average wages in the UK are rising faster than inflation, with a 3.4% increase from October to December compared to the previous year. The unemployment rate remains at 4.4%, but hiring intentions have weakened, particularly in the hospitality and retail sectors.",
-        "news_epoch": 1739864340.0,
+        "news_header": "Average wages in the UK are rising faster than inflation, with a 3.4% increase in pay from October to December compared to the previous year. The unemployment rate remains steady at 4.4%, but businesses are warning of potential workforce cuts and price increases due to rising employment costs.",
+        "news_epoch": 1739868540.0,
         "news_categories": [
             "business"
         ],
@@ -16,10 +32,90 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420144361",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The meeting between US and Russian Foreign Ministers in Saudi Arabia aims to facilitate potential peace negotiations for Ukraine, although Ukraine itself is not included.",
+        "news_epoch": 1739867700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144361",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Merkitt\u00e4vin kohtaaminen l\u00e4hes kolmeen vuoteen \u2013 t\u00e4st\u00e4 Yhdysvaltain ja Ven\u00e4j\u00e4n tapaamisessa on kyse",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144379",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Housing construction continued to decline at the end of last year, with building permits for residential buildings down 12% year-on-year. The number of completed dwellings fell even more, with 5,100 completed from October to December, a 47% decrease compared to the previous year.",
+        "news_epoch": 1739866920.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144379",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Asuntorakentamisen uudistuotanto vaisuinta sitten 90-luvun laman",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cdryr8m1k2eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A Delta Air Lines flight from Minneapolis crashed while landing at Toronto Pearson International Airport, flipping upside down. All 80 passengers and crew survived, though 18 were injured.",
+        "news_epoch": 1739866200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
+        "news_group": 421
+    },
+    {
+        "news_id": "yle_7420144252",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Caruna, an electricity network company, believes it has complied with tax laws despite criticism from Finnwatch regarding its tax practices. Finnwatch claims that recent changes to interest-reduction restrictions have led to Caruna&#x27;s alleged tax avoidance, which was previously facilitated by a balance sheet exemption.",
+        "news_epoch": 1739865600.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144252",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Finnwatch: Lainmuutos laittoi Carunan korkokikkailun kuriin",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c20g02djlv7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "",
+        "news_epoch": 1739865600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
+        "news_group": 421
+    },
+    {
         "news_id": "yle_7420144348",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Israel does not fully trust the Lebanese army despite a ceasefire agreement that led to the withdrawal of Israeli troops from southern Lebanon. Israel retains five bases in the region, citing the Lebanese army&#x27;s inability to control Hezbollah&#x27;s activities.",
+        "news_header": "Israel has not fully trusted the Lebanese army despite a ceasefire agreement that led to the withdrawal of Israeli troops from southern Lebanon. Israel retains five bases in the region, citing the Lebanese army&#x27;s inability to completely counter Hezbollah&#x27;s activities.",
         "news_epoch": 1739862420.0,
         "news_categories": [
             "world"
@@ -29,13 +125,13 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 414
+        "news_group": 423
     },
     {
         "news_id": "yle_7420144347",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Nokia Panimo plans to list on the First North market of the Helsinki Stock Exchange. It is the second largest brewery in Finland with net sales of EUR 12 million and an operating profit of EUR 1.7 million.",
+        "news_header": "Nokia Panimo plans to list on the First North market of the Helsinki Stock Exchange. It is the second largest brewery in Finland, with net sales of EUR 12 million and an operating profit of EUR 1.7 million last year.",
         "news_epoch": 1739862300.0,
         "news_categories": [
             "business"
@@ -51,7 +147,7 @@
         "news_id": "yle_7420144334",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Despite the destruction in Homs, returnees are joyful to be back in their neighborhood after years of conflict. The Syrian revolution in November has enabled many families to return home for the first time in nearly a decade.",
+        "news_header": "Despite the devastation in Homs, returnees are joyful to be back in their neighborhood following the Syrian revolution in November. Many families have returned after nearly a decade, despite their homes being ruined.",
         "news_epoch": 1739858340.0,
         "news_categories": [
             "world"
@@ -78,22 +174,6 @@
         "news_more": false,
         "news_original_title": "Yhdysvallat ja Ven\u00e4j\u00e4 pohjustavat rauhanneuvotteluja Ukrainan p\u00e4\u00e4n yli Saudi-Arabiassa \u2013 osapuolilla eroja odotuksissa",
         "news_group": -1
-    },
-    {
-        "news_id": "bbc_cdryr8m1k2eo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "A Delta Air Lines flight crashed and flipped while landing at Toronto Pearson International Airport. All 80 people on board survived, though 18 were injured, with three seriously hurt.",
-        "news_epoch": 1739857320.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Witnesses tell of moment plane crashed and flipped",
-        "news_group": 412
     },
     {
         "news_id": "yle_7420144329",
@@ -147,7 +227,7 @@
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "A Delta Airlines flight crashed while landing in Toronto, injuring at least 19 people. Severe storms in the South have resulted in 12 deaths, with ongoing rescue operations in Kentucky.",
+        "news_header": "A Delta Airlines flight crashed while landing at Toronto&#x27;s Pearson International Airport, injuring at least 19 people. Severe storms in the South have resulted in at least 12 deaths, with ongoing rescue efforts in Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -163,15 +243,15 @@
         "news_id": "pbs_d2064cfc5fb8",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "European leaders met in France to discuss peace talks regarding the war in Ukraine, with concerns about the legitimacy of negotiations that exclude Ukrainian officials.",
+        "news_header": "European leaders met in France to discuss peace talks regarding the Ukraine war, with concerns about the U.S.&#x27;s reliability as a partner. Ukrainian President Zelenskyy criticized talks excluding Ukraine, while former Lithuanian Foreign Minister Landsbergis expressed doubts about U.S.",
         "news_epoch": 1739853600.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.pbs.org/newshour/show/european-leaders-are-left-scrambling-as-u-s-nears-talks-with-russia-on-ukraine",
-        "news_status": "hide",
+        "news_status": "public",
         "news_type": "NewsType.SUMMARY",
-        "news_more": false,
+        "news_more": true,
         "news_original_title": "European leaders are left scrambling as U.S. nears talks with Russia on Ukraine",
         "news_group": -1
     },
@@ -189,7 +269,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 418
+        "news_group": 426
     },
     {
         "news_id": "yle_7420144323",
@@ -240,22 +320,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_c20g02djlv7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "All passengers and crew survived a flight crash at Toronto Pearson Airport, with only minor injuries reported. The Delta Air Lines flight from Minneapolis overturned while landing, resulting in critical injuries to one child and two adults.",
-        "news_epoch": 1739849280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "All passengers and crew survive plane crash at Toronto airport",
-        "news_group": 412
-    },
-    {
         "news_id": "yle_7420144317",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -301,7 +365,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 412
+        "news_group": 421
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -317,7 +381,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 412
+        "news_group": 421
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -349,7 +413,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 416
+        "news_group": 425
     },
     {
         "news_id": "yle_7420144315",
@@ -397,7 +461,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 418
+        "news_group": 426
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -413,7 +477,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 419
+        "news_group": 427
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -429,7 +493,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 415
+        "news_group": 424
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -448,22 +512,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_c8636e7xq5eo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Chancellor Rachel Reeves&#x27; attempt to intervene in a significant case regarding car loans was blocked by the UK&#x27;s Supreme Court. The case, set for April, will determine if lenders should have disclosed their commission from car loans.",
-        "news_epoch": 1739834220.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8636e7xq5eo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Reeves&#x27; intervention in car loans case rejected",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_c74e4wgg71wo",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -477,7 +525,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 413
+        "news_group": 422
     },
     {
         "news_id": "yle_7420144311",
@@ -589,7 +637,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 412
+        "news_group": 421
     },
     {
         "news_id": "yle_7420144304",
@@ -733,7 +781,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 419
+        "news_group": 427
     },
     {
         "news_id": "dw_a71642337",
@@ -765,7 +813,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 420
+        "news_group": 428
     },
     {
         "news_id": "yle_7420144293",
@@ -829,7 +877,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 415
+        "news_group": 424
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -909,7 +957,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 420
+        "news_group": 428
     },
     {
         "news_id": "dw_a71639204",
@@ -1069,7 +1117,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": 414
+        "news_group": 423
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1133,7 +1181,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 413
+        "news_group": 422
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1149,7 +1197,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 416
+        "news_group": 425
     },
     {
         "news_id": "yle_7420144151",
@@ -1181,7 +1229,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Britannia harkitsee rauhanturvaajien l\u00e4hett\u00e4mist\u00e4 Ukrainaan \u2013 joukkojen pit\u00e4isi olla taistelukelpoisia, sanoo tutkija",
-        "news_group": 417
+        "news_group": -1
     },
     {
         "news_id": "dw_a71610611",
@@ -1533,102 +1581,6 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel&amp;#8217;s Netanyahu signals he&amp;#8217;s moving ahead with Trump&amp;#8217;s plan to move Palestinians from Gaza",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cz9eddnnq4go",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739752140.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cz9eddnnq4go",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Netanyahu praises Trump&#x27;s &#x27;bold vision&#x27; for Gaza at Rubio meeting",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cglywyjg0kwo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "A man described how he was nearly scammed by criminals posing as bailiffs, who claimed he owed a fictitious debt and threatened to seize his possessions. The scammers used convincing tactics, including fake court documents and phone calls, to create panic and pressure him into paying.",
-        "news_epoch": 1739750520.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cglywyjg0kwo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "&#x27;Fake bailiffs said they&#x27;d take my furniture&#x27;",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cx242lw21jwo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739749980.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cx242lw21jwo",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Five takeaways from the Munich Security Conference",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144065",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739748720.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144065",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Britannian p\u00e4\u00e4ministeri valmis l\u00e4hett\u00e4m\u00e4\u00e4n joukkoja rauhanturvateht\u00e4viin Ukrainaan \u2013 armeijan johto n\u00e4kee vaikeana",
-        "news_group": 417
-    },
-    {
-        "news_id": "yle_7420144064",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739748000.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144064",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Ainakin kahdeksan kuollut tulvissa Kentuckyssa Yhdysvalloissa",
-        "news_group": 413
-    },
-    {
-        "news_id": "pbs_3d23a7513f32",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Ukrainian President Volodymyr Zelenskyy has instructed his ministers not to sign a proposed agreement granting the U.S. access to Ukraine&#x27;s rare earth minerals, citing that it primarily serves U.S.",
-        "news_epoch": 1739746800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/the-u-s-presented-ukraine-with-proposal-to-access-its-minerals-offering-no-guarantees-in-return",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "The U.S. presented Ukraine with proposal to access its minerals, offering no guarantees in return",
         "news_group": -1
     }
 ]
