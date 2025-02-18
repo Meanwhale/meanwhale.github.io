@@ -1,10 +1,74 @@
 const articles = [
     {
+        "news_id": "bbc_ce3lx7k092vo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Inhemska energipriser f\u00f6rv\u00e4ntas stiga med 5% fr\u00e5n april, vilket \u00f6kar hush\u00e5llens r\u00e4kningar med \u00a385 per \u00e5r. Ett typiskt hush\u00e5ll kommer att betala \u00a31,823 per \u00e5r. Denna \u00f6kning sammanfaller med h\u00f6jningar av vatten- och kommunalskatter.",
+        "news_epoch": 1739882400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce3lx7k092vo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Energy bills forecast to rise by \u00a385 a year",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cn04lllp2zwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Israel har dragit tillbaka de flesta av sina styrkor fr\u00e5n s\u00f6dra Libanon som en del av en vapenvila med Hezbollah, men har beh\u00e5llit fem positioner av s\u00e4kerhetssk\u00e4l.",
+        "news_epoch": 1739882160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cn04lllp2zwo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Israeli troops stay inside south Lebanon after withdrawal deadline",
+        "news_group": 439
+    },
+    {
+        "news_id": "yle_7420144376",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "En handelsstrejk i Finland b\u00f6rjade p\u00e5 m\u00e5ndag inom logistik och kommer att utvidgas till butiker p\u00e5 onsdag, som varar i tre dagar. Kari Luoto, VD f\u00f6r Handelsf\u00f6rbundet, rekommenderar konsumenter att undvika att hamstra mat och n\u00e4mner potentiella f\u00f6r\u00e4ndringar i butikernas \u00f6ppettider.",
+        "news_epoch": 1739882100.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144376",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Maitohyllyt tyhjeniv\u00e4t, mutta olutta on \u2013 t\u00e4lt\u00e4 n\u00e4ytt\u00e4\u00e4 Suomen kauppojen hyllyill\u00e4 nyt",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144475",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739881560.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144475",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Iranissa brittipariskunta saanut syytteet vakoilusta",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_cg7z7ddmd5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Thames Water har s\u00e4krat ett r\u00e4ddningsl\u00e5n p\u00e5 \u00a33 miljarder fr\u00e5n H\u00f6gsta domstolen, vilket undviker statlig kontroll medan f\u00f6retaget k\u00e4mpar med \u00a317 miljarder i skuld.",
-        "news_epoch": 1739875620.0,
+        "news_header": "Thames Water har s\u00e4krat ett r\u00e4ddningsl\u00e5n p\u00e5 \u00a33 miljarder fr\u00e5n h\u00f6gsta domstolen, vilket undviker statlig kontroll medan f\u00f6retaget omstrukturerar mitt i \u00a319 miljarder i skulder.",
+        "news_epoch": 1739880840.0,
         "news_categories": [
             "business"
         ],
@@ -16,10 +80,90 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "yle_7420144469",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739880180.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144469",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Paavin y\u00f6 meni hyvin \u2013 on yh\u00e4 sairaalassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c1w07nq8qqqo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Argentinska presidenten Javier Milei har f\u00f6rnekat att han har fr\u00e4mjat kryptovalutan $Libra, som kollapsade kort efter att han n\u00e4mnde den. En domare kommer att avg\u00f6ra om han ska st\u00e4llas inf\u00f6r bedr\u00e4gerivanklagelser.",
+        "news_epoch": 1739879280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1w07nq8qqqo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Argentina&#x27;s President Milei denies crypto fraud allegations",
+        "news_group": 440
+    },
+    {
+        "news_id": "bbc_c4gex0x87g4o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Sydkorea har anklagat den kinesiska AI-startupen DeepSeek f\u00f6r att dela anv\u00e4ndardata med ByteDance, \u00e4garen av TikTok. Den sydkoreanska dataskyddsmyndigheten bekr\u00e4ftade kommunikationen mellan DeepSeek och ByteDance, vilket ledde till att DeepSeek togs bort fr\u00e5n appbutiker p\u00e5 grund av dataskyddsproblem.",
+        "news_epoch": 1739878800.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c4gex0x87g4o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "DeepSeek &#x27;shared user data&#x27; with TikTok owner ByteDance",
+        "news_group": 442
+    },
+    {
+        "news_id": "bbc_c5yeyy3y1ejo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Japan g\u00f6r en stor f\u00f6r\u00e4ndring i sin energipolitik f\u00f6r att \u00f6ka beroendet av k\u00e4rnenergi f\u00f6r att m\u00f6ta den v\u00e4xande efterfr\u00e5gan fr\u00e5n sektorer som AI och halvledare. Den nya energiplanen syftar till att k\u00e4rnenergi ska st\u00e5 f\u00f6r 20 % av eln\u00e4tets f\u00f6rs\u00f6rjning \u00e5r 2040, upp fr\u00e5n 8,5 % \u00e5r 2023.",
+        "news_epoch": 1739878680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c5yeyy3y1ejo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Japan raises nuclear power goal in post-Fukushima shift",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c203018pr2jo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Alya, en syrisk flykting, reflekterar \u00f6ver den senaste attacken i M\u00fcnchen som d\u00f6dade en mor och ett barn, och uttrycker sin f\u00f6rvirring och sorg \u00f6ver s\u00e5dan v\u00e5ld. Hon och hennes son Rami, som flydde fr\u00e5n Syrien f\u00f6r ett decennium sedan, har integrerat sig i det tyska samh\u00e4llet, men Alya noterar en f\u00f6r\u00e4ndring i attityder gentemot migranter i Tyskland.",
+        "news_epoch": 1739877780.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c203018pr2jo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Germany&#x27;s tensions over immigration laid bare ahead of election",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c20g02djlv7o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Alla 80 personer ombord p\u00e5 ett Delta Air Lines-flyg som kraschade vid landning i Toronto \u00f6verlevde. Planet v\u00e4lte och stannade upp och ner, med 18 personer skadade, men endast ett f\u00e5tal allvarligt.",
+        "news_header": "Alla 80 personer ombord p\u00e5 ett Delta Air Lines-flyg som kraschade vid landning i Toronto \u00f6verlevde. Planet v\u00e4lte, och \u00e4ven om 18 skadades, \u00e4r endast ett f\u00e5tal allvarligt skadade.",
         "news_epoch": 1739875020.0,
         "news_categories": [
             "world"
@@ -29,13 +173,13 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "yle_7420144429",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Israel \u00e4r redo att inleda f\u00f6rhandlingar om den andra fasen av vapenvilan i Gaza, med fokus p\u00e5 en permanent vapenvila, frigivning av israeliska gisslan och tillbakadragande av israeliska styrkor fr\u00e5n Gaza.",
+        "news_header": "Israel \u00e4r redo att inleda f\u00f6rhandlingar om den andra fasen av vapenvilan i Gaza, med fokus p\u00e5 en permanent vapenvila, frigivning av israeliska gisslan mot palestinska f\u00e5ngar och tillbakadragande av israeliska styrkor fr\u00e5n Gaza.",
         "news_epoch": 1739874720.0,
         "news_categories": [
             "world"
@@ -48,10 +192,26 @@ const articles = [
         "news_group": -1
     },
     {
+        "news_id": "yle_7420144210",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Den nationella medlarens kontor rapporterar framsteg i medlingen ang\u00e5ende en handelskonflikt, men ingen \u00f6verenskommelse har n\u00e5tts. En handelsstrejk inom logistik b\u00f6rjade p\u00e5 m\u00e5ndag och kommer att utvidgas till livsmedelsbutiker fr\u00e5n och med onsdag.",
+        "news_epoch": 1739872680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144210",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Kaupan alan ty\u00f6riitaan ei sopua, ruokakauppojen lakko alkaa keskiviikkona",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143750",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "I Finland utf\u00f6rs sk\u00f6nhetsbehandlingar alltmer med tveksamma apparater i privata milj\u00f6er, vilket leder till att cirka 80 patienter \u00e5rligen behandlas vid HUS p\u00e5 grund av komplikationer fr\u00e5n dessa procedurer.",
+        "news_header": "Sk\u00f6nhetsbehandlingar i Finland utf\u00f6rs alltmer i privata l\u00e4genheter med tveksamma apparater, vilket leder till att cirka 80 patienter \u00e5rligen behandlas f\u00f6r komplikationer vid HUS.",
         "news_epoch": 1739871960.0,
         "news_categories": [
             "business"
@@ -189,7 +349,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "yle_7420144252",
@@ -217,11 +377,11 @@ const articles = [
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20144348",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 431
+        "news_group": 439
     },
     {
         "news_id": "yle_7420144347",
@@ -323,7 +483,7 @@ const articles = [
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "Ett Delta Airlines-flyg kraschade vid landning p\u00e5 Torontos Pearson internationella flygplats, vilket skadade minst 19 personer. Sv\u00e5ra stormar i s\u00f6dern har resulterat i 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
+        "news_header": "Ett Delta Airlines-flyg kraschade vid landning i Toronto och skadade minst 19 personer. Allvarliga stormar i s\u00f6dern har resulterat i 12 d\u00f6dsfall, med p\u00e5g\u00e5ende r\u00e4ddningsinsatser i Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -365,7 +525,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 434
+        "news_group": 443
     },
     {
         "news_id": "yle_7420144323",
@@ -461,7 +621,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -477,7 +637,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -505,11 +665,11 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.pbs.org/newshour/world/south-korea-pauses-downloads-of-deepseeks-ai-apps-due-to-privacy-concerns",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 433
+        "news_group": 442
     },
     {
         "news_id": "yle_7420144315",
@@ -557,7 +717,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 434
+        "news_group": 443
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -573,7 +733,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 435
+        "news_group": 444
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -589,7 +749,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 432
+        "news_group": 441
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -621,7 +781,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 430
+        "news_group": 438
     },
     {
         "news_id": "yle_7420144311",
@@ -733,7 +893,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "yle_7420144304",
@@ -877,7 +1037,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 435
+        "news_group": 444
     },
     {
         "news_id": "dw_a71642337",
@@ -909,7 +1069,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 436
+        "news_group": 445
     },
     {
         "news_id": "yle_7420144293",
@@ -973,7 +1133,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 432
+        "news_group": 441
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -985,11 +1145,11 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp9x9j89evxo",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "Argentina president faces impeachment calls over crypto crash",
-        "news_group": -1
+        "news_group": 440
     },
     {
         "news_id": "yle_7420144126",
@@ -1053,7 +1213,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 436
+        "news_group": 445
     },
     {
         "news_id": "dw_a71639204",
@@ -1213,7 +1373,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": 431
+        "news_group": 439
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1277,7 +1437,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 430
+        "news_group": 438
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1293,7 +1453,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 433
+        "news_group": 442
     },
     {
         "news_id": "yle_7420144151",
@@ -1501,134 +1661,6 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Ihmisoikeusj\u00e4rjest\u00f6jen raportti: EU:n rajoilta k\u00e4\u00e4nnytettiin laittomasti viime vuonna jopa 120 000 ihmist\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_ce8yl47p4k3o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "OpenAI:s styrelse har avvisat Elon Musks erbjudande p\u00e5 97,4 miljarder dollar f\u00f6r f\u00f6retaget, vilket kan komplicera VD Sam Altmans planer p\u00e5 att omvandla OpenAI till ett vinstdrivande f\u00f6retag.",
-        "news_epoch": 1739764200.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce8yl47p4k3o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Could Musk damage OpenAI despite his failed bid?",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_daec5f0f3a67",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739764200.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/former-u-s-envoy-on-why-trump-is-engaging-with-russia-over-ukraine-talks",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Former U.S. envoy on why Trump is engaging with Russia over Ukraine talks",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_d0292c6050e5",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739763900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/we-will-never-be-a-colony-canadian-foreign-minister-says-to-trumps-51st-state-remarks",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "&amp;lsquo;We will never be a colony,&amp;rsquo; Canadian foreign minister says to Trump&amp;rsquo;s 51st state remarks",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_978085f365f3",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739763600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/news-wrap-rubio-reaffirms-trumps-gaza-takeover-plan-on-trip-to-israel",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "News Wrap: Rubio reaffirms Trump&amp;rsquo;s Gaza takeover plan on trip to Israel",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_55b993b5fac6",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739763300.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/on-the-ground-with-u-n-forces-in-lebanon-as-israeli-withdrawal-deadline-looms",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "On the ground with U.N. forces in Lebanon as Israeli withdrawal deadline looms",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143054",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Tyskland st\u00e5r inf\u00f6r stort tryck inf\u00f6r valet, fr\u00e4mst p\u00e5 grund av \u00f6kande oro kring invandring efter en tragisk knivattack av en asyls\u00f6kande som resulterade i ett barns d\u00f6d.",
-        "news_epoch": 1739762400.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143054",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Saksa siirtyy nyt vauhdilla oikealle, ja t\u00e4m\u00e4 lihakauppias tiet\u00e4\u00e4 syyn",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_ce85709xdk4o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "FN:s klimatm\u00f6te 2023 i F\u00f6renade Arabemiraten uppmanade till en \u00f6verg\u00e5ng bort fr\u00e5n fossila br\u00e4nslen, men ett \u00e5r senare verkar det globala engagemanget avta n\u00e4r konsumtionen av fossila br\u00e4nslen \u00f6kar.",
-        "news_epoch": 1739761440.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce85709xdk4o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "How Trump&#x27;s &#x27;drill, baby, drill&#x27; pledge is affecting other countries",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_clye46n565xo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Teherans museum f\u00f6r samtidskonst rymmer en av v\u00e4rldens s\u00e4llsyntaste konstsamlingar, med m\u00e4sterverk av konstn\u00e4rer som Picasso, Van Gogh och Warhol, v\u00e4rderad till cirka 3 miljarder dollar.",
-        "news_epoch": 1739759700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/clye46n565xo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "A glimpse at Picasso and Pollock masterpieces kept in Tehran vault",
         "news_group": -1
     }
 ];

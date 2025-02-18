@@ -1,10 +1,74 @@
 [
     {
+        "news_id": "bbc_ce3lx7k092vo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Domestic energy prices are expected to rise by 5% from April, increasing household bills by \u00a385 annually. A typical household will pay \u00a31,823 per year. This rise coincides with increases in water and council tax bills.",
+        "news_epoch": 1739882400.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/ce3lx7k092vo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Energy bills forecast to rise by \u00a385 a year",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cn04lllp2zwo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Israel has withdrawn most of its forces from southern Lebanon as part of a ceasefire with Hezbollah, but has retained five positions for security reasons. Lebanon demands a complete withdrawal, viewing any Israeli presence as an occupation.",
+        "news_epoch": 1739882160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cn04lllp2zwo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Israeli troops stay inside south Lebanon after withdrawal deadline",
+        "news_group": 439
+    },
+    {
+        "news_id": "yle_7420144376",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A trade strike in Finland began on Monday in logistics and will extend to stores on Wednesday, lasting three days. CEO Kari Luoto of the Federation of Commerce advises consumers against hoarding food and mentions potential changes in store opening hours.",
+        "news_epoch": 1739882100.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144376",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Maitohyllyt tyhjeniv\u00e4t, mutta olutta on \u2013 t\u00e4lt\u00e4 n\u00e4ytt\u00e4\u00e4 Suomen kauppojen hyllyill\u00e4 nyt",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144475",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739881560.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144475",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Iranissa brittipariskunta saanut syytteet vakoilusta",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_cg7z7ddmd5eo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Thames Water has secured a \u00a33bn rescue loan from the High Court, avoiding government control as it faces \u00a317bn in debt. The loan will help the company restructure, although its future remains uncertain.",
-        "news_epoch": 1739875620.0,
+        "news_header": "Thames Water has secured a \u00a33bn rescue loan from the High Court, avoiding government control as it restructures amid \u00a319bn debt. The company, which serves a quarter of the UK population, has faced criticism for its performance and sewage issues.",
+        "news_epoch": 1739880840.0,
         "news_categories": [
             "business"
         ],
@@ -16,10 +80,90 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420144469",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739880180.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144469",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Paavin y\u00f6 meni hyvin \u2013 on yh\u00e4 sairaalassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c1w07nq8qqqo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Argentine President Javier Milei has denied promoting the cryptocurrency $Libra, which collapsed shortly after he mentioned it. A judge will decide if he faces fraud charges.",
+        "news_epoch": 1739879280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1w07nq8qqqo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Argentina&#x27;s President Milei denies crypto fraud allegations",
+        "news_group": 440
+    },
+    {
+        "news_id": "bbc_c4gex0x87g4o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "South Korea has accused Chinese AI startup DeepSeek of sharing user data with ByteDance, the owner of TikTok. The South Korean data protection regulator confirmed communication between DeepSeek and ByteDance, leading to DeepSeek&#x27;s removal from app stores due to data protection concerns.",
+        "news_epoch": 1739878800.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c4gex0x87g4o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "DeepSeek &#x27;shared user data&#x27; with TikTok owner ByteDance",
+        "news_group": 442
+    },
+    {
+        "news_id": "bbc_c5yeyy3y1ejo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Japan is shifting its energy policy to increase reliance on nuclear energy to meet the growing demand from sectors like AI and semiconductors. The new energy plan aims for nuclear energy to account for 20% of the grid supply by 2040, up from 8.5% in 2023.",
+        "news_epoch": 1739878680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c5yeyy3y1ejo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Japan raises nuclear power goal in post-Fukushima shift",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c203018pr2jo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Alya, a Syrian refugee, reflects on the recent Munich attack that killed a mother and child, expressing her confusion and sorrow over such violence. She and her son Rami, who fled Syria a decade ago, have integrated into German society, but Alya notes a change in attitudes towards migrants in Germany.",
+        "news_epoch": 1739877780.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c203018pr2jo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Germany&#x27;s tensions over immigration laid bare ahead of election",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c20g02djlv7o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "All 80 people on board a Delta Air Lines flight that crashed while landing in Toronto survived. The plane overturned and came to a stop upside down, with 18 people injured, though only a few seriously.",
+        "news_header": "All 80 people on board a Delta Air Lines flight that crashed while landing in Toronto survived. The plane overturned, and although 18 were injured, only a few are seriously hurt.",
         "news_epoch": 1739875020.0,
         "news_categories": [
             "world"
@@ -29,13 +173,13 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "yle_7420144429",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Israel is ready to negotiate the second phase of the Gaza truce, focusing on a permanent ceasefire, the release of Israeli hostages, and the withdrawal of Israeli forces from Gaza.",
+        "news_header": "Israel is ready to negotiate the second phase of the Gaza truce, focusing on a permanent ceasefire, the release of Israeli hostages for Palestinian prisoners, and the withdrawal of Israeli forces from Gaza.",
         "news_epoch": 1739874720.0,
         "news_categories": [
             "world"
@@ -48,10 +192,26 @@
         "news_group": -1
     },
     {
+        "news_id": "yle_7420144210",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "The National Mediator&#x27;s office reports progress in mediation regarding a trade dispute, but no agreement has been reached. A trade strike in logistics began on Monday and will extend to grocery stores starting Wednesday.",
+        "news_epoch": 1739872680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144210",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Kaupan alan ty\u00f6riitaan ei sopua, ruokakauppojen lakko alkaa keskiviikkona",
+        "news_group": -1
+    },
+    {
         "news_id": "yle_7420143750",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "In Finland, beauty treatments are increasingly performed with questionable equipment in private settings, leading to around 80 patients treated annually at HUS due to complications from these procedures.",
+        "news_header": "Beauty treatments in Finland are increasingly done in private apartments with questionable equipment, leading to around 80 patients treated annually for complications at HUS.",
         "news_epoch": 1739871960.0,
         "news_categories": [
             "business"
@@ -189,7 +349,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "yle_7420144252",
@@ -217,11 +377,11 @@
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20144348",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 431
+        "news_group": 439
     },
     {
         "news_id": "yle_7420144347",
@@ -323,7 +483,7 @@
         "news_id": "pbs_97111c139ca7",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "A Delta Airlines flight crashed while landing at Toronto&#x27;s Pearson International Airport, injuring at least 19 people. Severe storms in the South have resulted in 12 deaths, with ongoing rescue efforts in Kentucky.",
+        "news_header": "A Delta Airlines flight crashed while landing in Toronto, injuring at least 19 people. Severe storms in the South have resulted in 12 deaths, with ongoing rescue efforts in Kentucky.",
         "news_epoch": 1739854200.0,
         "news_categories": [
             "world"
@@ -365,7 +525,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 434
+        "news_group": 443
     },
     {
         "news_id": "yle_7420144323",
@@ -461,7 +621,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "pbs_f3a5bd200343",
@@ -477,7 +637,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "pbs_58cf75f9bbaf",
@@ -505,11 +665,11 @@
             "world"
         ],
         "news_url": "https://www.pbs.org/newshour/world/south-korea-pauses-downloads-of-deepseeks-ai-apps-due-to-privacy-concerns",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 433
+        "news_group": 442
     },
     {
         "news_id": "yle_7420144315",
@@ -557,7 +717,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 434
+        "news_group": 443
     },
     {
         "news_id": "pbs_d63adbd54cba",
@@ -573,7 +733,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": 435
+        "news_group": 444
     },
     {
         "news_id": "pbs_f9c835c33bff",
@@ -589,7 +749,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": 432
+        "news_group": 441
     },
     {
         "news_id": "bbc_cy8p8e022j0o",
@@ -621,7 +781,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": 430
+        "news_group": 438
     },
     {
         "news_id": "yle_7420144311",
@@ -733,7 +893,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Matkustajakone py\u00f6r\u00e4hti katolleen Toronton lentokent\u00e4ll\u00e4 \u2013 useita loukkaantui",
-        "news_group": 429
+        "news_group": 437
     },
     {
         "news_id": "yle_7420144304",
@@ -877,7 +1037,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Pope&#x27;s health a &#x27;complex clinical situation&#x27;, Vatican says",
-        "news_group": 435
+        "news_group": 444
     },
     {
         "news_id": "dw_a71642337",
@@ -909,7 +1069,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Meta plans globe-spanning sub-sea internet cable",
-        "news_group": 436
+        "news_group": 445
     },
     {
         "news_id": "yle_7420144293",
@@ -973,7 +1133,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meksiko uhkaa haastavansa Googlen oikeuteen",
-        "news_group": 432
+        "news_group": 441
     },
     {
         "news_id": "bbc_cp9x9j89evxo",
@@ -985,11 +1145,11 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cp9x9j89evxo",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "Argentina president faces impeachment calls over crypto crash",
-        "news_group": -1
+        "news_group": 440
     },
     {
         "news_id": "yle_7420144126",
@@ -1053,7 +1213,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Meta aikoo rakentaa maailman pisimm\u00e4n merenalaisen nettikaapelin",
-        "news_group": 436
+        "news_group": 445
     },
     {
         "news_id": "dw_a71639204",
@@ -1213,7 +1373,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel sanoo tappaneensa Hamasin johtajan Libanonissa",
-        "news_group": 431
+        "news_group": 439
     },
     {
         "news_id": "bbc_cvgpgeve76qo",
@@ -1277,7 +1437,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "At least 10 dead in US floods and heavy rain",
-        "news_group": 430
+        "news_group": 438
     },
     {
         "news_id": "bbc_clyzym0vn8go",
@@ -1293,7 +1453,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "S Korea removes Deepseek from app stores over privacy concerns",
-        "news_group": 433
+        "news_group": 442
     },
     {
         "news_id": "yle_7420144151",
@@ -1501,134 +1661,6 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Ihmisoikeusj\u00e4rjest\u00f6jen raportti: EU:n rajoilta k\u00e4\u00e4nnytettiin laittomasti viime vuonna jopa 120 000 ihmist\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_ce8yl47p4k3o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "OpenAI&#x27;s board has rejected Elon Musk&#x27;s $97.4 billion offer for the company, which may complicate CEO Sam Altman&#x27;s plans to shift OpenAI to a for-profit model. Experts suggest Musk&#x27;s bid aims to inflate the value of OpenAI&#x27;s non-profit assets, making it harder for Altman to proceed with his plans.",
-        "news_epoch": 1739764200.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce8yl47p4k3o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Could Musk damage OpenAI despite his failed bid?",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_daec5f0f3a67",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739764200.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/former-u-s-envoy-on-why-trump-is-engaging-with-russia-over-ukraine-talks",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Former U.S. envoy on why Trump is engaging with Russia over Ukraine talks",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_d0292c6050e5",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739763900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/we-will-never-be-a-colony-canadian-foreign-minister-says-to-trumps-51st-state-remarks",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "&amp;lsquo;We will never be a colony,&amp;rsquo; Canadian foreign minister says to Trump&amp;rsquo;s 51st state remarks",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_978085f365f3",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739763600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/news-wrap-rubio-reaffirms-trumps-gaza-takeover-plan-on-trip-to-israel",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "News Wrap: Rubio reaffirms Trump&amp;rsquo;s Gaza takeover plan on trip to Israel",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_55b993b5fac6",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739763300.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/on-the-ground-with-u-n-forces-in-lebanon-as-israeli-withdrawal-deadline-looms",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "On the ground with U.N. forces in Lebanon as Israeli withdrawal deadline looms",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143054",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Germany is facing intense pressure ahead of an election, primarily due to rising concerns about immigration following a tragic knife attack by an asylum seeker that resulted in the death of a child.",
-        "news_epoch": 1739762400.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20143054",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Saksa siirtyy nyt vauhdilla oikealle, ja t\u00e4m\u00e4 lihakauppias tiet\u00e4\u00e4 syyn",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_ce85709xdk4o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "The 2023 UN climate summit in the UAE called for a transition away from fossil fuels, but a year later, global commitment seems to be waning as fossil fuel consumption rises.",
-        "news_epoch": 1739761440.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce85709xdk4o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "How Trump&#x27;s &#x27;drill, baby, drill&#x27; pledge is affecting other countries",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_clye46n565xo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "The Tehran Museum of Contemporary Art houses one of the world&#x27;s rarest art collections, featuring masterpieces by artists like Picasso, Van Gogh, and Warhol, valued at around $3 billion.",
-        "news_epoch": 1739759700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/clye46n565xo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "A glimpse at Picasso and Pollock masterpieces kept in Tehran vault",
         "news_group": -1
     }
 ]

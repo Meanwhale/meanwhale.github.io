@@ -1,0 +1,14 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_c4gex0x87g4o",
+    "news_header": "South Korea has accused Chinese AI startup DeepSeek of sharing user data with ByteDance, the owner of TikTok. The South Korean data protection regulator confirmed communication between DeepSeek and ByteDance, leading to DeepSeek&#x27;s removal from app stores due to data protection concerns.",
+    "news_original_title": "DeepSeek &#x27;shared user data&#x27; with TikTok owner ByteDance",
+    "news_text": "Despite DeepSeek&#x27;s rapid rise in popularity, there are fears regarding user data protection, and the regulator is investigating the extent of data sharing. Critics highlight China&#x27;s National Intelligence Law, which may allow government access to data from Chinese companies. The situation has led to a ban on DeepSeek from government devices in South Korea, following similar actions in other countries.",
+    "news_url": "https://www.bbc.com/news/articles/c4gex0x87g4o",
+    "news_time": 1739878800.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": 442
+}
