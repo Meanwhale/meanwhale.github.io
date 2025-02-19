@@ -1,14 +1,15 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c0l18pzrz00o",
-    "news_header": "UK:s inflation steg till 3% p\u00e5 grund av \u00f6kade kostnader.",
-    "news_original_title": "Inflation soars on airfares and private school fees",
-    "news_text": "UK:s inflation steg kraftigt till 3% i januari, drivet av h\u00f6gre avgifter f\u00f6r privata skolor och matpriser. Detta markerar den snabbaste \u00f6kningen p\u00e5 10 m\u00e5nader, med ytterligare \u00f6kningar f\u00f6rv\u00e4ntade p\u00e5 grund av energikostnader.",
+    "news_header": "Storbritanniens inflation steg till 3 % p\u00e5 grund av stigande matpriser och \u00f6kade avgifter f\u00f6r privata skolor.",
+    "news_original_title": "Inflation soars on food and private school fees",
+    "news_text": "Storbritanniens inflation steg till 3 % i januari, drivet av stigande matpriser och \u00f6kade avgifter f\u00f6r privata skolor. Levnadskostnaderna f\u00f6rv\u00e4ntas stiga ytterligare p\u00e5 grund av energipriser och skatteh\u00f6jningar.",
     "news_url": "https://www.bbc.com/news/articles/c0l18pzrz00o",
-    "news_time": 1739949480.0,
+    "news_time": 1739958540.0,
     "news_categories": [
         "business"
     ],
     "news_source_lang": "sv",
-    "news_group": -1
+    "news_group": -1,
+    "keywords": []
 }

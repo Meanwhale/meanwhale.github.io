@@ -1,14 +1,15 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cd7e38py4geo",
-    "news_header": "90 valehyljett\u00e4 eutanasoidaan massastrandauksen j\u00e4lkeen Tasmaniassa.",
+    "news_header": "Australian viranomaiset eutanasoivat 90 valehyljett\u00e4 massastrandauksen j\u00e4lkeen Tasmaniaan vaikeiden olosuhteiden vuoksi.",
     "news_original_title": "Scores of whales to be euthanised after mass stranding in Australia",
-    "news_text": "Australian viranomaiset eutanasoivat noin 90 valehyljett\u00e4, jotka selviytyiv\u00e4t massastrandauksesta eristyksiss\u00e4 olevalla rannalla Tasmaniassa. Asiantuntijat pitiv\u00e4t niiden pelastamista mahdottomana monimutkaisten olosuhteiden vuoksi. 157 hyljeen ryhm\u00e4 strandasi Arthur Riverin l\u00e4hell\u00e4, ja loput kuolivat pian sen j\u00e4lkeen. Eutanasiaa pidettiin viimeisen\u00e4 keinona ep\u00e4onnistuneiden pelastustoimien j\u00e4lkeen.",
+    "news_text": "Australian viranomaiset eutanasoivat noin 90 valehyljett\u00e4, jotka selviytyiv\u00e4t massastrandauksesta Tasmaniaan. Asiantuntijat arvioivat, ett\u00e4 niiden pelastaminen oli mahdotonta vaikeiden olosuhteiden vuoksi. 157 hylkeen ryhm\u00e4 oli ajautunut maihin Arthur Riverin l\u00e4hell\u00e4, ja loput kuolivat pian sen j\u00e4lkeen. Eutanasia valittiin viimeisen\u00e4 keinona ep\u00e4onnistuneiden pelastusyritysten j\u00e4lkeen.",
     "news_url": "https://www.bbc.com/news/articles/cd7e38py4geo",
     "news_time": 1739948160.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "fi",
-    "news_group": -1
+    "news_group": -1,
+    "keywords": []
 }

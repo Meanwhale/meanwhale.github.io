@@ -1,14 +1,17 @@
 {
     "news_source": "dw",
     "news_id": "dw_a71666180",
-    "news_header": "Domare blockerar inte Musks DOGE fr\u00e5n upps\u00e4gningar.",
+    "news_header": "Domare blockerar inte Musks DOGE fr\u00e5n upps\u00e4gningar, vilket v\u00e4cker fr\u00e5gor om oinskr\u00e4nkt makt.",
     "news_original_title": "US: Judge declines to stop Musk from firing workers",
-    "news_text": "Den amerikanska distriktsdomaren Tanya Chutkan blockerade inte Elon Musks DOGE fr\u00e5n att s\u00e4ga upp arbetare och f\u00e5 tillg\u00e5ng till k\u00e4nslig information, vilket v\u00e4cker fr\u00e5gor om Musks befogenheter. Staternas beg\u00e4ran om en n\u00f6df\u00f6rordning ans\u00e5gs vara f\u00f6r bred och spekulativ.",
+    "news_text": "Den amerikanska distriktsdomaren Tanya Chutkan blockerade inte Elon Musks Department of Government Efficiency (DOGE) fr\u00e5n att s\u00e4ga upp anst\u00e4llda och f\u00e5 tillg\u00e5ng till k\u00e4nslig information. Fallet v\u00e4ckte legitima fr\u00e5gor om Musks oinskr\u00e4nkta makt, men domaren ans\u00e5g att delstaterna inte hade visat tillr\u00e4ckliga sk\u00e4l f\u00f6r en omedelbar restraining order. 14 delstater s\u00f6ker en domstolsorder f\u00f6r att f\u00f6rhindra DOGE fr\u00e5n att f\u00e5 tillg\u00e5ng till federala myndigheters system eller avskeda statliga anst\u00e4llda.",
     "news_url": "https://www.dw.com/en/us-judge-declines-to-stop-musk-from-firing-workers/a-71666180",
     "news_time": 1739923260.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "sv",
-    "news_group": -1
+    "news_group": -1,
+    "keywords": [
+        "news"
+    ]
 }

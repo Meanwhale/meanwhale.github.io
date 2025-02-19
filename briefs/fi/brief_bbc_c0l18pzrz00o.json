@@ -1,14 +1,15 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_c0l18pzrz00o",
-    "news_header": "UK:n inflaatio nousi 3% kustannusten vuoksi.",
-    "news_original_title": "Inflation soars on airfares and private school fees",
-    "news_text": "UK:n inflaatio nousi jyrk\u00e4sti 3%:iin tammikuussa, mik\u00e4 johtui korkeista yksityiskoulujen maksuista ja elintarvikkeiden hinnoista. T\u00e4m\u00e4 merkitsee nopeinta nousua 10 kuukauteen, ja odotetaan lis\u00e4\u00e4 nousuja energiahintojen vuoksi.",
+    "news_header": "Britannian inflaatio nousi 3 %:iin korkeampien elintarvikkeiden hintojen ja yksityisten koulujen maksujen vuoksi.",
+    "news_original_title": "Inflation soars on food and private school fees",
+    "news_text": "Britannian inflaatio nousi tammikuussa 3 %:iin, mik\u00e4 johtui korkeammista elintarvikkeiden hinnoista ja lis\u00e4\u00e4ntyneist\u00e4 yksityisten koulujen maksuista. Elinkustannusten odotetaan nousevan edelleen energiahintojen ja veronkorotusten vuoksi.",
     "news_url": "https://www.bbc.com/news/articles/c0l18pzrz00o",
-    "news_time": 1739949480.0,
+    "news_time": 1739958540.0,
     "news_categories": [
         "business"
     ],
     "news_source_lang": "fi",
-    "news_group": -1
+    "news_group": -1,
+    "keywords": []
 }

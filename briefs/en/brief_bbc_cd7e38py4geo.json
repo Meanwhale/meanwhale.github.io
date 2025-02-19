@@ -1,14 +1,15 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cd7e38py4geo",
-    "news_header": "90 false killer whales euthanised after mass stranding in Tasmania.",
+    "news_header": "Australian authorities euthanise 90 false killer whales after mass stranding in Tasmania due to complex conditions.",
     "news_original_title": "Scores of whales to be euthanised after mass stranding in Australia",
-    "news_text": "Australian authorities are euthanising about 90 false killer whales that survived a mass stranding on a remote beach in Tasmania. Experts deemed it impossible to save them due to complex conditions. The pod of 157 whales stranded near Arthur River, with the rest dying shortly after. Euthanasia was considered a last resort after unsuccessful rescue attempts.",
+    "news_text": "Australian authorities are euthanising about 90 false killer whales that survived a mass stranding in Tasmania. Experts deemed it impossible to save them due to complex conditions. The pod of 157 whales beached near Arthur River, with the rest dying shortly after. Euthanasia was chosen as the last resort after unsuccessful rescue attempts.",
     "news_url": "https://www.bbc.com/news/articles/cd7e38py4geo",
     "news_time": 1739948160.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": -1
+    "news_group": -1,
+    "keywords": []
 }

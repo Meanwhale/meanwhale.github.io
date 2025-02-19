@@ -1,14 +1,15 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cd0n5e1pdz9o",
-    "news_header": "Trump kritisoi Ukrainaa aikaisemman rauhanneuvottelun puutteesta.",
+    "news_header": "Trump kritisoi Ukrainan reaktiota rauhanneuvotteluihin, ehdottaen, ett\u00e4 he olisivat voineet neuvotella aikaisemmin sodan v\u00e4ltt\u00e4miseksi.",
     "news_original_title": "Trump appears to blame Ukraine for starting war",
-    "news_text": "Donald Trump ilmaisi pettymyst\u00e4 Ukrainan reaktioon rauhanneuvotteluihin, ehdottaen, ett\u00e4 neuvottelut olisi voitu k\u00e4yd\u00e4 aikaisemmin. H\u00e4n korosti, ett\u00e4 Ven\u00e4j\u00e4 on valmis osallistumaan keskusteluihin, mutta Ukrainan poissaolo neuvotteluista her\u00e4tt\u00e4\u00e4 huolta. Jatkuva konflikti on johtanut merkitt\u00e4viin uhreihin ja pakolaisuuteen.",
+    "news_text": "Donald Trump ilmaisi pettymyst\u00e4 Ukrainan reaktioon rauhanneuvotteluissa Saudi-Arabiassa, ehdottaen, ett\u00e4 he olisivat voineet neuvotella aikaisemmin sodan est\u00e4miseksi Ven\u00e4j\u00e4n kanssa. H\u00e4n kritisoi Ukrainan johtoa ja korosti Yhdysvaltojen tukeman rauhansopimuksen tarvetta. Samaan aikaan Ven\u00e4j\u00e4 hylk\u00e4si Naton rauhanturvajoukot Ukrainassa ja ilmaisi halukkuutensa osallistua neuvotteluihin.",
     "news_url": "https://www.bbc.com/news/articles/cd0n5e1pdz9o",
-    "news_time": 1739940900.0,
+    "news_time": 1739956140.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "fi",
-    "news_group": 460
+    "news_group": 469,
+    "keywords": []
 }

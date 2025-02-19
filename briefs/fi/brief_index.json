@@ -1,10 +1,42 @@
 [
     {
+        "news_id": "bbc_cvgdr4r2l31o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Filippiinit tarjoavat rahaa hyttysist\u00e4 dengue-epidemian torjumiseksi kasvavien tapausten keskell\u00e4.",
+        "news_epoch": 1739959680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvgdr4r2l31o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Philippine town offers bounty for mosquitoes as dengue rises",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c3w16z7dvz7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trumpin ja Putinin \u00e4skett\u00e4iset keskustelut ovat muokanneet globaalia politiikkaa ja her\u00e4tt\u00e4neet huolta Euroopan turvallisuudesta.",
+        "news_epoch": 1739959500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c3w16z7dvz7o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Steve Rosenberg: How Putin and Trump shook the world",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c0l18pzrz00o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "UK:n inflaatio nousi 3% kustannusten vuoksi.",
-        "news_epoch": 1739949480.0,
+        "news_header": "Britannian inflaatio nousi 3 %:iin korkeampien elintarvikkeiden hintojen ja yksityisten koulujen maksujen vuoksi.",
+        "news_epoch": 1739958540.0,
         "news_categories": [
             "business"
         ],
@@ -12,14 +44,190 @@
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Inflation soars on airfares and private school fees",
+        "news_original_title": "Inflation soars on food and private school fees",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c778ldvpn0po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Nelj\u00e4 naista vaatii Yhdysvaltoja olemaan puuttumatta Andrew Taten Romanian oikeustapaukseen vakavien syyt\u00f6sten vuoksi.",
+        "news_epoch": 1739957160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c778ldvpn0po",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "US must not interfere in Tate&#x27;s case, say alleged victims",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cd0n5e1pdz9o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trump kritisoi Ukrainan reaktiota rauhanneuvotteluihin, ehdottaen, ett\u00e4 he olisivat voineet neuvotella aikaisemmin sodan v\u00e4ltt\u00e4miseksi.",
+        "news_epoch": 1739956140.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cd0n5e1pdz9o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Trump appears to blame Ukraine for starting war",
+        "news_group": 469
+    },
+    {
+        "news_id": "yle_7420144635",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739955480.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144635",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Tuki isoille puhtaan siirtym\u00e4n hankkeille hyv\u00e4ksyttiin EU:ssa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_crknmjer7peo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "KFC siirt\u00e4\u00e4 p\u00e4\u00e4konttorinsa Kentuckylt\u00e4 Texasiin, mutta s\u00e4ilytt\u00e4\u00e4 osan toiminnoistaan Kentuckyss\u00e4.",
+        "news_epoch": 1739955120.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/crknmjer7peo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Fast-food giant KFC leaves Kentucky home for Texas",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144633",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739954880.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144633",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Digihuijauksia tehtiin paljon enemm\u00e4n viime vuonna",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144626",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Putin ja Trump saattavat tavata helmikuussa; Yhdysvaltojen ja Ven\u00e4j\u00e4n suhteet tarvitsevat elvytt\u00e4mist\u00e4.",
+        "news_epoch": 1739954160.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144626",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Peskov: Putin ja Trump saattavat tavata helmikuussa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144598",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Kaikki 80 matkustajaa selvisiv\u00e4t lentokonesy\u00f6ksyst\u00e4 Torontossa; kolme vakavasti loukkaantunutta.",
+        "news_epoch": 1739953740.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144598",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Video n\u00e4ytt\u00e4\u00e4, kuinka Toronton turmakone syttyy tuleen ja py\u00f6r\u00e4ht\u00e4\u00e4 katolleen",
+        "news_group": 473
+    },
+    {
+        "news_id": "yle_7420144618",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Keith Kellogg, erityisl\u00e4hettil\u00e4s, saapui Kiovaan tapaamaan Ukrainan johtoa rauhanneuvottelujen ep\u00e4selv\u00e4ss\u00e4 roolissa.",
+        "news_epoch": 1739953080.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144618",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Trumpin erityisl\u00e4hettil\u00e4s Keith Kellogg on Kiovassa",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144617",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "JHL tukee teollisuusriitoja ja embargotoimia, jotka vaikuttavat liikenne- ja teknologiasektoreihin Suomessa.",
+        "news_epoch": 1739953020.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144617",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Liitoilta uusia tukitoimia Teollisuusliiton ty\u00f6taistelujen tueksi",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144494",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Saksassa rakennetaan 160-metrinen j\u00e4\u00e4nmurtaja, maailman edistyksellisin, ja suomalainen Elonatic suunnittelee sit\u00e4.",
+        "news_epoch": 1739952000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144494",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "news_original_title": "Turkulainen Elomatic suunnittelee tutkimus\u00adj\u00e4\u00e4nmurtajan arktisille alueille",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144602",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739950560.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144602",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "news_original_title": "Paavi nukkui j\u00e4lleen hyvin sairaalassa",
         "news_group": -1
     },
     {
         "news_id": "yle_7420144516",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Ukraina hylk\u00e4\u00e4 sopimukset, joissa se ei ole mukana neuvotteluissa.",
+        "news_header": "Ukraina hylk\u00e4\u00e4 sopimukset, joissa se ei ole mukana; Trump pyrkii neuvottelemaan ilman pelkk\u00e4\u00e4 viestin v\u00e4litt\u00e4j\u00e4\u00e4.",
         "news_epoch": 1739948760.0,
         "news_categories": [
             "world"
@@ -28,7 +236,7 @@
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
-        "news_original_title": "Analyysi: Ukraina n\u00e4kee paljon tapahtuvan sen ymp\u00e4rill\u00e4, muttei usko sen tuovan rauhaa",
+        "news_original_title": "Analyysi: Ukrainan ymp\u00e4rill\u00e4 tapahtuu paljon, mutta maa ei usko sen tuovan rauhaa",
         "news_group": -1
     },
     {
@@ -51,7 +259,7 @@
         "news_id": "bbc_cd7e38py4geo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "90 valehyljett\u00e4 eutanasoidaan massastrandauksen j\u00e4lkeen Tasmaniassa.",
+        "news_header": "Australian viranomaiset eutanasoivat 90 valehyljett\u00e4 massastrandauksen j\u00e4lkeen Tasmaniaan vaikeiden olosuhteiden vuoksi.",
         "news_epoch": 1739948160.0,
         "news_categories": [
             "world"
@@ -109,7 +317,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Hamas says it will return bodies of four hostages including Bibas family",
-        "news_group": 459
+        "news_group": 468
     },
     {
         "news_id": "yle_7420144576",
@@ -173,13 +381,13 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Brazil&#x27;s former President Jair Bolsonaro charged over alleged coup plot",
-        "news_group": 461
+        "news_group": 470
     },
     {
         "news_id": "pbs_37b82b517fb2",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "Yhdysvallat ja Ven\u00e4j\u00e4 keskustelevat rauhasta, Ukraina pois neuvotteluista.",
+        "news_header": "Yhdysvaltojen ja Ven\u00e4j\u00e4n viranomaiset tapasivat rauhankeskusteluissa, mutta Ukrainan viranomaiset j\u00e4iv\u00e4t ulkopuolelle.",
         "news_epoch": 1739940900.0,
         "news_categories": [
             "world"
@@ -189,23 +397,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Without Ukrainian officials present, U.S. and Russia meet to discuss ending war",
-        "news_group": 458
-    },
-    {
-        "news_id": "bbc_cd0n5e1pdz9o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Trump kritisoi Ukrainaa aikaisemman rauhanneuvottelun puutteesta.",
-        "news_epoch": 1739940900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cd0n5e1pdz9o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Trump appears to blame Ukraine for starting war",
-        "news_group": 460
+        "news_group": 467
     },
     {
         "news_id": "pbs_d39a1774667c",
@@ -221,7 +413,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "U.S. foreign policy experts analyze the opening talks to end Russia&amp;#8217;s war in Ukraine",
-        "news_group": 458
+        "news_group": 467
     },
     {
         "news_id": "yle_7420144509",
@@ -288,22 +480,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_crknmjer7peo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "KFC siirt\u00e4\u00e4 p\u00e4\u00e4konttorinsa Kentuckyst\u00e4 Texasiin liiketoiminnan kasvua varten.",
-        "news_epoch": 1739936040.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/crknmjer7peo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Fast-food giant KFC leaves Kentucky home for Texas",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420144561",
         "news_source": "yle",
         "news_source_lang": "fi",
@@ -339,7 +515,7 @@
         "news_id": "dw_a71666194",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Bolsonaro syytet\u00e4\u00e4n salaliitosta myrkytt\u00e4\u00e4 Lula ja tehd\u00e4 vallankaappaus.",
+        "news_header": "Bolsonaro syytet\u00e4\u00e4n salaliitosta myrkytt\u00e4\u00e4 Lula ja yritt\u00e4\u00e4 vallankaappausta vuoden 2022 vaalien j\u00e4lkeen.",
         "news_epoch": 1739926860.0,
         "news_categories": [
             "world"
@@ -365,7 +541,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Brasilian ex-presidentti Bolsonarolle syytteet vallankaappausyrityksest\u00e4",
-        "news_group": 461
+        "news_group": 470
     },
     {
         "news_id": "bbc_cly3nlv5d52o",
@@ -397,13 +573,13 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Villagers begin to return to southern Lebanon as Israeli army withdraws under ceasefire deal",
-        "news_group": 463
+        "news_group": 472
     },
     {
         "news_id": "dw_a71666180",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Tuomari ei est\u00e4 Muskin DOGE:a irtisanomasta ty\u00f6ntekij\u00f6it\u00e4.",
+        "news_header": "Tuomari ei est\u00e4 Muskin DOGE:a irtisanomisilta, her\u00e4tt\u00e4en kysymyksi\u00e4 valta-asemasta.",
         "news_epoch": 1739923260.0,
         "news_categories": [
             "world"
@@ -477,7 +653,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Trump: Ukrainan ei olisi pit\u00e4nyt aloittaa sotaa",
-        "news_group": 460
+        "news_group": 469
     },
     {
         "news_id": "bbc_cdxnwnye7wko",
@@ -541,7 +717,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Hamas says it will free 6 living hostages and hand over 4 bodies, accelerating Gaza releases",
-        "news_group": 459
+        "news_group": 468
     },
     {
         "news_id": "yle_7420144553",
@@ -589,7 +765,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Moscow back at the table - and appearing to call the shots",
-        "news_group": 462
+        "news_group": 471
     },
     {
         "news_id": "bbc_c789l779p3xo",
@@ -701,7 +877,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israeli troops stay inside south Lebanon after withdrawal deadline",
-        "news_group": 463
+        "news_group": 472
     },
     {
         "news_id": "yle_7420144546",
@@ -717,7 +893,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Etel\u00e4-Korea syytt\u00e4\u00e4 Deepseekia k\u00e4ytt\u00e4j\u00e4tietojen vuotamisesta",
-        "news_group": 456
+        "news_group": 474
     },
     {
         "news_id": "yle_7420144521",
@@ -781,7 +957,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Analyysi: Ven\u00e4j\u00e4 ja Yhdysvallat siivoavat \u201dh\u00e4iri\u00f6tekij\u00f6it\u00e4\u201d suhteistaan \u2013 Suurin erimielisyys oli Ukrainan turvatakuista",
-        "news_group": 462
+        "news_group": 471
     },
     {
         "news_id": "yle_7420144541",
@@ -835,7 +1011,7 @@
         "news_id": "yle_7420144128",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Rokotteiden teho vaihtelee; influenssavirukset mutatoituvat nopeasti.",
+        "news_header": "Rokotteiden teho vaihtelee; influenssatapaukset lis\u00e4\u00e4ntyv\u00e4t Suomessa rokotuksesta huolimatta, viruksen mutaatio vaikeuttaa suojaa.",
         "news_epoch": 1739894220.0,
         "news_categories": [
             "science"
@@ -989,7 +1165,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Hamas luovuttaa nelj\u00e4n panttivangin ruumiit torstaina ja vapauttaa kuusi panttivankia lauantaina",
-        "news_group": 459
+        "news_group": 468
     },
     {
         "news_id": "dw_a71644884",
@@ -1101,7 +1277,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "DeepSeek &#x27;shared user data&#x27; with TikTok owner ByteDance",
-        "news_group": 456
+        "news_group": 474
     },
     {
         "news_id": "bbc_c5yeyy3y1ejo",
@@ -1145,11 +1321,11 @@
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
-        "news_group": 465
+        "news_group": 473
     },
     {
         "news_id": "yle_7420144429",
@@ -1325,7 +1501,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
-        "news_group": 465
+        "news_group": 473
     },
     {
         "news_id": "yle_7420144252",
@@ -1357,7 +1533,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 463
+        "news_group": 472
     },
     {
         "news_id": "yle_7420144347",
@@ -1501,7 +1677,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": 464
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144323",
@@ -1597,7 +1773,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 457
+        "news_group": 466
     },
     {
         "news_id": "dw_a71645160",
@@ -1613,166 +1789,6 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 465
-    },
-    {
-        "news_id": "pbs_58cf75f9bbaf",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Asiantuntijat palaavat Syyrian kulttuuriperint\u00f6kohteisiin, kuten Palmyraan ja Crac des Chevaliersiin, tavoitteena on palauttaa ne ja elvytt\u00e4\u00e4 turismi talouden tukemiseksi sodan j\u00e4lkeen.",
-        "news_epoch": 1739842320.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/experts-return-to-syrias-war-torn-heritage-sites-including-roman-ruins-at-palmyra",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Experts return to Syria&amp;#8217;s war-torn heritage sites, including Roman ruins at Palmyra",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_8e828688873c",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "DeepSeek, kiinalainen teko\u00e4ly-startup, on keskeytt\u00e4nyt chatbot-sovellustensa lataukset Etel\u00e4-Koreassa yksityisyysongelmien vuoksi. Sovellukset poistettiin paikallisista sovelluskaupoista, ja yritys tekee yhteisty\u00f6t\u00e4 etel\u00e4korjalaisten viranomaisten kanssa yksityisyydensuojan parantamiseksi.",
-        "news_epoch": 1739841900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/south-korea-pauses-downloads-of-deepseeks-ai-apps-due-to-privacy-concerns",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "South Korea pauses downloads of DeepSeek&amp;#8217;s AI apps due to privacy concerns",
-        "news_group": 456
-    },
-    {
-        "news_id": "yle_7420144315",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739841720.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144315",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Rio de Janeirossa hikoillaan 44 asteen kuumuudessa",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144314",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739840820.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144314",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Libanonilaisl\u00e4hde: Israel alkoi vet\u00e4yty\u00e4 osista Etel\u00e4-Libanonia",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144313",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739835780.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144313",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Bussi sy\u00f6ksyi rotkoon Boliviassa, ainakin 30 kuoli",
-        "news_group": 464
-    },
-    {
-        "news_id": "pbs_d63adbd54cba",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Pope Francisilla on diagnosoitu monimutkainen hengitystieinfektio, johon liittyy useita organismeja. 88-vuotiaan terveydentila her\u00e4tt\u00e4\u00e4 huolta, ja h\u00e4n tarvitsee kohdennettua l\u00e4\u00e4kehoitoa.",
-        "news_epoch": 1739835120.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/health/vatican-says-the-pope-has-a-polymicrobial-respiratory-tract-infection-what-is-that",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Vatican says the pope has a &amp;#8216;polymicrobial respiratory tract infection.&amp;#8217; What is that?",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_f9c835c33bff",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Meksiko odottaa Googlen vastausta pyynt\u00f6\u00f6ns\u00e4 palauttaa nimi &#x27;Meksikonlahti&#x27; Google Maps -palvelussa, kun nimi muutettiin &#x27;Amerikanlahdeksi&#x27; entisen Yhdysvaltain presidentin Trumpin julistuksen j\u00e4lkeen.",
-        "news_epoch": 1739834580.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/politics/mexico-says-it-will-wait-for-new-response-from-google-on-gulf-of-mexico-name-dispute-before-filing-lawsuit",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Mexico says it will wait for new response from Google on Gulf of Mexico name dispute before filing lawsuit",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cy8p8e022j0o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739834340.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/cy8p8e022j0o",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Watch: Why European leaders held emergency Ukraine summit",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c74e4wgg71wo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "V\u00e4hint\u00e4\u00e4n 13 ihmist\u00e4 on kuollut voimakkaan myrskyn aiheuttamien \u00e4killisten tulvien ja kaatuneiden puiden vuoksi Yhdysvaltojen kaakkoisosassa. Kentuckyss\u00e4 raportoitiin 11 kuolemaa, Georgiassa yksi ja L\u00e4nsi-Virginiassa toinen.",
-        "news_epoch": 1739832660.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/c74e4wgg71wo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "news_original_title": "Watch: Deadly storm hits south-eastern US and Canada",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144311",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Yuri Ushakov ilmoitti Riyadhissa, ett\u00e4 neuvotteluissa ei ole kolmatta osapuolta, vaan mukana ovat vain Ven\u00e4j\u00e4n delegaatio ja Yhdysvaltojen edustajat. Ven\u00e4j\u00e4n ulkoministeri Sergei Lavrov osallistuu Ushakovin ohella, kun taas Yhdysvaltojen delegaatioon kuuluvat ulkoministeri Marco Rubio sek\u00e4 neuvonantajat Mike Waltz ja Steve Witkoff.",
-        "news_epoch": 1739832480.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144311",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "news_original_title": "Putinin neuvonantajaja Saudi-Arabiassa: Neuvottelemme vain USA:n kanssa",
-        "news_group": -1
+        "news_group": 473
     }
 ]

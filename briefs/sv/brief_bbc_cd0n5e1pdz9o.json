@@ -1,14 +1,15 @@
 {
     "news_source": "bbc",
     "news_id": "bbc_cd0n5e1pdz9o",
-    "news_header": "Trump kritiserar Ukraina f\u00f6r att inte ha f\u00f6rhandlat om fred tidigare.",
+    "news_header": "Trump kritiserar Ukrainas reaktion p\u00e5 fredssamtal, och f\u00f6resl\u00e5r att de kunde ha f\u00f6rhandlat tidigare f\u00f6r att undvika krig.",
     "news_original_title": "Trump appears to blame Ukraine for starting war",
-    "news_text": "Donald Trump uttryckte besvikelse \u00f6ver Ukrainas reaktion p\u00e5 fredssamtalen och f\u00f6reslog att de kunde ha f\u00f6rhandlat tidigare. Han betonade att Ryssland \u00e4r villigt att delta i diskussioner, men Ukrainas fr\u00e5nvaro fr\u00e5n samtalen v\u00e4cker oro. Den p\u00e5g\u00e5ende konflikten har lett till betydande d\u00f6dsfall och f\u00f6rdrivning.",
+    "news_text": "Donald Trump uttryckte besvikelse \u00f6ver Ukrainas reaktion p\u00e5 fredssamtalen i Saudiarabien, och f\u00f6reslog att de kunde ha f\u00f6rhandlat tidigare f\u00f6r att f\u00f6rhindra kriget med Ryssland. Han kritiserade Ukrainas ledarskap och betonade behovet av ett USA-st\u00f6tt fredsavtal. Samtidigt avvisade Ryssland Natos fredsbevarande styrkor i Ukraina och indikerade en vilja att delta i f\u00f6rhandlingar.",
     "news_url": "https://www.bbc.com/news/articles/cd0n5e1pdz9o",
-    "news_time": 1739940900.0,
+    "news_time": 1739956140.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "sv",
-    "news_group": 460
+    "news_group": 469,
+    "keywords": []
 }
