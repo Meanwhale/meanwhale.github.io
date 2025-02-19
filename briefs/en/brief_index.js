@@ -12,6 +12,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Philippine town offers bounty for mosquitoes as dengue rises",
         "news_group": -1
     },
@@ -28,6 +29,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Steve Rosenberg: How Putin and Trump shook the world",
         "news_group": -1
     },
@@ -44,6 +46,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Inflation soars on food and private school fees",
         "news_group": -1
     },
@@ -60,6 +63,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "US must not interfere in Tate&#x27;s case, say alleged victims",
         "news_group": -1
     },
@@ -76,6 +80,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Trump appears to blame Ukraine for starting war",
         "news_group": 469
     },
@@ -92,6 +97,11 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [
+            "economy",
+            "green_transition",
+            "state_aid"
+        ],
         "news_original_title": "Tuki isoille puhtaan siirtym\u00e4n hankkeille hyv\u00e4ksyttiin EU:ssa",
         "news_group": -1
     },
@@ -108,6 +118,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Fast-food giant KFC leaves Kentucky home for Texas",
         "news_group": -1
     },
@@ -124,6 +135,12 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [
+            "economy",
+            "information_technology_crime",
+            "internet",
+            "money_scam"
+        ],
         "news_original_title": "Digihuijauksia tehtiin paljon enemm\u00e4n viime vuonna",
         "news_group": -1
     },
@@ -140,6 +157,15 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [
+            "russian_invasion_4546",
+            "russia",
+            "foreign",
+            "donald_trump",
+            "vladimir_putin",
+            "united_states",
+            "ukraine"
+        ],
         "news_original_title": "Peskov: Putin ja Trump saattavat tavata helmikuussa",
         "news_group": -1
     },
@@ -156,6 +182,14 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [
+            "accidents",
+            "air_accidents",
+            "toronto",
+            "canada",
+            "air_transport",
+            "foreign"
+        ],
         "news_original_title": "Video n\u00e4ytt\u00e4\u00e4, kuinka Toronton turmakone syttyy tuleen ja py\u00f6r\u00e4ht\u00e4\u00e4 katolleen",
         "news_group": 473
     },
@@ -172,6 +206,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Trumpin erityisl\u00e4hettil\u00e4s Keith Kellogg on Kiovassa",
         "news_group": -1
     },
@@ -188,6 +223,12 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [
+            "working_life",
+            "collective_bargaining",
+            "strikes",
+            "economy"
+        ],
         "news_original_title": "Liitoilta uusia tukitoimia Teollisuusliiton ty\u00f6taistelujen tueksi",
         "news_group": -1
     },
@@ -204,6 +245,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Turkulainen Elomatic suunnittelee tutkimus\u00adj\u00e4\u00e4nmurtajan arktisille alueille",
         "news_group": -1
     },
@@ -220,6 +262,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Paavi nukkui j\u00e4lleen hyvin sairaalassa",
         "news_group": -1
     },
@@ -236,6 +279,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Analyysi: Ukrainan ymp\u00e4rill\u00e4 tapahtuu paljon, mutta maa ei usko sen tuovan rauhaa",
         "news_group": -1
     },
@@ -252,6 +296,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Avointen ty\u00f6paikkojen m\u00e4\u00e4r\u00e4 v\u00e4hentynyt",
         "news_group": -1
     },
@@ -268,6 +313,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Scores of whales to be euthanised after mass stranding in Australia",
         "news_group": -1
     },
@@ -284,6 +330,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "A$AP Rocky not guilty of firearm assault on LA street",
         "news_group": -1
     },
@@ -300,6 +347,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Islannin uusi p\u00e4\u00e4ministeri arvostaa Sanna Marinia \u2013 sukkahousujen sijaan hallitus sai lempinimen sotureilta",
         "news_group": -1
     },
@@ -316,6 +364,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Hamas says it will return bodies of four hostages including Bibas family",
         "news_group": 468
     },
@@ -332,6 +381,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Lainakorkojen lasku ja s\u00e4hk\u00f6n hinnat pitiv\u00e4t inflaation ennallaan",
         "news_group": -1
     },
@@ -348,6 +398,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Poliisi jahtasi miest\u00e4 K\u00f6\u00f6penhaminan lentoasemalla, ilmatila suljettiin",
         "news_group": -1
     },
@@ -364,6 +415,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Lehti: USA painostaa Romaniaa poistamaan Andrew Taten matkustus\u00adrajoitukset",
         "news_group": -1
     },
@@ -380,6 +432,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Brazil&#x27;s former President Jair Bolsonaro charged over alleged coup plot",
         "news_group": 470
     },
@@ -396,6 +449,15 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [
+            "donald_trump_news",
+            "marco_rubio",
+            "russia",
+            "russian_invasion",
+            "saudi_arabia",
+            "ukraine",
+            "ukraine_war"
+        ],
         "news_original_title": "Without Ukrainian officials present, U.S. and Russia meet to discuss ending war",
         "news_group": 467
     },
@@ -412,6 +474,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "U.S. foreign policy experts analyze the opening talks to end Russia&amp;#8217;s war in Ukraine",
         "news_group": 467
     },
@@ -428,6 +491,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Yhdysvaltain puolustusministeri v\u00e4l\u00e4ytti joukkojen vet\u00e4mist\u00e4 Euroopasta \u2013 kartta n\u00e4ytt\u00e4\u00e4 nykyiset tukikohdat",
         "news_group": -1
     },
@@ -444,6 +508,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "French lawmakers consider banning headscarves in sport. Amnesty International says it would discriminate against Muslims",
         "news_group": -1
     },
@@ -460,6 +525,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Chinese navy helicopter flies &#x27;dangerously&#x27; close to Philippine plane",
         "news_group": -1
     },
@@ -476,6 +542,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Yh\u00e4 useampi saksalainen haluaa eroon maahanmuuttajista \u2013 vaikka talous tarvitsee heit\u00e4",
         "news_group": -1
     },
@@ -492,6 +559,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Yhdysvaltain senaatti vahvisti Trumpin kauppaministerinimityksen",
         "news_group": -1
     },
@@ -508,6 +576,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "R\u00e4ppit\u00e4hti Asap Rocky todettiin syytt\u00f6m\u00e4ksi \u2013 oli syytettyn\u00e4 aseen laukaisemisesta kohti lapsuudenyst\u00e4v\u00e4\u00e4ns\u00e4",
         "news_group": -1
     },
@@ -524,6 +593,9 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [
+            "news"
+        ],
         "news_original_title": "Brazil prosecutor charges Bolsonaro with 2022 coup plot",
         "news_group": -1
     },
@@ -540,6 +612,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Brasilian ex-presidentti Bolsonarolle syytteet vallankaappausyrityksest\u00e4",
         "news_group": 470
     },
@@ -556,6 +629,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Even in his final seconds of life, first gay imam pushed boundaries",
         "news_group": -1
     },
@@ -572,6 +646,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Villagers begin to return to southern Lebanon as Israeli army withdraws under ceasefire deal",
         "news_group": 472
     },
@@ -588,6 +663,9 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [
+            "news"
+        ],
         "news_original_title": "US: Judge declines to stop Musk from firing workers",
         "news_group": -1
     },
@@ -604,6 +682,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Egypt developing Gaza rebuilding plan, a counter to Trump&amp;#8217;s call for depopulating the territory",
         "news_group": -1
     },
@@ -620,6 +699,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Vatican cancels papal audiences and Holy Year events as Pope Francis remains hospitalized",
         "news_group": -1
     },
@@ -636,6 +716,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Trump: Ajoneuvojen tuontitullit noin 25 prosenttiin",
         "news_group": -1
     },
@@ -652,6 +733,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Trump: Ukrainan ei olisi pit\u00e4nyt aloittaa sotaa",
         "news_group": 469
     },
@@ -668,6 +750,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Facing Islamist threats, Bangladesh girls forced to cancel football matches",
         "news_group": -1
     },
@@ -684,6 +767,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "India seeks AI breakthrough - but is it falling behind?",
         "news_group": -1
     },
@@ -700,6 +784,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "UN human rights chief accuses Rwanda-backed rebels in east Congo of killing children, attacking hospitals",
         "news_group": -1
     },
@@ -716,6 +801,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Hamas says it will free 6 living hostages and hand over 4 bodies, accelerating Gaza releases",
         "news_group": 468
     },
@@ -732,6 +818,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Arvio: Gazan j\u00e4lleenrakennus maksaa yli 50 miljardia euroa",
         "news_group": -1
     },
@@ -748,6 +835,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Jeremy Bowen: No sign of a quick peace dividend for Trump in Ukraine",
         "news_group": -1
     },
@@ -764,6 +852,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Moscow back at the table - and appearing to call the shots",
         "news_group": 471
     },
@@ -780,6 +869,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Pope Francis has pneumonia in both lungs, Vatican says",
         "news_group": -1
     },
@@ -796,6 +886,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Rauhanturvaajat Ukrainaan globaalin etel\u00e4n maista, ehdottaa professori A-studiossa",
         "news_group": -1
     },
@@ -812,6 +903,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "How Russia is influencing the 2025 German election",
         "news_group": -1
     },
@@ -828,6 +920,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Russian and U.S. officials meet in Saudi Arabia without Ukraine to discuss improving ties and ending war",
         "news_group": -1
     },
@@ -844,6 +937,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Thames Water secures \u00a33bn lifeline after court ruling",
         "news_group": -1
     },
@@ -860,6 +954,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Paavi Franciscuksella on keuhkokuume",
         "news_group": -1
     },
@@ -876,6 +971,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Israeli troops stay inside south Lebanon after withdrawal deadline",
         "news_group": 472
     },
@@ -892,6 +988,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Etel\u00e4-Korea syytt\u00e4\u00e4 Deepseekia k\u00e4ytt\u00e4j\u00e4tietojen vuotamisesta",
         "news_group": 474
     },
@@ -908,6 +1005,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "\u201dLains\u00e4\u00e4t\u00e4j\u00e4 ei ole tarkoittanut\u201d \u2013 Influenssereiden vero-optimointi kummastuttaa verottajaa",
         "news_group": -1
     },
@@ -924,6 +1022,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "German auto parts giant to slash thousands of jobs",
         "news_group": -1
     },
@@ -940,6 +1039,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Watch: Toronto plane crash footage analysed by aviation experts",
         "news_group": -1
     },
@@ -956,6 +1056,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Analyysi: Ven\u00e4j\u00e4 ja Yhdysvallat siivoavat \u201dh\u00e4iri\u00f6tekij\u00f6it\u00e4\u201d suhteistaan \u2013 Suurin erimielisyys oli Ukrainan turvatakuista",
         "news_group": 471
     },
@@ -972,6 +1073,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Ranska j\u00e4rjest\u00e4\u00e4 t\u00e4n\u00e4\u00e4n uuden turvallisuus\u00adkokouksen \u2013 Stubb ja Orpo osallistuvat et\u00e4n\u00e4",
         "news_group": -1
     },
@@ -988,6 +1090,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Energy bills forecast to rise by \u00a385 a year",
         "news_group": -1
     },
@@ -1004,6 +1107,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "YK:n mukaan Syyriaan on palannut jo 280 000 pakolaista ulkomailta",
         "news_group": -1
     },
@@ -1020,6 +1124,15 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [
+            "health",
+            "influenza",
+            "influenza_vaccines",
+            "respiratory_tract_infections",
+            "diseases",
+            "infectious_diseases",
+            "science"
+        ],
         "news_original_title": "Influenssaepidemia kiihtyy \u2013 tartunnan voi saada rokotteesta huolimatta, muistuttaa asiantuntija",
         "news_group": -1
     },
@@ -1036,6 +1149,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Iran says jailed British couple charged with espionage",
         "news_group": -1
     },
@@ -1052,6 +1166,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Tata Steel \u00a31.25bn electric furnace approved by planners",
         "news_group": -1
     },
@@ -1068,6 +1183,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Yhdysvaltoihin uusi laittomia maahanmuuttajia varoittava kampanja",
         "news_group": -1
     },
@@ -1084,6 +1200,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Making sense of Egypt&#x27;s alleged military buildup near Israel",
         "news_group": -1
     },
@@ -1100,6 +1217,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Tanskan p\u00e4\u00e4ministeri: Varustaudumme massiivisesti, p\u00e4\u00e4t\u00f6svaltaa puolustusvoimien komentajalle",
         "news_group": -1
     },
@@ -1116,6 +1234,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Trump&#x27;s trio for the Balkans",
         "news_group": -1
     },
@@ -1132,6 +1251,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Pienpanimo haluaa isoksi: Nokian Panimo tavoittelee listautumista p\u00f6rssiin ja 20 miljoonan euron liikevaihtoa",
         "news_group": -1
     },
@@ -1148,6 +1268,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Mooted EU deployment in Ukraine is fraught with challenges",
         "news_group": -1
     },
@@ -1164,6 +1285,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Hamas luovuttaa nelj\u00e4n panttivangin ruumiit torstaina ja vapauttaa kuusi panttivankia lauantaina",
         "news_group": 468
     },
@@ -1180,6 +1302,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Calls grow for Congo to resolve conflict through dialogue",
         "news_group": -1
     },
@@ -1196,6 +1319,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "N\u00e4in lakko vaikuttaa t\u00e4n\u00e4\u00e4n ruokakauppojen aukioloon",
         "news_group": -1
     },
@@ -1212,6 +1336,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Maitohyllyt tyhjeniv\u00e4t, mutta olutta on \u2013 t\u00e4lt\u00e4 n\u00e4ytt\u00e4\u00e4 kauppojen hyllyill\u00e4 nyt eri puolilla Suomea",
         "news_group": -1
     },
@@ -1228,6 +1353,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Iranissa brittipariskunta sai syytteet vakoilusta",
         "news_group": -1
     },
@@ -1244,6 +1370,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Paavin y\u00f6 meni hyvin \u2013 on yh\u00e4 sairaalassa",
         "news_group": -1
     },
@@ -1260,6 +1387,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Argentina&#x27;s President Milei denies crypto fraud allegations",
         "news_group": -1
     },
@@ -1276,6 +1404,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "DeepSeek &#x27;shared user data&#x27; with TikTok owner ByteDance",
         "news_group": 474
     },
@@ -1292,6 +1421,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Japan raises nuclear power goal in post-Fukushima shift",
         "news_group": -1
     },
@@ -1308,6 +1438,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Germany&#x27;s tensions over immigration laid bare ahead of election",
         "news_group": -1
     },
@@ -1324,6 +1455,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
         "news_group": 473
     },
@@ -1340,6 +1472,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Ministeri:  Israel valmis aloittamaan Gazan aselevon toisen vaiheen neuvottelut",
         "news_group": -1
     },
@@ -1356,6 +1489,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Kaupan alan ty\u00f6riitaan ei sopua, ruokakauppojen lakko alkaa keskiviikkona",
         "news_group": -1
     },
@@ -1372,6 +1506,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Asiantuntijat huolissaan Kiinasta tilatuista kauneudenhoitolaitteista \u2013 halpavekotin ylitt\u00e4\u00e4 laillisen s\u00e4teilyrajan jopa satakertaisesti",
         "news_group": -1
     },
@@ -1388,6 +1523,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "&#x27;Everyone must go&#x27;: New Zealand&#x27;s tourism drive draws ire",
         "news_group": -1
     },
@@ -1404,6 +1540,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Japani asetti uudet tavoitteet ilmastop\u00e4\u00e4st\u00f6jen v\u00e4hent\u00e4miselle",
         "news_group": -1
     },
@@ -1420,6 +1557,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "&#x27;Died for stealing chocolate&#x27;: Pakistan anger over death of child maid",
         "news_group": -1
     },
@@ -1436,6 +1574,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Reeves&#x27; intervention in car loans case rejected",
         "news_group": -1
     },
@@ -1452,6 +1591,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "UK wages continue to outpace inflation",
         "news_group": -1
     },
@@ -1468,6 +1608,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Merkitt\u00e4vin kohtaaminen l\u00e4hes kolmeen vuoteen \u2013 t\u00e4st\u00e4 Yhdysvaltain ja Ven\u00e4j\u00e4n tapaamisessa on kyse",
         "news_group": -1
     },
@@ -1484,6 +1625,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Asuntorakentamisen uudistuotanto vaisuinta sitten 90-luvun laman",
         "news_group": -1
     },
@@ -1500,6 +1642,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
         "news_group": 473
     },
@@ -1516,6 +1659,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Finnwatch: Lainmuutos laittoi Carunan korkokikkailun kuriin",
         "news_group": -1
     },
@@ -1532,6 +1676,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
         "news_group": 472
     },
@@ -1548,6 +1693,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Nokian Panimo aikoo listautua p\u00f6rssiin",
         "news_group": -1
     },
@@ -1564,6 +1710,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Syyrian pakolaiset alkavat palailla vallankumouksen syntypaikkaan, Homsiin",
         "news_group": -1
     },
@@ -1580,6 +1727,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Yhdysvallat ja Ven\u00e4j\u00e4 pohjustavat rauhanneuvotteluja Ukrainan p\u00e4\u00e4n yli Saudi-Arabiassa \u2013 osapuolilla eroja odotuksissa",
         "news_group": -1
     },
@@ -1596,6 +1744,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Elon Muskin yhti\u00f6 julkaisi uuden teko\u00e4lybotin",
         "news_group": -1
     },
@@ -1612,6 +1761,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Starmer says US &#x27;backstop&#x27; needed for Ukraine deal",
         "news_group": -1
     },
@@ -1628,6 +1778,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Tanska perustaa 50 miljardin kruunun aserahaston",
         "news_group": -1
     },
@@ -1644,6 +1795,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "News Wrap: Delta flight crashes in Toronto, injuring at least 8 people",
         "news_group": -1
     },
@@ -1660,6 +1812,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "European leaders are left scrambling as U.S. nears talks with Russia on Ukraine",
         "news_group": -1
     },
@@ -1676,6 +1829,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Bus crash in Bolivia kills at least 30 people",
         "news_group": -1
     },
@@ -1692,6 +1846,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Kelan etuuksien v\u00e4\u00e4rink\u00e4ytt\u00f6 jatkoi viime vuonna laskuaan",
         "news_group": -1
     },
@@ -1708,6 +1863,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Jennifer sai kolme p\u00e4iv\u00e4\u00e4 aikaa muuttaa kotiin ulkomailta \u2013 n\u00e4in Trumpin leikkaukset romuttivat virkamiesten el\u00e4m\u00e4n",
         "news_group": -1
     },
@@ -1724,6 +1880,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "EVA: Hieman yli puolet suomalaisista korvaisi perint\u00f6veron luovutusvoittoverolla",
         "news_group": -1
     },
@@ -1740,6 +1897,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "New Yorkin hallinto kaaoksen partaalla \u2013 kaupunginvaltuusto vaati pormestaria eroamaan",
         "news_group": -1
     },
@@ -1756,6 +1914,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Ven\u00e4j\u00e4 vapautti pid\u00e4tetyn amerikkalaisen Ukraina-neuvottelujen aattona",
         "news_group": -1
     },
@@ -1772,6 +1931,7 @@ const articles = [
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
+        "keywords": [],
         "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
         "news_group": 466
     },
@@ -1788,6 +1948,7 @@ const articles = [
         "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
         "news_more": false,
+        "keywords": [],
         "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
         "news_group": 473
     }
