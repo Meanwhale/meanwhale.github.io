@@ -1,9 +1,9 @@
 {
     "news_source": "dw",
     "news_id": "dw_a71648473",
-    "news_header": "Germany&#x27;s economy faces challenges from deindustrialization, rising unemployment, and competition from China.",
+    "news_header": "Germany faces economic challenges with rising unemployment and industrial decline, exacerbated by energy issues and global competition.",
     "news_original_title": "German election: Is the country&#x27;s economic model in danger?",
-    "news_text": "Germany&#x27;s business model is under threat due to deindustrialization, rising unemployment, and increased competition from China. The country must adapt to these challenges by investing in education, infrastructure, and energy security while addressing demographic issues and regulatory burdens.",
+    "news_text": "Germany&#x27;s economy is struggling with rising unemployment and deindustrialization, worsened by energy supply issues and competition from China. The upcoming elections add uncertainty.",
     "news_url": "https://www.dw.com/en/german-election-is-the-country-s-economic-model-in-danger/a-71648473",
     "news_time": 1739987100.0,
     "news_categories": [
@@ -12,6 +12,6 @@
     "news_source_lang": "en",
     "news_group": -1,
     "keywords": [
-        "business_df1e"
+        "business_06c1"
     ]
 }
