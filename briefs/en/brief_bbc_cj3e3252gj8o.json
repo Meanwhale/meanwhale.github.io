@@ -1,0 +1,15 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cj3e3252gj8o",
+    "news_header": "Microsoft&#x27;s Majorana 1 chip aims to accelerate quantum computing for solving industrial-scale problems in years.",
+    "news_original_title": "Powerful quantum computers in years not decades, says Microsoft",
+    "news_text": "Microsoft has introduced the Majorana 1 chip, which it claims will enable faster development of quantum computers capable of solving significant real-world problems within years. This chip utilizes a new material to create a topological conductor, potentially revolutionizing computing similar to semiconductors. Experts remain cautious, emphasizing the need for more data and further development.",
+    "news_url": "https://www.bbc.com/news/articles/cj3e3252gj8o",
+    "news_time": 1739984160.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "en",
+    "news_group": -1,
+    "keywords": []
+}

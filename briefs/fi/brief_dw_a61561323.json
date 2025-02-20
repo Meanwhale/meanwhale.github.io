@@ -1,13 +1,17 @@
 {
     "news_source": "dw",
     "news_id": "dw_a61561323",
-    "news_header": "GirlZ Off Mute on monikielinen multimediaformaatti, joka keskittyy tytt\u00f6jen voimaannuttamiseen raportoinnin kautta.",
-    "news_text": "GirlZ Off Mute on video- ja radiosarja, joka tuotetaan englanniksi, ranskaksi, kiswahiliksi, portugaliksi, hausa-kielell\u00e4 ja amharaksi, ja sen tavoitteena on voimaannuttaa tytt\u00f6j\u00e4. Jane Nyingin koordinoimana se on osa Deutsche Wellen pyrkimyksi\u00e4 tavoittaa 91 miljoonaa k\u00e4ytt\u00e4j\u00e4\u00e4 Sub-Saharan alueella viikoittain eri alustoilla. DW, Saksan kansainv\u00e4linen l\u00e4hetysorganisaatio, tarjoaa puolueetonta uutisointia 32 kielell\u00e4 keskittyen t\u00e4rkeisiin aiheisiin, kuten ihmisoikeudet, demokratia ja sosiaalinen oikeudenmukaisuus. He luovat 320 miljoonaa k\u00e4ytt\u00e4j\u00e4kontaktia viikoittain ja kouluttavat journalisteja maailmanlaajuisesti DW Akademien kautta.",
+    "news_header": "GirlZ Off Mute on monikielinen mediaprojekti, joka tavoittaa afrikkalaisia yleis\u00f6j\u00e4.",
+    "news_original_title": "GIRLZ OFF MUTE",
+    "news_text": "GirlZ Off Mute on video- ja radiomuoto, joka tuotetaan useilla kielill\u00e4 ja tavoitteena on voimaannuttaa nuoria naisreporttereita Afrikassa. DW tavoittaa 91 miljoonaa k\u00e4ytt\u00e4j\u00e4\u00e4 viikoittain eri alustoilla, keskittyen puolueettomaan uutisointiin ja tietoon.",
     "news_url": "https://www.dw.com/en/girlz-off-mute/a-61561323",
-    "news_time": 1736765760.0,
+    "news_time": 1739981460.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "fi",
-    "news_group": -1
+    "news_group": -1,
+    "keywords": [
+        "world"
+    ]
 }

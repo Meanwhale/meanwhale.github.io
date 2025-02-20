@@ -1,5 +1,1562 @@
 const articles = [
     {
+        "news_id": "yle_7420144833",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Two Turkish businessmen criticized the regime, facing investigations and travel bans as a result.",
+        "news_epoch": 1740031200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144833",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "justice",
+            "turkey",
+            "recep_tayyip_erdoan",
+            "turkey_policy",
+            "istanbul",
+            "ts_ad",
+            "business_life",
+            "foreign"
+        ],
+        "news_original_title": "Liikemiehet kritisoivat Turkin hallintoa \u2013 seurauksena kuulustelut ja matkustuskielto",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cjev2j70v19o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trump attacks Zelensky, calling him a dictator, prompting backlash from European leaders amid ongoing Ukraine-Russia tensions.",
+        "news_epoch": 1740030240.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cjev2j70v19o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Trump calls Zelensky a &#x27;dictator&#x27; as rift between two leaders deepens",
+        "news_group": 481
+    },
+    {
+        "news_id": "bbc_cvgw3l7p79po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Fog harvesting could provide drinking water for dry cities like Alto Hospicio in Chile.",
+        "news_epoch": 1740028380.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvgw3l7p79po",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Fog harvesting could provide water for arid cities",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cvgwddmjyvzo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Trump believes Russia holds an advantage in Ukraine peace talks due to territorial gains.",
+        "news_epoch": 1740028140.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvgwddmjyvzo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Trump tells BBC that Russia has &#x27;the cards&#x27; in peace negotiations",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71678588",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Bolsonaro denies coup charges, claims political persecution, and aims for 2026 presidential run despite legal challenges.",
+        "news_epoch": 1740027840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/brazil-jair-bolsonaro-deplores-lula-coup-plot-charges/a-71678588",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "news"
+        ],
+        "news_original_title": "Brazil: Jair Bolsonaro deplores Lula coup plot charges",
+        "news_group": 475
+    },
+    {
+        "news_id": "yle_7420144240",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Terence Beney reflects on Elon Musk&#x27;s upbringing in apartheid South Africa and his evolution into a controversial figure.",
+        "news_epoch": 1740027600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144240",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "people",
+            "elon_musk",
+            "south_africa",
+            "pretoria",
+            "apartheid",
+            "donald_trump",
+            "south_african_policy",
+            "silicon_valley",
+            "foreign"
+        ],
+        "news_original_title": "Elon Musk oli aidosti hyv\u00e4 tyyppi, sanoo h\u00e4nen entinen koulukaverinsa Ylelle \u2013 nyt h\u00e4n ei ole samaa mielt\u00e4",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144822",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "France and Britain plan a Western fighter group to oversee a potential Ukraine ceasefire and counter Russia&#x27;s threat.",
+        "news_epoch": 1740027600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144822",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "international_policy",
+            "ukraine",
+            "france",
+            "united_kingdom",
+            "russia",
+            "air_force",
+            "vipers",
+            "armed_conflicts",
+            "truce",
+            "russian_invasion_3025",
+            "foreign"
+        ],
+        "news_original_title": "FT: Ranska ja Britannia suunnittelevat ilmavoimiin nojaavaa Ukraina-joukkoa",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_8e649911f54c",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "",
+        "news_epoch": 1740027300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/trump-calls-zelenskyy-a-dictator-as-he-tries-to-pressure-kyiv-to-accept-deal-to-end-war",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "donald_trump_news",
+            "russia",
+            "russian_invasion",
+            "ukraine",
+            "ukraine_war",
+            "vladimir_putin",
+            "volodymyr_zelenskyy"
+        ],
+        "news_original_title": "Trump calls Zelenskyy a &amp;#8216;dictator&amp;#8217; as he tries to pressure Kyiv to accept deal to end war",
+        "news_group": 481
+    },
+    {
+        "news_id": "pbs_6af345050217",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Bolsonaro charged with coup attempt; Trump orders NYC to halt congestion pricing; two planes collide in Arizona.",
+        "news_epoch": 1740027000.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/news-wrap-bolsonaro-charged-with-attempting-coup-after-losing-brazils-election",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "news_wrap"
+        ],
+        "news_original_title": "News Wrap: Bolsonaro charged with attempting coup after losing Brazil&amp;#8217;s election",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_a5ac9a60a536",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Trump claims China operates the Panama Canal, raising historical and economic concerns about its management and U.S. involvement.",
+        "news_epoch": 1740025500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/show/the-history-of-the-panama-canal-and-reality-of-its-control-as-trump-threatens-action",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "china",
+            "donald_trump_news",
+            "panama",
+            "panama_canal"
+        ],
+        "news_original_title": "The history of the Panama Canal and reality of its control as Trump threatens action",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c9845854nmno",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A$AP Rocky was acquitted in a high-profile assault trial, with Rihanna supporting him throughout the proceedings.",
+        "news_epoch": 1740024120.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c9845854nmno",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Five things we learned at the A$AP Rocky trial",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144489",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Basic income support costs rose by EUR 100 million, despite no increase in households receiving it.",
+        "news_epoch": 1740024000.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144489",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "society",
+            "social_security",
+            "poverty_and_social_security",
+            "social_assistance",
+            "income_support",
+            "economy",
+            "policy",
+            "domestic"
+        ],
+        "news_original_title": "Kelan tuore tilasto paljastaa yll\u00e4tt\u00e4v\u00e4n muutoksen perus\u00adtoimeen\u00adtulotuen kustannuksissa",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c62zr4pyn84o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A British tourist died while trekking in the Himalayas; his friend was unharmed.",
+        "news_epoch": 1740023880.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c62zr4pyn84o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "British tourist dies trekking with friend in Himalayas",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_8190ba85a319",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Pope Francis is hospitalized with pneumonia, but is alert and responsive, receiving well wishes from leaders and the public.",
+        "news_epoch": 1740022200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/italian-pm-meloni-visits-pope-francis-in-hospital-as-he-battles-complex-respiratory-infection",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "giorgia_meloni",
+            "pope_francis"
+        ],
+        "news_original_title": "Italian PM Meloni visits Pope Francis in hospital as he battles complex respiratory infection",
+        "news_group": 478
+    },
+    {
+        "news_id": "yle_7420144818",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Court maintains order preventing Trump from revoking birthright citizenship.",
+        "news_epoch": 1740022140.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144818",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "united_states",
+            "donald_trump",
+            "courts",
+            "nationality",
+            "president_of_the_usa",
+            "united_states_policy",
+            "us_citizenship",
+            "foreign"
+        ],
+        "news_original_title": "My\u00f6s valitustuomioistuin suitsii Trumpin yrityst\u00e4 rajoittaa Yhdysvalloissa syntyvien lasten kansalaisuusoikeutta",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144815",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1740018840.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144815",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "international_policy",
+            "france",
+            "emmanuel_macron",
+            "ukraine",
+            "europe",
+            "peace_negotiations",
+            "russian_invasion_3025",
+            "foreign"
+        ],
+        "news_original_title": "Macronin mukaan Euroopan johtajat ovat vakuuttuneita tarpeesta lis\u00e4t\u00e4 puolustusmenoja",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144814",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "US continues negotiations with Ukraine despite tensions between Trump and Zelensky over mineral agreements and criticisms.",
+        "news_epoch": 1740017400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144814",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "international_policy",
+            "donald_trump",
+            "volodymyr_zelensky",
+            "united_states",
+            "ukraine",
+            "russian_invasion_3025",
+            "russia",
+            "kiev",
+            "the_white_house",
+            "foreign"
+        ],
+        "news_original_title": "Trump jatkoi Zelenskyin mollaamista \u2013 \u201dH\u00e4n olisi voinut osallistua keskusteluihin, jos olisi halunnut\u201d",
+        "news_group": 476
+    },
+    {
+        "news_id": "bbc_czepewl780eo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Cemetery vandalism in Morogoro, Tanzania, has devastated families as thieves target graves for metal crosses and decorations.",
+        "news_epoch": 1740014880.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/czepewl780eo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "&#x27;Grave robbers took my daughter&#x27;s cross and my mother&#x27;s - twice&#x27;",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cly48reeg55o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "NGO workers in Yemen face danger amid civil war, with arrests and aid cuts worsening humanitarian crisis.",
+        "news_epoch": 1740013680.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cly48reeg55o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "&#x27;I cried for days&#x27;: Office raids and arrests shock aid workers in Yemen",
+        "news_group": -1
+    },
+    {
+        "news_id": "pbs_72da2e718eac",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "",
+        "news_epoch": 1740011820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/former-brazilian-president-bolsonaro-charged-over-alleged-coup-that-included-a-plan-to-poison-lula",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "brazil",
+            "coup_attempt",
+            "jair_bolsonaro",
+            "luiz_inacio_lula_da_silva"
+        ],
+        "news_original_title": "Former Brazilian President Bolsonaro charged over alleged coup that included a plan to poison Lula",
+        "news_group": 475
+    },
+    {
+        "news_id": "pbs_e6aa91a0234e",
+        "news_source": "pbs",
+        "news_source_lang": "en",
+        "news_header": "Tens of thousands of Palestinians have fled military operations in the West Bank, marking significant displacement since 1967.",
+        "news_epoch": 1740011460.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.pbs.org/newshour/world/thousands-of-palestinians-flee-west-bank-homes-as-israel-confronts-militants",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "israel",
+            "israeli_military",
+            "jenin",
+            "palestinians",
+            "west_bank"
+        ],
+        "news_original_title": "Thousands of Palestinians flee West Bank homes as Israel confronts militants",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_clydwlxykzyo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Hamas to transfer four dead hostages to Israel; includes mother and children, triggering national grief.",
+        "news_epoch": 1740010860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/clydwlxykzyo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Israel prepares to receive first dead hostages from Hamas",
+        "news_group": 484
+    },
+    {
+        "news_id": "bbc_cj91xgylkwlo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Georgia faces political turmoil and economic challenges linked to billionaire Bidzina Ivanishvili amid protests and sanctions.",
+        "news_epoch": 1740010080.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cj91xgylkwlo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Georgia&#x27;s richest man said to be moving funds to avoid US sanctions",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144812",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Hassan Nasrallah&#x27;s funeral is on February 23 in Beirut; Yemeni officials demand Huthi leaders&#x27; arrest if they attend.",
+        "news_epoch": 1740007140.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144812",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "conflicts",
+            "yemen",
+            "close",
+            "lebanon",
+            "beirut",
+            "war_in_gaza",
+            "hezbollah",
+            "foreign"
+        ],
+        "news_original_title": "Jemenil\u00e4isministeri vaatii Libanonia pid\u00e4tt\u00e4m\u00e4\u00e4n Hizbollah-johtajan hautajaisiin osallistuvia huthijohtajia",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c1lv3g51n9yo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Young supporters rally for President Yoon against impeachment, fearing leftist dictatorship and North Korean influence.",
+        "news_epoch": 1740006480.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1lv3g51n9yo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "&#x27;We will unite with Kim Jong Un&#x27;: Conspiracies grip South Korea",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cvg4g8q51xdo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Controversial comments by a YouTuber spark outrage, legal actions, and debates on free speech and morality in India.",
+        "news_epoch": 1740005400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvg4g8q51xdo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "YouTuber&#x27;s &#x27;dirty&#x27; comments spark massive row in India",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c62z3j3nydzo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "US shoppers may face higher prices due to proposed tariffs, warns Federal Reserve.",
+        "news_epoch": 1740000420.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c62z3j3nydzo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "US Fed warns Trump&#x27;s tariffs may increase prices",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c778ldvpn0po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Four women urge the US not to interfere in Andrew Tate&#x27;s Romanian case regarding serious allegations.",
+        "news_epoch": 1740000120.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c778ldvpn0po",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "US must not interfere in Tate&#x27;s case, say alleged victims",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cvgw30dr0w3o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Apple launches iPhone 16e with AI features at lower cost, aiming to boost sales and attract new customers.",
+        "news_epoch": 1739998680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cvgw30dr0w3o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Apple gambles on new iPhone with AI features at lower cost",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71677763",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "King Thutmose II&#x27;s tomb discovered in Luxor, first royal tomb found in over a century, revealing significant artifacts.",
+        "news_epoch": 1739998260.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/egypt-says-unveils-first-king-s-tomb-in-over-a-century/a-71677763",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "news"
+        ],
+        "news_original_title": "Egypt says unveils first king&#x27;s tomb in over a century",
+        "news_group": 483
+    },
+    {
+        "news_id": "bbc_cx2e9w0n3pxo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "",
+        "news_epoch": 1739997000.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx2e9w0n3pxo",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [],
+        "news_original_title": "Pope&#x27;s health slightly better, says Vatican",
+        "news_group": 478
+    },
+    {
+        "news_id": "bbc_c2014yy7q3zo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Residents evacuated in Godstone after sinkholes appeared on high street, possibly due to a burst water main.",
+        "news_epoch": 1739994300.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c2014yy7q3zo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "What is a sinkhole and how does it form?",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144806",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739992740.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144806",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "international_policy",
+            "russian_invasion_3025",
+            "emmanuel_macron",
+            "ukraine",
+            "keir_starmer",
+            "united_states",
+            "foreign"
+        ],
+        "news_original_title": "Macron ja Starmer Valkoiseen taloon ensi viikolla",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c62z3vxjplpo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A SpaceX Falcon 9 rocket re-entered Earth&#x27;s atmosphere, causing debris to fall in Poland and possibly Ukraine.",
+        "news_epoch": 1739991600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c62z3vxjplpo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "SpaceX rocket debris crashes into Poland",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144801",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739991300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144801",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "international_policy",
+            "elina_valtonen",
+            "donald_trump",
+            "russian_invasion_3025",
+            "a_studio",
+            "foreign"
+        ],
+        "news_original_title": "Ulkoministeri Valtonen: Trumpin puheet ennenkuulumattomia",
+        "news_group": 481
+    },
+    {
+        "news_id": "dw_a71674550",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Friedrich Merz proposes permanent border controls and denying asylum seekers entry at German borders, raising concerns across Europe.",
+        "news_epoch": 1739991300.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/how-the-german-election-may-shape-migration-in-the-entire-eu/a-71674550",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "germany"
+        ],
+        "news_original_title": "How the German election may shape migration in the entire EU",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c8d4pl7lemyo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Fourteen arrested in Europe for a \u20ac1tn money-laundering network linked to Russian mafia.",
+        "news_epoch": 1739989800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c8d4pl7lemyo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Russian mafia money-laundering ring broken up in Spain",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71677082",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Mexico&#x27;s president defends US drone flights, stating they&#x27;re legal and requested by the Mexican government.",
+        "news_epoch": 1739988600.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/mexico-nothing-illegal-about-us-drone-flights/a-71677082",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "news"
+        ],
+        "news_original_title": "Mexico: &#x27;Nothing illegal&#x27; about US drone flights",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c9814k2jlxko",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "",
+        "news_epoch": 1739987280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c9814k2jlxko",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [],
+        "news_original_title": "Fact-checking Trump claims about war in Ukraine",
+        "news_group": 481
+    },
+    {
+        "news_id": "dw_a71648473",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Germany faces economic challenges, including job losses, rising unemployment, and competition from China, impacting its industrial model.",
+        "news_epoch": 1739987100.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/german-election-is-the-country-s-economic-model-in-danger/a-71648473",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "business"
+        ],
+        "news_original_title": "German election: Is the country&#x27;s economic model in danger?",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144721",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Denmark supports Ukraine with a significant military fund while enhancing its own defense capabilities.",
+        "news_epoch": 1739985420.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144721",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "defence",
+            "denmark",
+            "foreign",
+            "defence_forces",
+            "ukraine",
+            "military_duty",
+            "russia"
+        ],
+        "news_original_title": "Tanska aikoo yli kaksinkertaistaa puolustusbudjettinsa \u2013 mist\u00e4 on kysymys?",
+        "news_group": 479
+    },
+    {
+        "news_id": "bbc_c3rndygqll7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Panama&#x27;s Dec\u00e1polis Hotel now houses 299 undocumented migrants awaiting deportation, facing uncertain futures and strict security.",
+        "news_epoch": 1739985060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c3rndygqll7o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "&#x27;Help us&#x27;: Hundreds deported from US held in Panama hotel",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cj3e3252gj8o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Microsoft&#x27;s Majorana 1 chip aims to accelerate quantum computing for solving industrial-scale problems in years.",
+        "news_epoch": 1739984160.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cj3e3252gj8o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Powerful quantum computers in years not decades, says Microsoft",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71674379",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Trump&#x27;s Gaza reconstruction plan faces opposition; Arab nations propose alternatives amid ongoing conflict and humanitarian crisis.",
+        "news_epoch": 1739983860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/what-will-arab-nations-plan-for-gaza-look-like/a-71674379",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "world"
+        ],
+        "news_original_title": "What will Arab nations&#x27; plan for Gaza look like?",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cly6npj3z89o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "South Africa&#x27;s budget unveiling postponed due to coalition disagreements over VAT increase amid cost-of-living crisis.",
+        "news_epoch": 1739983440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cly6npj3z89o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "South Africa&#x27;s finance minister fails to unveil budget after tax row",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144792",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739983020.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144792",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "russian_invasion_3025",
+            "donald_trump",
+            "ukraine",
+            "joe_biden",
+            "volodymyr_zelensky",
+            "president_of_the_usa",
+            "foreign"
+        ],
+        "news_original_title": "Trump kutsui Zelenskyi\u00e4 diktaattoriksi \u2013 vaatii uusia vaaleja Ukrainaan",
+        "news_group": 481
+    },
+    {
+        "news_id": "bbc_cy4ly8vde85o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Glaciers are melting rapidly due to climate change, impacting freshwater resources and global sea levels.",
+        "news_epoch": 1739982180.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cy4ly8vde85o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "World&#x27;s glaciers melting faster than ever recorded",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c1enpq1w97jo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Salon owners warn of potential apprenticeship shortages due to financial pressures and high taxes.",
+        "news_epoch": 1739981460.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c1enpq1w97jo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "&#x27;Perfect storm&#x27; could see end of salon apprenticeships",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a61561323",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "GirlZ Off Mute is a multilingual media project by DW targeting African audiences.",
+        "news_epoch": 1739981460.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/girlz-off-mute/a-61561323",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "world"
+        ],
+        "news_original_title": "GIRLZ OFF MUTE",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c5y98xyqew5o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Marian Turski, Holocaust survivor and historian, passed away at 98, advocating against indifference to prevent future atrocities.",
+        "news_epoch": 1739981220.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c5y98xyqew5o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Holocaust survivor Marian Turski dies aged 98",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cx20evr9jnjo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Police investigate campervan found abandoned in unusual position near Saint-Malo; driver reported unhurt after accident.",
+        "news_epoch": 1739980800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cx20evr9jnjo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Mystery over upturned campervan in Brittany",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144791",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A 3.5 magnitude earthquake occurred in Lake V\u00e4nern, Sweden, causing no injuries but surprising local residents.",
+        "news_epoch": 1739980560.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144791",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "sweden",
+            "earthquakes",
+            "accidents",
+            "foreign"
+        ],
+        "news_original_title": "Ruotsissa ep\u00e4tavallisen voimakas maanj\u00e4ristys \u2013 \u201dAivan kuin suuri kaivuri olisi jyr\u00e4nnyt taloon\u201d",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144790",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739980320.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144790",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "history",
+            "archeology",
+            "egypt",
+            "parsnips",
+            "eryptology",
+            "arab_countries",
+            "burial",
+            "north_africa",
+            "culture",
+            "tutankhamon",
+            "tomb_discoveries",
+            "burial_sites",
+            "foreign"
+        ],
+        "news_original_title": "Egyptiss\u00e4 l\u00f6ydettiin faarao Thutmosis II:n hauta",
+        "news_group": 483
+    },
+    {
+        "news_id": "dw_a71645742",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Tensions rise in Germany before elections, with migration and racism as key issues following a tragic attack.",
+        "news_epoch": 1739980200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/german-election-afro-germans-hope-for-a-better-future/a-71645742",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "world"
+        ],
+        "news_original_title": "German election: Afro-Germans hope for a better future",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144786",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739978400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144786",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "defence",
+            "defence_forces",
+            "denmark",
+            "prime_ministers",
+            "foreign"
+        ],
+        "news_original_title": "Tanska lis\u00e4\u00e4 puolustusmenojaan yli 7 miljardilla t\u00e4n\u00e4 ja ensi vuonna \u2013 p\u00e4\u00e4ministeri: \u201dOstakaa, ostakaa ja ostakaa\u201d",
+        "news_group": 479
+    },
+    {
+        "news_id": "yle_7420144184",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Tax changes affected prices variably, with inflation rates fluctuating and housing costs significantly impacting consumer prices.",
+        "news_epoch": 1739977980.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144184",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "prices",
+            "economy",
+            "consumer_prices",
+            "inflation",
+            "economic_indicators",
+            "value_of_money",
+            "pricing"
+        ],
+        "news_original_title": "Vaippojen vero laski, mutta hinnat eiv\u00e4t laskeneet samaan tahtiin \u2013 veronlasku j\u00e4i kauppojen taskuun",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144623",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739974800.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144623",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "international_policy",
+            "united_states",
+            "donald_trump",
+            "nato",
+            "us_foreign_policy",
+            "foreign"
+        ],
+        "news_original_title": "Analyysi: Yhdysvaltain pitk\u00e4n linjan ulkopolitiikka on k\u00e4\u00e4ntynyt p\u00e4\u00e4laelleen",
+        "news_group": 481
+    },
+    {
+        "news_id": "dw_a71644198",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "German foundries face high electricity costs, prompting concerns about production and competitiveness.",
+        "news_epoch": 1739974560.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.dw.com/en/high-electricity-prices-a-threat-to-germany-s-industry/a-71644198",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "business"
+        ],
+        "news_original_title": "High electricity prices: A threat to Germany&#x27;s industry?",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144763",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Putin seeks a meeting with Trump to discuss peace negotiations and diplomatic relations.",
+        "news_epoch": 1739974440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144763",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "russian_invasion_3025",
+            "foreign"
+        ],
+        "news_original_title": "N\u00e4in Putin kommentoi Saudi-Arabian neuvotteluja: \u201dTuloksia on saavutettu\u201d",
+        "news_group": 485
+    },
+    {
+        "news_id": "yle_7420144724",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "European leaders discuss security in Ukraine, armament acceleration, and the need for a unified approach to peace.",
+        "news_epoch": 1739974200.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144724",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "international_policy",
+            "russian_invasion_3025",
+            "safety",
+            "united_states",
+            "europe",
+            "ukraine",
+            "foreign"
+        ],
+        "news_original_title": "Euroopan maat jatkavat turvallisuuspolitiikan p\u00e4hk\u00e4ily\u00e4 Pariisissa \u2013 Suomesta mukana Stubb ja Orpo",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144754",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Munich police investigate stickers with QR codes on graves, revealing names and locations of the deceased.",
+        "news_epoch": 1739973540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144754",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "germany",
+            "police",
+            "cemetery",
+            "funeral_monuments",
+            "churches",
+            "burial",
+            "burial_sites",
+            "witnesses",
+            "malicious",
+            "foreign"
+        ],
+        "news_original_title": "Yli 1\u00ad\u00a0000 salaper\u00e4ist\u00e4 tarraa ilmestyi M\u00fcnchenin hautausmaille \u2013 poliisi tutkii",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71671784",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Maha Kumbh Mela attracts millions, raising environmental concerns and prompting religious leaders to advocate for sustainability.",
+        "news_epoch": 1739972940.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/india-s-kumbh-mela-brings-up-environmental-challenges/a-71671784",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "world"
+        ],
+        "news_original_title": "India&#x27;s Kumbh Mela brings up environmental challenges",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cwydxnxnxpgo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "",
+        "news_epoch": 1739972820.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cwydxnxnxpgo",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [],
+        "news_original_title": "Brazil prosecutor charges ex-President Bolsonaro over alleged plot",
+        "news_group": 475
+    },
+    {
+        "news_id": "bbc_cly8397e7gno",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "The Netherlands will return over 100 Benin Bronzes looted by British troops in the 19th century.",
+        "news_epoch": 1739972340.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cly8397e7gno",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Netherlands to return stolen Benin Bronzes to Nigeria",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144739",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Hamas may release remaining Israeli hostages during ceasefire&#x27;s second phase; negotiations ongoing.",
+        "news_epoch": 1739971500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144739",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "war_in_gaza",
+            "hostages",
+            "israel",
+            "hamas",
+            "gaza_strip",
+            "close",
+            "foreign"
+        ],
+        "news_original_title": "Hamas: Vapautamme kaikki j\u00e4ljell\u00e4 olevat panttivangit Gazan tulitauon toisessa vaiheessa",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a55203547",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "157 killer whales stranded in Tasmania; rescue efforts are challenging due to their weight and location.",
+        "news_epoch": 1739969700.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://www.dw.com/en/why-do-whales-and-dolphins-strand/a-55203547",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "science_5d03"
+        ],
+        "news_original_title": "Why do whales and dolphins strand?",
+        "news_group": 480
+    },
+    {
+        "news_id": "yle_7420144168",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Outokumpu&#x27;s deep hole reveals compounds linked to poor indoor air, aiding scientific understanding of environmental conditions.",
+        "news_epoch": 1739967120.0,
+        "news_categories": [
+            "science"
+        ],
+        "news_url": "https://yle.fi/a/74-20144168",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "science",
+            "natural_sciences",
+            "geology_research_centre",
+            "vtt",
+            "rock_bottom",
+            "outokumpu",
+            "domestic",
+            "northern_karelia"
+        ],
+        "news_original_title": "Ven\u00e4l\u00e4iset porasivat 20 vuotta sitten Pohjois-Karjalaan syv\u00e4n rei\u00e4n, jonka hajut ihmetytt\u00e4v\u00e4t nyt tutkijoita",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c0l18pzrz00o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "UK inflation rose to 3% in January due to food prices and airfares, prompting concerns about living costs.",
+        "news_epoch": 1739965620.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c0l18pzrz00o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Inflation jumps on food, air fares and school fees",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144690",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "A quarter of Finnish enterprises expect to increase trade with the U.S., with few planning reductions.",
+        "news_epoch": 1739964600.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://yle.fi/a/74-20144690",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "economy",
+            "international_trade",
+            "export",
+            "united_states",
+            "donald_trump"
+        ],
+        "news_original_title": "EK: Nelj\u00e4nnes yrityksist\u00e4 lis\u00e4\u00e4m\u00e4ss\u00e4 kauppaa Yhdysvaltoihin",
+        "news_group": -1
+    },
+    {
+        "news_id": "yle_7420144597",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "Ukraine&#x27;s future and peace negotiations are ongoing, with concerns about exclusion from talks and varying international responses.",
+        "news_epoch": 1739963580.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144597",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "international_policy",
+            "russia",
+            "ukraine",
+            "russian_invasion_3025",
+            "europe",
+            "policy",
+            "safety",
+            "foreign"
+        ],
+        "news_original_title": "Ukrainasta kokoustetaan nyt l\u00e4hes p\u00e4ivitt\u00e4in \u2013 t\u00e4ss\u00e4 viimeisimm\u00e4t k\u00e4\u00e4nteet",
+        "news_group": 477
+    },
+    {
+        "news_id": "yle_7420144671",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739962500.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144671",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "russian_invasion_3025",
+            "donald_trump",
+            "foreign",
+            "volodymyr_zelensky",
+            "ukraine",
+            "vladimir_putin",
+            "ukraine_war"
+        ],
+        "news_original_title": "Zelenskyi: Trump el\u00e4\u00e4 vale\u00aduutiskuplassa",
+        "news_group": 481
+    },
+    {
+        "news_id": "yle_7420144648",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739962440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144648",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "international_policy",
+            "donald_trump",
+            "nato",
+            "safety",
+            "foreign",
+            "policy"
+        ],
+        "news_original_title": "Analyysi: Trump alkaa kuulostaa Putinilta",
+        "news_group": 477
+    },
+    {
+        "news_id": "yle_7420144580",
+        "news_source": "yle",
+        "news_source_lang": "fi",
+        "news_header": "",
+        "news_epoch": 1739962440.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://yle.fi/a/74-20144580",
+        "news_status": "hide",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": false,
+        "keywords": [
+            "international_policy",
+            "donald_trump",
+            "russian_invasion_3025",
+            "ukraine",
+            "russia",
+            "united_states",
+            "representatives",
+            "ukraine_war",
+            "policy",
+            "foreign"
+        ],
+        "news_original_title": "Kansanedustajat tyrm\u00e4\u00e4v\u00e4t Trumpin puheet siit\u00e4, ett\u00e4 Ukraina olisi aloittanut sodan",
+        "news_group": 481
+    },
+    {
+        "news_id": "dw_a71081333",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Vietnam plans to cut public sector jobs and streamline ministries to improve efficiency and governance.",
+        "news_epoch": 1739961540.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/vietnam-approves-bold-reforms-to-streamline-ministries/a-71081333",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "world"
+        ],
+        "news_original_title": "Vietnam approves bold reforms to streamline ministries",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_c86pl55x0qno",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kim Sae-ron&#x27;s suicide highlights pressures in South Korea&#x27;s entertainment industry, raising concerns over cyberbullying and mental health.",
+        "news_epoch": 1739960280.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c86pl55x0qno",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "&#x27;Real life Squid Game&#x27;: Star&#x27;s death exposes Korea&#x27;s celebrity culture",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_cvgdr4r2l31o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -34,37 +1591,20 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_c0l18pzrz00o",
+        "news_id": "bbc_cpq2jlwzqjgo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "UK inflation rose to 3% due to higher food prices and private school fees.",
-        "news_epoch": 1739958540.0,
+        "news_header": "House prices in Northern Ireland rose 9% in 2024, reaching an average of over \u00a3183,000.",
+        "news_epoch": 1739958840.0,
         "news_categories": [
             "business"
         ],
-        "news_url": "https://www.bbc.com/news/articles/c0l18pzrz00o",
+        "news_url": "https://www.bbc.com/news/articles/cpq2jlwzqjgo",
         "news_status": "public",
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "keywords": [],
-        "news_original_title": "Inflation soars on food and private school fees",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c778ldvpn0po",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Four women urge US not to interfere in Andrew Tate&#x27;s Romanian legal case amid serious allegations.",
-        "news_epoch": 1739957160.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c778ldvpn0po",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "US must not interfere in Tate&#x27;s case, say alleged victims",
+        "news_original_title": "Average NI house price reaches 17-year high",
         "news_group": -1
     },
     {
@@ -77,12 +1617,12 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cd0n5e1pdz9o",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "keywords": [],
         "news_original_title": "Trump appears to blame Ukraine for starting war",
-        "news_group": 469
+        "news_group": 481
     },
     {
         "news_id": "yle_7420144635",
@@ -148,17 +1688,17 @@ const articles = [
         "news_id": "yle_7420144626",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Putin and Trump may meet in February; relations between US and Russia need revival.",
+        "news_header": "",
         "news_epoch": 1739954160.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://yle.fi/a/74-20144626",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "keywords": [
-            "russian_invasion_4546",
+            "russian_invasion_3025",
             "russia",
             "foreign",
             "donald_trump",
@@ -167,7 +1707,7 @@ const articles = [
             "ukraine"
         ],
         "news_original_title": "Peskov: Putin ja Trump saattavat tavata helmikuussa",
-        "news_group": -1
+        "news_group": 485
     },
     {
         "news_id": "yle_7420144598",
@@ -191,7 +1731,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Video n\u00e4ytt\u00e4\u00e4, kuinka Toronton turmakone syttyy tuleen ja py\u00f6r\u00e4ht\u00e4\u00e4 katolleen",
-        "news_group": 473
+        "news_group": -1
     },
     {
         "news_id": "yle_7420144618",
@@ -310,12 +1850,12 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/cd7e38py4geo",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "keywords": [],
         "news_original_title": "Scores of whales to be euthanised after mass stranding in Australia",
-        "news_group": -1
+        "news_group": 480
     },
     {
         "news_id": "bbc_cx2qepd3yn8o",
@@ -361,12 +1901,12 @@ const articles = [
             "world"
         ],
         "news_url": "https://www.bbc.com/news/articles/czdnp4ly5d1o",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "keywords": [],
         "news_original_title": "Hamas says it will return bodies of four hostages including Bibas family",
-        "news_group": 468
+        "news_group": 484
     },
     {
         "news_id": "yle_7420144576",
@@ -420,27 +1960,10 @@ const articles = [
         "news_group": -1
     },
     {
-        "news_id": "bbc_cwydxnxnxpgo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Bolsonaro charged with attempting a coup after 2022 election defeat.",
-        "news_epoch": 1739941260.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cwydxnxnxpgo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Brazil&#x27;s former President Jair Bolsonaro charged over alleged coup plot",
-        "news_group": 470
-    },
-    {
         "news_id": "pbs_37b82b517fb2",
         "news_source": "pbs",
         "news_source_lang": "en",
-        "news_header": "U.S. and Russian officials met to discuss peace, but Ukrainian officials were excluded from talks.",
+        "news_header": "U.S. and Russian officials met to discuss peace, but Ukraine was notably absent from the talks.",
         "news_epoch": 1739940900.0,
         "news_categories": [
             "world"
@@ -459,7 +1982,7 @@ const articles = [
             "ukraine_war"
         ],
         "news_original_title": "Without Ukrainian officials present, U.S. and Russia meet to discuss ending war",
-        "news_group": 467
+        "news_group": 482
     },
     {
         "news_id": "pbs_d39a1774667c",
@@ -476,7 +1999,7 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "U.S. foreign policy experts analyze the opening talks to end Russia&amp;#8217;s war in Ukraine",
-        "news_group": 467
+        "news_group": 482
     },
     {
         "news_id": "yle_7420144509",
@@ -584,20 +2107,20 @@ const articles = [
         "news_id": "dw_a71666194",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Bolsonaro charged with conspiracy to poison Lula and attempt a coup after 2022 election loss.",
+        "news_header": "",
         "news_epoch": 1739926860.0,
         "news_categories": [
             "world"
         ],
         "news_url": "https://www.dw.com/en/brazil-prosecutor-charges-bolsonaro-with-2022-coup-plot/a-71666194",
-        "news_status": "public",
+        "news_status": "hide",
         "news_type": "NewsType.SUMMARY",
-        "news_more": true,
+        "news_more": false,
         "keywords": [
             "news"
         ],
         "news_original_title": "Brazil prosecutor charges Bolsonaro with 2022 coup plot",
-        "news_group": -1
+        "news_group": 475
     },
     {
         "news_id": "yle_7420144558",
@@ -614,7 +2137,7 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Brasilian ex-presidentti Bolsonarolle syytteet vallankaappausyrityksest\u00e4",
-        "news_group": 470
+        "news_group": 475
     },
     {
         "news_id": "bbc_cly3nlv5d52o",
@@ -648,7 +2171,7 @@ const articles = [
         "news_more": true,
         "keywords": [],
         "news_original_title": "Villagers begin to return to southern Lebanon as Israeli army withdraws under ceasefire deal",
-        "news_group": 472
+        "news_group": -1
     },
     {
         "news_id": "dw_a71666180",
@@ -735,7 +2258,7 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Trump: Ukrainan ei olisi pit\u00e4nyt aloittaa sotaa",
-        "news_group": 469
+        "news_group": 481
     },
     {
         "news_id": "bbc_cdxnwnye7wko",
@@ -787,1169 +2310,5 @@ const articles = [
         "keywords": [],
         "news_original_title": "UN human rights chief accuses Rwanda-backed rebels in east Congo of killing children, attacking hospitals",
         "news_group": -1
-    },
-    {
-        "news_id": "pbs_03ee13a1933f",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739913660.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/hamas-says-it-will-free-6-living-hostages-and-hand-over-4-bodies-accelerating-gaza-releases",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Hamas says it will free 6 living hostages and hand over 4 bodies, accelerating Gaza releases",
-        "news_group": 468
-    },
-    {
-        "news_id": "yle_7420144553",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739912280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144553",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Arvio: Gazan j\u00e4lleenrakennus maksaa yli 50 miljardia euroa",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cvg151j5504o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "US-Russia talks complicate Ukraine&#x27;s situation amid ongoing conflict.",
-        "news_epoch": 1739910240.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cvg151j5504o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Jeremy Bowen: No sign of a quick peace dividend for Trump in Ukraine",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c9q4gw45nvdo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Russia re-engages in global diplomacy despite ongoing war in Ukraine.",
-        "news_epoch": 1739908860.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c9q4gw45nvdo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Moscow back at the table - and appearing to call the shots",
-        "news_group": 471
-    },
-    {
-        "news_id": "bbc_c789l779p3xo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Pope Francis has pneumonia; his condition is complex but stable.",
-        "news_epoch": 1739908500.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c789l779p3xo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Pope Francis has pneumonia in both lungs, Vatican says",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144273",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "US and Russia discuss Ukrainian peacekeeping options.",
-        "news_epoch": 1739908020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144273",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Rauhanturvaajat Ukrainaan globaalin etel\u00e4n maista, ehdottaa professori A-studiossa",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71664788",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Russia&#x27;s disinformation campaigns target German elections and discredit centrist parties.",
-        "news_epoch": 1739907780.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/how-russia-is-influencing-the-2025-german-election/a-71664788",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "How Russia is influencing the 2025 German election",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_97107f8ea24d",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "US and Russia discuss ending Ukraine war and improving relations.",
-        "news_epoch": 1739907660.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/russian-and-u-s-officials-meet-in-saudi-arabia-without-ukraine-to-discuss-improving-ties-and-ending-war",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Russian and U.S. officials meet in Saudi Arabia without Ukraine to discuss improving ties and ending war",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cg7z7ddmd5eo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Thames Water secures \u00a33bn loan, avoiding government control.",
-        "news_epoch": 1739907480.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cg7z7ddmd5eo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Thames Water secures \u00a33bn lifeline after court ruling",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144549",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739904180.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144549",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Paavi Franciscuksella on keuhkokuume",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cn04lllp2zwo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739903940.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cn04lllp2zwo",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Israeli troops stay inside south Lebanon after withdrawal deadline",
-        "news_group": 472
-    },
-    {
-        "news_id": "yle_7420144546",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Deepseek leaked user data; cooperating with South Korean authorities.",
-        "news_epoch": 1739902620.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144546",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Etel\u00e4-Korea syytt\u00e4\u00e4 Deepseekia k\u00e4ytt\u00e4j\u00e4tietojen vuotamisesta",
-        "news_group": 474
-    },
-    {
-        "news_id": "yle_7420144521",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Tax arrangements for social media players raise ethical concerns.",
-        "news_epoch": 1739901300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144521",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "\u201dLains\u00e4\u00e4t\u00e4j\u00e4 ei ole tarkoittanut\u201d \u2013 Influenssereiden vero-optimointi kummastuttaa verottajaa",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71664680",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Continental announces workforce cuts due to automotive industry downturn.",
-        "news_epoch": 1739899920.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/german-auto-parts-giant-to-slash-thousands-of-jobs/a-71664680",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "German auto parts giant to slash thousands of jobs",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c62k362dzzno",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Delta plane crash in Toronto, no fatalities reported.",
-        "news_epoch": 1739899020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/videos/c62k362dzzno",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Watch: Toronto plane crash footage analysed by aviation experts",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144478",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739898960.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144478",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Analyysi: Ven\u00e4j\u00e4 ja Yhdysvallat siivoavat \u201dh\u00e4iri\u00f6tekij\u00f6it\u00e4\u201d suhteistaan \u2013 Suurin erimielisyys oli Ukrainan turvatakuista",
-        "news_group": 471
-    },
-    {
-        "news_id": "yle_7420144541",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "France hosts a security meeting on Ukraine and European security.",
-        "news_epoch": 1739896980.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144541",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Ranska j\u00e4rjest\u00e4\u00e4 t\u00e4n\u00e4\u00e4n uuden turvallisuus\u00adkokouksen \u2013 Stubb ja Orpo osallistuvat et\u00e4n\u00e4",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_ce3lx7k092vo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Domestic energy prices expected to rise by 5% from April.",
-        "news_epoch": 1739896920.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce3lx7k092vo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Energy bills forecast to rise by \u00a385 a year",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144538",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Over a million Syrians displaced since December; many have returned.",
-        "news_epoch": 1739896560.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144538",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "YK:n mukaan Syyriaan on palannut jo 280 000 pakolaista ulkomailta",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144128",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Vaccine efficacy varies; influenza cases rise in Finland despite vaccination, with ongoing virus mutations affecting protection.",
-        "news_epoch": 1739894220.0,
-        "news_categories": [
-            "science"
-        ],
-        "news_url": "https://yle.fi/a/74-20144128",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [
-            "health",
-            "influenza",
-            "influenza_vaccines",
-            "respiratory_tract_infections",
-            "diseases",
-            "infectious_diseases",
-            "science"
-        ],
-        "news_original_title": "Influenssaepidemia kiihtyy \u2013 tartunnan voi saada rokotteesta huolimatta, muistuttaa asiantuntija",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71652819",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "British couple arrested in Iran on espionage charges.",
-        "news_epoch": 1739890920.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/iran-says-jailed-british-couple-charged-with-espionage/a-71652819",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Iran says jailed British couple charged with espionage",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cvgegrep2xno",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Tata Steel&#x27;s electric furnace project approved for Port Talbot.",
-        "news_epoch": 1739890620.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cvgegrep2xno",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Tata Steel \u00a31.25bn electric furnace approved by planners",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144520",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739889540.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144520",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Yhdysvaltoihin uusi laittomia maahanmuuttajia varoittava kampanja",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71643202",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Egypt&#x27;s military buildup in Sinai raises concerns amid Gaza conflict.",
-        "news_epoch": 1739889300.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/making-sense-of-egypt-s-alleged-military-buildup-near-israel/a-71643202",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Making sense of Egypt&#x27;s alleged military buildup near Israel",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144519",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Denmark prioritizes defense over political debates amid urgency.",
-        "news_epoch": 1739889120.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144519",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Tanskan p\u00e4\u00e4ministeri: Varustaudumme massiivisesti, p\u00e4\u00e4t\u00f6svaltaa puolustusvoimien komentajalle",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71649332",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Trump&#x27;s second presidency focuses on foreign deals and Serbia relations.",
-        "news_epoch": 1739888280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/trump-s-trio-for-the-balkans/a-71649332",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Trump&#x27;s trio for the Balkans",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144386",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Nokian brewery plans IPO for expansion and growth funding.",
-        "news_epoch": 1739887140.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144386",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Pienpanimo haluaa isoksi: Nokian Panimo tavoittelee listautumista p\u00f6rssiin ja 20 miljoonan euron liikevaihtoa",
-        "news_group": -1
-    },
-    {
-        "news_id": "dw_a71645999",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Europeans seek security guarantees for Ukraine amid US support uncertainty.",
-        "news_epoch": 1739886060.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/mooted-eu-deployment-in-ukraine-is-fraught-with-challenges/a-71645999",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Mooted EU deployment in Ukraine is fraught with challenges",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144490",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739884800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144490",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Hamas luovuttaa nelj\u00e4n panttivangin ruumiit torstaina ja vapauttaa kuusi panttivankia lauantaina",
-        "news_group": 468
-    },
-    {
-        "news_id": "dw_a71644884",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "Tshisekedi accuses Rwanda of aggression at Munich Security Conference.",
-        "news_epoch": 1739883780.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/calls-grow-for-congo-to-resolve-conflict-through-dialogue/a-71644884",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Calls grow for Congo to resolve conflict through dialogue",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144387",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Many food stores remain open during the strike.",
-        "news_epoch": 1739883600.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144387",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "N\u00e4in lakko vaikuttaa t\u00e4n\u00e4\u00e4n ruokakauppojen aukioloon",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144376",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Strikes affect logistics and store operations in Finland.",
-        "news_epoch": 1739882100.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144376",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Maitohyllyt tyhjeniv\u00e4t, mutta olutta on \u2013 t\u00e4lt\u00e4 n\u00e4ytt\u00e4\u00e4 kauppojen hyllyill\u00e4 nyt eri puolilla Suomea",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144475",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739881560.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144475",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Iranissa brittipariskunta sai syytteet vakoilusta",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144469",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739880180.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144469",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Paavin y\u00f6 meni hyvin \u2013 on yh\u00e4 sairaalassa",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c1w07nq8qqqo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Argentine President Javier Milei has denied promoting the cryptocurrency $Libra, which collapsed shortly after he mentioned it. A judge will decide if he faces fraud charges.",
-        "news_epoch": 1739879280.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c1w07nq8qqqo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Argentina&#x27;s President Milei denies crypto fraud allegations",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c4gex0x87g4o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "South Korea has accused Chinese AI startup DeepSeek of sharing user data with ByteDance, the owner of TikTok. The South Korean data protection regulator confirmed communication between DeepSeek and ByteDance, leading to DeepSeek&#x27;s removal from app stores due to data protection concerns.",
-        "news_epoch": 1739878800.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4gex0x87g4o",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "DeepSeek &#x27;shared user data&#x27; with TikTok owner ByteDance",
-        "news_group": 474
-    },
-    {
-        "news_id": "bbc_c5yeyy3y1ejo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Japan is shifting its energy policy to increase reliance on nuclear energy to meet the growing demand from sectors like AI and semiconductors. The new energy plan aims for nuclear energy to account for 20% of the grid supply by 2040, up from 8.5% in 2023.",
-        "news_epoch": 1739878680.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c5yeyy3y1ejo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Japan raises nuclear power goal in post-Fukushima shift",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c203018pr2jo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Alya, a Syrian refugee, reflects on the recent Munich attack that killed a mother and child, expressing her confusion and sorrow over such violence. She and her son Rami, who fled Syria a decade ago, have integrated into German society, but Alya notes a change in attitudes towards migrants in Germany.",
-        "news_epoch": 1739877780.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c203018pr2jo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Germany&#x27;s tensions over immigration laid bare ahead of election",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c20g02djlv7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "All 80 people on board a Delta Air Lines flight that crashed while landing in Toronto survived. The plane overturned, and although 18 were injured, only a few are seriously hurt.",
-        "news_epoch": 1739875020.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c20g02djlv7o",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "All passengers survive crash landing as plane flips at Toronto airport",
-        "news_group": 473
-    },
-    {
-        "news_id": "yle_7420144429",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Israel is ready to negotiate the second phase of the Gaza truce, focusing on a permanent ceasefire, the release of Israeli hostages for Palestinian prisoners, and the withdrawal of Israeli forces from Gaza.",
-        "news_epoch": 1739874720.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144429",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Ministeri:  Israel valmis aloittamaan Gazan aselevon toisen vaiheen neuvottelut",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144210",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "The National Mediator&#x27;s office reports progress in mediation regarding a trade dispute, but no agreement has been reached. A trade strike in logistics began on Monday and will extend to grocery stores starting Wednesday.",
-        "news_epoch": 1739872680.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144210",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Kaupan alan ty\u00f6riitaan ei sopua, ruokakauppojen lakko alkaa keskiviikkona",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420143750",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Beauty treatments in Finland are increasingly done in private apartments with questionable equipment, leading to around 80 patients treated annually for complications at HUS.",
-        "news_epoch": 1739871960.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20143750",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Asiantuntijat huolissaan Kiinasta tilatuista kauneudenhoitolaitteista \u2013 halpavekotin ylitt\u00e4\u00e4 laillisen s\u00e4teilyrajan jopa satakertaisesti",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_ce8j88gym3ro",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "New Zealand&#x27;s new tourism slogan &#x27;Everyone Must Go!&#x27; has sparked controversy, being interpreted as both a call for tourists and a threat to locals amid rising emigration and unemployment.",
-        "news_epoch": 1739871660.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/ce8j88gym3ro",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "&#x27;Everyone must go&#x27;: New Zealand&#x27;s tourism drive draws ire",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144408",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Environmental organizations argue that Japan&#x27;s new emission reduction targets are insufficient. The government aims to cut climate emissions by 60% from 2013 levels, but critics say this falls short of the Paris Agreement requirements.",
-        "news_epoch": 1739871300.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144408",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Japani asetti uudet tavoitteet ilmastop\u00e4\u00e4st\u00f6jen v\u00e4hent\u00e4miselle",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cx2k2ly8j75o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "A couple in north-east Pakistan has been detained for allegedly murdering a 13-year-old girl, Iqra, who worked as their maid after she was accused of stealing chocolates.",
-        "news_epoch": 1739869320.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cx2k2ly8j75o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "&#x27;Died for stealing chocolate&#x27;: Pakistan anger over death of child maid",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c8636e7xq5eo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Chancellor Rachel Reeves&#x27; intervention in a significant case regarding controversial car loans has been blocked by the UK&#x27;s Supreme Court. The case, set for April, involves an appeal from finance firms after a ruling deemed it unlawful for lenders to pay commissions to dealers without customer consent.",
-        "news_epoch": 1739868720.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c8636e7xq5eo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Reeves&#x27; intervention in car loans case rejected",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_c4gwgpjgl5zo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Average wages in the UK are rising faster than inflation, with a 3.4% increase in pay from October to December compared to the previous year. The unemployment rate remains steady at 4.4%, but businesses are warning of potential workforce cuts and price increases due to rising employment costs.",
-        "news_epoch": 1739868540.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c4gwgpjgl5zo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "UK wages continue to outpace inflation",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144361",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "The meeting between US and Russian Foreign Ministers in Saudi Arabia aims to facilitate potential peace negotiations regarding Ukraine, which is not represented at the meeting.",
-        "news_epoch": 1739867700.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144361",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Merkitt\u00e4vin kohtaaminen l\u00e4hes kolmeen vuoteen \u2013 t\u00e4st\u00e4 Yhdysvaltain ja Ven\u00e4j\u00e4n tapaamisessa on kyse",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144379",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Housing construction declined at the end of last year, with building permits for residential buildings down 12% year-on-year. The number of completed dwellings fell even more, with only 5,100 completed from October to December, a 47% decrease from the previous year.",
-        "news_epoch": 1739866920.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144379",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Asuntorakentamisen uudistuotanto vaisuinta sitten 90-luvun laman",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cdryr8m1k2eo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739866200.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cdryr8m1k2eo",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "&#x27;I was just in a plane crash. Oh my God&#x27;: Witnesses recount escape in Toronto",
-        "news_group": 473
-    },
-    {
-        "news_id": "yle_7420144252",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Caruna, an electricity network company, believes it has complied with tax laws despite criticism from Finnwatch regarding its tax practices. Finnwatch claims that recent changes to interest-reduction restrictions have led to Caruna&#x27;s alleged tax avoidance, which was previously facilitated by a balance sheet exemption.",
-        "news_epoch": 1739865600.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144252",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Finnwatch: Lainmuutos laittoi Carunan korkokikkailun kuriin",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144348",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Israel has not fully trusted the Lebanese army despite a ceasefire agreement that led to the withdrawal of Israeli troops from southern Lebanon. Israel retains five bases in the region, citing the Lebanese army&#x27;s inability to completely counter Hezbollah&#x27;s activities.",
-        "news_epoch": 1739862420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144348",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Israel vet\u00e4ytyi Etel\u00e4-Libanonista, lukuun ottamatta viitt\u00e4 tukikohtaa",
-        "news_group": 472
-    },
-    {
-        "news_id": "yle_7420144347",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Nokia Panimo plans to list on the First North market of the Helsinki Stock Exchange. It is the second largest brewery in Finland, with net sales of EUR 12 million and an operating profit of EUR 1.7 million last year.",
-        "news_epoch": 1739862300.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144347",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Nokian Panimo aikoo listautua p\u00f6rssiin",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144334",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Despite the devastation in Homs, returnees are joyful to be back in their neighborhood following the Syrian revolution in November. Many families have returned after nearly a decade, despite their homes being ruined.",
-        "news_epoch": 1739858340.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144334",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Syyrian pakolaiset alkavat palailla vallankumouksen syntypaikkaan, Homsiin",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144330",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739857560.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144330",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Yhdysvallat ja Ven\u00e4j\u00e4 pohjustavat rauhanneuvotteluja Ukrainan p\u00e4\u00e4n yli Saudi-Arabiassa \u2013 osapuolilla eroja odotuksissa",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144329",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739856480.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144329",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Elon Muskin yhti\u00f6 julkaisi uuden teko\u00e4lybotin",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cn4z4w3v5y8o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Sir Keir Starmer emphasized the need for a US backstop in any Ukraine peace deal to deter Russia from future aggression. Following a meeting with European leaders, he mentioned the possibility of deploying UK troops if a lasting peace agreement is reached.",
-        "news_epoch": 1739856420.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cn4z4w3v5y8o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Starmer says US &#x27;backstop&#x27; needed for Ukraine deal",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144327",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "The Danish Government plans to create a DKK 50 billion fund for arms purchases due to limited production capacity in the arms supply chain. They emphasize the need for EU countries to rapidly increase their armed forces and avoid delays caused by political issues or regulations.",
-        "news_epoch": 1739855760.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144327",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Tanska perustaa 50 miljardin kruunun aserahaston",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_97111c139ca7",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Delta flight crash, severe storms, Pope hospitalized, Washington artifact for sale.",
-        "news_epoch": 1739854200.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/news-wrap-delta-flight-crashes-in-toronto-injuring-at-least-8-people",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "News Wrap: Delta flight crashes in Toronto, injuring at least 8 people",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_d2064cfc5fb8",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "European leaders met in France to discuss peace talks regarding the Ukraine war, with concerns about the U.S.&#x27;s reliability as a partner. Ukrainian President Zelenskyy criticized talks excluding Ukraine, while former Lithuanian Foreign Minister Landsbergis expressed doubts about U.S.",
-        "news_epoch": 1739853600.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/european-leaders-are-left-scrambling-as-u-s-nears-talks-with-russia-on-ukraine",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "European leaders are left scrambling as U.S. nears talks with Russia on Ukraine",
-        "news_group": -1
-    },
-    {
-        "news_id": "bbc_cd7d7llvz28o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "More than 30 people have died in a bus crash in Bolivia, where the driver likely lost control, causing the bus to fall nearly 800 meters. Fourteen others were injured, including four children.",
-        "news_epoch": 1739852160.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cd7d7llvz28o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Bus crash in Bolivia kills at least 30 people",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144323",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "",
-        "news_epoch": 1739852100.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144323",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Kelan etuuksien v\u00e4\u00e4rink\u00e4ytt\u00f6 jatkoi viime vuonna laskuaan",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144146",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "President Donald Trump has initiated significant cuts in government operations, causing fear among federal employees. Many workers, like Jennifer and Kathrine, express their anxiety over job security and the impact on aid projects, particularly in health care and AIDS treatments.",
-        "news_epoch": 1739851800.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144146",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Jennifer sai kolme p\u00e4iv\u00e4\u00e4 aikaa muuttaa kotiin ulkomailta \u2013 n\u00e4in Trumpin leikkaukset romuttivat virkamiesten el\u00e4m\u00e4n",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144161",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "A survey shows that 54% of Finns support replacing inheritance tax with property gain tax, with the highest support from voters of the Finns party (69%). Support is also notable among Christian Democrats (68%), Assembly (64%), and RKP (61%).",
-        "news_epoch": 1739851260.0,
-        "news_categories": [
-            "business"
-        ],
-        "news_url": "https://yle.fi/a/74-20144161",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "EVA: Hieman yli puolet suomalaisista korvaisi perint\u00f6veron luovutusvoittoverolla",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144317",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "Four city vice mayors in New York have announced their intention to resign, following calls for Mayor Eric Adams to step down amid allegations of campaign funding from the Turkish regime and pressure regarding the Turkish consulate.",
-        "news_epoch": 1739845920.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144317",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "New Yorkin hallinto kaaoksen partaalla \u2013 kaupunginvaltuusto vaati pormestaria eroamaan",
-        "news_group": -1
-    },
-    {
-        "news_id": "yle_7420144316",
-        "news_source": "yle",
-        "news_source_lang": "fi",
-        "news_header": "The Russian government released an American man arrested for carrying marijuana marmalade at Moscow Airport. This occurred just before a Russian-US meeting in Saudi Arabia aimed at restoring relations.",
-        "news_epoch": 1739845440.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://yle.fi/a/74-20144316",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Ven\u00e4j\u00e4 vapautti pid\u00e4tetyn amerikkalaisen Ukraina-neuvottelujen aattona",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_f3a5bd200343",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Delta Airlines plane flipped at Toronto airport, injuring 19.",
-        "news_epoch": 1739844960.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/world/delta-airlines-plane-flips-while-landing-at-torontos-pearson-airport-8-people-injured",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Delta Airlines plane flips while landing at Toronto&amp;#8217;s Pearson Airport, 19 people injured",
-        "news_group": 466
-    },
-    {
-        "news_id": "dw_a71645160",
-        "news_source": "dw",
-        "news_source_lang": "en",
-        "news_header": "",
-        "news_epoch": 1739844960.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.dw.com/en/canada-plane-crash-injures-18-at-toronto-airport/a-71645160",
-        "news_status": "hide",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": false,
-        "keywords": [],
-        "news_original_title": "Canada: Plane crash injures 18 at Toronto airport",
-        "news_group": 473
     }
 ];

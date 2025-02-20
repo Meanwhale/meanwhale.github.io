@@ -1,13 +1,17 @@
 {
     "news_source": "dw",
     "news_id": "dw_a61561323",
-    "news_header": "GirlZ Off Mute is a multimedia format produced in multiple languages, focusing on empowering girls through reporting.",
-    "news_text": "GirlZ Off Mute is a video and radio series produced in English, French, Kiswahili, Portuguese, Hausa, and Amharic, aimed at empowering girls. Coordinated by Jane Nyingi, it is part of Deutsche Welle's efforts to reach 91 million Sub-Saharan users weekly across various platforms. DW, Germany's international broadcaster, provides unbiased news in 32 languages, focusing on critical topics like human rights, democracy, and social justice. They generate 320 million user contacts weekly and train journalists globally through DW Akademie.",
+    "news_header": "GirlZ Off Mute is a multilingual media project by DW targeting African audiences.",
+    "news_original_title": "GIRLZ OFF MUTE",
+    "news_text": "GirlZ Off Mute is a video and radio format produced in multiple languages, aiming to empower young female reporters in Africa. DW reaches 91 million users weekly across various platforms, focusing on unbiased news and information.",
     "news_url": "https://www.dw.com/en/girlz-off-mute/a-61561323",
-    "news_time": 1736765760.0,
+    "news_time": 1739981460.0,
     "news_categories": [
         "world"
     ],
     "news_source_lang": "en",
-    "news_group": -1
+    "news_group": -1,
+    "keywords": [
+        "world"
+    ]
 }
