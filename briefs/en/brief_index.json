@@ -1,9 +1,96 @@
 [
     {
+        "news_id": "bbc_c39vljzn0mlo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Luis Rubiales guilty of sexual assault for kissing Jenni Hermoso without consent; fined \u20ac10,800 and banned from contacting her.",
+        "news_epoch": 1740063060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c39vljzn0mlo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Spain&#x27;s ex-football boss Luis Rubiales fined for World Cup kiss",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cg5d6dq44e7o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Delta Air Lines offers $30,000 to passengers of a crash-landed plane in Toronto, all of whom survived.",
+        "news_epoch": 1740062700.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cg5d6dq44e7o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Passengers on crashed Toronto plane offered US$30,000 each",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_clyz65p1k45o",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Over 80% of Australian children under 13 used social media, prompting a proposed ban for under-16s.",
+        "news_epoch": 1740061860.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/clyz65p1k45o",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Children routinely using social media, Australian regulator says",
+        "news_group": -1
+    },
+    {
+        "news_id": "bbc_cn89jvl448po",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "A German court ruled Birkenstocks are not art, denying copyright protection against knock-offs.",
+        "news_epoch": 1740061680.0,
+        "news_categories": [
+            "business"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/cn89jvl448po",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Birkenstock sandals are not art, says German court",
+        "news_group": -1
+    },
+    {
+        "news_id": "dw_a71685321",
+        "news_source": "dw",
+        "news_source_lang": "en",
+        "news_header": "Vietnam&#x27;s human rights violations threaten EU-Vietnam trade agreement, prompting complaint to European Commission.",
+        "news_epoch": 1740060060.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.dw.com/en/does-eu-vietnam-free-trade-break-provisions-on-human-rights/a-71685321",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [
+            "world"
+        ],
+        "news_original_title": "Does EU-Vietnam free trade break provisions on human rights?",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_c93npgqlzvpo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "The return of deceased hostages highlights ongoing tensions between Israel and Hamas amidst grief and unresolved conflicts.",
+        "news_header": "Israel mourns four hostages returned by Hamas amid ongoing conflict and unresolved Palestinian casualties.",
         "news_epoch": 1740059400.0,
         "news_categories": [
             "world"
@@ -34,27 +121,10 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_c39vljzn0mlo",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Luis Rubiales guilty of sexual assault for kissing Jenni Hermoso without consent; fined \u20ac10,800 and banned from contacting her.",
-        "news_epoch": 1740056820.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/c39vljzn0mlo",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Spain&#x27;s ex-football boss Luis Rubiales fined for World Cup kiss",
-        "news_group": -1
-    },
-    {
         "news_id": "yle_7420144502",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Finland faces a significant carbon sink deficit, requiring urgent government action and policy changes to meet EU climate targets.",
+        "news_header": "Finland faces challenges in meeting EU climate targets for forests, with proposed measures to enhance carbon sinks and address carbon sink debt.",
         "news_epoch": 1740056460.0,
         "news_categories": [
             "science"
@@ -82,7 +152,7 @@
         "news_id": "yle_7420144966",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "FSB arrests four near Russia-Finland border; none are Russian, according to reports.",
+        "news_header": "FSB arrests four near Russia-Finland border, none are Russian nationals.",
         "news_epoch": 1740055860.0,
         "news_categories": [
             "world"
@@ -105,7 +175,7 @@
         "news_id": "bbc_c3vwxyq33k0o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Charities criticize Ofgem&#x27;s plans for standing charges on energy bills, calling them complicated and unfair.",
+        "news_header": "Charities criticize Ofgem&#x27;s plans to change standing charges, claiming they complicate bills and fail to address energy costs.",
         "news_epoch": 1740053100.0,
         "news_categories": [
             "business"
@@ -141,23 +211,6 @@
         "news_group": -1
     },
     {
-        "news_id": "bbc_cg5d6dq44e7o",
-        "news_source": "bbc",
-        "news_source_lang": "en",
-        "news_header": "Delta Air Lines offers $30,000 to each passenger from a crash-landed flight in Toronto, all of whom survived.",
-        "news_epoch": 1740051900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.bbc.com/news/articles/cg5d6dq44e7o",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [],
-        "news_original_title": "Passengers on crashed Toronto plane offered US$30,000 each",
-        "news_group": -1
-    },
-    {
         "news_id": "bbc_cvgw30dr0w3o",
         "news_source": "bbc",
         "news_source_lang": "en",
@@ -178,7 +231,7 @@
         "news_id": "yle_7420144948",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "High bankruptcy applications in Finland, especially among small firms, with 128 in one week, the highest since 2020.",
+        "news_header": "High bankruptcy applications in early 2024, with 128 in one week, marking a decade peak.",
         "news_epoch": 1740050880.0,
         "news_categories": [
             "business"
@@ -331,7 +384,7 @@
             "foreign"
         ],
         "news_original_title": "Noin sata valasta joudutaan lopettamaan Australiassa rantautumisen takia",
-        "news_group": 523
+        "news_group": 533
     },
     {
         "news_id": "bbc_czdn1l234gdo",
@@ -371,7 +424,7 @@
             "foreign"
         ],
         "news_original_title": "Ykk\u00f6saamun vieras on sotatieteiden dosentti Ilmari K\u00e4ihk\u00f6 \u2013 mit\u00e4 haluat kysy\u00e4 h\u00e4nelt\u00e4?",
-        "news_group": 519
+        "news_group": 529
     },
     {
         "news_id": "yle_7420144907",
@@ -513,7 +566,7 @@
         "news_id": "dw_a71671957",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "The &#x27;ick&#x27; describes sudden revulsion in romantic partners, influenced by various social and psychological factors.",
+        "news_header": "The &#x27;ick&#x27; is a sudden revulsion towards a partner, influenced by various factors, particularly in modern dating.",
         "news_epoch": 1740039600.0,
         "news_categories": [
             "science"
@@ -554,7 +607,7 @@
             "foreign"
         ],
         "news_original_title": "Hamas luovutti Israelille nelj\u00e4 hauta-arkkua \u2013 sis\u00e4ll\u00e4 v\u00e4itetysti panttivankien ruumiit",
-        "news_group": 527
+        "news_group": 537
     },
     {
         "news_id": "yle_7420144863",
@@ -732,7 +785,7 @@
         "news_id": "dw_a71678681",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "South Korea&#x27;s impeached President Yoon Suk Yeol faces insurrection charges in court, marking a historic trial for a president.",
+        "news_header": "Yoon Suk Yeol, South Korea&#x27;s impeached president, faces trial for insurrection charges amid high security.",
         "news_epoch": 1740032820.0,
         "news_categories": [
             "world"
@@ -805,7 +858,7 @@
         "news_more": true,
         "keywords": [],
         "news_original_title": "Trump calls Zelensky a &#x27;dictator&#x27; as rift between two leaders deepens",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "bbc_cvgw3l7p79po",
@@ -858,7 +911,7 @@
             "news"
         ],
         "news_original_title": "Brazil: Jair Bolsonaro deplores Lula coup plot charges",
-        "news_group": 521
+        "news_group": 531
     },
     {
         "news_id": "yle_7420144240",
@@ -939,7 +992,7 @@
             "volodymyr_zelenskyy"
         ],
         "news_original_title": "Trump calls Zelenskyy a &amp;#8216;dictator&amp;#8217; as he tries to pressure Kyiv to accept deal to end war",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "pbs_6af345050217",
@@ -1060,7 +1113,7 @@
             "pope_francis"
         ],
         "news_original_title": "Italian PM Meloni visits Pope Francis in hospital as he battles complex respiratory infection",
-        "news_group": 520
+        "news_group": 530
     },
     {
         "news_id": "yle_7420144818",
@@ -1140,7 +1193,7 @@
             "foreign"
         ],
         "news_original_title": "Trump jatkoi Zelenskyin mollaamista \u2013 \u201dH\u00e4n olisi voinut osallistua keskusteluihin, jos olisi halunnut\u201d",
-        "news_group": 518
+        "news_group": 528
     },
     {
         "news_id": "bbc_czepewl780eo",
@@ -1196,7 +1249,7 @@
             "luiz_inacio_lula_da_silva"
         ],
         "news_original_title": "Former Brazilian President Bolsonaro charged over alleged coup that included a plan to poison Lula",
-        "news_group": 521
+        "news_group": 531
     },
     {
         "news_id": "pbs_e6aa91a0234e",
@@ -1349,7 +1402,7 @@
             "news"
         ],
         "news_original_title": "Egypt says unveils first king&#x27;s tomb in over a century",
-        "news_group": 525
+        "news_group": 535
     },
     {
         "news_id": "bbc_cx2e9w0n3pxo",
@@ -1366,13 +1419,13 @@
         "news_more": false,
         "keywords": [],
         "news_original_title": "Pope&#x27;s health slightly better, says Vatican",
-        "news_group": 520
+        "news_group": 530
     },
     {
         "news_id": "bbc_c2014yy7q3zo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Residents of Godstone evacuated due to sinkholes; causes include geology and human activities.",
+        "news_header": "Residents evacuated in Godstone after sinkholes appeared on the high street, raising concerns about geological and human factors.",
         "news_epoch": 1739994300.0,
         "news_categories": [
             "science"
@@ -1382,7 +1435,7 @@
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "keywords": [],
-        "news_original_title": "What is a sinkhole and how does it form?",
+        "news_original_title": "What is a sinkhole and how are they formed?",
         "news_group": -1
     },
     {
@@ -1449,7 +1502,7 @@
             "foreign"
         ],
         "news_original_title": "Ulkoministeri Valtonen: Trumpin puheet ennenkuulumattomia",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "dw_a71674550",
@@ -1521,13 +1574,13 @@
         "news_more": false,
         "keywords": [],
         "news_original_title": "Fact-checking Trump claims about war in Ukraine",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "dw_a71648473",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Germany faces economic challenges, job losses, and energy price increases amid global uncertainties and competition from China.",
+        "news_header": "Germany faces economic challenges, including job losses and rising unemployment, amid changes in energy supply and global competition.",
         "news_epoch": 1739987100.0,
         "news_categories": [
             "business"
@@ -1565,7 +1618,7 @@
             "russia"
         ],
         "news_original_title": "Tanska aikoo yli kaksinkertaistaa puolustusbudjettinsa \u2013 mist\u00e4 on kysymys?",
-        "news_group": 522
+        "news_group": 532
     },
     {
         "news_id": "bbc_c3rndygqll7o",
@@ -1660,7 +1713,7 @@
             "foreign"
         ],
         "news_original_title": "Trump kutsui Zelenskyi\u00e4 diktaattoriksi \u2013 vaatii uusia vaaleja Ukrainaan",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "bbc_cy4ly8vde85o",
@@ -1800,7 +1853,7 @@
             "foreign"
         ],
         "news_original_title": "Egyptiss\u00e4 l\u00f6ydettiin faarao Thutmosis II:n hauta",
-        "news_group": 525
+        "news_group": 535
     },
     {
         "news_id": "dw_a71645742",
@@ -1842,7 +1895,7 @@
             "foreign"
         ],
         "news_original_title": "Tanska lis\u00e4\u00e4 puolustusmenojaan yli 7 miljardilla t\u00e4n\u00e4 ja ensi vuonna \u2013 p\u00e4\u00e4ministeri: \u201dOstakaa, ostakaa ja ostakaa\u201d",
-        "news_group": 522
+        "news_group": 532
     },
     {
         "news_id": "yle_7420144184",
@@ -1891,7 +1944,7 @@
             "foreign"
         ],
         "news_original_title": "Analyysi: Yhdysvaltain pitk\u00e4n linjan ulkopolitiikka on k\u00e4\u00e4ntynyt p\u00e4\u00e4laelleen",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "dw_a71644198",
@@ -1930,7 +1983,7 @@
             "foreign"
         ],
         "news_original_title": "N\u00e4in Putin kommentoi Saudi-Arabian neuvotteluja: \u201dTuloksia on saavutettu\u201d",
-        "news_group": 526
+        "news_group": 536
     },
     {
         "news_id": "yle_7420144724",
@@ -2019,7 +2072,7 @@
         "news_more": false,
         "keywords": [],
         "news_original_title": "Brazil prosecutor charges ex-President Bolsonaro over alleged plot",
-        "news_group": 521
+        "news_group": 531
     },
     {
         "news_id": "bbc_cly8397e7gno",
@@ -2080,7 +2133,7 @@
             "science_0935"
         ],
         "news_original_title": "Why do whales and dolphins strand?",
-        "news_group": 523
+        "news_group": 533
     },
     {
         "news_id": "yle_7420144168",
@@ -2172,7 +2225,7 @@
             "foreign"
         ],
         "news_original_title": "Ukrainasta kokoustetaan nyt l\u00e4hes p\u00e4ivitt\u00e4in \u2013 t\u00e4ss\u00e4 viimeisimm\u00e4t k\u00e4\u00e4nteet",
-        "news_group": 519
+        "news_group": 529
     },
     {
         "news_id": "yle_7420144671",
@@ -2197,7 +2250,7 @@
             "ukraine_war"
         ],
         "news_original_title": "Zelenskyi: Trump el\u00e4\u00e4 vale\u00aduutiskuplassa",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "yle_7420144648",
@@ -2221,7 +2274,7 @@
             "policy"
         ],
         "news_original_title": "Analyysi: Trump alkaa kuulostaa Putinilta",
-        "news_group": 519
+        "news_group": 529
     },
     {
         "news_id": "yle_7420144580",
@@ -2249,7 +2302,7 @@
             "foreign"
         ],
         "news_original_title": "Kansanedustajat tyrm\u00e4\u00e4v\u00e4t Trumpin puheet siit\u00e4, ett\u00e4 Ukraina olisi aloittanut sodan",
-        "news_group": 519
+        "news_group": 529
     },
     {
         "news_id": "dw_a71081333",
@@ -2353,7 +2406,7 @@
         "news_more": false,
         "keywords": [],
         "news_original_title": "Trump appears to blame Ukraine for starting war",
-        "news_group": 524
+        "news_group": 534
     },
     {
         "news_id": "yle_7420144635",
@@ -2438,7 +2491,7 @@
             "ukraine"
         ],
         "news_original_title": "Peskov: Putin ja Trump saattavat tavata helmikuussa",
-        "news_group": 526
+        "news_group": 536
     },
     {
         "news_id": "yle_7420144598",
@@ -2569,7 +2622,7 @@
         "news_more": false,
         "keywords": [],
         "news_original_title": "Scores of whales to be euthanised after mass stranding in Australia",
-        "news_group": 523
+        "news_group": 533
     },
     {
         "news_id": "bbc_cx2qepd3yn8o",
@@ -2603,7 +2656,7 @@
         "news_more": false,
         "keywords": [],
         "news_original_title": "Hamas says it will return bodies of four hostages including Bibas family",
-        "news_group": 527
+        "news_group": 537
     },
     {
         "news_id": "yle_7420144576",
