@@ -1,9 +1,26 @@
 const articles = [
     {
+        "news_id": "bbc_c93npgqlzvpo",
+        "news_source": "bbc",
+        "news_source_lang": "en",
+        "news_header": "Kuolleiden panttivankien palautus korostaa Israelin ja Hamasin v\u00e4list\u00e4 jatkuvaa j\u00e4nnitett\u00e4 surun ja ratkaisemattomien konfliktien keskell\u00e4.",
+        "news_epoch": 1740059400.0,
+        "news_categories": [
+            "world"
+        ],
+        "news_url": "https://www.bbc.com/news/articles/c93npgqlzvpo",
+        "news_status": "public",
+        "news_type": "NewsType.SUMMARY",
+        "news_more": true,
+        "keywords": [],
+        "news_original_title": "Return of bodies marks day of anguish for Israel",
+        "news_group": -1
+    },
+    {
         "news_id": "bbc_clydwlxykzyo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Israel surmaa nelj\u00e4 Hamasin palauttamaa panttivankia, mik\u00e4 her\u00e4tt\u00e4\u00e4 kansallista surua ja vaatimuksia panttivankien arvokkaasta kohtelusta.",
+        "news_header": "Nelj\u00e4 panttivangin ruumista palautettiin Israeliin, mik\u00e4 her\u00e4tti kansallista surua; el\u00e4vien panttivankien vapauttamisesta neuvotellaan edelleen.",
         "news_epoch": 1740058080.0,
         "news_categories": [
             "world"
@@ -37,7 +54,7 @@ const articles = [
         "news_id": "yle_7420144502",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Suomessa on merkitt\u00e4v\u00e4 hiilinieluvelka, joka vaatii kiireellisi\u00e4 poliittisia muutoksia EU:n ilmastotavoitteiden saavuttamiseksi.",
+        "news_header": "Suomella on merkitt\u00e4v\u00e4 hiilinieluvelka, joka vaatii kiireellisi\u00e4 hallituksen toimia ja politiikan muutoksia EU:n ilmastotavoitteiden saavuttamiseksi.",
         "news_epoch": 1740056460.0,
         "news_categories": [
             "science"
@@ -88,7 +105,7 @@ const articles = [
         "news_id": "bbc_c3vwxyq33k0o",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Hyv\u00e4ntekev\u00e4isyysj\u00e4rjest\u00f6t kritisoivat Ofgemin suunnitelmia seisomismaksujen muuttamiseksi, pit\u00e4en niit\u00e4 monimutkaisina ja ep\u00e4oikeudenmukaisina kuluttajille.",
+        "news_header": "Hyv\u00e4ntekev\u00e4isyysj\u00e4rjest\u00f6t kritisoivat Ofgemin suunnitelmia energialaskujen kiinteist\u00e4 maksuista, pit\u00e4en niit\u00e4 monimutkaisina ja ep\u00e4oikeudenmukaisina.",
         "news_epoch": 1740053100.0,
         "news_categories": [
             "business"
@@ -161,7 +178,7 @@ const articles = [
         "news_id": "yle_7420144948",
         "news_source": "yle",
         "news_source_lang": "fi",
-        "news_header": "Enn\u00e4tysm\u00e4\u00e4r\u00e4 konkurssihakemuksia Suomessa, 128 yhdess\u00e4 viikossa, korkein 2020-luvulla.",
+        "news_header": "Suomessa korkea konkurssihakemusten m\u00e4\u00e4r\u00e4, erityisesti pienyrityksiss\u00e4, 128 yhdess\u00e4 viikossa, korkein vuodesta 2020.",
         "news_epoch": 1740050880.0,
         "news_categories": [
             "business"
@@ -314,7 +331,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Noin sata valasta joudutaan lopettamaan Australiassa rantautumisen takia",
-        "news_group": 513
+        "news_group": 523
     },
     {
         "news_id": "bbc_czdn1l234gdo",
@@ -354,7 +371,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Ykk\u00f6saamun vieras on sotatieteiden dosentti Ilmari K\u00e4ihk\u00f6 \u2013 mit\u00e4 haluat kysy\u00e4 h\u00e4nelt\u00e4?",
-        "news_group": 509
+        "news_group": 519
     },
     {
         "news_id": "yle_7420144907",
@@ -496,7 +513,7 @@ const articles = [
         "news_id": "dw_a71671957",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Ick-ilmi\u00f6 kuvaa \u00e4killist\u00e4 inhoa romanttista kumppania kohtaan, johon vaikuttavat erilaiset tekij\u00e4t, joita tuore tutkimus on tunnistanut.",
+        "news_header": "&#x27;Ick&#x27; tarkoittaa \u00e4killist\u00e4 inhoa romanttisissa kumppaneissa, johon vaikuttavat sosiaaliset ja psykologiset tekij\u00e4t.",
         "news_epoch": 1740039600.0,
         "news_categories": [
             "science"
@@ -506,7 +523,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "keywords": [
-            "science_9808"
+            "science"
         ],
         "news_original_title": "Psychologists uncover why you get &#x27;the ick&#x27; in relationships",
         "news_group": -1
@@ -537,7 +554,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Hamas luovutti Israelille nelj\u00e4 hauta-arkkua \u2013 sis\u00e4ll\u00e4 v\u00e4itetysti panttivankien ruumiit",
-        "news_group": 517
+        "news_group": 527
     },
     {
         "news_id": "yle_7420144863",
@@ -715,7 +732,7 @@ const articles = [
         "news_id": "dw_a71678681",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Yoon Suk Yeol, Etel\u00e4-Korean eronnut presidentti, kohtaa oikeudenk\u00e4ynnin kapinasyyt\u00f6ksist\u00e4 sotatilan julistamisen j\u00e4lkeen.",
+        "news_header": "Etel\u00e4-Korean eronnut presidentti Yoon Suk Yeol kohtaa kapinasyyt\u00f6ksi\u00e4 oikeudessa, mik\u00e4 merkitsee historiallista oikeudenk\u00e4ynti\u00e4 presidentille.",
         "news_epoch": 1740032820.0,
         "news_categories": [
             "world"
@@ -788,7 +805,7 @@ const articles = [
         "news_more": true,
         "keywords": [],
         "news_original_title": "Trump calls Zelensky a &#x27;dictator&#x27; as rift between two leaders deepens",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "bbc_cvgw3l7p79po",
@@ -841,7 +858,7 @@ const articles = [
             "news"
         ],
         "news_original_title": "Brazil: Jair Bolsonaro deplores Lula coup plot charges",
-        "news_group": 511
+        "news_group": 521
     },
     {
         "news_id": "yle_7420144240",
@@ -922,7 +939,7 @@ const articles = [
             "volodymyr_zelenskyy"
         ],
         "news_original_title": "Trump calls Zelenskyy a &amp;#8216;dictator&amp;#8217; as he tries to pressure Kyiv to accept deal to end war",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "pbs_6af345050217",
@@ -1043,7 +1060,7 @@ const articles = [
             "pope_francis"
         ],
         "news_original_title": "Italian PM Meloni visits Pope Francis in hospital as he battles complex respiratory infection",
-        "news_group": 510
+        "news_group": 520
     },
     {
         "news_id": "yle_7420144818",
@@ -1123,7 +1140,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Trump jatkoi Zelenskyin mollaamista \u2013 \u201dH\u00e4n olisi voinut osallistua keskusteluihin, jos olisi halunnut\u201d",
-        "news_group": 508
+        "news_group": 518
     },
     {
         "news_id": "bbc_czepewl780eo",
@@ -1179,7 +1196,7 @@ const articles = [
             "luiz_inacio_lula_da_silva"
         ],
         "news_original_title": "Former Brazilian President Bolsonaro charged over alleged coup that included a plan to poison Lula",
-        "news_group": 511
+        "news_group": 521
     },
     {
         "news_id": "pbs_e6aa91a0234e",
@@ -1332,7 +1349,7 @@ const articles = [
             "news"
         ],
         "news_original_title": "Egypt says unveils first king&#x27;s tomb in over a century",
-        "news_group": 515
+        "news_group": 525
     },
     {
         "news_id": "bbc_cx2e9w0n3pxo",
@@ -1349,13 +1366,13 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Pope&#x27;s health slightly better, says Vatican",
-        "news_group": 510
+        "news_group": 520
     },
     {
         "news_id": "bbc_c2014yy7q3zo",
         "news_source": "bbc",
         "news_source_lang": "en",
-        "news_header": "Asukkaita evakuoitiin Godstonessa, kun maanj\u00e4ristykset avautuivat p\u00e4\u00e4kadulle, mahdollisesti rikkoutuneen vesiputken vuoksi.",
+        "news_header": "Godstonen asukkaita evakuoitiin maanvy\u00f6rymien vuoksi; syin\u00e4 geologia ja ihmistoiminta.",
         "news_epoch": 1739994300.0,
         "news_categories": [
             "science"
@@ -1432,7 +1449,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Ulkoministeri Valtonen: Trumpin puheet ennenkuulumattomia",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "dw_a71674550",
@@ -1504,13 +1521,13 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Fact-checking Trump claims about war in Ukraine",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "dw_a71648473",
         "news_source": "dw",
         "news_source_lang": "en",
-        "news_header": "Saksa kohtaa taloudellisia haasteita kasvavan ty\u00f6tt\u00f6myyden ja teollisuuden taantuman my\u00f6t\u00e4, pahentuneina energiapulasta ja globaalista kilpailusta.",
+        "news_header": "Saksa kohtaa taloudellisia haasteita, ty\u00f6paikkojen menetyksi\u00e4 ja energian hintojen nousua globaalien ep\u00e4varmuuksien ja Kiinan kilpailun my\u00f6t\u00e4.",
         "news_epoch": 1739987100.0,
         "news_categories": [
             "business"
@@ -1520,7 +1537,7 @@ const articles = [
         "news_type": "NewsType.SUMMARY",
         "news_more": true,
         "keywords": [
-            "business_06c1"
+            "business"
         ],
         "news_original_title": "German election: Is the country&#x27;s economic model in danger?",
         "news_group": -1
@@ -1548,7 +1565,7 @@ const articles = [
             "russia"
         ],
         "news_original_title": "Tanska aikoo yli kaksinkertaistaa puolustusbudjettinsa \u2013 mist\u00e4 on kysymys?",
-        "news_group": 512
+        "news_group": 522
     },
     {
         "news_id": "bbc_c3rndygqll7o",
@@ -1643,7 +1660,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Trump kutsui Zelenskyi\u00e4 diktaattoriksi \u2013 vaatii uusia vaaleja Ukrainaan",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "bbc_cy4ly8vde85o",
@@ -1783,7 +1800,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Egyptiss\u00e4 l\u00f6ydettiin faarao Thutmosis II:n hauta",
-        "news_group": 515
+        "news_group": 525
     },
     {
         "news_id": "dw_a71645742",
@@ -1825,7 +1842,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Tanska lis\u00e4\u00e4 puolustusmenojaan yli 7 miljardilla t\u00e4n\u00e4 ja ensi vuonna \u2013 p\u00e4\u00e4ministeri: \u201dOstakaa, ostakaa ja ostakaa\u201d",
-        "news_group": 512
+        "news_group": 522
     },
     {
         "news_id": "yle_7420144184",
@@ -1874,7 +1891,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Analyysi: Yhdysvaltain pitk\u00e4n linjan ulkopolitiikka on k\u00e4\u00e4ntynyt p\u00e4\u00e4laelleen",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "dw_a71644198",
@@ -1913,7 +1930,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "N\u00e4in Putin kommentoi Saudi-Arabian neuvotteluja: \u201dTuloksia on saavutettu\u201d",
-        "news_group": 516
+        "news_group": 526
     },
     {
         "news_id": "yle_7420144724",
@@ -2002,7 +2019,7 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Brazil prosecutor charges ex-President Bolsonaro over alleged plot",
-        "news_group": 511
+        "news_group": 521
     },
     {
         "news_id": "bbc_cly8397e7gno",
@@ -2063,7 +2080,7 @@ const articles = [
             "science_0935"
         ],
         "news_original_title": "Why do whales and dolphins strand?",
-        "news_group": 513
+        "news_group": 523
     },
     {
         "news_id": "yle_7420144168",
@@ -2155,7 +2172,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Ukrainasta kokoustetaan nyt l\u00e4hes p\u00e4ivitt\u00e4in \u2013 t\u00e4ss\u00e4 viimeisimm\u00e4t k\u00e4\u00e4nteet",
-        "news_group": 509
+        "news_group": 519
     },
     {
         "news_id": "yle_7420144671",
@@ -2180,7 +2197,7 @@ const articles = [
             "ukraine_war"
         ],
         "news_original_title": "Zelenskyi: Trump el\u00e4\u00e4 vale\u00aduutiskuplassa",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "yle_7420144648",
@@ -2204,7 +2221,7 @@ const articles = [
             "policy"
         ],
         "news_original_title": "Analyysi: Trump alkaa kuulostaa Putinilta",
-        "news_group": 509
+        "news_group": 519
     },
     {
         "news_id": "yle_7420144580",
@@ -2232,7 +2249,7 @@ const articles = [
             "foreign"
         ],
         "news_original_title": "Kansanedustajat tyrm\u00e4\u00e4v\u00e4t Trumpin puheet siit\u00e4, ett\u00e4 Ukraina olisi aloittanut sodan",
-        "news_group": 509
+        "news_group": 519
     },
     {
         "news_id": "dw_a71081333",
@@ -2336,7 +2353,7 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Trump appears to blame Ukraine for starting war",
-        "news_group": 514
+        "news_group": 524
     },
     {
         "news_id": "yle_7420144635",
@@ -2421,7 +2438,7 @@ const articles = [
             "ukraine"
         ],
         "news_original_title": "Peskov: Putin ja Trump saattavat tavata helmikuussa",
-        "news_group": 516
+        "news_group": 526
     },
     {
         "news_id": "yle_7420144598",
@@ -2552,7 +2569,7 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Scores of whales to be euthanised after mass stranding in Australia",
-        "news_group": 513
+        "news_group": 523
     },
     {
         "news_id": "bbc_cx2qepd3yn8o",
@@ -2586,7 +2603,7 @@ const articles = [
         "news_more": false,
         "keywords": [],
         "news_original_title": "Hamas says it will return bodies of four hostages including Bibas family",
-        "news_group": 517
+        "news_group": 527
     },
     {
         "news_id": "yle_7420144576",
@@ -2603,31 +2620,6 @@ const articles = [
         "news_more": true,
         "keywords": [],
         "news_original_title": "Lainakorkojen lasku ja s\u00e4hk\u00f6n hinnat pitiv\u00e4t inflaation ennallaan",
-        "news_group": -1
-    },
-    {
-        "news_id": "pbs_37b82b517fb2",
-        "news_source": "pbs",
-        "news_source_lang": "en",
-        "news_header": "Yhdysvaltojen ja Ven\u00e4j\u00e4n viranomaiset tapasivat keskustellakseen rauhasta, mutta Ukraina oli huomattavasti poissa neuvotteluista.",
-        "news_epoch": 1739940900.0,
-        "news_categories": [
-            "world"
-        ],
-        "news_url": "https://www.pbs.org/newshour/show/without-ukrainian-officials-present-u-s-and-russia-meet-to-discuss-ending-war",
-        "news_status": "public",
-        "news_type": "NewsType.SUMMARY",
-        "news_more": true,
-        "keywords": [
-            "donald_trump_news",
-            "marco_rubio",
-            "russia",
-            "russian_invasion",
-            "saudi_arabia",
-            "ukraine",
-            "ukraine_war"
-        ],
-        "news_original_title": "Without Ukrainian officials present, U.S. and Russia meet to discuss ending war",
         "news_group": -1
     }
 ];
