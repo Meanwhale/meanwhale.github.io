@@ -1,0 +1,15 @@
+{
+    "news_source": "bbc",
+    "news_id": "bbc_cpq9zxxn72qo",
+    "news_header": "Kvantber\u00e4kning utg\u00f6r ett betydande hot mot nuvarande krypteringsmetoder, vilket kr\u00e4ver br\u00e5dskande uppgraderingar av digital s\u00e4kerhet.",
+    "news_original_title": "Will quantum computers disrupt critical infrastructure?",
+    "news_text": "Tjugofem \u00e5r efter millenniebuggen hotar ett nytt hot med kvantber\u00e4kning som potentiellt kan kompromettera befintliga krypteringsmetoder. Till skillnad fr\u00e5n klassiska datorer anv\u00e4nder kvantdatorer qubits, vilket g\u00f6r att de kan bearbeta enorma m\u00e4ngder information samtidigt och d\u00e4rmed bryta krypteringsalgoritmer som RSA p\u00e5 minuter. Detta utg\u00f6r risker f\u00f6r elektroniska betalningar, personlig data och nationell s\u00e4kerhet. \u00c4ven om kvantdatorer som kan utf\u00f6ra s\u00e5dana uppgifter fortfarande \u00e4r flera \u00e5r bort, kan angripare samla in krypterad data nu f\u00f6r framtida avkodning. Forskare utvecklar post-kvantkrypteringsstandarder, men \u00f6verg\u00e5ngen kommer att vara komplex och p\u00e5verka miljarder enheter. Uppgradering av infrastrukturen, s\u00e4rskilt i kritiska system, medf\u00f6r betydande utmaningar. Br\u00e5dskande behov \u00f6kar eftersom tidslinjen f\u00f6r kvanthot \u00e4r of\u00f6ruts\u00e4gbar, till skillnad fr\u00e5n millenniebuggen som hade en k\u00e4nd deadline f\u00f6r \u00e5tg\u00e4rder.",
+    "news_url": "https://www.bbc.com/news/articles/cpq9zxxn72qo",
+    "news_time": 1740098400.0,
+    "news_categories": [
+        "business"
+    ],
+    "news_source_lang": "sv",
+    "news_group": -1,
+    "keywords": []
+}
