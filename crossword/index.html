@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Crossword</title>
+    <title>Unity Web Player | Daily Dose</title>
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=600 height=960 tabindex="-1" style="width: 600px; height: 960px; background: #231F20"></canvas>
@@ -25,13 +25,14 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
+        arguments: [],
         dataUrl: "Build/crossword.data",
         frameworkUrl: "Build/crossword.framework.js",
         codeUrl: "Build/crossword.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Meanwhale",
-        productName: "Crossword",
-        productVersion: "1.6",
+        productName: "Daily Dose",
+        productVersion: "1.10",
         // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
         // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
       });
