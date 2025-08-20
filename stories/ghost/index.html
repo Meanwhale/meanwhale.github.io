@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ghost Story</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 600px;
+      margin: 2em auto;
+    }
+    button {
+      margin: 0.5em 0.2em;
+      padding: 0.5em 1em;
+    }
+    #options {
+      margin-top: 1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ghost Story</h1>
+  <div id="question"></div>
+  <div id="options"></div>
+
+  <!-- Include the tree data -->
+  <script src="tree.js"></script>
+  <script>
+    // Start at root node (id = 1)
+    let currentId = 1;
+
+    function displayNode(nodeId) {
+      const node = TREE_DATA[nodeId];
+      const questionDiv = document.getElementById('question');
+      const optionsDiv = document.getElementById('options');
+
+      questionDiv.textContent = node.text;
+      optionsDiv.innerHTML = '';
+
+      if (!node.options || node.options.length === 0) {
+        // Leaf node
+        const endMsg = document.createElement('div');
+        endMsg.textContent = "The End!";
+        optionsDiv.appendChild(endMsg);
+        return;
+      }
+
+      node.options.forEach((opt, index) => {
+        const btn = document.createElement('button');
+        btn.textContent = opt.text;
+        btn.addEventListener('click', () => {
+          currentId = opt.targetId;
+          displayNode(currentId);
+        });
+        optionsDiv.appendChild(btn);
+      });
+    }
+
+    // Initial display
+    displayNode(currentId);
+  </script>
+</body>
+</html>
