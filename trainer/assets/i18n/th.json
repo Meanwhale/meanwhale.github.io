@@ -1,0 +1,61 @@
+{
+  "menu.title": "ฝึกคณิต",
+  "menu.start": "เริ่ม",
+  "menu.language": "ภาษา",
+  "menu.feedback": "ข้อเสนอแนะ",
+
+  "language.title": "เลือกภาษา",
+  "language.english": "อังกฤษ",
+  "language.swedish": "สวีเดน",
+  "language.finnish": "ฟินแลนด์",
+  "language.thai": "ไทย",
+  "language.selected": "เลือกแล้ว: {name}",
+
+  "common.back": "กลับ",
+  "common.yes": "ใช่",
+  "common.no": "ไม่",
+
+  "loader.loading": "กำลังโหลด…",
+  "loader.errorTitle": "เกิดข้อผิดพลาดในการโหลด",
+  "loader.backToMenu": "กลับสู่เมนู",
+
+  "gameplay.title": "แบบทดสอบ",
+  "gameplay.correct": "ถูกต้อง!",
+  "gameplay.wrongPrefix": "ไม่ถูก! คำตอบที่ถูก: {answer}",
+  "gameplay.next": "ถัดไป",
+  "gameplay.menu": "เมนู",
+  "gameplay.quitTitle": "ออกจากแบบทดสอบ?",
+  "gameplay.quitMessage": "ต้องการกลับไปที่เมนูหลักหรือไม่?",
+  "gameplay.score": "คะแนน: {score} / {total}",
+  "gameplay.qnum": "คำถาม {n} / {total}",
+
+  "results.title": "เสร็จสิ้น!",
+  "results.restart": "เริ่มใหม่",
+  "results.menu": "เมนู",
+
+  "subtopics.title": "เลือกหัวข้อ",
+
+  "area.skills": "คณิตศาสตร์เชิงทักษะ",
+  "topic.measurement": "การวัดและหน่วย",
+
+  "subtopic.liquid_units": "หน่วยปริมาตร",
+  "subtopic.liquid_calculation": "คำนวณเกี่ยวกับของเหลว",
+  "subtopic.liquid_mass_concentration": "มวลและความเข้มข้น",
+  "subtopic.liquid_percent": "เปอร์เซ็นต์ในของเหลว",
+
+  "type.easy_liquids_units": "หน่วยง่ายมาก",
+  "type.liquids_units_integers": "หน่วยที่เทียบเท่า (จำนวนเต็ม)",
+  "type.liquids_units_decimals": "หน่วยที่เทียบเท่า (ทศนิยม)",
+
+  "type.integer_liquids_calculation": "บวก/ลบ ของเหลว (จำนวนเต็ม)",
+  "type.decimal_liquids_calculation": "บวก/ลบ ของเหลว (ทศนิยม)",
+  "type.advanced_decimal_liquids_calculation": "คูณ/หาร ของเหลว (ทศนิยม)",
+
+  "type.easy_liquid_mass": "เกลือในน้ำ (มก./มล.)",
+  "type.watering_liquid_mass": "เติมน้ำให้เจือจาง (มก./มล.)",
+  "type.blending_liquid_mass": "ผสมสารละลาย (มก./มล.)",
+
+  "type.easy_liquid_percent": "เกลือในน้ำ (%)",
+  "type.watering_liquid_percent": "เติมน้ำให้เจือจาง (%)",
+  "type.blending_liquid_percent": "ผสมสารละลาย (%)"
+}

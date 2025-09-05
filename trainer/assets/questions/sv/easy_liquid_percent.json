@@ -1,0 +1,112 @@
+[
+  {
+    "question": "En lösning är 10 % salt. Om du har 50 mg av denna lösning, hur många mg salt finns det?",
+    "options": [
+      "5 mg",
+      "10 mg",
+      "2,5 mg",
+      "50 mg"
+    ],
+    "explanation": "10 % av 50 mg är (10/100) * 50 = 5 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Hur mycket salt finns det i 25 mg av en lösning som är 4 % salt?",
+    "options": [
+      "1 mg",
+      "2 mg",
+      "0,5 mg",
+      "4 mg"
+    ],
+    "explanation": "4 % av 25 mg är (4/100) * 25 = 1 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "En lösning innehåller 20 % salt. Om du har ett prov på 10 mg, vad är saltinnehållet?",
+    "options": [
+      "2 mg",
+      "4 mg",
+      "1 mg",
+      "20 mg"
+    ],
+    "explanation": "20 % av 10 mg är (20/100) * 10 = 2 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Om en lösning består av 8 % salt, hur många mg salt finns det i 100 mg av lösningen?",
+    "options": [
+      "8 mg",
+      "16 mg",
+      "4 mg",
+      "80 mg"
+    ],
+    "explanation": "8 % av 100 mg är (8/100) * 100 = 8 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "En 50 mg lösning har 6 % salt. Vad är massan av saltet i lösningen?",
+    "options": [
+      "3 mg",
+      "6 mg",
+      "1,5 mg",
+      "12 mg"
+    ],
+    "explanation": "6 % av 50 mg är (6/100) * 50 = 3 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Om en lösning är 2 % salt, hur många mg salt finns det i 75 mg av lösningen?",
+    "options": [
+      "1,5 mg",
+      "3 mg",
+      "0,75 mg",
+      "2 mg"
+    ],
+    "explanation": "2 % av 75 mg är (2/100) * 75 = 1,5 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Ett prov av en lösning väger 40 mg och är 5 % salt. Hur mycket salt finns det i provet?",
+    "options": [
+      "2 mg",
+      "4 mg",
+      "1 mg",
+      "8 mg"
+    ],
+    "explanation": "5 % av 40 mg är (5/100) * 40 = 2 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "I en 60 mg lösning är 15 % av massan salt. Vilken massa salt finns det?",
+    "options": [
+      "9 mg",
+      "3 mg",
+      "4,5 mg",
+      "12 mg"
+    ],
+    "explanation": "15 % av 60 mg är (15/100) * 60 = 9 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Du har 30 mg av en lösning. Lösningen är 30 % salt. Hur många mg salt är detta?",
+    "options": [
+      "9 mg",
+      "3 mg",
+      "6 mg",
+      "18 mg"
+    ],
+    "explanation": "30 % av 30 mg är (30/100) * 30 = 9 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "En 90 mg lösning är 1 % salt. Hur många mg salt finns det i lösningen?",
+    "options": [
+      "0,9 mg",
+      "1,8 mg",
+      "0,45 mg",
+      "9 mg"
+    ],
+    "explanation": "1 % av 90 mg är (1/100) * 90 = 0,9 mg.",
+    "timeTag": 1757058996
+  }
+]

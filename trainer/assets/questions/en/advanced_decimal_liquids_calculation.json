@@ -1,0 +1,112 @@
+[
+  {
+    "question": "If you have 2.5 L of water and divide it equally into 5 glasses, how much water is in each glass?",
+    "options": [
+      "500 mL",
+      "0.05 dL",
+      "50 cL",
+      "0.005 L"
+    ],
+    "explanation": "2.5 L divided by 5 equals 0.5 L. 0.5 L is equal to 500 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "A bottle contains 1.2 L of juice. If you pour out 0.4 L, how much juice is left in the bottle?",
+    "options": [
+      "80 cL",
+      "80 dL",
+      "0.08 mL",
+      "8 L"
+    ],
+    "explanation": "1.2 L - 0.4 L = 0.8 L. 0.8 L is equal to 80 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "If you have 3 L of milk and want to divide it into 6 equal portions, how much milk will be in each portion?",
+    "options": [
+      "50 cL",
+      "0.05 dL",
+      "50 mL",
+      "5 L"
+    ],
+    "explanation": "3 L divided by 6 is 0.5 L. 0.5 L is equal to 50 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "You have 0.8 L of lemonade and want to share it equally between 4 friends. How much lemonade does each friend get?",
+    "options": [
+      "200 mL",
+      "0.2 cL",
+      "20 dL",
+      "2 L"
+    ],
+    "explanation": "0.8 L divided by 4 is 0.2 L. 0.2 L is equal to 200 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "A recipe requires 0.6 L of water. If you want to make half of the recipe, how much water do you need?",
+    "options": [
+      "300 mL",
+      "0.3 cL",
+      "3 dL",
+      "3 L"
+    ],
+    "explanation": "0.6 L divided by 2 is 0.3 L. 0.3 L is equal to 300 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "If you have 0.7 L of soda and you drink 0.1 L, how much soda is left?",
+    "options": [
+      "60 cL",
+      "0.06 dL",
+      "6 mL",
+      "6 L"
+    ],
+    "explanation": "0.7 L - 0.1 L = 0.6 L. 0.6 L is equal to 60 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "You have 1.5 L of juice. If you pour it into 3 equal glasses, how much juice is in each glass?",
+    "options": [
+      "500 mL",
+      "0.5 cL",
+      "5 dL",
+      "5 L"
+    ],
+    "explanation": "1.5 L divided by 3 equals 0.5 L. 0.5 L is equal to 500 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "A container holds 2.4 L of liquid. If you divide the liquid into 8 equal parts, how much is in each part?",
+    "options": [
+      "30 cL",
+      "0.03 dL",
+      "3 mL",
+      "3 L"
+    ],
+    "explanation": "2.4 L divided by 8 equals 0.3 L. 0.3 L is equal to 30 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "If you have 4.2 L of solution and need to split it into 7 equal containers, how much solution goes into each container?",
+    "options": [
+      "60 cL",
+      "0.06 dL",
+      "6 mL",
+      "6 L"
+    ],
+    "explanation": "4.2 L divided by 7 is 0.6 L. 0.6 L is equal to 60 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "You have 0.9 L of water and want to divide it into 3 equal cups. How much water goes into each cup?",
+    "options": [
+      "300 mL",
+      "0.3 cL",
+      "3 dL",
+      "3 L"
+    ],
+    "explanation": "0.9 L divided by 3 is 0.3 L. 0.3 L is equal to 300 mL.",
+    "timeTag": 1756971954
+  }
+]

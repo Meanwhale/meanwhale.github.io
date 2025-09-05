@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Sinulla on dekantterilasi, jossa on 1,5 l vettä. Lisäät 250 ml sinistä väriainetta. Kuinka paljon nestettä on nyt dekantterilasissa?",
+    "options": [
+      "17,5 dl",
+      "1,75 cl",
+      "1750 cl",
+      "0,175 dl"
+    ],
+    "explanation": "Muunna ensin 1,5 l millilitroiksi: 1,5 l * 1000 ml/l = 1500 ml. Lisää sitten 250 ml väriainetta: 1500 ml + 250 ml = 1750 ml. Muunna lopuksi ml desilitroiksi: 1750 ml / 100 ml/dl = 17,5 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Reseptissä tarvitaan 0,7 l maitoa. Haluat tehdä vain puolet reseptistä. Kuinka paljon maitoa tarvitset?",
+    "options": [
+      "3,5 dl",
+      "35 cl",
+      "3500 ml",
+      "0,035 l"
+    ],
+    "explanation": "Puolittamalla 0,7 l saadaan 0,7 l / 2 = 0,35 l. Muunna sitten litrat desilitroiksi: 0,35 l * 10 dl/l = 3,5 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Sinulla on 3,2 dl mehua. Juot 150 ml. Kuinka paljon mehua on jäljellä?",
+    "options": [
+      "1,7 dl",
+      "17 cl",
+      "1700 ml",
+      "0,017 l"
+    ],
+    "explanation": "Muunna ensin 3,2 dl millilitroiksi: 3,2 dl * 100 ml/dl = 320 ml. Vähennä 150 ml, jolloin saadaan 320 ml - 150 ml = 170 ml. Muunna lopuksi ml desilitroiksi: 170 ml / 100 ml/dl = 1,7 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Pullossa on 0,8 l limsaa. Kaadat pois 20 cl. Kuinka paljon limsaa on jäljellä pullossa?",
+    "options": [
+      "6 dl",
+      "6000 ml",
+      "0,06 l",
+      "600 cl"
+    ],
+    "explanation": "Muunna 0,8 l sentilitroiksi: 0,8 l * 100 cl/l = 80 cl. Vähennä sitten 20 cl: 80 cl - 20 cl = 60 cl. Muunna cl desilitroiksi: 60 cl / 10 cl/dl = 6 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Sinulla on 450 ml vettä ja lisäät 0,3 l limonadia. Mikä on kokonaistilavuus?",
+    "options": [
+      "7,5 dl",
+      "75 cl",
+      "0,075 l",
+      "7500 ml"
+    ],
+    "explanation": "Muunna 0,3 l millilitroiksi: 0,3 l * 1000 ml/l = 300 ml. Lisää sitten tilavuudet: 450 ml + 300 ml = 750 ml. Muunna lopuksi ml desilitroiksi: 750 ml / 100 ml/dl = 7,5 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Säiliössä on 8,7 l liuosta. Jos poistetaan 500 ml, kuinka paljon jää jäljelle?",
+    "options": [
+      "82 dl",
+      "8200 ml",
+      "820 cl",
+      "0,82 l"
+    ],
+    "explanation": "Muunna 8,7 l millilitroiksi: 8,7 l * 1000 ml/l = 8700 ml. Vähennä 500 ml: 8700 ml - 500 ml = 8200 ml. Muunna ml desilitroiksi: 8200 ml / 100 ml/dl = 82 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Sinulla on 2,1 dl maalia ja käytät 80 ml. Kuinka paljon maalia on jäljellä?",
+    "options": [
+      "1,3 dl",
+      "13 cl",
+      "0,013 l",
+      "1300 ml"
+    ],
+    "explanation": "Muunna 2,1 dl millilitroiksi: 2,1 dl * 100 ml/dl = 210 ml. Vähennä sitten 80 ml: 210 ml - 80 ml = 130 ml. Muunna sitten ml desilitroiksi: 130 ml / 100 ml/dl = 1,3 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Astia sisältää 0,5 l öljyä. Lisäät 35 cl öljyä. Mikä on öljyn kokonaismäärä?",
+    "options": [
+      "8,5 dl",
+      "8500 ml",
+      "85 cl",
+      "0,085 l"
+    ],
+    "explanation": "Muunna 0,5 l sentilitroiksi: 0,5 l * 100 cl/l = 50 cl. Lisää sitten 35 cl: 50 cl + 35 cl = 85 cl. Muunna cl desilitroiksi: 85 cl / 10 cl/dl = 8,5 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Sinulla on 950 ml liuosta ja kaadat pois 0,2 l. Kuinka paljon liuosta on jäljellä?",
+    "options": [
+      "7,5 dl",
+      "750 cl",
+      "0,075 l",
+      "7500 ml"
+    ],
+    "explanation": "Muunna 0,2 l millilitroiksi: 0,2 l * 1000 ml/l = 200 ml. Vähennä sitten 200 ml 950 ml:sta: 950 ml - 200 ml = 750 ml. Muunna ml desilitroiksi: 750 ml / 100 ml/dl = 7,5 dl.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Ämpäri sisältää 7,3 l vettä. 3,1 dl poistetaan. Kuinka paljon vettä on jäljellä ämpärissä?",
+    "options": [
+      "69,9 dl",
+      "699 cl",
+      "6990 ml",
+      "0,699 l"
+    ],
+    "explanation": "Muunna 7,3 l desilitroiksi: 7,3 l * 10 dl/l = 73 dl. Vähennä 3,1 dl: 73 dl - 3,1 dl = 69,9 dl.",
+    "timeTag": 1756971958
+  }
+]

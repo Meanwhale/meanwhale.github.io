@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Liuoksella A on pitoisuus 100 mg/ml ja liuoksella B on pitoisuus 200 mg/ml. Jos sekoitat 50 ml liuosta A 50 ml:aan liuosta B, mikä on seoksen lopullinen pitoisuus mg/ml?",
+    "options": [
+      "150 mg/ml",
+      "100 mg/ml",
+      "200 mg/ml",
+      "250 mg/ml"
+    ],
+    "explanation": "Liuos A sisältää 50 ml * 100 mg/ml = 5000 mg suolaa. Liuos B sisältää 50 ml * 200 mg/ml = 10000 mg suolaa. Kokonaistilavuus on 50 ml + 50 ml = 100 ml. Suolan kokonaismäärä on 5000 mg + 10000 mg = 15000 mg. Lopullinen pitoisuus on 15000 mg / 100 ml = 150 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Sinulla on 200 ml suolaliuosta, jonka pitoisuus on 50 mg/ml. Sekoitat sen 300 ml:aan suolaliuosta, jonka pitoisuus on 100 mg/ml. Mikä on lopullisen liuoksen pitoisuus mg/ml?",
+    "options": [
+      "80 mg/ml",
+      "60 mg/ml",
+      "70 mg/ml",
+      "90 mg/ml"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 200 ml * 50 mg/ml = 10000 mg suolaa. Toinen liuos sisältää 300 ml * 100 mg/ml = 30000 mg suolaa. Kokonaistilavuus on 200 ml + 300 ml = 500 ml. Suolaa on yhteensä 10000 mg + 30000 mg = 40000 mg. Lopullinen pitoisuus on 40000 mg / 500 ml = 80 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Jos yhdistät 100 ml 400 mg/ml suolaliuosta 100 ml:aan puhdasta vettä (0 mg/ml), mikä on tuloksena olevan liuoksen pitoisuus mg/ml?",
+    "options": [
+      "200 mg/ml",
+      "100 mg/ml",
+      "300 mg/ml",
+      "400 mg/ml"
+    ],
+    "explanation": "Suolaliuos sisältää 100 ml * 400 mg/ml = 40000 mg suolaa. Puhdas vesi ei sisällä suolaa. Kokonaistilavuus on 100 ml + 100 ml = 200 ml. Suolan kokonaismäärä on 40000 mg. Lopullinen pitoisuus on 40000 mg / 200 ml = 200 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Mikä on lopullinen pitoisuus mg/ml, kun sekoitetaan 250 ml liuosta, jonka pitoisuus on 20 mg/ml, ja 250 ml liuosta, jonka pitoisuus on 60 mg/ml?",
+    "options": [
+      "40 mg/ml",
+      "20 mg/ml",
+      "30 mg/ml",
+      "80 mg/ml"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 250 ml * 20 mg/ml = 5000 mg suolaa. Toinen liuos sisältää 250 ml * 60 mg/ml = 15000 mg suolaa. Kokonaistilavuus on 250 ml + 250 ml = 500 ml. Suolan kokonaismäärä on 5000 mg + 15000 mg = 20000 mg. Lopullinen pitoisuus on 20000 mg / 500 ml = 40 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Tutkija sekoittaa 500 ml 10 mg/ml suolaliuosta 500 ml:aan 30 mg/ml suolaliuosta. Mikä on suolan pitoisuus tuloksena olevassa liuoksessa mg/ml?",
+    "options": [
+      "20 mg/ml",
+      "10 mg/ml",
+      "15 mg/ml",
+      "30 mg/ml"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 500 ml * 10 mg/ml = 5000 mg suolaa. Toinen liuos sisältää 500 ml * 30 mg/ml = 15000 mg suolaa. Kokonaistilavuus on 500 ml + 500 ml = 1000 ml. Suolan kokonaismäärä on 5000 mg + 15000 mg = 20000 mg. Lopullinen pitoisuus on 20000 mg / 1000 ml = 20 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Sinulla on kaksi suolaliuosta: 300 ml liuosta, jonka pitoisuus on 40 mg/ml, ja 100 ml liuosta, jonka pitoisuus on 80 mg/ml. Jos sekoitat ne, mikä on tuloksena oleva pitoisuus mg/ml?",
+    "options": [
+      "50 mg/ml",
+      "40 mg/ml",
+      "60 mg/ml",
+      "80 mg/ml"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 300 ml * 40 mg/ml = 12000 mg suolaa. Toinen liuos sisältää 100 ml * 80 mg/ml = 8000 mg suolaa. Kokonaistilavuus on 300 ml + 100 ml = 400 ml. Suolaa on yhteensä 12000 mg + 8000 mg = 20000 mg. Lopullinen pitoisuus on 20000 mg / 400 ml = 50 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "600 ml liuosta, jonka pitoisuus on 25 mg/ml, sekoitetaan 400 ml:aan 50 mg/ml liuosta. Mikä on lopullinen pitoisuus?",
+    "options": [
+      "35 mg/ml",
+      "25 mg/ml",
+      "40 mg/ml",
+      "50 mg/ml"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 600 ml * 25 mg/ml = 15000 mg suolaa. Toinen liuos sisältää 400 ml * 50 mg/ml = 20000 mg suolaa. Kokonaistilavuus on 600 ml + 400 ml = 1000 ml. Suolan kokonaismäärä on 15000 mg + 20000 mg = 35000 mg. Lopullinen pitoisuus on 35000 mg / 1000 ml = 35 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "50 ml 20 mg/ml suolaliuosta sekoitetaan 450 ml:aan puhdasta vettä. Mikä on lopullinen pitoisuus mg/ml?",
+    "options": [
+      "2 mg/ml",
+      "1 mg/ml",
+      "4 mg/ml",
+      "20 mg/ml"
+    ],
+    "explanation": "Suolaliuos sisältää 50 ml * 20 mg/ml = 1000 mg suolaa. Puhdas vesi ei sisällä suolaa. Kokonaistilavuus on 50 ml + 450 ml = 500 ml. Suolan kokonaismäärä on 1000 mg. Lopullinen pitoisuus on 1000 mg / 500 ml = 2 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Sekoitat 700 ml liuosta, jonka pitoisuus on 10 mg/ml, 300 ml:aan liuosta, jonka pitoisuus on 30 mg/ml. Mikä on lopullinen pitoisuus mg/ml?",
+    "options": [
+      "16 mg/ml",
+      "10 mg/ml",
+      "20 mg/ml",
+      "30 mg/ml"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 700 ml * 10 mg/ml = 7000 mg suolaa. Toinen liuos sisältää 300 ml * 30 mg/ml = 9000 mg suolaa. Kokonaistilavuus on 700 ml + 300 ml = 1000 ml. Suolan kokonaismäärä on 7000 mg + 9000 mg = 16000 mg. Lopullinen pitoisuus on 16000 mg / 1000 ml = 16 mg/ml.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Jos 150 ml 4 mg/ml suolaliuosta lisätään 350 ml:aan 8 mg/ml suolaliuosta, mikä on lopullinen pitoisuus mg/ml?",
+    "options": [
+      "6,8 mg/ml",
+      "4 mg/ml",
+      "6 mg/ml",
+      "8 mg/ml"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 150 ml * 4 mg/ml = 600 mg suolaa. Toinen liuos sisältää 350 ml * 8 mg/ml = 2800 mg suolaa. Kokonaistilavuus on 150 ml + 350 ml = 500 ml. Suolan kokonaismäärä on 600 mg + 2800 mg = 3400 mg. Lopullinen pitoisuus on 3400 mg / 500 ml = 6,8 mg/ml.",
+    "timeTag": 1757056837
+  }
+]

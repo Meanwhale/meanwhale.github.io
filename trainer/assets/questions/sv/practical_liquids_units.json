@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Vilken av följande är den minsta volymenheten?",
+    "options": [
+      "Milliliter",
+      "Centiliter",
+      "Deciliter",
+      "Liter"
+    ],
+    "explanation": "En milliliter (ml) är en tusendel av en liter. En centiliter (cl) är en hundradel av en liter, och en deciliter (dl) är en tiondel av en liter. Därför är en milliliter den minsta bland alternativen."
+  },
+  {
+    "question": "Hur många milliliter finns det i 1 centiliter?",
+    "options": [
+      "10",
+      "100",
+      "1",
+      "0,1"
+    ],
+    "explanation": "Det finns 10 milliliter (ml) i 1 centiliter (cl). Detta beror på att 1 cl = 0,01 l och 1 ml = 0,001 l. Därför är 1 cl = 10 ml."
+  },
+  {
+    "question": "Vilket är större: 5 deciliter eller 50 centiliter?",
+    "options": [
+      "De är lika",
+      "5 deciliter",
+      "50 centiliter",
+      "Kan inte avgöras"
+    ],
+    "explanation": "5 deciliter (dl) är lika med 50 centiliter (cl) eftersom 1 dl = 100 ml och 1 cl = 10 ml. Därför är 5 dl = 500 ml och 50 cl = 500 ml."
+  },
+  {
+    "question": "Hur många centiliter finns det i en halv liter?",
+    "options": [
+      "50",
+      "5",
+      "500",
+      "0,5"
+    ],
+    "explanation": "Det finns 100 centiliter (cl) i 1 liter (l). Därför finns det i en halv liter (0,5 l) 0,5 * 100 = 50 cl."
+  },
+  {
+    "question": "Du har en 2-litersflaska läsk. Hur många deciliter är det?",
+    "options": [
+      "20",
+      "2",
+      "200",
+      "0,2"
+    ],
+    "explanation": "Det finns 10 deciliter (dl) i 1 liter (l). Därför innehåller en 2-litersflaska 2 * 10 = 20 dl."
+  },
+  {
+    "question": "Vilket av följande motsvarar 300 milliliter?",
+    "options": [
+      "3 deciliter",
+      "3 centiliter",
+      "0,3 liter",
+      "3 liter"
+    ],
+    "explanation": "300 milliliter (ml) är lika med 0,3 liter (l) eftersom 1 l = 1000 ml, så 300 ml = 300/1000 = 0,3 l. Det är också lika med 3 deciliter eftersom 1 dl = 100 ml, och det är lika med 30 centiliter eftersom 1 cl = 10 ml."
+  },
+  {
+    "question": "Om du har 1 liter vatten och dricker 30 centiliter, hur många centiliter är det kvar?",
+    "options": [
+      "70",
+      "30",
+      "100",
+      "970"
+    ],
+    "explanation": "1 liter (l) är lika med 100 centiliter (cl). Om du dricker 30 cl har du 100 - 30 = 70 cl kvar."
+  },
+  {
+    "question": "Ett recept kräver 2 deciliter mjölk. Hur många milliliter är det?",
+    "options": [
+      "200",
+      "20",
+      "2",
+      "2000"
+    ],
+    "explanation": "1 deciliter (dl) är lika med 100 milliliter (ml). Därför är 2 dl lika med 2 * 100 = 200 ml."
+  },
+  {
+    "question": "Vilken är den största kvantiteten: 1 liter, 12 deciliter eller 110 centiliter?",
+    "options": [
+      "12 deciliter",
+      "1 liter",
+      "110 centiliter",
+      "De är alla samma"
+    ],
+    "explanation": "1 liter = 10 deciliter = 100 centiliter. Därför: 1 liter (l) = 10 dl = 100 cl; 12 deciliter (dl) = 120 cl = 1,2 l; 110 centiliter (cl) = 1,1 l = 11 dl. 12 deciliter är den största."
+  },
+  {
+    "question": "Du har en måttbägare som rymmer 500 milliliter. Hur många sådana bägare behöver du för att fylla en 1-litersflaska?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "0,5"
+    ],
+    "explanation": "1 liter (l) är lika med 1000 milliliter (ml). Därför behöver du 1000 / 500 = 2 bägare för att fylla flaskan."
+  },
+  {
+    "question": "Konvertera 750 milliliter till centiliter.",
+    "options": [
+      "75",
+      "7,5",
+      "7500",
+      "0,75"
+    ],
+    "explanation": "Eftersom det finns 10 milliliter i en centiliter, är 750 milliliter lika med 750 / 10 = 75 centiliter."
+  },
+  {
+    "question": "Om en flaska innehåller 150 centiliter, hur många deciliter innehåller den?",
+    "options": [
+      "15",
+      "1,5",
+      "0,15",
+      "1500"
+    ],
+    "explanation": "Eftersom det finns 10 centiliter i en deciliter, är 150 centiliter lika med 150 / 10 = 15 deciliter."
+  },
+  {
+    "question": "Vad är 2,5 liter i milliliter?",
+    "options": [
+      "2500",
+      "250",
+      "25",
+      "0,25"
+    ],
+    "explanation": "Det finns 1000 milliliter (ml) i 1 liter (l). Så 2,5 liter är 2,5 * 1000 = 2500 ml."
+  },
+  {
+    "question": "Hur många deciliter finns det i 3,8 liter?",
+    "options": [
+      "38",
+      "0,38",
+      "380",
+      "3,8"
+    ],
+    "explanation": "Det finns 10 deciliter (dl) i 1 liter (l). Därför är 3,8 liter lika med 3,8 * 10 = 38 dl."
+  },
+  {
+    "question": "En behållare rymmer 60 centiliter juice. Hur många milliliter rymmer den?",
+    "options": [
+      "600",
+      "6",
+      "0,6",
+      "6000"
+    ],
+    "explanation": "Eftersom det finns 10 milliliter i en centiliter, är 60 centiliter lika med 60 * 10 = 600 milliliter."
+  },
+  {
+    "question": "Vilket är lika med 0,7 liter?",
+    "options": [
+      "7 deciliter",
+      "7 centiliter",
+      "7 milliliter",
+      "0,07 deciliter"
+    ],
+    "explanation": "Eftersom 1 liter är 10 deciliter, är 0,7 liter lika med 0,7 * 10 = 7 deciliter."
+  }
+]

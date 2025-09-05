@@ -1,0 +1,61 @@
+{
+  "menu.title": "Mattetränare",
+  "menu.start": "Starta",
+  "menu.language": "Språk",
+  "menu.feedback": "Feedback",
+
+  "language.title": "Välj språk",
+  "language.english": "Engelska",
+  "language.swedish": "Svenska",
+  "language.finnish": "Finska",
+  "language.thai": "Thailändska",
+  "language.selected": "Valt: {name}",
+
+  "common.back": "Tillbaka",
+  "common.yes": "Ja",
+  "common.no": "Nej",
+
+  "loader.loading": "Laddar…",
+  "loader.errorTitle": "Laddningsfel",
+  "loader.backToMenu": "Till huvudmenyn",
+
+  "gameplay.title": "Frågesport",
+  "gameplay.correct": "Rätt!",
+  "gameplay.wrongPrefix": "Fel! Rätt svar: {answer}",
+  "gameplay.next": "Nästa",
+  "gameplay.menu": "Meny",
+  "gameplay.quitTitle": "Avsluta quiz?",
+  "gameplay.quitMessage": "Vill du gå tillbaka till huvudmenyn?",
+  "gameplay.score": "Poäng: {score} / {total}",
+  "gameplay.qnum": "Fråga {n} / {total}",
+
+  "results.title": "Klart!",
+  "results.restart": "Starta om",
+  "results.menu": "Meny",
+
+  "subtopics.title": "Välj ett ämne",
+
+  "area.skills": "Färdighetsbaserad matematik",
+  "topic.measurement": "Mätning och enheter",
+
+  "subtopic.liquid_units": "Volymenheter",
+  "subtopic.liquid_calculation": "Uträkningar med vätskor",
+  "subtopic.liquid_mass_concentration": "Massa och koncentration",
+  "subtopic.liquid_percent": "Procent i vätskor",
+
+  "type.easy_liquids_units": "Mycket lätta enheter",
+  "type.liquids_units_integers": "Likvärdiga enheter (heltal)",
+  "type.liquids_units_decimals": "Likvärdiga enheter (decimaltal)",
+
+  "type.integer_liquids_calculation": "Addera/Subtrahera vätskor (heltal)",
+  "type.decimal_liquids_calculation": "Addera/Subtrahera vätskor (decimaltal)",
+  "type.advanced_decimal_liquids_calculation": "Multiplicera/Dividera vätskor (decimaltal)",
+
+  "type.easy_liquid_mass": "Salt i vatten (mg/ml)",
+  "type.watering_liquid_mass": "Späda lösning (mg/ml)",
+  "type.blending_liquid_mass": "Blanda lösningar (mg/ml)",
+
+  "type.easy_liquid_percent": "Salt i vatten (%)",
+  "type.watering_liquid_percent": "Späda lösning (%)",
+  "type.blending_liquid_percent": "Blanda lösningar (%)"
+}

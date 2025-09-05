@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Mikä seuraavista vastaa 2,5 litraa?",
+    "options": [
+      "250 cL",
+      "0,25 dL",
+      "25000 mL",
+      "25 dL"
+    ],
+    "explanation": "Muuntaaksesi litrat (L) senttilitroiksi (cL), kerro 100:lla. 2,5 L * 100 = 250 cL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Mikä määrä on sama kuin 70 dL?",
+    "options": [
+      "7 L",
+      "0,7 cL",
+      "7000 mL",
+      "700 cL"
+    ],
+    "explanation": "Muuntaaksesi desilitrat (dL) litroiksi (L), jaa 10:llä. 70 dL / 10 = 7 L.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Mikä tilavuus on yhtä suuri kuin 0,8 L?",
+    "options": [
+      "800 mL",
+      "8 cL",
+      "0,08 dL",
+      "80 dL"
+    ],
+    "explanation": "Muuntaaksesi litrat (L) millilitroiksi (mL), kerro 1000:lla. 0,8 L * 1000 = 800 mL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Mikä näistä mittayksiköistä on sama kuin 3,2 dL?",
+    "options": [
+      "320 mL",
+      "0,32 L",
+      "32 cL",
+      "3200 L"
+    ],
+    "explanation": "Muuntaaksesi desilitrat (dL) millilitroiksi (mL), kerro 100/1:llä. 3,2 dL * 100 = 320 mL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Mikä tilavuus on identtinen 9,5 cL:n kanssa?",
+    "options": [
+      "95 mL",
+      "0,95 L",
+      "950 dL",
+      "9500 mL"
+    ],
+    "explanation": "Muuntaaksesi senttilitrat (cL) millilitroiksi (mL), kerro 1:llä. 9,5 cL * 1 = 95 mL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Kuinka monta litraa on 450 cL?",
+    "options": [
+      "4,5 L",
+      "45 L",
+      "0,45 L",
+      "45000 mL"
+    ],
+    "explanation": "Muuntaaksesi senttilitrat (cL) litroiksi (L), jaa 100:lla. 450 cL / 100 = 4,5 L.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Mikä on 6,8 dL ilmaistuna litroina?",
+    "options": [
+      "0,68 L",
+      "68 L",
+      "680 L",
+      "6800 mL"
+    ],
+    "explanation": "Muuntaaksesi desilitrat (dL) litroiksi (L), jaa 10:llä. 6,8 dL / 10 = 0,68 L.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "270 mL on sama kuin:",
+    "options": [
+      "2,7 dL",
+      "27 L",
+      "0,27 cL",
+      "2700 cL"
+    ],
+    "explanation": "Muuntaaksesi millilitrat (mL) desilitroiksi (dL), jaa 100:lla. 270 mL / 100 = 2,7 dL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Mikä seuraavista on yhtä suuri kuin 0,05 L?",
+    "options": [
+      "5 cL",
+      "50 dL",
+      "500 mL",
+      "0,5 dL"
+    ],
+    "explanation": "Muuntaaksesi litrat (L) senttilitroiksi (cL), kerro 100:lla. 0,05 L * 100 = 5 cL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Mikä näistä vastaa 1,2 litraa?",
+    "options": [
+      "1200 mL",
+      "12 cL",
+      "0,12 dL",
+      "1,2 dL"
+    ],
+    "explanation": "Muuntaaksesi litrat (L) millilitroiksi (mL), kerro 1000:lla. 1,2 L * 1000 = 1200 mL",
+    "timeTag": 1756971181
+  }
+]

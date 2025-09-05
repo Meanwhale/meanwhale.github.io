@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Sekoitat 20 mg 10 % suolaliuosta 30 mg:aan 20 % suolaliuosta. Mikä on syntyvän liuoksen suolapitoisuus?",
+    "options": [
+      "16 %",
+      "12 %",
+      "25 %",
+      "30 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 20 * 0,10 = 2 mg suolaa. Toinen liuos sisältää 30 * 0,20 = 6 mg suolaa. Suolan kokonaismäärä on 2 + 6 = 8 mg. Liuoksen kokonaistilavuus on 20 + 30 = 50 mg. Siksi syntyvän liuoksen pitoisuus on (8 / 50) * 100 % = 16 % .%.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Jos yhdistät 50 mg 30 % suolaliuosta ja 50 mg 10 % suolaliuosta, kuinka monta prosenttia suolaa on lopullisessa seoksessa?",
+    "options": [
+      "20 %",
+      "40 %",
+      "35 %",
+      "15 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 50 * 0,30 = 15 mg suolaa. Toinen liuos sisältää 50 * 0,10 = 5 mg suolaa. Suolan kokonaismäärä on 15 + 5 = 20 mg. Liuoksen kokonaistilavuus on 50 + 50 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (20 / 100) * 100 % = 20 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Mikä on suolapitoisuus, jos sekoitat 40 mg 25 % suolaliuosta 60 mg:aan 5 % suolaliuosta?",
+    "options": [
+      "13 %",
+      "15 %",
+      "20 %",
+      "30 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 40 * 0,25 = 10 mg suolaa. Toinen liuos sisältää 60 * 0,05 = 3 mg suolaa. Suolan kokonaismäärä on 10 + 3 = 13 mg. Liuoksen kokonaistilavuus on 40 + 60 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (13 / 100) * 100 % = 13 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Sinulla on kaksi suolaliuosta. Ensimmäinen on 70 mg, jossa on 40 % suolaa, ja toinen on 30 mg, jossa on 10 % suolaa. Mikä on sekoittamisen jälkeen suolapitoisuus?",
+    "options": [
+      "31 %",
+      "25 %",
+      "35 %",
+      "50 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 70 * 0,40 = 28 mg suolaa. Toinen liuos sisältää 30 * 0,10 = 3 mg suolaa. Suolan kokonaismäärä on 28 + 3 = 31 mg. Liuoksen kokonaistilavuus on 70 + 30 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (31 / 100) * 100 % = 31 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "60 mg:n liuos sisältää 60 % suolaa, ja se sekoitetaan 40 mg:aan 20 %:n suolaliuosta. Mikä on suolan lopullinen prosenttiosuus?",
+    "options": [
+      "44 %",
+      "30 %",
+      "50 %",
+      "70 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 60 * 0,60 = 36 mg suolaa. Toinen liuos sisältää 40 * 0,20 = 8 mg suolaa. Suolan kokonaismäärä on 36 + 8 = 44 mg. Liuoksen kokonaistilavuus on 60 + 40 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (44 / 100) * 100 % = 44 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Yhdistä 10 mg:n liuos, jossa on 90 % suolaa, 90 mg:n liuokseen, jossa on 10 % suolaa. Mikä on tuloksen suolapitoisuus?",
+    "options": [
+      "18 %",
+      "50 %",
+      "90 %",
+      "10 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 10 * 0,90 = 9 mg suolaa. Toinen liuos sisältää 90 * 0,10 = 9 mg suolaa. Suolan kokonaismäärä on 9 + 9 = 18 mg. Liuoksen kokonaistilavuus on 10 + 90 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (18 / 100) * 100 % = 18 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Jos sekoitat 80 mg 5 % suolaliuosta 20 mg:aan 25 % suolaliuosta, mikä on tuloksena oleva suolapitoisuus?",
+    "options": [
+      "9 %",
+      "15 %",
+      "5 %",
+      "25 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 80 * 0,05 = 4 mg suolaa. Toinen liuos sisältää 20 * 0,25 = 5 mg suolaa. Suolan kokonaismäärä on 4 + 5 = 9 mg. Liuoksen kokonaistilavuus on 80 + 20 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (9 / 100) * 100 % = 9 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Sekoitat 5 mg 100 % suolaliuosta 95 mg:aan 0 % suolaliuosta. Mikä on syntyvän liuoksen suolapitoisuus?",
+    "options": [
+      "5 %",
+      "95 %",
+      "50 %",
+      "0 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 5 * 1,00 = 5 mg suolaa. Toinen liuos sisältää 95 * 0,00 = 0 mg suolaa. Suolan kokonaismäärä on 5 + 0 = 5 mg. Liuoksen kokonaistilavuus on 5 + 95 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (5 / 100) * 100 % = 5 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Kuinka monta prosenttia suolaa on seoksessa, jossa on 65 mg 20 % suolaliuosta ja 35 mg 40 % suolaliuosta?",
+    "options": [
+      "27 %",
+      "30 %",
+      "25 %",
+      "35 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 65 * 0,20 = 13 mg suolaa. Toinen liuos sisältää 35 * 0,40 = 14 mg suolaa. Suolan kokonaismäärä on 13 + 14 = 27 mg. Liuoksen kokonaistilavuus on 65 + 35 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (27 / 100) * 100 % = 27 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Jos sekoitat 75 mg:n liuoksen, jossa on 8 % suolaa, 25 mg:n liuokseen, jossa on 24 % suolaa, mikä on lopullinen suolapitoisuus?",
+    "options": [
+      "12 %",
+      "10 %",
+      "16 %",
+      "20 %"
+    ],
+    "explanation": "Ensimmäinen liuos sisältää 75 * 0,08 = 6 mg suolaa. Toinen liuos sisältää 25 * 0,24 = 6 mg suolaa. Suolan kokonaismäärä on 6 + 6 = 12 mg. Liuoksen kokonaistilavuus on 75 + 25 = 100 mg. Siksi syntyvän liuoksen pitoisuus on (12 / 100) * 100 % = 12 %.",
+    "timeTag": 1757059000
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "areas": [
+    {
+      "id": "skills",
+      "name": "area.skills",
+      "topics": [
+        {
+          "id": "measurement",
+          "name": "topic.measurement",
+          "subtopics": [
+            {
+              "id": "liquid_units",
+              "name": "subtopic.liquid_units",
+              "exercise": [
+                {
+                  "id": "easy_liquids_units",
+                  "name": "type.easy_liquids_units",
+                  "prompt": "Choose smallest or greatest amount of liquid. Use different ways to say the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "liquids_units_integers",
+                  "name": "type.liquids_units_integers",
+                  "prompt": "Ask what's equal to some amount of liquid. Use different ways to say the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "liquids_units_decimals",
+                  "name": "type.liquids_units_decimals",
+                  "prompt": "Ask what's equal to some amount of liquid. Use different ways to say the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use decimals between 0.01 and 10.",
+                  "format": "mcq"
+                }
+              ]
+            },
+            {
+              "id": "liquid_calculation",
+              "name": "subtopic.liquid_calculation",
+              "exercise": [
+                {
+                  "id": "integer_liquids_calculation",
+                  "name": "type.integer_liquids_calculation",
+                  "prompt": "Easy and practical questions about liquid addition and subtraction. Use different unit in answer options than in the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "decimal_liquids_calculation",
+                  "name": "type.decimal_liquids_calculation",
+                  "prompt": "Easy and practical questions about liquid addition and subtraction. Use different unit in answer options than in the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use decimals between 0.01 and 10.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "advanced_decimal_liquids_calculation",
+                  "name": "type.advanced_decimal_liquids_calculation",
+                  "prompt": "Easy and practical questions about liquid multiply and divide. Use different unit in answer options than in the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use decimals between 0.01 and 10.",
+                  "format": "mcq"
+                }
+              ]
+            },
+            {
+              "id": "liquid_mass_concentration",
+              "name": "subtopic.liquid_mass_concentration",
+              "exercise": [
+                {
+                  "id": "easy_liquid_mass",
+                  "name": "type.easy_liquid_mass",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain mg/ml of salt, how much salt is in some amount of that solution. Use different ways to say the question. Use these in units in questions and answers: mL, mg. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "watering_liquid_mass",
+                  "name": "type.watering_liquid_mass",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain mg/ml of salt, how much salt mg/ml is there when water is added to the solution. Use different ways to say the question. Use these in units in questions and answers: mL, mg. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "blending_liquid_mass",
+                  "name": "type.blending_liquid_mass",
+                  "prompt": "Easy and practical questions about mixing salt solutions: how much salt (mg/ml) after mixing two solutions. Use different ways to say the question. Use these in units in questions and answers: mL, mg. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                }
+              ]
+            },
+            {
+              "id": "liquid_percent",
+              "name": "subtopic.liquid_percent",
+              "exercise": [
+                {
+                  "id": "easy_liquid_percent",
+                  "name": "type.easy_liquid_percent",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain percentage of salt, how many percent of salt is in some amount of that solution. Use different ways to say the question. Use these in units in questions and answers: %, mg. In questions and answers, use integers between 1 and 100.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "watering_liquid_percent",
+                  "name": "type.watering_liquid_percent",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain percentage of salt, how many percent of salt is there when water is added to the solution. Use different ways to say the question. Use these in units in questions and answers: %, mg. In questions and answers, use integers between 1 and 100.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "blending_liquid_percent",
+                  "name": "type.blending_liquid_percent",
+                  "prompt": "Easy and practical questions about mixing salt solutions: how many percent of salt after mixing two solutions. Use different ways to say the question. Use these in units in questions and answers: %, mg. In questions and answers, use integers between 1 and 100.",
+                  "format": "mcq"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

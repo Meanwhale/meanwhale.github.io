@@ -1,0 +1,112 @@
+[
+  {
+    "question": "A solution is 10% salt. If you have 50 mg of this solution, how many mg of salt are present?",
+    "options": [
+      "5 mg",
+      "10 mg",
+      "2.5 mg",
+      "50 mg"
+    ],
+    "explanation": "10% of 50 mg is (10/100) * 50 = 5 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "What amount of salt is present in 25 mg of a solution that is 4% salt?",
+    "options": [
+      "1 mg",
+      "2 mg",
+      "0.5 mg",
+      "4 mg"
+    ],
+    "explanation": "4% of 25 mg is (4/100) * 25 = 1 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "A solution contains 20% salt. If you have a 10 mg sample, what is the salt content?",
+    "options": [
+      "2 mg",
+      "4 mg",
+      "1 mg",
+      "20 mg"
+    ],
+    "explanation": "20% of 10 mg is (20/100) * 10 = 2 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "If a solution is composed of 8% salt, how many mg of salt are in 100 mg of the solution?",
+    "options": [
+      "8 mg",
+      "16 mg",
+      "4 mg",
+      "80 mg"
+    ],
+    "explanation": "8% of 100 mg is (8/100) * 100 = 8 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "A 50 mg solution has 6% salt.  What is the mass of salt in the solution?",
+    "options": [
+      "3 mg",
+      "6 mg",
+      "1.5 mg",
+      "12 mg"
+    ],
+    "explanation": "6% of 50 mg is (6/100) * 50 = 3 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "If a solution is 2% salt, how many mg of salt are present in 75 mg of the solution?",
+    "options": [
+      "1.5 mg",
+      "3 mg",
+      "0.75 mg",
+      "2 mg"
+    ],
+    "explanation": "2% of 75 mg is (2/100) * 75 = 1.5 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "A sample of solution weighs 40 mg and is 5% salt. How much salt is in the sample?",
+    "options": [
+      "2 mg",
+      "4 mg",
+      "1 mg",
+      "8 mg"
+    ],
+    "explanation": "5% of 40 mg is (5/100) * 40 = 2 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "In a 60 mg solution, 15% of the mass is salt. What mass of salt is present?",
+    "options": [
+      "9 mg",
+      "3 mg",
+      "4.5 mg",
+      "12 mg"
+    ],
+    "explanation": "15% of 60 mg is (15/100) * 60 = 9 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "You have 30 mg of a solution. The solution is 30% salt. How many mg of salt is this?",
+    "options": [
+      "9 mg",
+      "3 mg",
+      "6 mg",
+      "18 mg"
+    ],
+    "explanation": "30% of 30 mg is (30/100) * 30 = 9 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "A 90 mg solution is 1% salt. How many mg of salt are in the solution?",
+    "options": [
+      "0.9 mg",
+      "1.8 mg",
+      "0.45 mg",
+      "9 mg"
+    ],
+    "explanation": "1% of 90 mg is (1/100) * 90 = 0.9 mg.",
+    "timeTag": 1757058996
+  }
+]

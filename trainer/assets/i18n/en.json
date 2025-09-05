@@ -1,0 +1,61 @@
+{
+  "menu.title": "Math Trainer",
+  "menu.start": "Start",
+  "menu.language": "Language",
+  "menu.feedback": "Feedback",
+
+  "language.title": "Select Language",
+  "language.english": "English",
+  "language.swedish": "Swedish",
+  "language.finnish": "Finnish",
+  "language.thai": "Thai",
+  "language.selected": "Selected: {name}",
+
+  "common.back": "Back",
+  "common.yes": "Yes",
+  "common.no": "No",
+
+  "loader.loading": "Loading…",
+  "loader.errorTitle": "Loading error",
+  "loader.backToMenu": "Back to Menu",
+
+  "gameplay.title": "Quiz Time",
+  "gameplay.correct": "Correct!",
+  "gameplay.wrongPrefix": "Wrong! Correct: {answer}",
+  "gameplay.next": "Next",
+  "gameplay.menu": "Menu",
+  "gameplay.quitTitle": "Quit Quiz?",
+  "gameplay.quitMessage": "Do you want to return to the main menu?",
+  "gameplay.score": "Score: {score} / {total}",
+  "gameplay.qnum": "Question {n} / {total}",
+
+  "results.title": "All done!",
+  "results.restart": "Restart",
+  "results.menu": "Menu",
+
+  "subtopics.title": "Choose a Topic",
+
+  "area.skills": "Skills-Based Math",
+  "topic.measurement": "Measurement & Units",
+
+  "subtopic.liquid_units": "Liquid Units",
+  "subtopic.liquid_calculation": "Liquid Calculations",
+  "subtopic.liquid_mass_concentration": "Mass & Concentration",
+  "subtopic.liquid_percent": "Liquid Percentages",
+
+  "type.easy_liquids_units": "Very Easy Units",
+  "type.liquids_units_integers": "Units Equivalence (Integers)",
+  "type.liquids_units_decimals": "Units Equivalence (Decimals)",
+
+  "type.integer_liquids_calculation": "Add/Subtract Liquids (Integers)",
+  "type.decimal_liquids_calculation": "Add/Subtract Liquids (Decimals)",
+  "type.advanced_decimal_liquids_calculation": "Multiply/Divide Liquids (Decimals)",
+
+  "type.easy_liquid_mass": "Salt in Water (mg/ml)",
+  "type.watering_liquid_mass": "Diluting Solution (mg/ml)",
+  "type.blending_liquid_mass": "Mixing Solutions (mg/ml)",
+
+  "type.easy_liquid_percent": "Salt in Water (%)",
+  "type.watering_liquid_percent": "Diluting Solution (%)",
+  "type.blending_liquid_percent": "Mixing Solutions (%)"
+}

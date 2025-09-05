@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Vad är 50 ml + 30 ml?",
+    "options": [
+      "80 ml",
+      "70 ml",
+      "90 ml",
+      "20 ml"
+    ],
+    "explanation": "Att addera 50 ml och 30 ml ger 50 + 30 = 80 ml."
+  },
+  {
+    "question": "Vad är 100 ml - 40 ml?",
+    "options": [
+      "60 ml",
+      "50 ml",
+      "70 ml",
+      "140 ml"
+    ],
+    "explanation": "Att subtrahera 40 ml från 100 ml ger 100 - 40 = 60 ml."
+  },
+  {
+    "question": "Vad är 20 ml + 20 ml + 20 ml?",
+    "options": [
+      "60 ml",
+      "40 ml",
+      "80 ml",
+      "10 ml"
+    ],
+    "explanation": "Att addera 20 ml tre gånger ger 20 + 20 + 20 = 60 ml."
+  },
+  {
+    "question": "Vad är 90 ml - 30 ml - 10 ml?",
+    "options": [
+      "50 ml",
+      "70 ml",
+      "60 ml",
+      "130 ml"
+    ],
+    "explanation": "Att subtrahera 30 ml från 90 ml ger 60 ml, sedan subtrahera 10 ml från 60 ml ger 50 ml."
+  },
+  {
+    "question": "Vad är 10 cl + 5 cl?",
+    "options": [
+      "15 cl",
+      "5 cl",
+      "20 cl",
+      "50 cl"
+    ],
+    "explanation": "Att addera 10 cl och 5 cl ger 10 + 5 = 15 cl."
+  },
+  {
+    "question": "Vad är 25 cl - 10 cl?",
+    "options": [
+      "15 cl",
+      "35 cl",
+      "20 cl",
+      "5 cl"
+    ],
+    "explanation": "Att subtrahera 10 cl från 25 cl ger 25 - 10 = 15 cl."
+  },
+  {
+    "question": "Vad är 5 cl + 5 cl + 5 cl?",
+    "options": [
+      "15 cl",
+      "10 cl",
+      "20 cl",
+      "25 cl"
+    ],
+    "explanation": "Att addera 5 cl tre gånger ger 5 + 5 + 5 = 15 cl."
+  },
+  {
+    "question": "Vad är 30 cl - 5 cl - 5 cl?",
+    "options": [
+      "20 cl",
+      "25 cl",
+      "35 cl",
+      "10 cl"
+    ],
+    "explanation": "Att subtrahera 5 cl från 30 cl ger 25 cl, sedan subtrahera 5 cl från 25 cl ger 20 cl."
+  },
+  {
+    "question": "Vad är 10 ml + 1 cl (1 cl = 10 ml)?",
+    "options": [
+      "20 ml",
+      "11 ml",
+      "10 cl",
+      "1 cl"
+    ],
+    "explanation": "1 cl är lika med 10 ml. Därför, 10 ml + 10 ml = 20 ml."
+  },
+  {
+    "question": "Vad är 3 cl - 20 ml (1 cl = 10 ml)?",
+    "options": [
+      "10 ml",
+      "50 ml",
+      "1 cl",
+      "3 ml"
+    ],
+    "explanation": "3 cl är lika med 30 ml. Därför, 30 ml - 20 ml = 10 ml."
+  },
+  {
+    "question": "Vad är 50 ml + 2 cl (1 cl = 10 ml)?",
+    "options": [
+      "70 ml",
+      "52 ml",
+      "25 cl",
+      "30 ml"
+    ],
+    "explanation": "2 cl är lika med 20 ml. Därför, 50 ml + 20 ml = 70 ml."
+  },
+  {
+    "question": "Vad är 8 cl - 30 ml (1 cl = 10 ml)?",
+    "options": [
+      "50 ml",
+      "11 cl",
+      "83 ml",
+      "5 cl"
+    ],
+    "explanation": "8 cl är lika med 80 ml. Därför, 80 ml - 30 ml = 50 ml."
+  },
+  {
+    "question": "Vad är 60 ml + 40 ml - 2 cl (1 cl = 10 ml)?",
+    "options": [
+      "80 ml",
+      "120 ml",
+      "100 ml",
+      "20 ml"
+    ],
+    "explanation": "60 ml + 40 ml = 100 ml. 2 cl är lika med 20 ml. Därför, 100 ml - 20 ml = 80 ml."
+  },
+  {
+    "question": "Vad är 10 cl - 5 cl + 20 ml (1 cl = 10 ml)?",
+    "options": [
+      "70 ml",
+      "30 ml",
+      "55 ml",
+      "17 cl"
+    ],
+    "explanation": "10 cl - 5 cl = 5 cl. 5 cl är lika med 50 ml. Därför, 50 ml + 20 ml = 70 ml."
+  },
+  {
+    "question": "Vad är 2 cl + 30 ml - 1 cl (1 cl = 10 ml)?",
+    "options": [
+      "40 ml",
+      "60 ml",
+      "5 cl",
+      "1 cl"
+    ],
+    "explanation": "2 cl - 1 cl = 1 cl. 1 cl är lika med 10 ml. Därför, 10 ml + 30 ml = 40 ml."
+  },
+  {
+    "question": "Vad är 80 ml - 4 cl + 10 ml (1 cl = 10 ml)?",
+    "options": [
+      "50 ml",
+      "130 ml",
+      "30 ml",
+      "94 ml"
+    ],
+    "explanation": "80 ml + 10 ml = 90 ml. 4 cl är lika med 40 ml. Därför, 90 ml - 40 ml = 50 ml."
+  }
+]

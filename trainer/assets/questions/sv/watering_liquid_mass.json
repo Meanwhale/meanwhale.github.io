@@ -1,0 +1,112 @@
+[
+  {
+    "question": "En lösning har en koncentration på 50 mg/mL. Om 100 mL vatten tillsätts till 100 mL av denna lösning, vad är den nya koncentrationen i mg/mL?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "explanation": "Mängden salt förblir densamma. Initialt finns det 50 mg/mL * 100 mL = 5000 mg salt. Efter att ha tillsatt 100 mL vatten är den totala volymen 200 mL. Den nya koncentrationen är 5000 mg / 200 mL = 25 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Vi har 200 mL saltvatten med en koncentration på 10 mg/mL. Om vi tillsätter 200 mL rent vatten, vad är den slutliga koncentrationen (mg/mL)?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "explanation": "Den totala mängden salt är 200 mL * 10 mg/mL = 2000 mg. Efter att ha tillsatt 200 mL vatten är den totala volymen 400 mL. Den nya koncentrationen är 2000 mg / 400 mL = 5 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "En 500 mL lösning innehåller 2 mg/mL salt. Om vi späder ut den genom att tillsätta 500 mL vatten, vad blir den nya saltkoncentrationen i mg/mL?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "Den initiala mängden salt är 500 mL * 2 mg/mL = 1000 mg. Efter att ha tillsatt 500 mL vatten är den totala volymen 1000 mL. Den nya koncentrationen är 1000 mg / 1000 mL = 1 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Initialt har vi 300 mL lösning med 8 mg/mL salt. Om 600 mL vatten tillsätts, vad är den resulterande koncentrationen (mg/mL)?",
+    "options": [
+      "2.67",
+      "8",
+      "4",
+      "16"
+    ],
+    "explanation": "Initial saltmängd: 300 mL * 8 mg/mL = 2400 mg. Slutlig volym: 300 mL + 600 mL = 900 mL. Slutlig koncentration: 2400 mg / 900 mL = 2.67 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "En lösning på 400 mL har en saltkoncentration på 5 mg/mL. Vad är den nya koncentrationen om 600 mL vatten tillsätts?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "1"
+    ],
+    "explanation": "Initial saltmängd: 400 mL * 5 mg/mL = 2000 mg. Slutlig volym: 400 mL + 600 mL = 1000 mL. Slutlig koncentration: 2000 mg / 1000 mL = 2 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Vi har 100 mL av en lösning med 10 mg/mL saltkoncentration. Om vi tillsätter 900 mL vatten, vad är den resulterande koncentrationen i mg/mL?",
+    "options": [
+      "1",
+      "10",
+      "9",
+      "0.1"
+    ],
+    "explanation": "Initial saltmängd: 100 mL * 10 mg/mL = 1000 mg. Slutlig volym: 100 mL + 900 mL = 1000 mL. Slutlig koncentration: 1000 mg / 1000 mL = 1 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Anta att du har 600 mL av en lösning som innehåller salt med en koncentration på 4 mg/mL. Du tillsätter 200 mL vatten. Vad är den nya koncentrationen?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "explanation": "Initial saltmängd: 600 mL * 4 mg/mL = 2400 mg. Slutlig volym: 600 mL + 200 mL = 800 mL. Slutlig koncentration: 2400 mg / 800 mL = 3 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Om 700 mL av en lösning har en koncentration på 3 mg/mL och 100 mL vatten tillsätts, vad är den ungefärliga resulterande koncentrationen i mg/mL?",
+    "options": [
+      "2.625",
+      "3",
+      "2",
+      "4"
+    ],
+    "explanation": "Initial saltmängd: 700 mL * 3 mg/mL = 2100 mg. Slutlig volym: 700 mL + 100 mL = 800 mL. Slutlig koncentration: 2100 mg / 800 mL = 2.625 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "En 900 mL lösning innehåller salt vid 2 mg/mL. Om du tillsätter vatten för att få volymen till 1800 mL, vad är den nya koncentrationen (mg/mL)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "Den initiala saltmängden är 900 mL * 2 mg/mL = 1800 mg. Den slutliga volymen är 1800 mL. Den nya koncentrationen är 1800 mg / 1800 mL = 1 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Tänk dig 1000 mL av en saltvattenlösning med en koncentration på 6 mg/mL. Om du tillsätter 200 mL vatten, vad är den resulterande koncentrationen i mg/mL?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "Den initiala saltmängden: 1000 mL * 6 mg/mL = 6000 mg. Den slutliga volymen: 1000 mL + 200 mL = 1200 mL. Slutlig koncentration: 6000 mg / 1200 mL = 5 mg/mL.",
+    "timeTag": 1757056833
+  }
+]

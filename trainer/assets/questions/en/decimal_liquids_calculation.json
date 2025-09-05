@@ -1,0 +1,112 @@
+[
+  {
+    "question": "You have a beaker with 1.5 L of water. You add 250 mL of blue dye. How much liquid is now in the beaker?",
+    "options": [
+      "17.5 dL",
+      "1.75 cL",
+      "1750 cL",
+      "0.175 dL"
+    ],
+    "explanation": "First, convert 1.5 L to mL: 1.5 L * 1000 mL/L = 1500 mL.  Then add the 250 mL of dye: 1500 mL + 250 mL = 1750 mL. Finally convert the mL to dL: 1750 mL / 100 mL/dL = 17.5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "A recipe calls for 0.7 L of milk. You only want to make half the recipe. How much milk do you need?",
+    "options": [
+      "3.5 dL",
+      "35 cL",
+      "3500 mL",
+      "0.035 L"
+    ],
+    "explanation": "Halving 0.7 L gives 0.7 L / 2 = 0.35 L. Then, convert liters to deciliters: 0.35 L * 10 dL/L = 3.5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "You have 3.2 dL of juice. You drink 150 mL. How much juice is left?",
+    "options": [
+      "1.7 dL",
+      "17 cL",
+      "1700 mL",
+      "0.017 L"
+    ],
+    "explanation": "First convert 3.2 dL to mL: 3.2 dL * 100 mL/dL = 320 mL. Subtracting 150 mL gives 320 mL - 150 mL = 170 mL. Finally, convert mL to dL: 170 mL / 100 mL/dL = 1.7 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "A bottle contains 0.8 L of soda. You pour out 20 cL. How much soda remains in the bottle?",
+    "options": [
+      "6 dL",
+      "6000 mL",
+      "0.06 L",
+      "600 cL"
+    ],
+    "explanation": "Convert 0.8 L to cL: 0.8 L * 100 cL/L = 80 cL.  Then subtract 20 cL: 80 cL - 20 cL = 60 cL. Convert cL to dL: 60 cL / 10 cL/dL = 6 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "You have 450 mL of water and add 0.3 L of lemonade. What is the total volume?",
+    "options": [
+      "7.5 dL",
+      "75 cL",
+      "0.075 L",
+      "7500 mL"
+    ],
+    "explanation": "Convert 0.3 L to mL: 0.3 L * 1000 mL/L = 300 mL. Then, add the volumes: 450 mL + 300 mL = 750 mL. Finally, convert mL to dL: 750 mL / 100 mL/dL = 7.5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "A tank contains 8.7 L of a solution. If 500 mL are removed, how much remains?",
+    "options": [
+      "82 dL",
+      "8200 mL",
+      "820 cL",
+      "0.82 L"
+    ],
+    "explanation": "Convert 8.7 L to mL: 8.7 L * 1000 mL/L = 8700 mL. Subtract 500 mL: 8700 mL - 500 mL = 8200 mL. Convert mL to dL: 8200 mL / 100 mL/dL = 82 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "You have 2.1 dL of paint and use 80 mL. How much paint is left?",
+    "options": [
+      "1.3 dL",
+      "13 cL",
+      "0.013 L",
+      "1300 mL"
+    ],
+    "explanation": "Convert 2.1 dL to mL: 2.1 dL * 100 mL/dL = 210 mL. Then subtract the 80 mL: 210 mL - 80 mL = 130 mL. Then convert mL to dL: 130 mL / 100 mL/dL = 1.3 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "A container has 0.5 L of oil. You add 35 cL of oil. What is the total amount of oil?",
+    "options": [
+      "8.5 dL",
+      "8500 mL",
+      "85 cL",
+      "0.085 L"
+    ],
+    "explanation": "Convert 0.5 L to cL: 0.5 L * 100 cL/L = 50 cL. Then add 35 cL: 50 cL + 35 cL = 85 cL. Convert cL to dL: 85 cL / 10 cL/dL = 8.5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "You have 950 mL of solution and pour out 0.2 L. How much solution remains?",
+    "options": [
+      "7.5 dL",
+      "750 cL",
+      "0.075 L",
+      "7500 mL"
+    ],
+    "explanation": "Convert 0.2 L to mL: 0.2 L * 1000 mL/L = 200 mL. Then subtract 200 mL from 950 mL: 950 mL - 200 mL = 750 mL. Convert mL to dL: 750 mL / 100 mL/dL = 7.5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "A bucket contains 7.3 L of water.  3.1 dL are removed.  How much water is left in the bucket?",
+    "options": [
+      "69.9 dL",
+      "699 cL",
+      "6990 mL",
+      "0.699 L"
+    ],
+    "explanation": "Convert 7.3 L to dL: 7.3 L * 10 dL/L = 73 dL. Subtract 3.1 dL: 73 dL - 3.1 dL = 69.9 dL.",
+    "timeTag": 1756971958
+  }
+]

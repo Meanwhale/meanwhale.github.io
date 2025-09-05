@@ -1,0 +1,61 @@
+{
+  "menu.title": "Matikkatreeni",
+  "menu.start": "Aloita",
+  "menu.language": "Kieli",
+  "menu.feedback": "Palaute",
+
+  "language.title": "Valitse kieli",
+  "language.english": "Englanti",
+  "language.swedish": "Ruotsi",
+  "language.finnish": "Suomi",
+  "language.thai": "Thai",
+  "language.selected": "Valittu: {name}",
+
+  "common.back": "Takaisin",
+  "common.yes": "Kyllä",
+  "common.no": "Ei",
+
+  "loader.loading": "Ladataan…",
+  "loader.errorTitle": "Latausvirhe",
+  "loader.backToMenu": "Takaisin valikkoon",
+
+  "gameplay.title": "Tietovisa",
+  "gameplay.correct": "Oikein!",
+  "gameplay.wrongPrefix": "Väärin! Oikea vastaus: {answer}",
+  "gameplay.next": "Seuraava",
+  "gameplay.menu": "Valikko",
+  "gameplay.quitTitle": "Lopetetaanko visa?",
+  "gameplay.quitMessage": "Haluatko palata päävalikkoon?",
+  "gameplay.score": "Pisteet: {score} / {total}",
+  "gameplay.qnum": "Kysymys {n} / {total}",
+
+  "results.title": "Valmista!",
+  "results.restart": "Aloita alusta",
+  "results.menu": "Valikko",
+
+  "subtopics.title": "Valitse aihe",
+
+  "area.skills": "Taitopohjainen matematiikka",
+  "topic.measurement": "Mittaaminen ja yksiköt",
+
+  "subtopic.liquid_units": "Tilavuusyksiköt",
+  "subtopic.liquid_calculation": "Laskut nesteillä",
+  "subtopic.liquid_mass_concentration": "Massa ja pitoisuus",
+  "subtopic.liquid_percent": "Prosentit nesteissä",
+
+  "type.easy_liquids_units": "Erittäin helpot yksiköt",
+  "type.liquids_units_integers": "Vastaavat yksiköt (kokonaisluvut)",
+  "type.liquids_units_decimals": "Vastaavat yksiköt (desimaalit)",
+
+  "type.integer_liquids_calculation": "Yhteen-/Vähennyslasku (kokonaisluvut)",
+  "type.decimal_liquids_calculation": "Yhteen-/Vähennyslasku (desimaalit)",
+  "type.advanced_decimal_liquids_calculation": "Kerto-/Jakolasku (desimaalit)",
+
+  "type.easy_liquid_mass": "Suola vedessä (mg/ml)",
+  "type.watering_liquid_mass": "Laimenna liuosta (mg/ml)",
+  "type.blending_liquid_mass": "Sekoita liuoksia (mg/ml)",
+
+  "type.easy_liquid_percent": "Suola vedessä (%)",
+  "type.watering_liquid_percent": "Laimenna liuosta (%)",
+  "type.blending_liquid_percent": "Sekoita liuoksia (%)"
+}

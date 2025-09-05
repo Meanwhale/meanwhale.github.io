@@ -1,0 +1,112 @@
+[
+  {
+    "question": "If you have 500 mL of water and you add 200 mL more, how much water do you have in cL?",
+    "options": [
+      "70 cL",
+      "7 cL",
+      "7000 cL",
+      "700 cL"
+    ],
+    "explanation": "First, add the volumes: 500 mL + 200 mL = 700 mL. Then, convert mL to cL: 700 mL = 70 cL.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "You have 80 cL of juice. If you drink 30 cL, how much juice is left in mL?",
+    "options": [
+      "500 mL",
+      "50 mL",
+      "5 mL",
+      "5000 mL"
+    ],
+    "explanation": "First, subtract the volumes: 80 cL - 30 cL = 50 cL. Then, convert cL to mL: 50 cL = 500 mL.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "A bottle contains 1000 mL of soda. If you pour out 400 mL, how much soda remains in L?",
+    "options": [
+      "0.6 L",
+      "60 L",
+      "6 L",
+      "0.06 L"
+    ],
+    "explanation": "First, subtract the volumes: 1000 mL - 400 mL = 600 mL. Then, convert mL to L: 600 mL = 0.6 L.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "You have 2 L of milk and you add 500 mL of cream. What is the total volume in dL?",
+    "options": [
+      "25 dL",
+      "205 dL",
+      "250 dL",
+      "2.5 dL"
+    ],
+    "explanation": "First convert L to mL: 2 L = 2000 mL. Then add the volumes: 2000 mL + 500 mL = 2500 mL. Finally, convert mL to dL: 2500 mL = 25 dL.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "A tank contains 5 L of water. If you remove 1000 mL, how much water is left in dL?",
+    "options": [
+      "40 dL",
+      "60 dL",
+      "4 dL",
+      "400 dL"
+    ],
+    "explanation": "First convert L to mL: 5 L = 5000 mL. Then subtract the volumes: 5000 mL - 1000 mL = 4000 mL. Finally, convert mL to dL: 4000 mL = 40 dL.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "You have 30 dL of oil. If you use 500 mL, how much oil is left in L?",
+    "options": [
+      "2.5 L",
+      "3.5 L",
+      "0.25 L",
+      "25 L"
+    ],
+    "explanation": "First convert dL to mL: 30 dL = 3000 mL. Then subtract the volumes: 3000 mL - 500 mL = 2500 mL. Finally, convert mL to L: 2500 mL = 2.5 L.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "If you have 700 mL of vinegar and add 30 dL, what is the total volume in L?",
+    "options": [
+      "3.7 L",
+      "7.3 L",
+      "37 L",
+      "0.37 L"
+    ],
+    "explanation": "First convert dL to mL: 30 dL = 3000 mL. Then add the volumes: 700 mL + 3000 mL = 3700 mL. Finally, convert mL to L: 3700 mL = 3.7 L.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "You have 10 L of juice and pour out 20 dL. How much juice is remaining in cL?",
+    "options": [
+      "800 cL",
+      "1200 cL",
+      "80 cL",
+      "120 cL"
+    ],
+    "explanation": "First convert L to dL: 10 L = 100 dL. Then subtract: 100 dL - 20 dL = 80 dL. Finally convert dL to cL: 80 dL = 800 cL.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "A recipe calls for 2 L of water. You accidentally pour in 2500 mL. How much extra water did you add in dL?",
+    "options": [
+      "5 dL",
+      "45 dL",
+      "50 dL",
+      "0.5 dL"
+    ],
+    "explanation": "First convert L to mL: 2 L = 2000 mL. Then find the difference: 2500 mL - 2000 mL = 500 mL. Finally convert mL to dL: 500 mL = 5 dL.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "You have 4 L of water. You use 500 mL for cooking and 1500 mL for cleaning. How much water is remaining in dL?",
+    "options": [
+      "20 dL",
+      "60 dL",
+      "2 dL",
+      "200 dL"
+    ],
+    "explanation": "First convert L to mL: 4 L = 4000 mL. Then subtract: 4000 mL - 500 mL - 1500 mL = 2000 mL. Finally convert mL to dL: 2000 mL = 20 dL.",
+    "timeTag": 1756971956
+  }
+]

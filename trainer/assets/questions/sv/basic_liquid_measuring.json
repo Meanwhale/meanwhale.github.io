@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Du har 50 ml vatten och tillsätter 25 ml till. Hur mycket vatten har du totalt?",
+    "options": [
+      "75 ml",
+      "25 ml",
+      "50 ml",
+      "100 ml"
+    ],
+    "explanation": "För att hitta den totala mängden, addera de två kvantiteterna: 50 ml + 25 ml = 75 ml."
+  },
+  {
+    "question": "En flaska innehåller 100 ml juice. Du dricker 30 ml. Hur mycket juice är kvar?",
+    "options": [
+      "70 ml",
+      "130 ml",
+      "30 ml",
+      "100 ml"
+    ],
+    "explanation": "Subtrahera mängden du drack från den ursprungliga mängden: 100 ml - 30 ml = 70 ml."
+  },
+  {
+    "question": "Du har 2 cl vinäger och behöver 5 cl till ett recept. Hur mycket mer vinäger behöver du?",
+    "options": [
+      "3 cl",
+      "7 cl",
+      "10 cl",
+      "2,5 cl"
+    ],
+    "explanation": "Subtrahera mängden du har från mängden du behöver: 5 cl - 2 cl = 3 cl."
+  },
+  {
+    "question": "En mätkopp innehåller 8 cl mjölk. Du häller ut 3 cl. Hur mycket mjölk är kvar i koppen?",
+    "options": [
+      "5 cl",
+      "11 cl",
+      "3 cl",
+      "8 cl"
+    ],
+    "explanation": "Subtrahera mängden du hällde ut från den ursprungliga mängden: 8 cl - 3 cl = 5 cl."
+  },
+  {
+    "question": "Du blandar 40 ml röd färg och 60 ml blå färg. Vad är den totala volymen av den blandade färgen?",
+    "options": [
+      "100 ml",
+      "20 ml",
+      "40 ml",
+      "60 ml"
+    ],
+    "explanation": "Addera volymerna av de två färgerna: 40 ml + 60 ml = 100 ml."
+  },
+  {
+    "question": "Du har 9 cl vatten och använder 4 cl för att vattna en växt. Hur mycket vatten återstår?",
+    "options": [
+      "5 cl",
+      "13 cl",
+      "4 cl",
+      "9 cl"
+    ],
+    "explanation": "Subtrahera mängden du använde från den ursprungliga mängden: 9 cl - 4 cl = 5 cl."
+  },
+  {
+    "question": "Du har 3 dl apelsinjuice och dricker 1 dl. Hur mycket apelsinjuice är kvar?",
+    "options": [
+      "2 dl",
+      "4 dl",
+      "1 dl",
+      "3 dl"
+    ],
+    "explanation": "Subtrahera mängden du drack från den ursprungliga mängden: 3 dl - 1 dl = 2 dl."
+  },
+  {
+    "question": "Ett recept kräver 7 cl olja. Du har bara 3 cl. Hur mycket mer olja behöver du?",
+    "options": [
+      "4 cl",
+      "10 cl",
+      "3 cl",
+      "7 cl"
+    ],
+    "explanation": "Subtrahera mängden du har från mängden du behöver: 7 cl - 3 cl = 4 cl."
+  },
+  {
+    "question": "Du har 25 ml sirap och tillsätter 15 ml. Vad är den totala mängden sirap?",
+    "options": [
+      "40 ml",
+      "10 ml",
+      "25 ml",
+      "15 ml"
+    ],
+    "explanation": "Addera de två kvantiteterna: 25 ml + 15 ml = 40 ml."
+  },
+  {
+    "question": "En behållare har 6 dl vatten. Du spiller 2 dl. Hur mycket vatten är kvar i behållaren?",
+    "options": [
+      "4 dl",
+      "8 dl",
+      "2 dl",
+      "6 dl"
+    ],
+    "explanation": "Subtrahera mängden du spillde från den ursprungliga mängden: 6 dl - 2 dl = 4 dl."
+  },
+  {
+    "question": "Du har 80 ml mjölk och häller ut 50 ml. Hur mycket mjölk återstår?",
+    "options": [
+      "30 ml",
+      "130 ml",
+      "50 ml",
+      "80 ml"
+    ],
+    "explanation": "Subtrahera mängden du hällde ut från den ursprungliga mängden: 80 ml - 50 ml = 30 ml."
+  },
+  {
+    "question": "Du behöver 6 cl grädde, men du har bara 2 cl. Hur mycket mer grädde behöver du?",
+    "options": [
+      "4 cl",
+      "8 cl",
+      "2 cl",
+      "6 cl"
+    ],
+    "explanation": "Subtrahera mängden du har från mängden du behöver: 6 cl - 2 cl = 4 cl."
+  },
+  {
+    "question": "Du har 1 dl juice och tillsätter ytterligare 2 dl. Vad är den totala mängden juice?",
+    "options": [
+      "3 dl",
+      "1 dl",
+      "2 dl",
+      "4 dl"
+    ],
+    "explanation": "Addera de två mängderna: 1 dl + 2 dl = 3 dl."
+  },
+  {
+    "question": "Ett glas innehåller 75 ml läsk. Du dricker 45 ml. Hur mycket läsk är kvar?",
+    "options": [
+      "30 ml",
+      "120 ml",
+      "45 ml",
+      "75 ml"
+    ],
+    "explanation": "Subtrahera mängden du drack från den ursprungliga mängden: 75 ml - 45 ml = 30 ml."
+  },
+  {
+    "question": "Du har 5 cl lösning och tillsätter 5 cl vatten. Hur mycket vätska har du nu?",
+    "options": [
+      "10 cl",
+      "0 cl",
+      "5 cl",
+      "25 cl"
+    ],
+    "explanation": "Addera de två mängderna: 5 cl + 5 cl = 10 cl."
+  },
+  {
+    "question": "Du har 7 dl buljong och använder 3 dl till en soppa. Hur mycket buljong blir över?",
+    "options": [
+      "4 dl",
+      "10 dl",
+      "3 dl",
+      "7 dl"
+    ],
+    "explanation": "Subtrahera mängden du använde från den ursprungliga mängden: 7 dl - 3 dl = 4 dl."
+  }
+]
