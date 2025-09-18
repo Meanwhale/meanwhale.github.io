@@ -1,61 +1,79 @@
 {
-  "menu.title": "ฝึกคณิต",
-  "menu.start": "เริ่ม",
-  "menu.language": "ภาษา",
-  "menu.feedback": "ข้อเสนอแนะ",
-
-  "language.title": "เลือกภาษา",
-  "language.english": "อังกฤษ",
-  "language.swedish": "สวีเดน",
-  "language.finnish": "ฟินแลนด์",
-  "language.thai": "ไทย",
-  "language.selected": "เลือกแล้ว: {name}",
-
-  "common.back": "กลับ",
-  "common.yes": "ใช่",
-  "common.no": "ไม่",
-
-  "loader.loading": "กำลังโหลด…",
-  "loader.errorTitle": "เกิดข้อผิดพลาดในการโหลด",
-  "loader.backToMenu": "กลับสู่เมนู",
-
-  "gameplay.title": "แบบทดสอบ",
-  "gameplay.correct": "ถูกต้อง!",
-  "gameplay.wrongPrefix": "ไม่ถูก! คำตอบที่ถูก: {answer}",
-  "gameplay.next": "ถัดไป",
-  "gameplay.menu": "เมนู",
-  "gameplay.quitTitle": "ออกจากแบบทดสอบ?",
-  "gameplay.quitMessage": "ต้องการกลับไปที่เมนูหลักหรือไม่?",
-  "gameplay.score": "คะแนน: {score} / {total}",
-  "gameplay.qnum": "คำถาม {n} / {total}",
-
-  "results.title": "เสร็จสิ้น!",
-  "results.restart": "เริ่มใหม่",
-  "results.menu": "เมนู",
-
-  "subtopics.title": "เลือกหัวข้อ",
-
-  "area.skills": "คณิตศาสตร์เชิงทักษะ",
-  "topic.measurement": "การวัดและหน่วย",
-
-  "subtopic.liquid_units": "หน่วยปริมาตร",
-  "subtopic.liquid_calculation": "คำนวณเกี่ยวกับของเหลว",
-  "subtopic.liquid_mass_concentration": "มวลและความเข้มข้น",
-  "subtopic.liquid_percent": "เปอร์เซ็นต์ในของเหลว",
-
-  "type.easy_liquids_units": "หน่วยง่ายมาก",
-  "type.liquids_units_integers": "หน่วยที่เทียบเท่า (จำนวนเต็ม)",
-  "type.liquids_units_decimals": "หน่วยที่เทียบเท่า (ทศนิยม)",
-
-  "type.integer_liquids_calculation": "บวก/ลบ ของเหลว (จำนวนเต็ม)",
-  "type.decimal_liquids_calculation": "บวก/ลบ ของเหลว (ทศนิยม)",
-  "type.advanced_decimal_liquids_calculation": "คูณ/หาร ของเหลว (ทศนิยม)",
-
-  "type.easy_liquid_mass": "เกลือในน้ำ (มก./มล.)",
-  "type.watering_liquid_mass": "เติมน้ำให้เจือจาง (มก./มล.)",
-  "type.blending_liquid_mass": "ผสมสารละลาย (มก./มล.)",
-
-  "type.easy_liquid_percent": "เกลือในน้ำ (%)",
-  "type.watering_liquid_percent": "เติมน้ำให้เจือจาง (%)",
-  "type.blending_liquid_percent": "ผสมสารละลาย (%)"
+  "menu": {
+    "title": "ฝึกคณิต",
+    "start": "เริ่ม",
+    "language": "ภาษา",
+    "feedback": "ข้อเสนอแนะ"
+  },
+  "language": {
+    "title": "เลือกภาษา",
+    "english": "อังกฤษ",
+    "swedish": "สวีเดน",
+    "finnish": "ฟินแลนด์",
+    "thai": "ไทย",
+    "selected": "เลือกแล้ว: {name}"
+  },
+  "common": {
+    "back": "กลับ",
+    "yes": "ใช่",
+    "no": "ไม่"
+  },
+  "loader": {
+    "loading": "กำลังโหลด…",
+    "errorTitle": "เกิดข้อผิดพลาดในการโหลด",
+    "backToMenu": "กลับสู่เมนู"
+  },
+  "gameplay": {
+    "title": "แบบทดสอบ",
+    "correct": "ถูกต้อง!",
+    "wrongPrefix": "ไม่ถูก! คำตอบที่ถูก: {answer}",
+    "next": "ถัดไป",
+    "menu": "เมนู",
+    "quitTitle": "ออกจากแบบทดสอบ?",
+    "quitMessage": "ต้องการกลับไปที่เมนูหลักหรือไม่?",
+    "score": "คะแนน: {score} / {total}",
+    "qnum": "คำถาม {n} / {total}"
+  },
+  "results": {
+    "title": "เสร็จสิ้น!",
+    "restart": "เริ่มใหม่",
+    "menu": "เมนู"
+  },
+  "subtopics": {
+    "title": "เลือกหัวข้อ"
+  },
+  "exercise": {
+    "easy_liquids_units": "หน่วยง่ายมาก",
+    "liquids_units_integers": "หน่วยที่เทียบเท่า (จำนวนเต็ม)",
+    "liquids_units_decimals": "หน่วยที่เทียบเท่า (ทศนิยม)",
+    "integer_liquids_calculation": "บวก/ลบ ของเหลว (จำนวนเต็ม)",
+    "decimal_liquids_calculation": "บวก/ลบ ของเหลว (ทศนิยม)",
+    "advanced_decimal_liquids_calculation": "คูณ/หาร ของเหลว (ทศนิยม)",
+    "easy_liquid_mass": "เกลือในน้ำ (มก./มล.)",
+    "watering_liquid_mass": "เติมน้ำให้เจือจาง (มก./มล.)",
+    "blending_liquid_mass": "ผสมสารละลาย (มก./มล.)",
+    "easy_liquid_percent": "เกลือในน้ำ (%)",
+    "watering_liquid_percent": "เติมน้ำให้เจือจาง (%)",
+    "blending_liquid_percent": "ผสมสารละลาย (%)",
+    "convert_to_ml": "แปลงเป็นมิลลิลิตร"
+  },
+  "format": {
+    "mcq": "หลายตัวเลือก",
+    "calculus": "คำนวณ",
+    "sort": "การเรียงลำดับ"
+  },
+  "units": {
+    "ml": "มล.",
+    "cl": "ซล.",
+    "dl": "ดล.",
+    "l": "ลิตร"
+  },
+  "topic": {
+    "skills": "คณิตศาสตร์เชิงทักษะ",
+    "measurement": "การวัดและหน่วย",
+    "liquid_units": "หน่วยปริมาตร",
+    "liquid_calculation": "คำนวณเกี่ยวกับของเหลว",
+    "liquid_mass_concentration": "มวลและความเข้มข้น",
+    "liquid_percent": "เปอร์เซ็นต์ในของเหลว"
+  }
 }

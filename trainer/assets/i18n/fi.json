@@ -1,61 +1,79 @@
 {
-  "menu.title": "Matikkatreeni",
-  "menu.start": "Aloita",
-  "menu.language": "Kieli",
-  "menu.feedback": "Palaute",
-
-  "language.title": "Valitse kieli",
-  "language.english": "Englanti",
-  "language.swedish": "Ruotsi",
-  "language.finnish": "Suomi",
-  "language.thai": "Thai",
-  "language.selected": "Valittu: {name}",
-
-  "common.back": "Takaisin",
-  "common.yes": "Kyllä",
-  "common.no": "Ei",
-
-  "loader.loading": "Ladataan…",
-  "loader.errorTitle": "Latausvirhe",
-  "loader.backToMenu": "Takaisin valikkoon",
-
-  "gameplay.title": "Tietovisa",
-  "gameplay.correct": "Oikein!",
-  "gameplay.wrongPrefix": "Väärin! Oikea vastaus: {answer}",
-  "gameplay.next": "Seuraava",
-  "gameplay.menu": "Valikko",
-  "gameplay.quitTitle": "Lopetetaanko visa?",
-  "gameplay.quitMessage": "Haluatko palata päävalikkoon?",
-  "gameplay.score": "Pisteet: {score} / {total}",
-  "gameplay.qnum": "Kysymys {n} / {total}",
-
-  "results.title": "Valmista!",
-  "results.restart": "Aloita alusta",
-  "results.menu": "Valikko",
-
-  "subtopics.title": "Valitse aihe",
-
-  "area.skills": "Taitopohjainen matematiikka",
-  "topic.measurement": "Mittaaminen ja yksiköt",
-
-  "subtopic.liquid_units": "Tilavuusyksiköt",
-  "subtopic.liquid_calculation": "Laskut nesteillä",
-  "subtopic.liquid_mass_concentration": "Massa ja pitoisuus",
-  "subtopic.liquid_percent": "Prosentit nesteissä",
-
-  "type.easy_liquids_units": "Erittäin helpot yksiköt",
-  "type.liquids_units_integers": "Vastaavat yksiköt (kokonaisluvut)",
-  "type.liquids_units_decimals": "Vastaavat yksiköt (desimaalit)",
-
-  "type.integer_liquids_calculation": "Yhteen-/Vähennyslasku (kokonaisluvut)",
-  "type.decimal_liquids_calculation": "Yhteen-/Vähennyslasku (desimaalit)",
-  "type.advanced_decimal_liquids_calculation": "Kerto-/Jakolasku (desimaalit)",
-
-  "type.easy_liquid_mass": "Suola vedessä (mg/ml)",
-  "type.watering_liquid_mass": "Laimenna liuosta (mg/ml)",
-  "type.blending_liquid_mass": "Sekoita liuoksia (mg/ml)",
-
-  "type.easy_liquid_percent": "Suola vedessä (%)",
-  "type.watering_liquid_percent": "Laimenna liuosta (%)",
-  "type.blending_liquid_percent": "Sekoita liuoksia (%)"
+  "menu": {
+    "title": "Matikkatreeni",
+    "start": "Aloita",
+    "language": "Kieli",
+    "feedback": "Palaute"
+  },
+  "language": {
+    "title": "Valitse kieli",
+    "english": "Englanti",
+    "swedish": "Ruotsi",
+    "finnish": "Suomi",
+    "thai": "Thai",
+    "selected": "Valittu: {name}"
+  },
+  "common": {
+    "back": "Takaisin",
+    "yes": "Kyllä",
+    "no": "Ei"
+  },
+  "loader": {
+    "loading": "Ladataan…",
+    "errorTitle": "Latausvirhe",
+    "backToMenu": "Takaisin valikkoon"
+  },
+  "gameplay": {
+    "title": "Tietovisa",
+    "correct": "Oikein!",
+    "wrongPrefix": "Väärin! Oikea vastaus: {answer}",
+    "next": "Seuraava",
+    "menu": "Valikko",
+    "quitTitle": "Lopetetaanko visa?",
+    "quitMessage": "Haluatko palata päävalikkoon?",
+    "score": "Pisteet: {score} / {total}",
+    "qnum": "Kysymys {n} / {total}"
+  },
+  "results": {
+    "title": "Valmista!",
+    "restart": "Aloita alusta",
+    "menu": "Valikko"
+  },
+  "subtopics": {
+    "title": "Valitse aihe"
+  },
+  "exercise": {
+    "easy_liquids_units": "Erittäin helpot yksiköt",
+    "liquids_units_integers": "Vastaavat yksiköt (kokonaisluvut)",
+    "liquids_units_decimals": "Vastaavat yksiköt (desimaalit)",
+    "integer_liquids_calculation": "Yhteen-/Vähennyslasku (kokonaisluvut)",
+    "decimal_liquids_calculation": "Yhteen-/Vähennyslasku (desimaalit)",
+    "advanced_decimal_liquids_calculation": "Kerto-/Jakolasku (desimaalit)",
+    "easy_liquid_mass": "Suola vedessä (mg/ml)",
+    "watering_liquid_mass": "Laimenna liuosta (mg/ml)",
+    "blending_liquid_mass": "Sekoita liuoksia (mg/ml)",
+    "easy_liquid_percent": "Suola vedessä (%)",
+    "watering_liquid_percent": "Laimenna liuosta (%)",
+    "blending_liquid_percent": "Sekoita liuoksia (%)",
+    "convert_to_ml": "Muunna millilitroiksi"
+  },
+  "format": {
+    "mcq": "Monivalinta",
+    "calculus": "Laskutehtävä",
+    "sort": "Lajittelu"
+  },
+  "units": {
+    "ml": "ml",
+    "cl": "cl",
+    "dl": "dl",
+    "l": "l"
+  },
+  "topic": {
+    "skills": "Taitopohjainen matematiikka",
+    "measurement": "Mittaaminen ja yksiköt",
+    "liquid_units": "Tilavuusyksiköt",
+    "liquid_calculation": "Laskut nesteillä",
+    "liquid_mass_concentration": "Massa ja pitoisuus",
+    "liquid_percent": "Prosentit nesteissä"
+  }
 }

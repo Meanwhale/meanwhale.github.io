@@ -10,54 +10,63 @@
           "subtopics": [
             {
               "id": "liquid_units",
+              "icon": "liquid_units",
               "name": "subtopic.liquid_units",
               "exercise": [
                 {
-                  "id": "easy_liquids_units",
-                  "name": "type.easy_liquids_units",
-                  "prompt": "Choose smallest or greatest amount of liquid. Use different ways to say the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use integers between 1 and 1000.",
-                  "format": "mcq"
+                  "id": "sort_liquid_units",
+                  "name": "type.sort_liquid_units",
+                  "format": "sort",
+                  "task": "sort_liquid_units"
                 },
                 {
-                  "id": "liquids_units_integers",
-                  "name": "type.liquids_units_integers",
-                  "prompt": "Ask what's equal to some amount of liquid. Use different ways to say the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use integers between 1 and 1000.",
-                  "format": "mcq"
+                  "id": "sort_liquid_units_decimal",
+                  "name": "type.sort_liquid_units_decimal",
+                  "format": "sort",
+                  "task": "sort_liquid_units_decimal"
                 },
                 {
-                  "id": "liquids_units_decimals",
-                  "name": "type.liquids_units_decimals",
-                  "prompt": "Ask what's equal to some amount of liquid. Use different ways to say the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use decimals between 0.01 and 10.",
-                  "format": "mcq"
+                  "id": "convert_to_ml",
+                  "name": "type.simple_convert_to_ml",
+                  "format": "calculus",
+                  "task": "simple_convert_to_ml"
                 }
               ]
             },
             {
               "id": "liquid_calculation",
+              "icon": "liquid_calculation",
               "name": "subtopic.liquid_calculation",
               "exercise": [
                 {
-                  "id": "integer_liquids_calculation",
-                  "name": "type.integer_liquids_calculation",
-                  "prompt": "Easy and practical questions about liquid addition and subtraction. Use different unit in answer options than in the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use integers between 1 and 1000.",
-                  "format": "mcq"
+                  "id": "add_and_convert_to_ml",
+                  "name": "type.add_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "add_and_convert_to_ml"
                 },
                 {
-                  "id": "decimal_liquids_calculation",
-                  "name": "type.decimal_liquids_calculation",
-                  "prompt": "Easy and practical questions about liquid addition and subtraction. Use different unit in answer options than in the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use decimals between 0.01 and 10.",
-                  "format": "mcq"
+                  "id": "subtract_and_convert_to_ml",
+                  "name": "type.subtract_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "subtract_and_convert_to_ml"
                 },
                 {
-                  "id": "advanced_decimal_liquids_calculation",
-                  "name": "type.advanced_decimal_liquids_calculation",
-                  "prompt": "Easy and practical questions about liquid multiply and divide. Use different unit in answer options than in the question. Use these in units in questions and answers: mL, cL, dL, L. In questions and answers, use decimals between 0.01 and 10.",
-                  "format": "mcq"
+                  "id": "multiply_and_convert_to_ml",
+                  "name": "type.multiply_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "multiply_and_convert_to_ml"
+                },
+                {
+                  "id": "divide_and_convert_to_ml",
+                  "name": "type.divide_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "divide_and_convert_to_ml"
                 }
               ]
             },
             {
               "id": "liquid_mass_concentration",
+              "icon": "liquid_mass_concentration",
               "name": "subtopic.liquid_mass_concentration",
               "exercise": [
                 {
@@ -82,6 +91,7 @@
             },
             {
               "id": "liquid_percent",
+              "icon": "liquid_percent",
               "name": "subtopic.liquid_percent",
               "exercise": [
                 {
