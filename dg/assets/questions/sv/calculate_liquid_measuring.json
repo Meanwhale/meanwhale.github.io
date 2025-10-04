@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Hur många milliliter finns det i 5 centiliter?",
+    "options": [
+      "50 milliliter",
+      "5 milliliter",
+      "500 milliliter",
+      "0,5 milliliter"
+    ],
+    "explanation": "1 centiliter (cL) är lika med 10 milliliter (mL). Därför är 5 cL lika med 5 * 10 = 50 mL."
+  },
+  {
+    "question": "Konvertera 3 deciliter till milliliter.",
+    "options": [
+      "300 milliliter",
+      "30 milliliter",
+      "3 milliliter",
+      "3000 milliliter"
+    ],
+    "explanation": "1 deciliter (dL) är lika med 100 milliliter (mL). Därför är 3 dL lika med 3 * 100 = 300 mL."
+  },
+  {
+    "question": "Om du har 2 centiliter vatten och tillsätter 3 centiliter, hur många milliliter har du totalt?",
+    "options": [
+      "50 milliliter",
+      "5 milliliter",
+      "23 milliliter",
+      "500 milliliter"
+    ],
+    "explanation": "Först, beräkna det totala antalet centiliter: 2 cL + 3 cL = 5 cL. Sedan, konvertera centiliter till milliliter: 5 cL * 10 mL/cL = 50 mL."
+  },
+  {
+    "question": "Beräkna 7 centiliter multiplicerat med 2 i milliliter.",
+    "options": [
+      "140 milliliter",
+      "9 milliliter",
+      "72 milliliter",
+      "14 milliliter"
+    ],
+    "explanation": "Först, beräkna det totala antalet centiliter: 7 cL * 2 = 14 cL. Sedan, konvertera centiliter till milliliter: 14 cL * 10 mL/cL = 140 mL."
+  },
+  {
+    "question": "Hur många milliliter finns det i 0,8 deciliter?",
+    "options": [
+      "80 milliliter",
+      "8 milliliter",
+      "800 milliliter",
+      "0,08 milliliter"
+    ],
+    "explanation": "1 deciliter (dL) är lika med 100 milliliter (mL). Därför är 0,8 dL lika med 0,8 * 100 = 80 mL."
+  },
+  {
+    "question": "Konvertera 1,5 centiliter till milliliter.",
+    "options": [
+      "15 milliliter",
+      "150 milliliter",
+      "0,15 milliliter",
+      "1,5 milliliter"
+    ],
+    "explanation": "1 centiliter (cL) är lika med 10 milliliter (mL). Därför är 1,5 cL lika med 1,5 * 10 = 15 mL."
+  },
+  {
+    "question": "Om du har 4 deciliter juice och häller ut 1 deciliter, hur många milliliter finns kvar?",
+    "options": [
+      "300 milliliter",
+      "30 milliliter",
+      "400 milliliter",
+      "100 milliliter"
+    ],
+    "explanation": "Först, beräkna de återstående deciliterna: 4 dL - 1 dL = 3 dL. Sedan, konvertera deciliter till milliliter: 3 dL * 100 mL/dL = 300 mL."
+  },
+  {
+    "question": "Beräkna 0,5 deciliter multiplicerat med 4 i milliliter.",
+    "options": [
+      "200 milliliter",
+      "20 milliliter",
+      "54 milliliter",
+      "0,2 milliliter"
+    ],
+    "explanation": "Först, beräkna det totala antalet deciliter: 0,5 dL * 4 = 2 dL. Sedan, konvertera deciliter till milliliter: 2 dL * 100 mL/dL = 200 mL."
+  },
+  {
+    "question": "Hur många centiliter är lika med 60 milliliter?",
+    "options": [
+      "6 centiliter",
+      "600 centiliter",
+      "0,6 centiliter",
+      "60 centiliter"
+    ],
+    "explanation": "1 centiliter (cL) är lika med 10 milliliter (mL). För att konvertera milliliter till centiliter, dividera med 10. Därför, 60 mL / 10 mL/cL = 6 cL."
+  },
+  {
+    "question": "Hur många deciliter är lika med 800 milliliter?",
+    "options": [
+      "8 deciliter",
+      "80 deciliter",
+      "0,8 deciliter",
+      "8000 deciliter"
+    ],
+    "explanation": "1 deciliter (dL) är lika med 100 milliliter (mL). För att konvertera milliliter till deciliter, dividera med 100. Därför, 800 mL / 100 mL/dL = 8 dL."
+  },
+  {
+    "question": "Du har 200 milliliter juice. Hur många centiliter är detta?",
+    "options": [
+      "20 centiliter",
+      "2 centiliter",
+      "2000 centiliter",
+      "0,2 centiliter"
+    ],
+    "explanation": "Eftersom 1 centiliter (cL) är lika med 10 milliliter (mL), dividera antalet milliliter med 10 för att få antalet centiliter: 200 mL / 10 mL/cL = 20 cL."
+  },
+  {
+    "question": "Du har 900 milliliter vatten. Hur många deciliter är detta?",
+    "options": [
+      "9 deciliter",
+      "90 deciliter",
+      "0,9 deciliter",
+      "9000 deciliter"
+    ],
+    "explanation": "Eftersom 1 deciliter (dL) är lika med 100 milliliter (mL), dividera antalet milliliter med 100 för att få antalet deciliter: 900 mL / 100 mL/dL = 9 dL."
+  },
+  {
+    "question": "Om du har 2 centiliter och 1 deciliter, hur många milliliter har du totalt?",
+    "options": [
+      "120 milliliter",
+      "3 milliliter",
+      "21 milliliter",
+      "30 milliliter"
+    ],
+    "explanation": "Först, konvertera måtten till milliliter: 2 cL = 20 mL och 1 dL = 100 mL. Sedan, addera värdena: 20 mL + 100 mL = 120 mL."
+  },
+  {
+    "question": "Du har tre 50 milliliters koppar med vatten. Hur många centiliter vatten har du totalt?",
+    "options": [
+      "15 centiliter",
+      "150 centiliter",
+      "1,5 centiliter",
+      "5 centiliter"
+    ],
+    "explanation": "Först, beräkna den totala mängden vatten i milliliter: 3 * 50 mL = 150 mL. Sedan, konvertera milliliter till centiliter: 150 mL / 10 mL/cL = 15 cL."
+  },
+  {
+    "question": "Ett recept kräver 2 deciliter mjölk. Du har bara en milliliter-mätkopp. Hur många milliliter mjölk behöver du?",
+    "options": [
+      "200 milliliter",
+      "20 milliliter",
+      "2000 milliliter",
+      "2 milliliter"
+    ],
+    "explanation": "Eftersom 1 deciliter (dL) är lika med 100 milliliter (mL), multiplicera antalet deciliter med 100 för att få antalet milliliter: 2 dL * 100 mL/dL = 200 mL."
+  },
+  {
+    "question": "Du dricker 600 milliliter vatten, hur många deciliter drack du?",
+    "options": [
+      "6 deciliter",
+      "60 deciliter",
+      "0,6 deciliter",
+      "6000 deciliter"
+    ],
+    "explanation": "Eftersom 1 deciliter (dL) är lika med 100 milliliter (mL), dividera antalet milliliter med 100 för att hitta antalet deciliter: 600 mL / 100 mL/dL = 6 dL."
+  }
+]

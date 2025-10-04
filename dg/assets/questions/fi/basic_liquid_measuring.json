@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Sinulla on 50 ml vettä ja lisäät siihen 25 ml lisää. Kuinka paljon vettä sinulla on yhteensä?",
+    "options": [
+      "75 ml",
+      "25 ml",
+      "50 ml",
+      "100 ml"
+    ],
+    "explanation": "Löytääksesi kokonaismäärän, laske yhteen nämä kaksi määrää: 50 ml + 25 ml = 75 ml."
+  },
+  {
+    "question": "Pullossa on 100 ml mehua. Juot 30 ml. Kuinka paljon mehua on jäljellä?",
+    "options": [
+      "70 ml",
+      "130 ml",
+      "30 ml",
+      "100 ml"
+    ],
+    "explanation": "Vähennä juomasi määrä alkuperäisestä määrästä: 100 ml - 30 ml = 70 ml."
+  },
+  {
+    "question": "Sinulla on 2 cl viinietikkaa ja tarvitset 5 cl reseptiin. Kuinka paljon viinietikkaa tarvitset vielä?",
+    "options": [
+      "3 cl",
+      "7 cl",
+      "10 cl",
+      "2,5 cl"
+    ],
+    "explanation": "Vähennä se määrä, joka sinulla on, tarvitsemastasi määrästä: 5 cl - 2 cl = 3 cl."
+  },
+  {
+    "question": "Mittakupissa on 8 cl maitoa. Kaadat pois 3 cl. Kuinka paljon maitoa on jäljellä kupissa?",
+    "options": [
+      "5 cl",
+      "11 cl",
+      "3 cl",
+      "8 cl"
+    ],
+    "explanation": "Vähennä pois kaadettu määrä alkuperäisestä määrästä: 8 cl - 3 cl = 5 cl."
+  },
+  {
+    "question": "Sekoitat 40 ml punaista maalia ja 60 ml sinistä maalia. Mikä on sekoitetun maalin kokonaistilavuus?",
+    "options": [
+      "100 ml",
+      "20 ml",
+      "40 ml",
+      "60 ml"
+    ],
+    "explanation": "Laske yhteen kahden maalin tilavuudet: 40 ml + 60 ml = 100 ml."
+  },
+  {
+    "question": "Sinulla on 9 cl vettä ja käytät 4 cl kastellaksesi kasvin. Kuinka paljon vettä jää jäljelle?",
+    "options": [
+      "5 cl",
+      "13 cl",
+      "4 cl",
+      "9 cl"
+    ],
+    "explanation": "Vähennä käytetty määrä alkuperäisestä määrästä: 9 cl - 4 cl = 5 cl."
+  },
+  {
+    "question": "Sinulla on 3 dl appelsiinimehua ja juot 1 dl. Kuinka paljon appelsiinimehua on jäljellä?",
+    "options": [
+      "2 dl",
+      "4 dl",
+      "1 dl",
+      "3 dl"
+    ],
+    "explanation": "Vähennä juomasi määrä alkuperäisestä määrästä: 3 dl - 1 dl = 2 dl."
+  },
+  {
+    "question": "Resepti vaatii 7 cl öljyä. Sinulla on vain 3 cl. Kuinka paljon öljyä tarvitset vielä?",
+    "options": [
+      "4 cl",
+      "10 cl",
+      "3 cl",
+      "7 cl"
+    ],
+    "explanation": "Vähennä se määrä, joka sinulla on, tarvitsemastasi määrästä: 7 cl - 3 cl = 4 cl."
+  },
+  {
+    "question": "Sinulla on 25 ml siirappia ja lisäät 15 ml. Mikä on siirapin kokonaismäärä?",
+    "options": [
+      "40 ml",
+      "10 ml",
+      "25 ml",
+      "15 ml"
+    ],
+    "explanation": "Laske yhteen nämä kaksi määrää: 25 ml + 15 ml = 40 ml."
+  },
+  {
+    "question": "Astia sisältää 6 dl vettä. Läikytät 2 dl. Kuinka paljon vettä on jäljellä astiassa?",
+    "options": [
+      "4 dl",
+      "8 dl",
+      "2 dl",
+      "6 dl"
+    ],
+    "explanation": "Vähennä läikkynyt määrä alkuperäisestä määrästä: 6 dl - 2 dl = 4 dl."
+  },
+  {
+    "question": "Sinulla on 80 ml maitoa ja kaadat pois 50 ml. Kuinka paljon maitoa on jäljellä?",
+    "options": [
+      "30 ml",
+      "130 ml",
+      "50 ml",
+      "80 ml"
+    ],
+    "explanation": "Vähennä pois kaadettu määrä alkuperäisestä määrästä: 80 ml - 50 ml = 30 ml."
+  },
+  {
+    "question": "Tarvitset 6 cl kermaa, mutta sinulla on vain 2 cl. Kuinka paljon kermaa tarvitset vielä?",
+    "options": [
+      "4 cl",
+      "8 cl",
+      "2 cl",
+      "6 cl"
+    ],
+    "explanation": "Vähennä se määrä, joka sinulla on, tarvitsemastasi määrästä: 6 cl - 2 cl = 4 cl."
+  },
+  {
+    "question": "Sinulla on 1 dl mehua ja lisäät siihen 2 dl lisää. Mikä on mehun kokonaismäärä?",
+    "options": [
+      "3 dl",
+      "1 dl",
+      "2 dl",
+      "4 dl"
+    ],
+    "explanation": "Laske yhteen nämä kaksi määrää: 1 dl + 2 dl = 3 dl."
+  },
+  {
+    "question": "Lasissa on 75 ml limsaa. Juot 45 ml. Kuinka paljon limsaa on jäljellä?",
+    "options": [
+      "30 ml",
+      "120 ml",
+      "45 ml",
+      "75 ml"
+    ],
+    "explanation": "Vähennä juomasi määrä alkuperäisestä määrästä: 75 ml - 45 ml = 30 ml."
+  },
+  {
+    "question": "Sinulla on 5 cl liuosta ja lisäät 5 cl vettä. Kuinka paljon nestettä sinulla on nyt?",
+    "options": [
+      "10 cl",
+      "0 cl",
+      "5 cl",
+      "25 cl"
+    ],
+    "explanation": "Laske yhteen nämä kaksi määrää: 5 cl + 5 cl = 10 cl."
+  },
+  {
+    "question": "Sinulla on 7 dl lientä ja käytät 3 dl keittoon. Kuinka paljon lientä jää yli?",
+    "options": [
+      "4 dl",
+      "10 dl",
+      "3 dl",
+      "7 dl"
+    ],
+    "explanation": "Vähennä käytetty määrä alkuperäisestä määrästä: 7 dl - 3 dl = 4 dl."
+  }
+]

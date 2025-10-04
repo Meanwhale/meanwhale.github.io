@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Kuinka monta millilitraa on 10 %:n suolaliuoksessa, jos kokonaistilavuus on 100 ml?",
+    "options": [
+      "10 ml",
+      "90 ml",
+      "5 ml",
+      "15 ml"
+    ],
+    "explanation": "10 % 100 ml:sta on (10/100) * 100 ml = 10 ml."
+  },
+  {
+    "question": "Sinulla on 50 ml 20 %:n suolaliuosta. Kuinka monta millilitraa suolaa on todellisuudessa liuoksessa?",
+    "options": [
+      "10 ml",
+      "40 ml",
+      "5 ml",
+      "15 ml"
+    ],
+    "explanation": "20 % 50 ml:sta on (20/100) * 50 ml = 10 ml."
+  },
+  {
+    "question": "Jos sinulla on 200 ml 5 %:n suolaliuosta, kuinka monta millilitraa suolaa siinä on?",
+    "options": [
+      "10 ml",
+      "190 ml",
+      "5 ml",
+      "15 ml"
+    ],
+    "explanation": "5 % 200 ml:sta on (5/100) * 200 ml = 10 ml."
+  },
+  {
+    "question": "Liuos on 30 % suolaliuosta ja sen kokonaistilavuus on 50 ml. Kuinka monta millilitraa on suolaa?",
+    "options": [
+      "15 ml",
+      "35 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "30 % 50 ml:sta on (30/100) * 50 ml = 15 ml."
+  },
+  {
+    "question": "Mikä on suolan tilavuus 25 ml:ssa 40 %:n suolaliuosta?",
+    "options": [
+      "10 ml",
+      "15 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "40 % 25 ml:sta on (40/100) * 25 ml = 10 ml."
+  },
+  {
+    "question": "Jos sinulla on 75 ml 20 %:n suolaliuosta, kuinka monta ml on suolaa?",
+    "options": [
+      "15 ml",
+      "60 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "20 % 75 ml:sta on (20/100) * 75 ml = 15 ml."
+  },
+  {
+    "question": "Kuinka paljon suolaa on 100 ml:ssa 25 %:n suolaliuosta?",
+    "options": [
+      "25 ml",
+      "75 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "25 % 100 ml:sta on (25/100) * 100 ml = 25 ml."
+  },
+  {
+    "question": "Sinulla on 150 ml 10 %:n suolaliuosta. Kuinka monta millilitraa on todellista suolaa?",
+    "options": [
+      "15 ml",
+      "135 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "10 % 150 ml:sta on (10/100) * 150 ml = 15 ml."
+  },
+  {
+    "question": "50 ml:n liuos on 60 % suolaa. Kuinka monta ml on suolaa?",
+    "options": [
+      "30 ml",
+      "20 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "60 % 50 ml:sta on (60/100) * 50 ml = 30 ml."
+  },
+  {
+    "question": "Mikä on suolapitoisuus 200 ml:ssa 15 %:n suolaliuosta?",
+    "options": [
+      "30 ml",
+      "170 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "15 % 200 ml:sta on (15/100) * 200 ml = 30 ml."
+  },
+  {
+    "question": "Jos sinulla on 80 ml 5 %:n suolaliuosta, kuinka monta millilitraa on suolaa?",
+    "options": [
+      "4 ml",
+      "76 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "5 % 80 ml:sta on (5/100) * 80 ml = 4 ml."
+  },
+  {
+    "question": "Kuinka monta ml suolaa on 40 ml:ssa 25 %:n liuosta?",
+    "options": [
+      "10 ml",
+      "30 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "25 % 40 ml:sta on (25/100) * 40 ml = 10 ml."
+  },
+  {
+    "question": "Sinulla on 120 ml 50 %:n suolaliuosta. Kuinka paljon siitä on suolaa?",
+    "options": [
+      "60 ml",
+      "60 ml",
+      "30 ml",
+      "35 ml"
+    ],
+    "explanation": "50 % 120 ml:sta on (50/100) * 120 ml = 60 ml."
+  },
+  {
+    "question": "100 ml:n liuos on 80 % suolaa. Kuinka monta ml on suolaa?",
+    "options": [
+      "80 ml",
+      "20 ml",
+      "30 ml",
+      "35 ml"
+    ],
+    "explanation": "80 % 100 ml:sta on (80/100) * 100 ml = 80 ml."
+  },
+  {
+    "question": "Mikä on suolan tilavuus 30 ml:ssa 10 %:n suolaliuosta?",
+    "options": [
+      "3 ml",
+      "27 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "10 % 30 ml:sta on (10/100) * 30 ml = 3 ml."
+  },
+  {
+    "question": "Jos sinulla on 60 ml 30 %:n suolaliuosta, kuinka monta ml on suolaa?",
+    "options": [
+      "18 ml",
+      "42 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "30 % 60 ml:sta on (30/100) * 60 ml = 18 ml."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Mikä on 50 ml + 30 ml?",
+    "options": [
+      "80 ml",
+      "70 ml",
+      "90 ml",
+      "20 ml"
+    ],
+    "explanation": "50 ml:n ja 30 ml:n yhteenlasku on 50 + 30 = 80 ml."
+  },
+  {
+    "question": "Mikä on 100 ml - 40 ml?",
+    "options": [
+      "60 ml",
+      "50 ml",
+      "70 ml",
+      "140 ml"
+    ],
+    "explanation": "40 ml:n vähentäminen 100 ml:sta on 100 - 40 = 60 ml."
+  },
+  {
+    "question": "Mikä on 20 ml + 20 ml + 20 ml?",
+    "options": [
+      "60 ml",
+      "40 ml",
+      "80 ml",
+      "10 ml"
+    ],
+    "explanation": "20 ml:n lisääminen kolme kertaa on 20 + 20 + 20 = 60 ml."
+  },
+  {
+    "question": "Mikä on 90 ml - 30 ml - 10 ml?",
+    "options": [
+      "50 ml",
+      "70 ml",
+      "60 ml",
+      "130 ml"
+    ],
+    "explanation": "30 ml:n vähentäminen 90 ml:sta on 60 ml, sitten 10 ml:n vähentäminen 60 ml:sta on 50 ml."
+  },
+  {
+    "question": "Mikä on 10 cl + 5 cl?",
+    "options": [
+      "15 cl",
+      "5 cl",
+      "20 cl",
+      "50 cl"
+    ],
+    "explanation": "10 cl:n ja 5 cl:n yhteenlasku on 10 + 5 = 15 cl."
+  },
+  {
+    "question": "Mikä on 25 cl - 10 cl?",
+    "options": [
+      "15 cl",
+      "35 cl",
+      "20 cl",
+      "5 cl"
+    ],
+    "explanation": "10 cl:n vähentäminen 25 cl:sta on 25 - 10 = 15 cl."
+  },
+  {
+    "question": "Mikä on 5 cl + 5 cl + 5 cl?",
+    "options": [
+      "15 cl",
+      "10 cl",
+      "20 cl",
+      "25 cl"
+    ],
+    "explanation": "5 cl:n lisääminen kolme kertaa on 5 + 5 + 5 = 15 cl."
+  },
+  {
+    "question": "Mikä on 30 cl - 5 cl - 5 cl?",
+    "options": [
+      "20 cl",
+      "25 cl",
+      "35 cl",
+      "10 cl"
+    ],
+    "explanation": "5 cl:n vähentäminen 30 cl:sta on 25 cl, sitten 5 cl:n vähentäminen 25 cl:sta on 20 cl."
+  },
+  {
+    "question": "Mikä on 10 ml + 1 cl (1 cl = 10 ml)?",
+    "options": [
+      "20 ml",
+      "11 ml",
+      "10 cl",
+      "1 cl"
+    ],
+    "explanation": "1 cl on yhtä suuri kuin 10 ml. Siksi 10 ml + 10 ml = 20 ml."
+  },
+  {
+    "question": "Mikä on 3 cl - 20 ml (1 cl = 10 ml)?",
+    "options": [
+      "10 ml",
+      "50 ml",
+      "1 cl",
+      "3 ml"
+    ],
+    "explanation": "3 cl on yhtä suuri kuin 30 ml. Siksi 30 ml - 20 ml = 10 ml."
+  },
+  {
+    "question": "Mikä on 50 ml + 2 cl (1 cl = 10 ml)?",
+    "options": [
+      "70 ml",
+      "52 ml",
+      "25 cl",
+      "30 ml"
+    ],
+    "explanation": "2 cl on yhtä suuri kuin 20 ml. Siksi 50 ml + 20 ml = 70 ml."
+  },
+  {
+    "question": "Mikä on 8 cl - 30 ml (1 cl = 10 ml)?",
+    "options": [
+      "50 ml",
+      "11 cl",
+      "83 ml",
+      "5 cl"
+    ],
+    "explanation": "8 cl on yhtä suuri kuin 80 ml. Siksi 80 ml - 30 ml = 50 ml."
+  },
+  {
+    "question": "Mikä on 60 ml + 40 ml - 2 cl (1 cl = 10 ml)?",
+    "options": [
+      "80 ml",
+      "120 ml",
+      "100 ml",
+      "20 ml"
+    ],
+    "explanation": "60 ml + 40 ml = 100 ml. 2 cl on yhtä suuri kuin 20 ml. Siksi 100 ml - 20 ml = 80 ml."
+  },
+  {
+    "question": "Mikä on 10 cl - 5 cl + 20 ml (1 cl = 10 ml)?",
+    "options": [
+      "70 ml",
+      "30 ml",
+      "55 ml",
+      "17 cl"
+    ],
+    "explanation": "10 cl - 5 cl = 5 cl. 5 cl on yhtä suuri kuin 50 ml. Siksi 50 ml + 20 ml = 70 ml."
+  },
+  {
+    "question": "Mikä on 2 cl + 30 ml - 1 cl (1 cl = 10 ml)?",
+    "options": [
+      "40 ml",
+      "60 ml",
+      "5 cl",
+      "1 cl"
+    ],
+    "explanation": "2 cl - 1 cl = 1 cl. 1 cl on yhtä suuri kuin 10 ml. Siksi 10 ml + 30 ml = 40 ml."
+  },
+  {
+    "question": "Mikä on 80 ml - 4 cl + 10 ml (1 cl = 10 ml)?",
+    "options": [
+      "50 ml",
+      "130 ml",
+      "30 ml",
+      "94 ml"
+    ],
+    "explanation": "80 ml + 10 ml = 90 ml. 4 cl on yhtä suuri kuin 40 ml. Siksi 90 ml - 40 ml = 50 ml."
+  }
+]

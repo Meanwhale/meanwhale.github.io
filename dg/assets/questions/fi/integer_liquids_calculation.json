@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Jos sinulla on 500 ml vettä ja lisäät siihen 200 ml lisää, kuinka paljon vettä sinulla on cl?",
+    "options": [
+      "70 cl",
+      "7 cl",
+      "7000 cl",
+      "700 cl"
+    ],
+    "explanation": "Ensin laske yhteen tilavuudet: 500 ml + 200 ml = 700 ml. Sitten muunna ml cl:ksi: 700 ml = 70 cl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Sinulla on 80 cl mehua. Jos juot 30 cl, kuinka paljon mehua on jäljellä ml?",
+    "options": [
+      "500 ml",
+      "50 ml",
+      "5 ml",
+      "5000 ml"
+    ],
+    "explanation": "Ensin vähennä tilavuudet: 80 cl - 30 cl = 50 cl. Sitten muunna cl ml:ksi: 50 cl = 500 ml.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Pullo sisältää 1000 ml limsaa. Jos kaadat pois 400 ml, kuinka paljon limsaa on jäljellä l?",
+    "options": [
+      "0,6 l",
+      "60 l",
+      "6 l",
+      "0,06 l"
+    ],
+    "explanation": "Ensin vähennä tilavuudet: 1000 ml - 400 ml = 600 ml. Sitten muunna ml l:ksi: 600 ml = 0,6 l.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Sinulla on 2 l maitoa ja lisäät 500 ml kermaa. Mikä on kokonaistilavuus dl?",
+    "options": [
+      "25 dl",
+      "205 dl",
+      "250 dl",
+      "2,5 dl"
+    ],
+    "explanation": "Muunna ensin l ml:ksi: 2 l = 2000 ml. Sitten laske yhteen tilavuudet: 2000 ml + 500 ml = 2500 ml. Lopuksi muunna ml dl:ksi: 2500 ml = 25 dl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Säiliössä on 5 l vettä. Jos poistat 1000 ml, kuinka paljon vettä on jäljellä dl?",
+    "options": [
+      "40 dl",
+      "60 dl",
+      "4 dl",
+      "400 dl"
+    ],
+    "explanation": "Muunna ensin l ml:ksi: 5 l = 5000 ml. Sitten vähennä tilavuudet: 5000 ml - 1000 ml = 4000 ml. Lopuksi muunna ml dl:ksi: 4000 ml = 40 dl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Sinulla on 30 dl öljyä. Jos käytät 500 ml, kuinka paljon öljyä on jäljellä l?",
+    "options": [
+      "2,5 l",
+      "3,5 l",
+      "0,25 l",
+      "25 l"
+    ],
+    "explanation": "Muunna ensin dl ml:ksi: 30 dl = 3000 ml. Sitten vähennä tilavuudet: 3000 ml - 500 ml = 2500 ml. Lopuksi muunna ml l:ksi: 2500 ml = 2,5 l.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Jos sinulla on 700 ml etikkaa ja lisäät 30 dl, mikä on kokonaistilavuus l?",
+    "options": [
+      "3,7 l",
+      "7,3 l",
+      "37 l",
+      "0,37 l"
+    ],
+    "explanation": "Muunna ensin dl ml:ksi: 30 dl = 3000 ml. Sitten laske yhteen tilavuudet: 700 ml + 3000 ml = 3700 ml. Lopuksi muunna ml l:ksi: 3700 ml = 3,7 l.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Sinulla on 10 l mehua ja kaadat pois 20 dl. Kuinka paljon mehua on jäljellä cl?",
+    "options": [
+      "800 cl",
+      "1200 cl",
+      "80 cl",
+      "120 cl"
+    ],
+    "explanation": "Muunna ensin l dl:ksi: 10 l = 100 dl. Sitten vähennä: 100 dl - 20 dl = 80 dl. Lopuksi muunna dl cl:ksi: 80 dl = 800 cl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Resepti vaatii 2 l vettä. Kaadat vahingossa 2500 ml. Kuinka paljon ylimääräistä vettä lisäsit dl?",
+    "options": [
+      "5 dl",
+      "45 dl",
+      "50 dl",
+      "0,5 dl"
+    ],
+    "explanation": "Muunna ensin l ml:ksi: 2 l = 2000 ml. Sitten laske erotus: 2500 ml - 2000 ml = 500 ml. Lopuksi muunna ml dl:ksi: 500 ml = 5 dl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Sinulla on 4 l vettä. Käytät 500 ml ruoanlaittoon ja 1500 ml siivoukseen. Kuinka paljon vettä on jäljellä dl?",
+    "options": [
+      "20 dl",
+      "60 dl",
+      "2 dl",
+      "200 dl"
+    ],
+    "explanation": "Muunna ensin l ml:ksi: 4 l = 4000 ml. Sitten vähennä: 4000 ml - 500 ml - 1500 ml = 2000 ml. Lopuksi muunna ml dl:ksi: 2000 ml = 20 dl.",
+    "timeTag": 1756971956
+  }
+]

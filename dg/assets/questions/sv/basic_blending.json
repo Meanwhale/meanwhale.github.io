@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Hur många milliliter finns det i en 10 % saltlösning om den totala volymen är 100 ml?",
+    "options": [
+      "10 ml",
+      "90 ml",
+      "5 ml",
+      "15 ml"
+    ],
+    "explanation": "10 % av 100 ml är (10/100) * 100 ml = 10 ml."
+  },
+  {
+    "question": "Du har 50 ml av en 20 % saltlösning. Hur många milliliter salt finns det faktiskt i lösningen?",
+    "options": [
+      "10 ml",
+      "40 ml",
+      "5 ml",
+      "15 ml"
+    ],
+    "explanation": "20 % av 50 ml är (20/100) * 50 ml = 10 ml."
+  },
+  {
+    "question": "Om du har 200 ml av en 5 % saltlösning, hur många milliliter salt finns det?",
+    "options": [
+      "10 ml",
+      "190 ml",
+      "5 ml",
+      "15 ml"
+    ],
+    "explanation": "5 % av 200 ml är (5/100) * 200 ml = 10 ml."
+  },
+  {
+    "question": "En lösning är 30 % salt och har en total volym på 50 ml. Hur många milliliter är salt?",
+    "options": [
+      "15 ml",
+      "35 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "30 % av 50 ml är (30/100) * 50 ml = 15 ml."
+  },
+  {
+    "question": "Vad är volymen salt i 25 ml av en 40 % saltlösning?",
+    "options": [
+      "10 ml",
+      "15 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "40 % av 25 ml är (40/100) * 25 ml = 10 ml."
+  },
+  {
+    "question": "Om du har 75 ml av en 20 % saltlösning, hur många ml är salt?",
+    "options": [
+      "15 ml",
+      "60 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "20 % av 75 ml är (20/100) * 75 ml = 15 ml."
+  },
+  {
+    "question": "Hur mycket salt finns det i 100 ml av en 25 % saltlösning?",
+    "options": [
+      "25 ml",
+      "75 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "25 % av 100 ml är (25/100) * 100 ml = 25 ml."
+  },
+  {
+    "question": "Du har 150 ml av en 10 % saltlösning. Hur många milliliter är faktiskt salt?",
+    "options": [
+      "15 ml",
+      "135 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "10 % av 150 ml är (10/100) * 150 ml = 15 ml."
+  },
+  {
+    "question": "En 50 ml lösning är 60 % salt. Hur många ml är salt?",
+    "options": [
+      "30 ml",
+      "20 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "60 % av 50 ml är (60/100) * 50 ml = 30 ml."
+  },
+  {
+    "question": "Vad är saltinnehållet i 200 ml av en 15 % saltlösning?",
+    "options": [
+      "30 ml",
+      "170 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "15 % av 200 ml är (15/100) * 200 ml = 30 ml."
+  },
+  {
+    "question": "Om du har 80 ml av en 5 % saltlösning, hur många milliliter är salt?",
+    "options": [
+      "4 ml",
+      "76 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "5 % av 80 ml är (5/100) * 80 ml = 4 ml."
+  },
+  {
+    "question": "Hur många ml salt finns det i 40 ml av en 25 % lösning?",
+    "options": [
+      "10 ml",
+      "30 ml",
+      "5 ml",
+      "35 ml"
+    ],
+    "explanation": "25 % av 40 ml är (25/100) * 40 ml = 10 ml."
+  },
+  {
+    "question": "Du har 120 ml av en 50 % saltlösning. Hur mycket av det är salt?",
+    "options": [
+      "60 ml",
+      "60 ml",
+      "30 ml",
+      "35 ml"
+    ],
+    "explanation": "50 % av 120 ml är (50/100) * 120 ml = 60 ml."
+  },
+  {
+    "question": "En 100 ml lösning är 80 % salt. Hur många ml är salt?",
+    "options": [
+      "80 ml",
+      "20 ml",
+      "30 ml",
+      "35 ml"
+    ],
+    "explanation": "80 % av 100 ml är (80/100) * 100 ml = 80 ml."
+  },
+  {
+    "question": "Vad är volymen salt i 30 ml av en 10 % saltlösning?",
+    "options": [
+      "3 ml",
+      "27 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "10 % av 30 ml är (10/100) * 30 ml = 3 ml."
+  },
+  {
+    "question": "Om du har 60 ml av en 30 % saltlösning, hur många ml är salt?",
+    "options": [
+      "18 ml",
+      "42 ml",
+      "5 ml",
+      "20 ml"
+    ],
+    "explanation": "30 % av 60 ml är (30/100) * 60 ml = 18 ml."
+  }
+]

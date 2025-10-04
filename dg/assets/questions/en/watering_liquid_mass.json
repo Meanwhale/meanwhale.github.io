@@ -1,0 +1,112 @@
+[
+  {
+    "question": "A solution has a concentration of 50 mg/mL. If 100 mL of water is added to 100 mL of this solution, what is the new concentration in mg/mL?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "explanation": "The amount of salt remains the same. Initially, there are 50 mg/mL * 100 mL = 5000 mg of salt.  After adding 100 mL of water, the total volume is 200 mL.  The new concentration is 5000 mg / 200 mL = 25 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "We have 200 mL of saltwater with a concentration of 10 mg/mL. If we add 200 mL of pure water, what's the final concentration (mg/mL)?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "explanation": "The total amount of salt is 200 mL * 10 mg/mL = 2000 mg. After adding 200 mL of water, the total volume is 400 mL. The new concentration is 2000 mg / 400 mL = 5 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "A 500 mL solution contains 2 mg/mL of salt.  If we dilute it by adding 500 mL of water, what will be the new salt concentration in mg/mL?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "The initial amount of salt is 500 mL * 2 mg/mL = 1000 mg. After adding 500 mL of water, the total volume is 1000 mL.  The new concentration is 1000 mg / 1000 mL = 1 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Initially, we have 300 mL of solution with 8 mg/mL of salt. If 600 mL of water is added, what's the resulting concentration (mg/mL)?",
+    "options": [
+      "2.67",
+      "8",
+      "4",
+      "16"
+    ],
+    "explanation": "Initial salt amount: 300 mL * 8 mg/mL = 2400 mg. Final volume: 300 mL + 600 mL = 900 mL. Final concentration: 2400 mg / 900 mL = 2.67 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "A solution of 400 mL has a salt concentration of 5 mg/mL. What is the new concentration if 600 mL of water are added?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "1"
+    ],
+    "explanation": "Initial salt: 400 mL * 5 mg/mL = 2000 mg. Final volume: 400 mL + 600 mL = 1000 mL. Final concentration: 2000 mg / 1000 mL = 2 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "We have 100 mL of a solution at 10 mg/mL salt concentration. If we add 900 mL of water, what is the resulting concentration in mg/mL?",
+    "options": [
+      "1",
+      "10",
+      "9",
+      "0.1"
+    ],
+    "explanation": "Initial salt amount: 100 mL * 10 mg/mL = 1000 mg. Final volume: 100 mL + 900 mL = 1000 mL.  Final concentration: 1000 mg / 1000 mL = 1 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Suppose you have 600 mL of a solution containing salt at a concentration of 4 mg/mL. You add 200 mL of water. What is the new concentration?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "explanation": "Initial salt: 600 mL * 4 mg/mL = 2400 mg. Final volume: 600 mL + 200 mL = 800 mL. Final concentration: 2400 mg / 800 mL = 3 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "If 700 mL of a solution has a concentration of 3 mg/mL and 100 mL of water is added, what is the approximate resulting concentration in mg/mL?",
+    "options": [
+      "2.625",
+      "3",
+      "2",
+      "4"
+    ],
+    "explanation": "Initial salt amount: 700 mL * 3 mg/mL = 2100 mg. Final volume: 700 mL + 100 mL = 800 mL. Final concentration: 2100 mg / 800 mL = 2.625 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "A 900 mL solution contains salt at 2 mg/mL. If you add water to bring the volume to 1800 mL, what is the new concentration (mg/mL)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "The initial salt is 900 mL * 2 mg/mL = 1800 mg. The final volume is 1800 mL. The new concentration is 1800 mg / 1800 mL = 1 mg/mL.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Consider 1000 mL of a saltwater solution with a concentration of 6 mg/mL.  If you add 200 mL of water, what is the resulting concentration in mg/mL?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "The initial salt amount: 1000 mL * 6 mg/mL = 6000 mg. The final volume: 1000 mL + 200 mL = 1200 mL. Final concentration: 6000 mg / 1200 mL = 5 mg/mL.",
+    "timeTag": 1757056833
+  }
+]

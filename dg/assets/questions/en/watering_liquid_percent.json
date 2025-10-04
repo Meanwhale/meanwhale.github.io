@@ -1,0 +1,112 @@
+[
+  {
+    "question": "A solution contains 10% salt. If you add water to double the amount of the solution, what percentage of salt is in the new solution?",
+    "options": [
+      "5%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "explanation": "If you double the amount of the solution by adding water, the salt percentage is halved. 10% / 2 = 5%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "A 20% salt solution has a volume of 100 ml. If 100 ml of water is added, what is the new salt concentration?",
+    "options": [
+      "10%",
+      "30%",
+      "40%",
+      "50%"
+    ],
+    "explanation": "Initially, there's 20% salt in 100 ml, meaning 20 ml is salt. After adding 100 ml water, there's 20 ml salt in 200 ml solution. So, the new concentration is (20 / 200) * 100% = 10%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "You have a 50% salt solution. You add an equal amount of water. What is the resulting salt percentage?",
+    "options": [
+      "25%",
+      "75%",
+      "100%",
+      "50%"
+    ],
+    "explanation": "Adding an equal amount of water doubles the volume. Therefore, the salt percentage is halved. 50% / 2 = 25%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "A 100 mg solution contains 40% salt. If you dilute it by adding water to make it 200 mg total, what is the new salt percentage?",
+    "options": [
+      "20%",
+      "60%",
+      "80%",
+      "10%"
+    ],
+    "explanation": "The amount of salt remains constant. Initially, 40% of 100 mg is salt, so there are 40 mg of salt. Now, this 40 mg is in 200 mg of solution. (40 / 200) * 100% = 20%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "A solution is 70% salt. If the solution's volume is tripled by adding water, what is the new percentage of salt?",
+    "options": [
+      "23%",
+      "25%",
+      "21%",
+      "22%"
+    ],
+    "explanation": "When the volume is tripled, the concentration is divided by 3.  70 / 3 = 23.33. Rounded to 23%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "You start with 60 mg of solution that is 30% salt. You add 140 mg of water. What percentage of the new solution is salt?",
+    "options": [
+      "9%",
+      "39%",
+      "69%",
+      "99%"
+    ],
+    "explanation": "The initial amount of salt is 30% of 60 mg, or 18 mg. The final solution has a mass of 60 mg + 140 mg = 200 mg.  The percentage of salt is then (18/200)*100% which is 9%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "A 40% salt solution has a volume of 50 ml. If you add 50 ml of water, what is the new concentration of salt?",
+    "options": [
+      "20%",
+      "60%",
+      "80%",
+      "10%"
+    ],
+    "explanation": "The initial amount of salt is 40% of 50 ml = 20 ml of salt. The total volume becomes 50 ml + 50 ml = 100 ml. Therefore, the salt concentration is (20 ml / 100 ml) * 100% = 20%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "A 100 mg solution contains 80% salt. You add 300 mg of water. What is the salt concentration in the new solution?",
+    "options": [
+      "20%",
+      "10%",
+      "30%",
+      "40%"
+    ],
+    "explanation": "The amount of salt initially is 80% of 100 mg, which is 80 mg. The total mass after adding water is 100 mg + 300 mg = 400 mg. The new salt concentration is (80 / 400) * 100% = 20%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "A solution is 90% salt. Water is added so that the volume is now 9 times the original volume. What is the new salt percentage?",
+    "options": [
+      "10%",
+      "80%",
+      "20%",
+      "30%"
+    ],
+    "explanation": "If the volume increases by a factor of 9, the concentration decreases by a factor of 9. So, 90% / 9 = 10%.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "50 mg of a solution is 60% salt. If you add 50 mg of water, what is the new percentage of salt in the solution?",
+    "options": [
+      "30%",
+      "90%",
+      "10%",
+      "60%"
+    ],
+    "explanation": "The initial amount of salt is 60% of 50 mg, which is 30 mg. The final mass is 50 mg + 50 mg = 100 mg. The percentage of salt is (30 / 100) * 100% = 30%.",
+    "timeTag": 1757058998
+  }
+]

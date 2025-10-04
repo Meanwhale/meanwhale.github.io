@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Vilken av följande är den minsta volymenheten?",
+    "options": [
+      "Milliliter (mL)",
+      "Centiliter (cL)",
+      "Deciliter (dL)",
+      "Liter (L)"
+    ],
+    "explanation": "En milliliter (mL) är den minsta enheten bland alternativen. 1 mL = 0,001 L, 1 cL = 0,01 L, och 1 dL = 0,1 L."
+  },
+  {
+    "question": "Hur många milliliter finns det i en centiliter?",
+    "options": [
+      "10 mL",
+      "1 mL",
+      "100 mL",
+      "0,1 mL"
+    ],
+    "explanation": "Det finns 10 milliliter (mL) i en centiliter (cL). Detta beror på att 'centi-' betyder en hundradel, så 1 cL = 1/100 av en liter. En liter har 1000 mL, alltså 1 cL = 1000 mL / 100 = 10 mL."
+  },
+  {
+    "question": "Vilken av följande är lika med 100 milliliter?",
+    "options": [
+      "1 deciliter (dL)",
+      "1 centiliter (cL)",
+      "1 liter (L)",
+      "10 liter (L)"
+    ],
+    "explanation": "1 deciliter (dL) är lika med 100 milliliter (mL). 'deci-' betyder en tiondel, så 1 dL = 1/10 av en liter. En liter har 1000 mL, alltså 1 dL = 1000 mL / 10 = 100 mL."
+  },
+  {
+    "question": "Hur många centiliter finns det i en liter?",
+    "options": [
+      "100 cL",
+      "10 cL",
+      "1000 cL",
+      "0,1 cL"
+    ],
+    "explanation": "Det finns 100 centiliter (cL) i en liter (L). 'centi-' betyder en hundradel, så 1 cL = 1/100 av en liter. Därför är 1 L = 100 cL."
+  },
+  {
+    "question": "Vilken är den största enheten: milliliter, centiliter eller deciliter?",
+    "options": [
+      "Deciliter (dL)",
+      "Milliliter (mL)",
+      "Centiliter (cL)",
+      "De är alla lika."
+    ],
+    "explanation": "En deciliter (dL) är den största enheten bland alternativen. 1 dL = 0,1 L, 1 cL = 0,01 L och 1 mL = 0,001 L. Därför är dL > cL > mL."
+  },
+  {
+    "question": "Hur många deciliter finns det i 2 liter?",
+    "options": [
+      "20 dL",
+      "2 dL",
+      "0,2 dL",
+      "200 dL"
+    ],
+    "explanation": "Det finns 10 deciliter (dL) i 1 liter (L). Därför finns det i 2 liter 2 * 10 = 20 dL."
+  },
+  {
+    "question": "Vad är 500 milliliter i deciliter?",
+    "options": [
+      "5 dL",
+      "0,5 dL",
+      "50 dL",
+      "0,05 dL"
+    ],
+    "explanation": "1 deciliter (dL) är 100 milliliter (mL). Så, för att konvertera 500 mL till dL, dividera 500 med 100: 500 mL / 100 mL/dL = 5 dL."
+  },
+  {
+    "question": "Konvertera 3 centiliter till milliliter.",
+    "options": [
+      "30 mL",
+      "0,3 mL",
+      "3 mL",
+      "300 mL"
+    ],
+    "explanation": "Det finns 10 milliliter (mL) i 1 centiliter (cL). Därför är 3 cL = 3 * 10 mL = 30 mL."
+  },
+  {
+    "question": "Vilket är ekvivalent med 0,1 liter?",
+    "options": [
+      "1 deciliter",
+      "1 centiliter",
+      "1 milliliter",
+      "10 milliliter"
+    ],
+    "explanation": "Prefixet 'deci-' betyder en tiondel. Alltså är 0,1 liter ekvivalent med 1 deciliter."
+  },
+  {
+    "question": "Hur många milliliter finns det i 2,5 centiliter?",
+    "options": [
+      "25 mL",
+      "250 mL",
+      "0,25 mL",
+      "2,5 mL"
+    ],
+    "explanation": "Det finns 10 milliliter i 1 centiliter. Därför är 2,5 cL = 2,5 * 10 mL = 25 mL."
+  },
+  {
+    "question": "Vad är 70 centiliter i liter?",
+    "options": [
+      "0,7 L",
+      "7 L",
+      "700 L",
+      "0,07 L"
+    ],
+    "explanation": "Det finns 100 centiliter i 1 liter. Därför är 70 cL = 70 / 100 L = 0,7 L."
+  },
+  {
+    "question": "Vilket är ekvivalent med en halv liter?",
+    "options": [
+      "5 deciliter",
+      "5 centiliter",
+      "5 milliliter",
+      "5000 milliliter"
+    ],
+    "explanation": "En halv liter är 0,5 liter. Eftersom 1 liter är 10 deciliter, är 0,5 liter 0,5 * 10 = 5 deciliter."
+  },
+  {
+    "question": "Hur många milliliter finns det i en fjärdedels liter?",
+    "options": [
+      "250 mL",
+      "25 mL",
+      "400 mL",
+      "2,5 mL"
+    ],
+    "explanation": "En fjärdedels liter är 0,25 liter. Eftersom 1 liter är 1000 milliliter, är 0,25 liter 0,25 * 1000 = 250 mL."
+  },
+  {
+    "question": "Vad är 1500 milliliter i deciliter?",
+    "options": [
+      "15 dL",
+      "1,5 dL",
+      "150 dL",
+      "0,15 dL"
+    ],
+    "explanation": "1 deciliter (dL) är 100 milliliter (mL). Så, för att konvertera 1500 mL till dL, dividera 1500 med 100: 1500 mL / 100 mL/dL = 15 dL."
+  },
+  {
+    "question": "Ett recept kräver 250 mL vatten. Hur många centiliter är det?",
+    "options": [
+      "25 cL",
+      "2,5 cL",
+      "2500 cL",
+      "0,25 cL"
+    ],
+    "explanation": "Det finns 10 milliliter i 1 centiliter. Så, för att konvertera 250 mL till cL, dividera 250 med 10: 250 mL / 10 mL/cL = 25 cL."
+  },
+  {
+    "question": "Om du har 3 deciliter, hur många milliliter har du?",
+    "options": [
+      "300 mL",
+      "30 mL",
+      "3000 mL",
+      "3 mL"
+    ],
+    "explanation": "Det finns 100 milliliter i 1 deciliter. Därför är 3 dL = 3 * 100 mL = 300 mL."
+  }
+]

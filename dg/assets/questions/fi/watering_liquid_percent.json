@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Liuos sisältää 10 % suolaa. Jos lisäät vettä kaksinkertaistaaksesi liuoksen määrän, mikä on suolan prosenttiosuus uudessa liuoksessa?",
+    "options": [
+      "5 %",
+      "15 %",
+      "20 %",
+      "25 %"
+    ],
+    "explanation": "Jos kaksinkertaistat liuoksen määrän lisäämällä vettä, suolan prosenttiosuus puolittuu. 10 % / 2 = 5 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "20 % suolaliuosta on 100 ml. Jos lisätään 100 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "10 %",
+      "30 %",
+      "40 %",
+      "50 %"
+    ],
+    "explanation": "Aluksi 100 ml:ssa on 20 % suolaa, mikä tarkoittaa, että 20 ml on suolaa. Kun 100 ml vettä on lisätty, 200 ml liuoksessa on 20 ml suolaa. Joten uusi pitoisuus on (20 / 200) * 100 % = 10 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "Sinulla on 50 % suolaliuos. Lisäät yhtä paljon vettä. Mikä on tuloksena oleva suolan prosenttiosuus?",
+    "options": [
+      "25 %",
+      "75 %",
+      "100 %",
+      "50 %"
+    ],
+    "explanation": "Yhtä suuren vesimäärän lisääminen kaksinkertaistaa tilavuuden. Siksi suolan prosenttiosuus puolittuu. 50 % / 2 = 25 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "100 mg:n liuos sisältää 40 % suolaa. Jos laimennat sen lisäämällä vettä, jotta kokonaismäärä on 200 mg, mikä on uusi suolan prosenttiosuus?",
+    "options": [
+      "20 %",
+      "60 %",
+      "80 %",
+      "10 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi 40 % 100 mg:sta on suolaa, joten suolaa on 40 mg. Nyt tämä 40 mg on 200 mg:ssa liuosta. (40 / 200) * 100 % = 20 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "Liuos on 70 % suolaa. Jos liuoksen tilavuus kolminkertaistetaan lisäämällä vettä, mikä on uusi suolan prosenttiosuus?",
+    "options": [
+      "23 %",
+      "25 %",
+      "21 %",
+      "22 %"
+    ],
+    "explanation": "Kun tilavuus kolminkertaistetaan, pitoisuus jaetaan 3:lla. 70 / 3 = 23,33. Pyöristettynä 23 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "Aloitat 60 mg:lla liuosta, joka on 30 % suolaa. Lisäät 140 mg vettä. Kuinka monta prosenttia uudesta liuoksesta on suolaa?",
+    "options": [
+      "9 %",
+      "39 %",
+      "69 %",
+      "99 %"
+    ],
+    "explanation": "Alkuperäinen suolan määrä on 30 % 60 mg:sta eli 18 mg. Lopullisen liuoksen massa on 60 mg + 140 mg = 200 mg. Suolan prosenttiosuus on silloin (18/200)*100 %, mikä on 9 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "40 % suolaliuosta on 50 ml. Jos lisäät 50 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "20 %",
+      "60 %",
+      "80 %",
+      "10 %"
+    ],
+    "explanation": "Alkuperäinen suolan määrä on 40 % 50 ml:sta = 20 ml suolaa. Kokonaistilavuus on 50 ml + 50 ml = 100 ml. Siksi suolapitoisuus on (20 ml / 100 ml) * 100 % = 20 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "100 mg:n liuos sisältää 80 % suolaa. Lisäät 300 mg vettä. Mikä on suolapitoisuus uudessa liuoksessa?",
+    "options": [
+      "20 %",
+      "10 %",
+      "30 %",
+      "40 %"
+    ],
+    "explanation": "Suolan määrä aluksi on 80 % 100 mg:sta, mikä on 80 mg. Kokonaismassa veden lisäämisen jälkeen on 100 mg + 300 mg = 400 mg. Uusi suolapitoisuus on (80 / 400) * 100 % = 20 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "Liuos on 90 % suolaa. Vettä lisätään niin, että tilavuus on nyt 9 kertaa alkuperäinen tilavuus. Mikä on uusi suolan prosenttiosuus?",
+    "options": [
+      "10 %",
+      "80 %",
+      "20 %",
+      "30 %"
+    ],
+    "explanation": "Jos tilavuus kasvaa 9-kertaisesti, pitoisuus pienenee 9:llä. Joten 90 % / 9 = 10 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "50 mg liuosta on 60 % suolaa. Jos lisäät 50 mg vettä, mikä on uusi suolan prosenttiosuus liuoksessa?",
+    "options": [
+      "30 %",
+      "90 %",
+      "10 %",
+      "60 %"
+    ],
+    "explanation": "Alkuperäinen suolan määrä on 60 % 50 mg:sta, mikä on 30 mg. Lopullinen massa on 50 mg + 50 mg = 100 mg. Suolan prosenttiosuus on (30 / 100) * 100 % = 30 %.",
+    "timeTag": 1757058998
+  }
+]

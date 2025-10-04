@@ -1,0 +1,112 @@
+[
+  {
+    "question": "En saltlösning har en koncentration på 5 mg/mL. Hur många mg salt finns det i 200 mL av denna lösning?",
+    "options": [
+      "1000 mg",
+      "500 mg",
+      "205 mg",
+      "40 mg"
+    ],
+    "explanation": "För att hitta den totala mängden salt, multiplicera koncentrationen med volymen: 5 mg/mL * 200 mL = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Om en lösning innehåller 8 mg salt per mL, vad är den totala mängden salt, i mg, i 125 mL av lösningen?",
+    "options": [
+      "1000 mg",
+      "133 mg",
+      "87 mg",
+      "117 mg"
+    ],
+    "explanation": "Multiplicera koncentrationen (8 mg/mL) med volymen (125 mL): 8 mg/mL * 125 mL = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Ett 300 mL prov av saltvatten har en koncentration på 3 mg/mL. Vad är massan av salt i provet?",
+    "options": [
+      "900 mg",
+      "100 mg",
+      "303 mg",
+      "297 mg"
+    ],
+    "explanation": "Multiplicera volymen (300 mL) med koncentrationen (3 mg/mL): 300 mL * 3 mg/mL = 900 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Om det finns 4 mg salt i varje mL av en lösning, hur många mg salt finns det i 250 mL av lösningen?",
+    "options": [
+      "1000 mg",
+      "62 mg",
+      "254 mg",
+      "246 mg"
+    ],
+    "explanation": "Multiplicera koncentrationen (4 mg/mL) med volymen (250 mL): 4 mg/mL * 250 mL = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "En lösnings saltkoncentration är 2 mg/mL. Hur mycket salt, i mg, finns det i ett 500 mL prov?",
+    "options": [
+      "1000 mg",
+      "250 mg",
+      "502 mg",
+      "498 mg"
+    ],
+    "explanation": "Multiplicera koncentrationen (2 mg/mL) med volymen (500 mL): 2 mg/mL * 500 mL = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Vad är den totala mängden salt, i mg, som finns i 600 mL av en lösning med en koncentration på 1 mg/mL?",
+    "options": [
+      "600 mg",
+      "100 mg",
+      "601 mg",
+      "599 mg"
+    ],
+    "explanation": "Multiplicera volymen (600 mL) med koncentrationen (1 mg/mL): 600 mL * 1 mg/mL = 600 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "En lösning innehåller 10 mg salt per mL. Hur många mg salt finns det i 100 mL lösning?",
+    "options": [
+      "1000 mg",
+      "10 mg",
+      "110 mg",
+      "90 mg"
+    ],
+    "explanation": "Multiplicera koncentrationen (10 mg/mL) med volymen (100 mL): 10 mg/mL * 100 mL = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Om en saltvattenlösning har en koncentration på 6 mg/mL, vad är massan av salt, i mg, i 166 mL av lösningen?",
+    "options": [
+      "996 mg",
+      "27 mg",
+      "172 mg",
+      "160 mg"
+    ],
+    "explanation": "Multiplicera koncentrationen (6 mg/mL) med volymen (166 mL): 6 mg/mL * 166 mL = 996 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Det finns 7 mg salt per mL lösning. Hur många mg salt finns det i 142 mL av denna lösning?",
+    "options": [
+      "994 mg",
+      "20 mg",
+      "149 mg",
+      "135 mg"
+    ],
+    "explanation": "Multiplicera koncentrationen (7 mg/mL) med volymen (142 mL): 7 mg/mL * 142 mL = 994 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Ett 1000 mL prov av en saltlösning har en koncentration på 1 mg/mL. Vad är den totala massan av salt, i mg, i provet?",
+    "options": [
+      "1000 mg",
+      "1 mg",
+      "1001 mg",
+      "999 mg"
+    ],
+    "explanation": "Multiplicera volymen (1000 mL) med koncentrationen (1 mg/mL): 1000 mL * 1 mg/mL = 1000 mg.",
+    "timeTag": 1757056831
+  }
+]

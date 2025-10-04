@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Du har en bägare med 1,5 L vatten. Du tillsätter 250 mL blått färgämne. Hur mycket vätska finns det nu i bägaren?",
+    "options": [
+      "17,5 dL",
+      "1,75 cL",
+      "1750 cL",
+      "0,175 dL"
+    ],
+    "explanation": "Först, konvertera 1,5 L till mL: 1,5 L * 1000 mL/L = 1500 mL. Lägg sedan till 250 mL färgämne: 1500 mL + 250 mL = 1750 mL. Slutligen, konvertera mL till dL: 1750 mL / 100 mL/dL = 17,5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Ett recept kräver 0,7 L mjölk. Du vill bara göra halva receptet. Hur mycket mjölk behöver du?",
+    "options": [
+      "3,5 dL",
+      "35 cL",
+      "3500 mL",
+      "0,035 L"
+    ],
+    "explanation": "Att halvera 0,7 L ger 0,7 L / 2 = 0,35 L. Konvertera sedan liter till deciliter: 0,35 L * 10 dL/L = 3,5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Du har 3,2 dL juice. Du dricker 150 mL. Hur mycket juice finns kvar?",
+    "options": [
+      "1,7 dL",
+      "17 cL",
+      "1700 mL",
+      "0,017 L"
+    ],
+    "explanation": "Konvertera först 3,2 dL till mL: 3,2 dL * 100 mL/dL = 320 mL. Subtrahera 150 mL, vilket ger 320 mL - 150 mL = 170 mL. Slutligen, konvertera mL till dL: 170 mL / 100 mL/dL = 1,7 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "En flaska innehåller 0,8 L läsk. Du häller ut 20 cL. Hur mycket läsk finns kvar i flaskan?",
+    "options": [
+      "6 dL",
+      "6000 mL",
+      "0,06 L",
+      "600 cL"
+    ],
+    "explanation": "Konvertera 0,8 L till cL: 0,8 L * 100 cL/L = 80 cL. Dra sedan bort 20 cL: 80 cL - 20 cL = 60 cL. Konvertera cL till dL: 60 cL / 10 cL/dL = 6 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Du har 450 mL vatten och tillsätter 0,3 L lemonad. Vad är den totala volymen?",
+    "options": [
+      "7,5 dL",
+      "75 cL",
+      "0,075 L",
+      "7500 mL"
+    ],
+    "explanation": "Konvertera 0,3 L till mL: 0,3 L * 1000 mL/L = 300 mL. Lägg sedan till volymerna: 450 mL + 300 mL = 750 mL. Slutligen, konvertera mL till dL: 750 mL / 100 mL/dL = 7,5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "En tank innehåller 8,7 L av en lösning. Om 500 mL tas bort, hur mycket återstår?",
+    "options": [
+      "82 dL",
+      "8200 mL",
+      "820 cL",
+      "0,82 L"
+    ],
+    "explanation": "Konvertera 8,7 L till mL: 8,7 L * 1000 mL/L = 8700 mL. Subtrahera 500 mL: 8700 mL - 500 mL = 8200 mL. Konvertera mL till dL: 8200 mL / 100 mL/dL = 82 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Du har 2,1 dL färg och använder 80 mL. Hur mycket färg finns kvar?",
+    "options": [
+      "1,3 dL",
+      "13 cL",
+      "0,013 L",
+      "1300 mL"
+    ],
+    "explanation": "Konvertera 2,1 dL till mL: 2,1 dL * 100 mL/dL = 210 mL. Subtrahera sedan 80 mL: 210 mL - 80 mL = 130 mL. Konvertera sedan mL till dL: 130 mL / 100 mL/dL = 1,3 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "En behållare har 0,5 L olja. Du tillsätter 35 cL olja. Vad är den totala mängden olja?",
+    "options": [
+      "8,5 dL",
+      "8500 mL",
+      "85 cL",
+      "0,085 L"
+    ],
+    "explanation": "Konvertera 0,5 L till cL: 0,5 L * 100 cL/L = 50 cL. Lägg sedan till 35 cL: 50 cL + 35 cL = 85 cL. Konvertera cL till dL: 85 cL / 10 cL/dL = 8,5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "Du har 950 mL lösning och häller ut 0,2 L. Hur mycket lösning återstår?",
+    "options": [
+      "7,5 dL",
+      "750 cL",
+      "0,075 L",
+      "7500 mL"
+    ],
+    "explanation": "Konvertera 0,2 L till mL: 0,2 L * 1000 mL/L = 200 mL. Subtrahera sedan 200 mL från 950 mL: 950 mL - 200 mL = 750 mL. Konvertera mL till dL: 750 mL / 100 mL/dL = 7,5 dL.",
+    "timeTag": 1756971958
+  },
+  {
+    "question": "En hink innehåller 7,3 L vatten. 3,1 dL tas bort. Hur mycket vatten finns kvar i hinken?",
+    "options": [
+      "69,9 dL",
+      "699 cL",
+      "6990 mL",
+      "0,699 L"
+    ],
+    "explanation": "Konvertera 7,3 L till dL: 7,3 L * 10 dL/L = 73 dL. Subtrahera 3,1 dL: 73 dL - 3,1 dL = 69,9 dL.",
+    "timeTag": 1756971958
+  }
+]

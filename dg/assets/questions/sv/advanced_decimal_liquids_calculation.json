@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Om du har 2,5 L vatten och delar det lika i 5 glas, hur mycket vatten finns det i varje glas?",
+    "options": [
+      "500 mL",
+      "0,05 dL",
+      "50 cL",
+      "0,005 L"
+    ],
+    "explanation": "2,5 L delat med 5 är lika med 0,5 L. 0,5 L är lika med 500 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "En flaska innehåller 1,2 L juice. Om du häller ut 0,4 L, hur mycket juice finns kvar i flaskan?",
+    "options": [
+      "80 cL",
+      "80 dL",
+      "0,08 mL",
+      "8 L"
+    ],
+    "explanation": "1,2 L - 0,4 L = 0,8 L. 0,8 L är lika med 80 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Om du har 3 L mjölk och vill dela upp det i 6 lika stora portioner, hur mycket mjölk kommer det att finnas i varje portion?",
+    "options": [
+      "50 cL",
+      "0,05 dL",
+      "50 mL",
+      "5 L"
+    ],
+    "explanation": "3 L delat med 6 är 0,5 L. 0,5 L är lika med 50 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Du har 0,8 L saft och vill dela det lika mellan 4 vänner. Hur mycket saft får varje vän?",
+    "options": [
+      "200 mL",
+      "0,2 cL",
+      "20 dL",
+      "2 L"
+    ],
+    "explanation": "0,8 L delat med 4 är 0,2 L. 0,2 L är lika med 200 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Ett recept kräver 0,6 L vatten. Om du vill göra hälften av receptet, hur mycket vatten behöver du?",
+    "options": [
+      "300 mL",
+      "0,3 cL",
+      "3 dL",
+      "3 L"
+    ],
+    "explanation": "0,6 L delat med 2 är 0,3 L. 0,3 L är lika med 300 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Om du har 0,7 L läsk och du dricker 0,1 L, hur mycket läsk finns kvar?",
+    "options": [
+      "60 cL",
+      "0,06 dL",
+      "6 mL",
+      "6 L"
+    ],
+    "explanation": "0,7 L - 0,1 L = 0,6 L. 0,6 L är lika med 60 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Du har 1,5 L juice. Om du häller upp det i 3 lika stora glas, hur mycket juice finns det i varje glas?",
+    "options": [
+      "500 mL",
+      "0,5 cL",
+      "5 dL",
+      "5 L"
+    ],
+    "explanation": "1,5 L delat med 3 är lika med 0,5 L. 0,5 L är lika med 500 mL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "En behållare rymmer 2,4 L vätska. Om du delar vätskan i 8 lika stora delar, hur mycket finns det i varje del?",
+    "options": [
+      "30 cL",
+      "0,03 dL",
+      "3 mL",
+      "3 L"
+    ],
+    "explanation": "2,4 L delat med 8 är lika med 0,3 L. 0,3 L är lika med 30 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Om du har 4,2 L lösning och behöver dela upp den i 7 lika stora behållare, hur mycket lösning hamnar i varje behållare?",
+    "options": [
+      "60 cL",
+      "0,06 dL",
+      "6 mL",
+      "6 L"
+    ],
+    "explanation": "4,2 L delat med 7 är 0,6 L. 0,6 L är lika med 60 cL.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Du har 0,9 L vatten och vill dela upp det i 3 lika stora koppar. Hur mycket vatten hamnar i varje kopp?",
+    "options": [
+      "300 mL",
+      "0,3 cL",
+      "3 dL",
+      "3 L"
+    ],
+    "explanation": "0,9 L delat med 3 är 0,3 L. 0,3 L är lika med 300 mL.",
+    "timeTag": 1756971954
+  }
+]

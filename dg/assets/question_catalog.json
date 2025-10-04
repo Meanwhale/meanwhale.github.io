@@ -1,0 +1,94 @@
+{
+  "areas": [
+    {
+      "id": "skills",
+      "name": "area.skills",
+      "topics": [
+        {
+          "id": "measurement",
+          "name": "topic.measurement",
+          "subtopics": [
+            {
+              "id": "liquid_units",
+              "icon": "liquid_units",
+              "name": "topic.liquid_units",
+              "exercise": [
+                {
+                  "id": "convert_to_ml",
+                  "format": "calculus",
+                  "task": "simple_convert_to_ml"
+                },
+                {
+                  "id": "sort_liquid_units",
+                  "format": "sort",
+                  "task": "sort_liquid_units"
+                },
+                {
+                  "id": "sort_liquid_units_decimal",
+                  "format": "sort",
+                  "task": "sort_liquid_units_decimal"
+                }
+              ]
+            },
+            {
+              "id": "liquid_calculation",
+              "icon": "liquid_calculation",
+              "name": "topic.liquid_calculation",
+              "exercise": [
+                {
+                  "id": "add_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "add_and_convert_to_ml"
+                },
+                {
+                  "id": "subtract_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "subtract_and_convert_to_ml"
+                },
+                {
+                  "id": "multiply_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "multiply_and_convert_to_ml"
+                },
+                {
+                  "id": "divide_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "divide_and_convert_to_ml"
+                }
+              ]
+            },
+            {
+              "id": "liquid_mass_concentration",
+              "icon": "liquid_mass_concentration",
+              "name": "topic.liquid_mass_concentration",
+              "exercise": [
+                {
+                  "id": "liquid_mass_concentration_amount",
+                  "format": "calculus",
+                  "task": "liquid_mass_concentration_amount"
+                },
+                {
+                  "id": "sort_liquid_mass_concentration",
+                  "format": "sort",
+                  "task": "sort_liquid_mass_concentration"
+                },
+                {
+                  "id": "watering_liquid_mass",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain mg/ml of salt, how much salt mg/ml is there when water is added to the solution. Use different ways to say the question. Use these in units in questions and answers: mL, mg. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                }
+              ]
+            },
+            {
+              "id": "liquid_percent",
+              "icon": "liquid_percent",
+              "name": "topic.liquid_percent",
+              "exercise": [
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

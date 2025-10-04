@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Vilket av följande är lika med 500 ml?",
+    "options": [
+      "5 dl",
+      "5 cl",
+      "0,5 cl",
+      "50 l"
+    ],
+    "explanation": "Eftersom 1 dl = 100 ml, då är 500 ml = 500/100 dl = 5 dl.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vad är samma sak som 2 l?",
+    "options": [
+      "200 cl",
+      "20 cl",
+      "2000 cl",
+      "0,2 cl"
+    ],
+    "explanation": "Eftersom 1 l = 100 cl, då är 2 l = 2 * 100 cl = 200 cl.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilken volym motsvarar 80 cl?",
+    "options": [
+      "800 ml",
+      "8 ml",
+      "0,8 ml",
+      "8000 ml"
+    ],
+    "explanation": "Eftersom 1 cl = 10 ml, då är 80 cl = 80 * 10 ml = 800 ml.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilken mängd är samma sak som 3 dl?",
+    "options": [
+      "300 ml",
+      "300 l",
+      "3 l",
+      "0,3 ml"
+    ],
+    "explanation": "Eftersom 1 dl = 100 ml, då är 3 dl = 3 * 100 ml = 300 ml.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilket av dessa är lika med 7 l?",
+    "options": [
+      "70 dl",
+      "700 dl",
+      "0,7 dl",
+      "7000 dl"
+    ],
+    "explanation": "Eftersom 1 l = 10 dl, då är 7 l = 7 * 10 dl = 70 dl.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "250 ml är samma sak som:",
+    "options": [
+      "25 cl",
+      "2,5 cl",
+      "0,25 cl",
+      "2500 cl"
+    ],
+    "explanation": "Eftersom 1 cl = 10 ml, då är 250 ml = 250 / 10 cl = 25 cl.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilken volym är samma sak som 9 dl?",
+    "options": [
+      "0,9 l",
+      "90 l",
+      "900 l",
+      "0,09 l"
+    ],
+    "explanation": "Eftersom 1 dl = 0,1 l, då är 9 dl = 9 * 0,1 l = 0,9 l.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilket av dessa motsvarar 1000 ml?",
+    "options": [
+      "1 l",
+      "10 l",
+      "100 l",
+      "0,1 l"
+    ],
+    "explanation": "Eftersom 1 l = 1000 ml, då är 1000 ml = 1 l.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vad är ett annat sätt att säga 400 cl?",
+    "options": [
+      "4 l",
+      "40 l",
+      "0,4 l",
+      "4000 l"
+    ],
+    "explanation": "Eftersom 1 l = 100 cl, då är 400 cl = 400 / 100 l = 4 l.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilket av följande är samma sak som 600 ml?",
+    "options": [
+      "60 cl",
+      "6 l",
+      "0,6 cl",
+      "0,06 cl"
+    ],
+    "explanation": "Eftersom 1 cl = 10 ml, då är 600 ml = 600 / 10 cl = 60 cl.",
+    "timeTag": 1756971181
+  }
+]
