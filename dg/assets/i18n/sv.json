@@ -1,0 +1,144 @@
+{
+  "menu": {
+    "title": "Mattetränare",
+    "start": "Starta",
+    "language": "Språk",
+    "feedback": "Feedback",
+    "commonBack": "Tillbaka",
+    "commonYes": "Ja",
+    "commonNo": "Nej",
+    "commonNext": "Nästa",
+    "commonCheck": "Kontrollera",
+    "loaderLoading": "Laddar...",
+    "loaderErrorTitle": "Laddningsfel",
+    "loaderBackToMenu": "Till huvudmenyn",
+    "resultsTitle": "Klart!",
+    "resultsRestart": "Starta om",
+    "resultsMenu": "Meny",
+    "subtopicsTitle": "Välj ett ämne",
+    "formatMcq": "Flerval",
+    "formatCalculus": "Beräkning",
+    "formatSort": "Sortering"
+  },
+  "language": {
+    "title": "Välj språk",
+    "english": "Engelska",
+    "swedish": "Svenska",
+    "finnish": "Finska",
+    "thai": "Thailändska",
+    "selected": "Valt: {name}"
+  },
+  "gameplay": {
+    "title": "Frågesport",
+    "correct": "Rätt!",
+    "wrongPrefix": "Fel! Rätt svar: {answer}",
+    "next": "Nästa",
+    "menu": "Meny",
+    "quitTitle": "Avsluta quiz?",
+    "quitMessage": "Vill du gå tillbaka till huvudmenyn?",
+    "score": "Poäng: {score} / {total}",
+    "qnum": "Fråga {n} / {total}",
+    "sortGuide": "Dra knapparna i rätt ordning."
+  },
+  "units": {
+    "ml": "ml",
+    "cl": "cl",
+    "dl": "dl",
+    "l": "l",
+    "mg": "mg"
+  },
+  "exercise": {
+    "easy_liquids_units": {
+      "title": "Omvandla till milliliter",
+      "guide": "Omvandla till milliliter."
+    },
+    "liquids_units_integers": {
+      "title": "Likvärdiga enheter (heltal)",
+      "guide": "Omvandla volymer med heltal mellan liter, deciliter, centiliter och milliliter."
+    },
+    "liquids_units_decimals": {
+      "title": "Likvärdiga enheter (decimaltal)",
+      "guide": "Omvandla volymer med decimaltal mellan liter, deciliter, centiliter och milliliter."
+    },
+    "integer_liquids_calculation": {
+      "title": "Addera/Subtrahera vätskor (heltal)",
+      "guide": "Addera eller subtrahera givna volymer med heltal och svara i milliliter."
+    },
+    "decimal_liquids_calculation": {
+      "title": "Addera/Subtrahera vätskor (decimaltal)",
+      "guide": "Addera eller subtrahera givna volymer med decimaltal och svara i milliliter."
+    },
+    "advanced_decimal_liquids_calculation": {
+      "title": "Multiplicera/Dividera vätskor (decimaltal)",
+      "guide": "Multiplicera eller dividera volymer med decimaltal och svara i milliliter."
+    },
+    "easy_liquid_mass": {
+      "title": "Salt i vatten",
+      "guide": "Använd förhållandet mg/ml för att hitta hur mycket salt vattnet innehåller."
+    },
+    "watering_liquid_mass": {
+      "title": "Späda lösning",
+      "guide": "Räkna ut den nya saltmängden efter att du spätt lösningen med vatten."
+    },
+    "blending_liquid_mass": {
+      "title": "Blanda lösningar",
+      "guide": "Kombinera de givna lösningarna och ange den totala saltmängden."
+    },
+    "easy_liquid_percent": {
+      "title": "Salt i vatten",
+      "guide": "Använd procenttalet för att hitta hur mycket salt vattnet innehåller."
+    },
+    "watering_liquid_percent": {
+      "title": "Späda lösning",
+      "guide": "Räkna ut den nya styrkan efter att du har tillsatt vatten."
+    },
+    "blending_liquid_percent": {
+      "title": "Blanda lösningar",
+      "guide": "Ta reda på den resulterande procenten när två lösningar blandas."
+    },
+    "convert_to_ml": {
+      "title": "Omvandla till milliliter",
+      "guide": "Omvandla varje mått till milliliter."
+    },
+    "sort_liquid_units": {
+      "title": "Sortera vätskemängder",
+      "guide": "Ordna volymerna från minst till störst."
+    },
+    "sort_liquid_units_decimal": {
+      "title": "Sortera vätskemängder (decimaltal)",
+      "guide": "Ordna volymerna från minst till störst."
+    },
+    "add_and_convert_to_ml": {
+      "title": "Addera och omvandla till milliliter",
+      "guide": "Addera och ange svaret i milliliter."
+    },
+    "subtract_and_convert_to_ml": {
+      "title": "Subtrahera och omvandla till milliliter",
+      "guide": "Subtrahera och ange svaret i milliliter."
+    },
+    "multiply_and_convert_to_ml": {
+      "title": "Multiplicera och omvandla till milliliter",
+      "guide": "Multiplicera och ange svaret i milliliter."
+    },
+    "divide_and_convert_to_ml": {
+      "title": "Dividera och omvandla till milliliter",
+      "guide": "Dividera och ange svaret i milliliter."
+    },
+    "liquid_mass_concentration_amount": {
+      "title": "Saltmängd från koncentration",
+      "guide": "En lösning har saltkoncentration {concentration}. Hur många milligram salt finns i {volumeLabel}?"
+    },
+    "sort_liquid_mass_concentration": {
+      "title": "Sortera efter koncentration",
+      "guide": "Ordna lösningarna från lägst till högst koncentration."
+    }
+  },
+  "topic": {
+    "skills": "Färdighetsbaserad matematik",
+    "measurement": "Mätning och enheter",
+    "liquid_units": "Volymenheter",
+    "liquid_calculation": "Beräkningar med vätskor",
+    "liquid_mass_concentration": "Massa och koncentration",
+    "liquid_percent": "Procent i vätskor"
+  }
+}

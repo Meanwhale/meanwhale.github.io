@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Suolaliuoksen pitoisuus on 5 mg/ml. Kuinka monta mg suolaa on 200 ml:ssa tätä liuosta?",
+    "options": [
+      "1000 mg",
+      "500 mg",
+      "205 mg",
+      "40 mg"
+    ],
+    "explanation": "Laske suolan kokonaismäärä kertomalla pitoisuus tilavuudella: 5 mg/ml * 200 ml = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Jos liuos sisältää 8 mg suolaa per ml, mikä on suolan kokonaismäärä (mg) 125 ml:ssa liuosta?",
+    "options": [
+      "1000 mg",
+      "133 mg",
+      "87 mg",
+      "117 mg"
+    ],
+    "explanation": "Kerro pitoisuus (8 mg/ml) tilavuudella (125 ml): 8 mg/ml * 125 ml = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "300 ml:n suolavesinäytteen pitoisuus on 3 mg/ml. Mikä on suolan massa näytteessä?",
+    "options": [
+      "900 mg",
+      "100 mg",
+      "303 mg",
+      "297 mg"
+    ],
+    "explanation": "Kerro tilavuus (300 ml) pitoisuudella (3 mg/ml): 300 ml * 3 mg/ml = 900 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Jos liuoksessa on 4 mg suolaa jokaista ml kohti, kuinka monta mg suolaa on 250 ml:ssa liuosta?",
+    "options": [
+      "1000 mg",
+      "62 mg",
+      "254 mg",
+      "246 mg"
+    ],
+    "explanation": "Kerro pitoisuus (4 mg/ml) tilavuudella (250 ml): 4 mg/ml * 250 ml = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Liuoksen suolapitoisuus on 2 mg/ml. Kuinka paljon suolaa (mg) on 500 ml:n näytteessä?",
+    "options": [
+      "1000 mg",
+      "250 mg",
+      "502 mg",
+      "498 mg"
+    ],
+    "explanation": "Kerro pitoisuus (2 mg/ml) tilavuudella (500 ml): 2 mg/ml * 500 ml = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Mikä on suolan kokonaismäärä (mg) 600 ml:ssa liuosta, jonka pitoisuus on 1 mg/ml?",
+    "options": [
+      "600 mg",
+      "100 mg",
+      "601 mg",
+      "599 mg"
+    ],
+    "explanation": "Kerro tilavuus (600 ml) pitoisuudella (1 mg/ml): 600 ml * 1 mg/ml = 600 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Liuos sisältää 10 mg suolaa per ml. Kuinka monta mg suolaa on 100 ml:ssa liuosta?",
+    "options": [
+      "1000 mg",
+      "10 mg",
+      "110 mg",
+      "90 mg"
+    ],
+    "explanation": "Kerro pitoisuus (10 mg/ml) tilavuudella (100 ml): 10 mg/ml * 100 ml = 1000 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Jos suolaliuoksen pitoisuus on 6 mg/ml, mikä on suolan massa (mg) 166 ml:ssa liuosta?",
+    "options": [
+      "996 mg",
+      "27 mg",
+      "172 mg",
+      "160 mg"
+    ],
+    "explanation": "Kerro pitoisuus (6 mg/ml) tilavuudella (166 ml): 6 mg/ml * 166 ml = 996 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "Liuoksessa on 7 mg suolaa per ml. Kuinka monta mg suolaa on 142 ml:ssa tätä liuosta?",
+    "options": [
+      "994 mg",
+      "20 mg",
+      "149 mg",
+      "135 mg"
+    ],
+    "explanation": "Kerro pitoisuus (7 mg/ml) tilavuudella (142 ml): 7 mg/ml * 142 ml = 994 mg.",
+    "timeTag": 1757056831
+  },
+  {
+    "question": "1000 ml:n suolaliuosnäytteen pitoisuus on 1 mg/ml. Mikä on suolan kokonaismassa (mg) näytteessä?",
+    "options": [
+      "1000 mg",
+      "1 mg",
+      "1001 mg",
+      "999 mg"
+    ],
+    "explanation": "Kerro tilavuus (1000 ml) pitoisuudella (1 mg/ml): 1000 ml * 1 mg/ml = 1000 mg.",
+    "timeTag": 1757056831
+  }
+]

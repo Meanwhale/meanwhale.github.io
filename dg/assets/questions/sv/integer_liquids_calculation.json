@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Om du har 500 ml vatten och du tillsätter 200 ml till, hur mycket vatten har du i cl?",
+    "options": [
+      "70 cl",
+      "7 cl",
+      "7000 cl",
+      "700 cl"
+    ],
+    "explanation": "Först, addera volymerna: 500 ml + 200 ml = 700 ml. Sedan, konvertera ml till cl: 700 ml = 70 cl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Du har 80 cl juice. Om du dricker 30 cl, hur mycket juice finns kvar i ml?",
+    "options": [
+      "500 ml",
+      "50 ml",
+      "5 ml",
+      "5000 ml"
+    ],
+    "explanation": "Först, subtrahera volymerna: 80 cl - 30 cl = 50 cl. Sedan, konvertera cl till ml: 50 cl = 500 ml.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "En flaska innehåller 1000 ml läsk. Om du häller ut 400 ml, hur mycket läsk återstår i l?",
+    "options": [
+      "0,6 l",
+      "60 l",
+      "6 l",
+      "0,06 l"
+    ],
+    "explanation": "Först, subtrahera volymerna: 1000 ml - 400 ml = 600 ml. Sedan, konvertera ml till l: 600 ml = 0,6 l.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Du har 2 l mjölk och du tillsätter 500 ml grädde. Vad är den totala volymen i dl?",
+    "options": [
+      "25 dl",
+      "205 dl",
+      "250 dl",
+      "2,5 dl"
+    ],
+    "explanation": "Först konvertera l till ml: 2 l = 2000 ml. Addera sedan volymerna: 2000 ml + 500 ml = 2500 ml. Slutligen, konvertera ml till dl: 2500 ml = 25 dl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "En tank innehåller 5 l vatten. Om du tar bort 1000 ml, hur mycket vatten finns kvar i dl?",
+    "options": [
+      "40 dl",
+      "60 dl",
+      "4 dl",
+      "400 dl"
+    ],
+    "explanation": "Först konvertera l till ml: 5 l = 5000 ml. Subtrahera sedan volymerna: 5000 ml - 1000 ml = 4000 ml. Slutligen, konvertera ml till dl: 4000 ml = 40 dl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Du har 30 dl olja. Om du använder 500 ml, hur mycket olja finns kvar i l?",
+    "options": [
+      "2,5 l",
+      "3,5 l",
+      "0,25 l",
+      "25 l"
+    ],
+    "explanation": "Först konvertera dl till ml: 30 dl = 3000 ml. Subtrahera sedan volymerna: 3000 ml - 500 ml = 2500 ml. Slutligen, konvertera ml till l: 2500 ml = 2,5 l.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Om du har 700 ml vinäger och tillsätter 30 dl, vad är den totala volymen i l?",
+    "options": [
+      "3,7 l",
+      "7,3 l",
+      "37 l",
+      "0,37 l"
+    ],
+    "explanation": "Först konvertera dl till ml: 30 dl = 3000 ml. Addera sedan volymerna: 700 ml + 3000 ml = 3700 ml. Slutligen, konvertera ml till l: 3700 ml = 3,7 l.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Du har 10 l juice och häller ut 20 dl. Hur mycket juice återstår i cl?",
+    "options": [
+      "800 cl",
+      "1200 cl",
+      "80 cl",
+      "120 cl"
+    ],
+    "explanation": "Först konvertera l till dl: 10 l = 100 dl. Subtrahera sedan: 100 dl - 20 dl = 80 dl. Slutligen konvertera dl till cl: 80 dl = 800 cl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Ett recept kräver 2 l vatten. Du häller oavsiktligt i 2500 ml. Hur mycket extra vatten hällde du i dl?",
+    "options": [
+      "5 dl",
+      "45 dl",
+      "50 dl",
+      "0,5 dl"
+    ],
+    "explanation": "Först konvertera l till ml: 2 l = 2000 ml. Hitta sedan skillnaden: 2500 ml - 2000 ml = 500 ml. Slutligen konvertera ml till dl: 500 ml = 5 dl.",
+    "timeTag": 1756971956
+  },
+  {
+    "question": "Du har 4 l vatten. Du använder 500 ml för matlagning och 1500 ml för städning. Hur mycket vatten återstår i dl?",
+    "options": [
+      "20 dl",
+      "60 dl",
+      "2 dl",
+      "200 dl"
+    ],
+    "explanation": "Först konvertera l till ml: 4 l = 4000 ml. Subtrahera sedan: 4000 ml - 500 ml - 1500 ml = 2000 ml. Slutligen konvertera ml till dl: 2000 ml = 20 dl.",
+    "timeTag": 1756971956
+  }
+]

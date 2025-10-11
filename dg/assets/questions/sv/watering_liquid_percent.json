@@ -1,0 +1,112 @@
+[
+  {
+    "question": "En lösning innehåller 10 % salt. Om du tillsätter vatten för att fördubbla mängden av lösningen, vilken procentandel salt finns i den nya lösningen?",
+    "options": [
+      "5 %",
+      "15 %",
+      "20 %",
+      "25 %"
+    ],
+    "explanation": "Om du fördubblar mängden av lösningen genom att tillsätta vatten, halveras saltprocenten. 10 % / 2 = 5 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "En 20 % saltlösning har en volym på 100 ml. Om 100 ml vatten tillsätts, vad är den nya saltkoncentrationen?",
+    "options": [
+      "10 %",
+      "30 %",
+      "40 %",
+      "50 %"
+    ],
+    "explanation": "Initialt finns det 20 % salt i 100 ml, vilket betyder att 20 ml är salt. Efter att ha tillsatt 100 ml vatten finns det 20 ml salt i 200 ml lösning. Så den nya koncentrationen är (20 / 200) * 100 % = 10 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "Du har en 50 % saltlösning. Du tillsätter en lika stor mängd vatten. Vad är den resulterande saltprocenten?",
+    "options": [
+      "25 %",
+      "75 %",
+      "100 %",
+      "50 %"
+    ],
+    "explanation": "Att tillsätta en lika stor mängd vatten fördubblar volymen. Därför halveras saltprocenten. 50 % / 2 = 25 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "En 100 mg lösning innehåller 40 % salt. Om du späder ut den genom att tillsätta vatten för att göra den totalt 200 mg, vad är den nya saltprocenten?",
+    "options": [
+      "20 %",
+      "60 %",
+      "80 %",
+      "10 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Initialt är 40 % av 100 mg salt, så det finns 40 mg salt. Nu finns dessa 40 mg i 200 mg lösning. (40 / 200) * 100 % = 20 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "En lösning är 70 % salt. Om lösningens volym tredubblas genom att tillsätta vatten, vad är den nya procentandelen salt?",
+    "options": [
+      "23 %",
+      "25 %",
+      "21 %",
+      "22 %"
+    ],
+    "explanation": "När volymen tredubblas, divideras koncentrationen med 3. 70 / 3 = 23,33. Avrundat till 23 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "Du börjar med 60 mg lösning som är 30 % salt. Du tillsätter 140 mg vatten. Vilken procentandel av den nya lösningen är salt?",
+    "options": [
+      "9 %",
+      "39 %",
+      "69 %",
+      "99 %"
+    ],
+    "explanation": "Den initiala mängden salt är 30 % av 60 mg, eller 18 mg. Den slutliga lösningen har en massa på 60 mg + 140 mg = 200 mg. Procentandelen salt är då (18/200)*100 % vilket är 9 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "En 40 % saltlösning har en volym på 50 ml. Om du tillsätter 50 ml vatten, vad är den nya koncentrationen av salt?",
+    "options": [
+      "20 %",
+      "60 %",
+      "80 %",
+      "10 %"
+    ],
+    "explanation": "Den initiala mängden salt är 40 % av 50 ml = 20 ml salt. Den totala volymen blir 50 ml + 50 ml = 100 ml. Därför är saltkoncentrationen (20 ml / 100 ml) * 100 % = 20 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "En 100 mg lösning innehåller 80 % salt. Du tillsätter 300 mg vatten. Vad är saltkoncentrationen i den nya lösningen?",
+    "options": [
+      "20 %",
+      "10 %",
+      "30 %",
+      "40 %"
+    ],
+    "explanation": "Mängden salt initialt är 80 % av 100 mg, vilket är 80 mg. Den totala massan efter att ha tillsatt vatten är 100 mg + 300 mg = 400 mg. Den nya saltkoncentrationen är (80 / 400) * 100 % = 20 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "En lösning är 90 % salt. Vatten tillsätts så att volymen nu är 9 gånger den ursprungliga volymen. Vad är den nya saltprocenten?",
+    "options": [
+      "10 %",
+      "80 %",
+      "20 %",
+      "30 %"
+    ],
+    "explanation": "Om volymen ökar med en faktor 9, minskar koncentrationen med en faktor 9. Så, 90 % / 9 = 10 %.",
+    "timeTag": 1757058998
+  },
+  {
+    "question": "50 mg av en lösning är 60 % salt. Om du tillsätter 50 mg vatten, vad är den nya procentandelen salt i lösningen?",
+    "options": [
+      "30 %",
+      "90 %",
+      "10 %",
+      "60 %"
+    ],
+    "explanation": "Den initiala mängden salt är 60 % av 50 mg, vilket är 30 mg. Den slutliga massan är 50 mg + 50 mg = 100 mg. Procentandelen salt är (30 / 100) * 100 % = 30 %.",
+    "timeTag": 1757058998
+  }
+]

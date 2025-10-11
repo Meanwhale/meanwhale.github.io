@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Liuos on 10 % suolaa. Jos sinulla on 50 mg tätä liuosta, kuinka monta mg suolaa siinä on?",
+    "options": [
+      "5 mg",
+      "10 mg",
+      "2,5 mg",
+      "50 mg"
+    ],
+    "explanation": "10 % 50 mg:sta on (10/100) * 50 = 5 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Kuinka paljon suolaa on 25 mg:ssa liuosta, joka on 4 % suolaa?",
+    "options": [
+      "1 mg",
+      "2 mg",
+      "0,5 mg",
+      "4 mg"
+    ],
+    "explanation": "4 % 25 mg:sta on (4/100) * 25 = 1 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Liuos sisältää 20 % suolaa. Jos sinulla on 10 mg näyte, mikä on suolapitoisuus?",
+    "options": [
+      "2 mg",
+      "4 mg",
+      "1 mg",
+      "20 mg"
+    ],
+    "explanation": "20 % 10 mg:sta on (20/100) * 10 = 2 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Jos liuos koostuu 8 % suolasta, kuinka monta mg suolaa on 100 mg:ssa liuosta?",
+    "options": [
+      "8 mg",
+      "16 mg",
+      "4 mg",
+      "80 mg"
+    ],
+    "explanation": "8 % 100 mg:sta on (8/100) * 100 = 8 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "50 mg:n liuoksessa on 6 % suolaa. Mikä on suolan massa liuoksessa?",
+    "options": [
+      "3 mg",
+      "6 mg",
+      "1,5 mg",
+      "12 mg"
+    ],
+    "explanation": "6 % 50 mg:sta on (6/100) * 50 = 3 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Jos liuos on 2 % suolaa, kuinka monta mg suolaa on 75 mg:ssa liuosta?",
+    "options": [
+      "1,5 mg",
+      "3 mg",
+      "0,75 mg",
+      "2 mg"
+    ],
+    "explanation": "2 % 75 mg:sta on (2/100) * 75 = 1,5 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Liuosnäyte painaa 40 mg ja on 5 % suolaa. Kuinka paljon suolaa näytteessä on?",
+    "options": [
+      "2 mg",
+      "4 mg",
+      "1 mg",
+      "8 mg"
+    ],
+    "explanation": "5 % 40 mg:sta on (5/100) * 40 = 2 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "60 mg:n liuoksessa 15 % massasta on suolaa. Mikä suolan massa on?",
+    "options": [
+      "9 mg",
+      "3 mg",
+      "4,5 mg",
+      "12 mg"
+    ],
+    "explanation": "15 % 60 mg:sta on (15/100) * 60 = 9 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "Sinulla on 30 mg liuosta. Liuos on 30 % suolaa. Kuinka monta mg suolaa tämä on?",
+    "options": [
+      "9 mg",
+      "3 mg",
+      "6 mg",
+      "18 mg"
+    ],
+    "explanation": "30 % 30 mg:sta on (30/100) * 30 = 9 mg.",
+    "timeTag": 1757058996
+  },
+  {
+    "question": "90 mg:n liuos on 1 % suolaa. Kuinka monta mg suolaa liuoksessa on?",
+    "options": [
+      "0,9 mg",
+      "1,8 mg",
+      "0,45 mg",
+      "9 mg"
+    ],
+    "explanation": "1 % 90 mg:sta on (1/100) * 90 = 0,9 mg.",
+    "timeTag": 1757058996
+  }
+]

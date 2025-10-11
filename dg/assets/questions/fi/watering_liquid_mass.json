@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Liuoksella on pitoisuus 50 mg/ml. Jos 100 ml vettä lisätään 100 ml:aan tätä liuosta, mikä on uusi pitoisuus (mg/ml)?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "explanation": "Suolan määrä pysyy samana. Aluksi suolaa on 50 mg/ml * 100 ml = 5000 mg. Veden lisäämisen jälkeen kokonaistilavuus on 200 ml. Uusi pitoisuus on 5000 mg / 200 ml = 25 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Meillä on 200 ml suolavettä, jonka pitoisuus on 10 mg/ml. Jos lisätään 200 ml puhdasta vettä, mikä on lopullinen pitoisuus (mg/ml)?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "explanation": "Suolan kokonaismäärä on 200 ml * 10 mg/ml = 2000 mg. Veden lisäämisen jälkeen kokonaistilavuus on 400 ml. Uusi pitoisuus on 2000 mg / 400 ml = 5 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "500 ml:n liuoksessa on suolaa 2 mg/ml. Jos laimennamme sitä lisäämällä 500 ml vettä, mikä on uusi suolapitoisuus (mg/ml)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "Alkuperäinen suolan määrä on 500 ml * 2 mg/ml = 1000 mg. Veden lisäämisen jälkeen kokonaistilavuus on 1000 ml. Uusi pitoisuus on 1000 mg / 1000 ml = 1 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Aluksi meillä on 300 ml liuosta, jossa on suolaa 8 mg/ml. Jos lisätään 600 ml vettä, mikä on tuloksena oleva pitoisuus (mg/ml)?",
+    "options": [
+      "2,67",
+      "8",
+      "4",
+      "16"
+    ],
+    "explanation": "Alkuperäinen suolan määrä: 300 ml * 8 mg/ml = 2400 mg. Lopullinen tilavuus: 300 ml + 600 ml = 900 ml. Lopullinen pitoisuus: 2400 mg / 900 ml = 2,67 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "400 ml:n liuoksessa on suolan pitoisuus 5 mg/ml. Mikä on uusi pitoisuus, jos lisätään 600 ml vettä?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "1"
+    ],
+    "explanation": "Alkuperäinen suolan määrä: 400 ml * 5 mg/ml = 2000 mg. Lopullinen tilavuus: 400 ml + 600 ml = 1000 ml. Lopullinen pitoisuus: 2000 mg / 1000 ml = 2 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Meillä on 100 ml liuosta, jonka suolapitoisuus on 10 mg/ml. Jos lisätään 900 ml vettä, mikä on tuloksena oleva pitoisuus (mg/ml)?",
+    "options": [
+      "1",
+      "10",
+      "9",
+      "0,1"
+    ],
+    "explanation": "Alkuperäinen suolan määrä: 100 ml * 10 mg/ml = 1000 mg. Lopullinen tilavuus: 100 ml + 900 ml = 1000 ml. Lopullinen pitoisuus: 1000 mg / 1000 ml = 1 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Oletetaan, että sinulla on 600 ml liuosta, joka sisältää suolaa pitoisuudella 4 mg/ml. Lisäät 200 ml vettä. Mikä on uusi pitoisuus?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "explanation": "Alkuperäinen suolan määrä: 600 ml * 4 mg/ml = 2400 mg. Lopullinen tilavuus: 600 ml + 200 ml = 800 ml. Lopullinen pitoisuus: 2400 mg / 800 ml = 3 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Jos 700 ml:n liuoksessa on pitoisuus 3 mg/ml ja lisätään 100 ml vettä, mikä on likimääräinen tuloksena oleva pitoisuus (mg/ml)?",
+    "options": [
+      "2,625",
+      "3",
+      "2",
+      "4"
+    ],
+    "explanation": "Alkuperäinen suolan määrä: 700 ml * 3 mg/ml = 2100 mg. Lopullinen tilavuus: 700 ml + 100 ml = 800 ml. Lopullinen pitoisuus: 2100 mg / 800 ml = 2,625 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "900 ml:n liuos sisältää suolaa 2 mg/ml. Jos lisäät vettä tilavuuden nostamiseksi 1800 ml:aan, mikä on uusi pitoisuus (mg/ml)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "Alkuperäinen suolan määrä on 900 ml * 2 mg/ml = 1800 mg. Lopullinen tilavuus on 1800 ml. Uusi pitoisuus on 1800 mg / 1800 ml = 1 mg/ml.",
+    "timeTag": 1757056833
+  },
+  {
+    "question": "Oletetaan, että sinulla on 1000 ml suolaliuosta, jonka pitoisuus on 6 mg/ml. Jos lisäät 200 ml vettä, mikä on tuloksena oleva pitoisuus (mg/ml)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "Alkuperäinen suolan määrä: 1000 ml * 6 mg/ml = 6000 mg. Lopullinen tilavuus: 1000 ml + 200 ml = 1200 ml. Lopullinen pitoisuus: 6000 mg / 1200 ml = 5 mg/ml.",
+    "timeTag": 1757056833
+  }
+]

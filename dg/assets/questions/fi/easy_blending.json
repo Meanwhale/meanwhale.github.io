@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Sinulla on 100 ml 20 % suolaliuosta. Jos lisäät 100 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "10 %",
+      "15 %",
+      "25 %",
+      "30 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 20 ml suolaa (20 % 100 ml:sta). Kun lisäät 100 ml vettä, kokonaistilavuus on 200 ml. Uusi pitoisuus on (20 ml / 200 ml) * 100 % = 10 %."
+  },
+  {
+    "question": "Sinulla on 50 ml 30 % suolaliuosta. Jos lisäät 50 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "15 %",
+      "20 %",
+      "25 %",
+      "30 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 15 ml suolaa (30 % 50 ml:sta). Kun lisäät 50 ml vettä, kokonaistilavuus on 100 ml. Uusi pitoisuus on (15 ml / 100 ml) * 100 % = 15 %."
+  },
+  {
+    "question": "Sinulla on 200 ml 10 % suolaliuosta. Jos lisäät 100 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "6,67 %",
+      "5 %",
+      "7,5 %",
+      "12 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 20 ml suolaa (10 % 200 ml:sta). Kun lisäät 100 ml vettä, kokonaistilavuus on 300 ml. Uusi pitoisuus on (20 ml / 300 ml) * 100 % = 6,67 %."
+  },
+  {
+    "question": "Sinulla on 80 ml 25 % suolaliuosta. Jos lisäät 20 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "20 %",
+      "15 %",
+      "22,5 %",
+      "28 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 20 ml suolaa (25 % 80 ml:sta). Kun lisäät 20 ml vettä, kokonaistilavuus on 100 ml. Uusi pitoisuus on (20 ml / 100 ml) * 100 % = 20 %."
+  },
+  {
+    "question": "Sinulla on 150 ml 40 % suolaliuosta. Jos lisäät 50 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "30 %",
+      "20 %",
+      "35 %",
+      "45 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 60 ml suolaa (40 % 150 ml:sta). Kun lisäät 50 ml vettä, kokonaistilavuus on 200 ml. Uusi pitoisuus on (60 ml / 200 ml) * 100 % = 30 %."
+  },
+  {
+    "question": "Sinulla on 120 ml 15 % suolaliuosta. Jos lisäät 30 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "12 %",
+      "9 %",
+      "18 %",
+      "20 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 18 ml suolaa (15 % 120 ml:sta). Kun lisäät 30 ml vettä, kokonaistilavuus on 150 ml. Uusi pitoisuus on (18 ml / 150 ml) * 100 % = 12 %."
+  },
+  {
+    "question": "Sinulla on 250 ml 8 % suolaliuosta. Jos lisäät 50 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "6,67 %",
+      "4 %",
+      "8,33 %",
+      "10 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 20 ml suolaa (8 % 250 ml:sta). Kun lisäät 50 ml vettä, kokonaistilavuus on 300 ml. Uusi pitoisuus on (20 ml / 300 ml) * 100 % = 6,67 %."
+  },
+  {
+    "question": "Sinulla on 90 ml 33,33 % suolaliuosta. Jos lisäät 10 ml vettä, mikä on uusi suolapitoisuus?",
+    "options": [
+      "30 %",
+      "25 %",
+      "33,33 %",
+      "35 %"
+    ],
+    "explanation": "Suolan määrä pysyy vakiona. Aluksi sinulla on 30 ml suolaa (33,33 % 90 ml:sta). Kun lisäät 10 ml vettä, kokonaistilavuus on 100 ml. Uusi pitoisuus on (30 ml / 100 ml) * 100 % = 30 %."
+  },
+  {
+    "question": "Sinulla on 60 ml 20 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 10 % liuoksen?",
+    "options": [
+      "60 ml",
+      "30 ml",
+      "90 ml",
+      "120 ml"
+    ],
+    "explanation": "Sinulla on 12 ml suolaa (20 % 60 ml:sta). Jotta liuoksen pitoisuus olisi 10 %, 12 ml:n on oltava 10 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 120 ml. Sinun on lisättävä 120 ml - 60 ml = 60 ml vettä."
+  },
+  {
+    "question": "Sinulla on 75 ml 40 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 10 % liuoksen?",
+    "options": [
+      "225 ml",
+      "75 ml",
+      "150 ml",
+      "300 ml"
+    ],
+    "explanation": "Sinulla on 30 ml suolaa (40 % 75 ml:sta). Jotta liuoksen pitoisuus olisi 10 %, 30 ml:n on oltava 10 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 300 ml. Sinun on lisättävä 300 ml - 75 ml = 225 ml vettä."
+  },
+  {
+    "question": "Sinulla on 40 ml 50 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 20 % liuoksen?",
+    "options": [
+      "60 ml",
+      "20 ml",
+      "40 ml",
+      "80 ml"
+    ],
+    "explanation": "Sinulla on 20 ml suolaa (50 % 40 ml:sta). Jotta liuoksen pitoisuus olisi 20 %, 20 ml:n on oltava 20 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 100 ml. Sinun on lisättävä 100 ml - 40 ml = 60 ml vettä."
+  },
+  {
+    "question": "Sinulla on 100 ml 25 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 5 % liuoksen?",
+    "options": [
+      "400 ml",
+      "100 ml",
+      "200 ml",
+      "300 ml"
+    ],
+    "explanation": "Sinulla on 25 ml suolaa (25 % 100 ml:sta). Jotta liuoksen pitoisuus olisi 5 %, 25 ml:n on oltava 5 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 500 ml. Sinun on lisättävä 500 ml - 100 ml = 400 ml vettä."
+  },
+  {
+    "question": "Sinulla on 300 ml 10 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 2 % liuoksen?",
+    "options": [
+      "1200 ml",
+      "300 ml",
+      "600 ml",
+      "900 ml"
+    ],
+    "explanation": "Sinulla on 30 ml suolaa (10 % 300 ml:sta). Jotta liuoksen pitoisuus olisi 2 %, 30 ml:n on oltava 2 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 1500 ml. Sinun on lisättävä 1500 ml - 300 ml = 1200 ml vettä."
+  },
+  {
+    "question": "Sinulla on 500 ml 8 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 1 % liuoksen?",
+    "options": [
+      "3500 ml",
+      "500 ml",
+      "1000 ml",
+      "4000 ml"
+    ],
+    "explanation": "Sinulla on 40 ml suolaa (8 % 500 ml:sta). Jotta liuoksen pitoisuus olisi 1 %, 40 ml:n on oltava 1 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 4000 ml. Sinun on lisättävä 4000 ml - 500 ml = 3500 ml vettä."
+  },
+  {
+    "question": "Sinulla on 20 ml 25 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 5 % liuoksen?",
+    "options": [
+      "80 ml",
+      "20 ml",
+      "60 ml",
+      "100 ml"
+    ],
+    "explanation": "Sinulla on 5 ml suolaa (25 % 20 ml:sta). Jotta liuoksen pitoisuus olisi 5 %, 5 ml:n on oltava 5 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 100 ml. Sinun on lisättävä 100 ml - 20 ml = 80 ml vettä."
+  },
+  {
+    "question": "Sinulla on 70 ml 30 % suolaliuosta. Kuinka paljon vettä sinun on lisättävä, jotta saat 10 % liuoksen?",
+    "options": [
+      "140 ml",
+      "70 ml",
+      "100 ml",
+      "210 ml"
+    ],
+    "explanation": "Sinulla on 21 ml suolaa (30 % 70 ml:sta). Jotta liuoksen pitoisuus olisi 10 %, 21 ml:n on oltava 10 % kokonaistilavuudesta. Siksi kokonaistilavuuden on oltava 210 ml. Sinun on lisättävä 210 ml - 70 ml = 140 ml vettä."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Du har 100 ml 20 % saltlösning. Om du tillsätter 100 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "10 %",
+      "15 %",
+      "25 %",
+      "30 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 20 ml salt (20 % av 100 ml). Efter att ha tillsatt 100 ml vatten blir den totala volymen 200 ml. Den nya koncentrationen är (20 ml / 200 ml) * 100 % = 10 %."
+  },
+  {
+    "question": "Du har 50 ml 30 % saltlösning. Om du tillsätter 50 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "15 %",
+      "20 %",
+      "25 %",
+      "30 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 15 ml salt (30 % av 50 ml). Efter att ha tillsatt 50 ml vatten blir den totala volymen 100 ml. Den nya koncentrationen är (15 ml / 100 ml) * 100 % = 15 %."
+  },
+  {
+    "question": "Du har 200 ml 10 % saltlösning. Om du tillsätter 100 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "6,67 %",
+      "5 %",
+      "7,5 %",
+      "12 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 20 ml salt (10 % av 200 ml). Efter att ha tillsatt 100 ml vatten blir den totala volymen 300 ml. Den nya koncentrationen är (20 ml / 300 ml) * 100 % = 6,67 %."
+  },
+  {
+    "question": "Du har 80 ml 25 % saltlösning. Om du tillsätter 20 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "20 %",
+      "15 %",
+      "22,5 %",
+      "28 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 20 ml salt (25 % av 80 ml). Efter att ha tillsatt 20 ml vatten blir den totala volymen 100 ml. Den nya koncentrationen är (20 ml / 100 ml) * 100 % = 20 %."
+  },
+  {
+    "question": "Du har 150 ml 40 % saltlösning. Om du tillsätter 50 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "30 %",
+      "20 %",
+      "35 %",
+      "45 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 60 ml salt (40 % av 150 ml). Efter att ha tillsatt 50 ml vatten blir den totala volymen 200 ml. Den nya koncentrationen är (60 ml / 200 ml) * 100 % = 30 %."
+  },
+  {
+    "question": "Du har 120 ml 15 % saltlösning. Om du tillsätter 30 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "12 %",
+      "9 %",
+      "18 %",
+      "20 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 18 ml salt (15 % av 120 ml). Efter att ha tillsatt 30 ml vatten blir den totala volymen 150 ml. Den nya koncentrationen är (18 ml / 150 ml) * 100 % = 12 %."
+  },
+  {
+    "question": "Du har 250 ml 8 % saltlösning. Om du tillsätter 50 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "6,67 %",
+      "4 %",
+      "8,33 %",
+      "10 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 20 ml salt (8 % av 250 ml). Efter att ha tillsatt 50 ml vatten blir den totala volymen 300 ml. Den nya koncentrationen är (20 ml / 300 ml) * 100 % = 6,67 %."
+  },
+  {
+    "question": "Du har 90 ml 33,33 % saltlösning. Om du tillsätter 10 ml vatten, vad är den nya saltkoncentrationen?",
+    "options": [
+      "30 %",
+      "25 %",
+      "33,33 %",
+      "35 %"
+    ],
+    "explanation": "Mängden salt förblir konstant. Ursprungligen har du 30 ml salt (33,33 % av 90 ml). Efter att ha tillsatt 10 ml vatten blir den totala volymen 100 ml. Den nya koncentrationen är (30 ml / 100 ml) * 100 % = 30 %."
+  },
+  {
+    "question": "Du har 60 ml 20 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 10 % lösning?",
+    "options": [
+      "60 ml",
+      "30 ml",
+      "90 ml",
+      "120 ml"
+    ],
+    "explanation": "Du har 12 ml salt (20 % av 60 ml). För att ha en 10 % lösning måste 12 ml vara 10 % av den totala volymen. Därför måste den totala volymen vara 120 ml. Du behöver tillsätta 120 ml - 60 ml = 60 ml vatten."
+  },
+  {
+    "question": "Du har 75 ml 40 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 10 % lösning?",
+    "options": [
+      "225 ml",
+      "75 ml",
+      "150 ml",
+      "300 ml"
+    ],
+    "explanation": "Du har 30 ml salt (40 % av 75 ml). För att ha en 10 % lösning måste 30 ml vara 10 % av den totala volymen. Därför måste den totala volymen vara 300 ml. Du behöver tillsätta 300 ml - 75 ml = 225 ml vatten."
+  },
+  {
+    "question": "Du har 40 ml 50 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 20 % lösning?",
+    "options": [
+      "60 ml",
+      "20 ml",
+      "40 ml",
+      "80 ml"
+    ],
+    "explanation": "Du har 20 ml salt (50 % av 40 ml). För att ha en 20 % lösning måste 20 ml vara 20 % av den totala volymen. Därför måste den totala volymen vara 100 ml. Du behöver tillsätta 100 ml - 40 ml = 60 ml vatten."
+  },
+  {
+    "question": "Du har 100 ml 25 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 5 % lösning?",
+    "options": [
+      "400 ml",
+      "100 ml",
+      "200 ml",
+      "300 ml"
+    ],
+    "explanation": "Du har 25 ml salt (25 % av 100 ml). För att ha en 5 % lösning måste 25 ml vara 5 % av den totala volymen. Därför måste den totala volymen vara 500 ml. Du behöver tillsätta 500 ml - 100 ml = 400 ml vatten."
+  },
+  {
+    "question": "Du har 300 ml 10 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 2 % lösning?",
+    "options": [
+      "1200 ml",
+      "300 ml",
+      "600 ml",
+      "900 ml"
+    ],
+    "explanation": "Du har 30 ml salt (10 % av 300 ml). För att ha en 2 % lösning måste 30 ml vara 2 % av den totala volymen. Därför måste den totala volymen vara 1500 ml. Du behöver tillsätta 1500 ml - 300 ml = 1200 ml vatten."
+  },
+  {
+    "question": "Du har 500 ml 8 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 1 % lösning?",
+    "options": [
+      "3500 ml",
+      "500 ml",
+      "1000 ml",
+      "4000 ml"
+    ],
+    "explanation": "Du har 40 ml salt (8 % av 500 ml). För att ha en 1 % lösning måste 40 ml vara 1 % av den totala volymen. Därför måste den totala volymen vara 4000 ml. Du behöver tillsätta 4000 ml - 500 ml = 3500 ml vatten."
+  },
+  {
+    "question": "Du har 20 ml 25 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 5 % lösning?",
+    "options": [
+      "80 ml",
+      "20 ml",
+      "60 ml",
+      "100 ml"
+    ],
+    "explanation": "Du har 5 ml salt (25 % av 20 ml). För att ha en 5 % lösning måste 5 ml vara 5 % av den totala volymen. Därför måste den totala volymen vara 100 ml. Du behöver tillsätta 100 ml - 20 ml = 80 ml vatten."
+  },
+  {
+    "question": "Du har 70 ml 30 % saltlösning. Hur mycket vatten behöver du tillsätta för att göra det till en 10 % lösning?",
+    "options": [
+      "140 ml",
+      "70 ml",
+      "100 ml",
+      "210 ml"
+    ],
+    "explanation": "Du har 21 ml salt (30 % av 70 ml). För att ha en 10 % lösning måste 21 ml vara 10 % av den totala volymen. Därför måste den totala volymen vara 210 ml. Du behöver tillsätta 210 ml - 70 ml = 140 ml vatten."
+  }
+]

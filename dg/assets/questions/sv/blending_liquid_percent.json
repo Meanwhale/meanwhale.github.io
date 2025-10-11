@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Du blandar 20 mg av en 10 % saltlösning med 30 mg av en 20 % saltlösning. Vad är saltkoncentrationen i den resulterande lösningen?",
+    "options": [
+      "16 %",
+      "12 %",
+      "25 %",
+      "30 %"
+    ],
+    "explanation": "Den första lösningen innehåller 20 * 0,10 = 2 mg salt. Den andra lösningen innehåller 30 * 0,20 = 6 mg salt. Den totala mängden salt är 2 + 6 = 8 mg. Den totala volymen av lösningen är 20 + 30 = 50 mg. Därför är koncentrationen av den resulterande lösningen (8 / 50) * 100 % = 16 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Om du kombinerar 50 mg av en 30 % saltlösning och 50 mg av en 10 % saltlösning, vilken procentandel salt finns det i den slutliga blandningen?",
+    "options": [
+      "20 %",
+      "40 %",
+      "35 %",
+      "15 %"
+    ],
+    "explanation": "Den första lösningen innehåller 50 * 0,30 = 15 mg salt. Den andra lösningen innehåller 50 * 0,10 = 5 mg salt. Den totala mängden salt är 15 + 5 = 20 mg. Den totala volymen av lösningen är 50 + 50 = 100 mg. Därför är koncentrationen av den resulterande lösningen (20 / 100) * 100 % = 20 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Vad är saltkoncentrationen om du blandar 40 mg av en 25 % saltlösning med 60 mg av en 5 % saltlösning?",
+    "options": [
+      "13 %",
+      "15 %",
+      "20 %",
+      "30 %"
+    ],
+    "explanation": "Den första lösningen innehåller 40 * 0,25 = 10 mg salt. Den andra lösningen innehåller 60 * 0,05 = 3 mg salt. Den totala mängden salt är 10 + 3 = 13 mg. Den totala volymen av lösningen är 40 + 60 = 100 mg. Därför är koncentrationen av den resulterande lösningen (13 / 100) * 100 % = 13 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Du har två saltlösningar. Den första är 70 mg med 40 % salt, och den andra är 30 mg med 10 % salt. Efter att du blandat dem, vad är saltkoncentrationen?",
+    "options": [
+      "31 %",
+      "25 %",
+      "35 %",
+      "50 %"
+    ],
+    "explanation": "Den första lösningen innehåller 70 * 0,40 = 28 mg salt. Den andra lösningen innehåller 30 * 0,10 = 3 mg salt. Den totala mängden salt är 28 + 3 = 31 mg. Den totala volymen av lösningen är 70 + 30 = 100 mg. Därför är koncentrationen av den resulterande lösningen (31 / 100) * 100 % = 31 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "En 60 mg lösning innehåller 60 % salt, och den blandas med 40 mg av en 20 % saltlösning. Vad är den slutliga procentandelen salt?",
+    "options": [
+      "44 %",
+      "30 %",
+      "50 %",
+      "70 %"
+    ],
+    "explanation": "Den första lösningen innehåller 60 * 0,60 = 36 mg salt. Den andra lösningen innehåller 40 * 0,20 = 8 mg salt. Den totala mängden salt är 36 + 8 = 44 mg. Den totala volymen av lösningen är 60 + 40 = 100 mg. Därför är koncentrationen av den resulterande lösningen (44 / 100) * 100 % = 44 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Kombinera en 10 mg lösning med 90 % salt med en 90 mg lösning med 10 % salt. Vad är saltkoncentrationen i resultatet?",
+    "options": [
+      "18 %",
+      "50 %",
+      "90 %",
+      "10 %"
+    ],
+    "explanation": "Den första lösningen innehåller 10 * 0,90 = 9 mg salt. Den andra lösningen innehåller 90 * 0,10 = 9 mg salt. Den totala mängden salt är 9 + 9 = 18 mg. Den totala volymen av lösningen är 10 + 90 = 100 mg. Därför är koncentrationen av den resulterande lösningen (18 / 100) * 100 % = 18 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Om du blandar 80 mg av en 5 % saltlösning med 20 mg av en 25 % saltlösning, vad är den resulterande saltkoncentrationen?",
+    "options": [
+      "9 %",
+      "15 %",
+      "5 %",
+      "25 %"
+    ],
+    "explanation": "Den första lösningen innehåller 80 * 0,05 = 4 mg salt. Den andra lösningen innehåller 20 * 0,25 = 5 mg salt. Den totala mängden salt är 4 + 5 = 9 mg. Den totala volymen av lösningen är 80 + 20 = 100 mg. Därför är koncentrationen av den resulterande lösningen (9 / 100) * 100 % = 9 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Du blandar 5 mg av en 100 % saltlösning med 95 mg av en 0 % saltlösning. Vad är saltkoncentrationen i den resulterande lösningen?",
+    "options": [
+      "5 %",
+      "95 %",
+      "50 %",
+      "0 %"
+    ],
+    "explanation": "Den första lösningen innehåller 5 * 1,00 = 5 mg salt. Den andra lösningen innehåller 95 * 0,00 = 0 mg salt. Den totala mängden salt är 5 + 0 = 5 mg. Den totala volymen av lösningen är 5 + 95 = 100 mg. Därför är koncentrationen av den resulterande lösningen (5 / 100) * 100 % = 5 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Vilken procentandel salt kommer att finnas i en blandning av 65 mg av en 20 % saltlösning och 35 mg av en 40 % saltlösning?",
+    "options": [
+      "27 %",
+      "30 %",
+      "25 %",
+      "35 %"
+    ],
+    "explanation": "Den första lösningen innehåller 65 * 0,20 = 13 mg salt. Den andra lösningen innehåller 35 * 0,40 = 14 mg salt. Den totala mängden salt är 13 + 14 = 27 mg. Den totala volymen av lösningen är 65 + 35 = 100 mg. Därför är koncentrationen av den resulterande lösningen (27 / 100) * 100 % = 27 %.",
+    "timeTag": 1757059000
+  },
+  {
+    "question": "Om du blandar en 75 mg lösning med 8 % salt med en 25 mg lösning med 24 % salt, vad blir den slutliga saltkoncentrationen?",
+    "options": [
+      "12 %",
+      "10 %",
+      "16 %",
+      "20 %"
+    ],
+    "explanation": "Den första lösningen innehåller 75 * 0,08 = 6 mg salt. Den andra lösningen innehåller 25 * 0,24 = 6 mg salt. Den totala mängden salt är 6 + 6 = 12 mg. Den totala volymen av lösningen är 75 + 25 = 100 mg. Därför är koncentrationen av den resulterande lösningen (12 / 100) * 100 % = 12 %.",
+    "timeTag": 1757059000
+  }
+]

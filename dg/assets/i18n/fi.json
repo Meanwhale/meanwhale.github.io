@@ -1,0 +1,144 @@
+{
+  "menu": {
+    "title": "Matikkatreeni",
+    "start": "Aloita",
+    "language": "Kieli",
+    "feedback": "Palaute",
+    "commonBack": "Takaisin",
+    "commonYes": "Kyllä",
+    "commonNo": "Ei",
+    "commonNext": "Seuraava",
+    "commonCheck": "Tarkista",
+    "loaderLoading": "Ladataan...",
+    "loaderErrorTitle": "Latausvirhe",
+    "loaderBackToMenu": "Takaisin valikkoon",
+    "resultsTitle": "Valmista!",
+    "resultsRestart": "Aloita alusta",
+    "resultsMenu": "Valikko",
+    "subtopicsTitle": "Valitse aihe",
+    "formatMcq": "Monivalinta",
+    "formatCalculus": "Laskutehtävä",
+    "formatSort": "Lajittelu"
+  },
+  "language": {
+    "title": "Valitse kieli",
+    "english": "Englanti",
+    "swedish": "Ruotsi",
+    "finnish": "Suomi",
+    "thai": "Thai",
+    "selected": "Valittu: {name}"
+  },
+  "gameplay": {
+    "title": "Tietovisa",
+    "correct": "Oikein!",
+    "wrongPrefix": "Väärin! Oikea vastaus: {answer}",
+    "next": "Seuraava",
+    "menu": "Valikko",
+    "quitTitle": "Lopetetaanko visailu?",
+    "quitMessage": "Haluatko palata päävalikkoon?",
+    "score": "Pisteet: {score} / {total}",
+    "qnum": "Kysymys {n} / {total}",
+    "sortGuide": "Vedä painikkeet oikeaan järjestykseen."
+  },
+  "units": {
+    "ml": "ml",
+    "cl": "cl",
+    "dl": "dl",
+    "l": "l",
+    "mg": "mg"
+  },
+  "exercise": {
+    "easy_liquids_units": {
+      "title": "Muunna millilitroiksi",
+      "guide": "Muunna millilitroiksi."
+    },
+    "liquids_units_integers": {
+      "title": "Yksiköiden vastaavuus (kokonaisluvut)",
+      "guide": "Muunna kokonaislukuarvoisia nestemääriä litrojen, desilitrojen, senttilitrojen ja millilitrojen välillä."
+    },
+    "liquids_units_decimals": {
+      "title": "Yksiköiden vastaavuus (desimaalit)",
+      "guide": "Muunna desimaalilukuarvoisia nestemääriä litrojen, desilitrojen, senttilitrojen ja millilitrojen välillä."
+    },
+    "integer_liquids_calculation": {
+      "title": "Lisää/Vähennä nesteitä (kokonaisluvut)",
+      "guide": "Laske annetut kokonaislukuarvoiset nestemäärät yhteen tai vähennä ja vastaa millilitroina."
+    },
+    "decimal_liquids_calculation": {
+      "title": "Lisää/Vähennä nesteitä (desimaalit)",
+      "guide": "Laske annetut desimaalilukuarvoiset nestemäärät yhteen tai vähennä ja vastaa millilitroina."
+    },
+    "advanced_decimal_liquids_calculation": {
+      "title": "Kerro/Jaa nesteitä (desimaalit)",
+      "guide": "Kerro tai jaa desimaalilukuarvoiset nestemäärät ja vastaa millilitroina."
+    },
+    "easy_liquid_mass": {
+      "title": "Suola vedessä",
+      "guide": "Käytä mg/ml-suhdetta ja selvitä suolan massa vedessä."
+    },
+    "watering_liquid_mass": {
+      "title": "Liuoksen laimentaminen",
+      "guide": "Laske uusi suolan määrä, kun liuosta laimennetaan vedellä."
+    },
+    "blending_liquid_mass": {
+      "title": "Liuosten sekoittaminen",
+      "guide": "Yhdistä annetut liuokset ja ilmoita suolan kokonaismäärä."
+    },
+    "easy_liquid_percent": {
+      "title": "Suola vedessä",
+      "guide": "Käytä prosenttia selvittääksesi kuinka paljon suolaa vedessä on."
+    },
+    "watering_liquid_percent": {
+      "title": "Liuoksen laimentaminen",
+      "guide": "Laske uusi prosenttivahvuus, kun lisäät veteen."
+    },
+    "blending_liquid_percent": {
+      "title": "Liuosten sekoittaminen",
+      "guide": "Selvitä kahden liuoksen sekoittamisesta syntyvä prosentti."
+    },
+    "convert_to_ml": {
+      "title": "Muunna millilitroiksi",
+      "guide": "Muunna jokainen mitta millilitroiksi."
+    },
+    "sort_liquid_units": {
+      "title": "Lajittele nestemitat",
+      "guide": "Järjestä nestemitat pienimmästä suurimpaan."
+    },
+    "sort_liquid_units_decimal": {
+      "title": "Lajittele nestemitat (desimaalit)",
+      "guide": "Järjestä nestemitat pienimmästä suurimpaan."
+    },
+    "add_and_convert_to_ml": {
+      "title": "Laske yhteen ja muunna millilitroiksi",
+      "guide": "Laske yhteen ja ilmoita millilitroina."
+    },
+    "subtract_and_convert_to_ml": {
+      "title": "Vähennä ja muunna millilitroiksi",
+      "guide": "Vähennä ja ilmoita millilitroina."
+    },
+    "multiply_and_convert_to_ml": {
+      "title": "Kerro ja muunna millilitroiksi",
+      "guide": "Kerro ja ilmoita millilitroina."
+    },
+    "divide_and_convert_to_ml": {
+      "title": "Jaa ja muunna millilitroiksi",
+      "guide": "Jaa ja ilmoita millilitroina."
+    },
+    "liquid_mass_concentration_amount": {
+      "title": "Suolamäärä pitoisuudesta",
+      "guide": "Liuoksella on suolapitoisuus {concentration}. Kuinka monta milligrammaa suolaa on määrässä {volumeLabel}?"
+    },
+    "sort_liquid_mass_concentration": {
+      "title": "Lajittele pitoisuuden mukaan",
+      "guide": "Järjestä liuokset matalimmasta korkeimpaan pitoisuuteen."
+    }
+  },
+  "topic": {
+    "skills": "Taitopohjainen matematiikka",
+    "measurement": "Mittaaminen ja yksiköt",
+    "liquid_units": "Tilavuusyksiköt",
+    "liquid_calculation": "Nesteiden laskut",
+    "liquid_mass_concentration": "Massa ja pitoisuus",
+    "liquid_percent": "Nesteiden prosentit"
+  }
+}

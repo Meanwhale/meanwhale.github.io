@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Lösning A har en koncentration på 100 mg/mL och Lösning B har en koncentration på 200 mg/mL. Om du blandar 50 mL av Lösning A med 50 mL av Lösning B, vad är den slutliga koncentrationen av blandningen i mg/mL?",
+    "options": [
+      "150 mg/mL",
+      "100 mg/mL",
+      "200 mg/mL",
+      "250 mg/mL"
+    ],
+    "explanation": "Lösning A innehåller 50 mL * 100 mg/mL = 5000 mg salt. Lösning B innehåller 50 mL * 200 mg/mL = 10000 mg salt. Den totala volymen är 50 mL + 50 mL = 100 mL. Den totala mängden salt är 5000 mg + 10000 mg = 15000 mg. Den slutliga koncentrationen är 15000 mg / 100 mL = 150 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Du har 200 mL av en saltlösning med en koncentration på 50 mg/mL. Du blandar den med 300 mL av en saltlösning med en koncentration på 100 mg/mL. Vad är koncentrationen av den slutliga lösningen i mg/mL?",
+    "options": [
+      "80 mg/mL",
+      "60 mg/mL",
+      "70 mg/mL",
+      "90 mg/mL"
+    ],
+    "explanation": "Den första lösningen innehåller 200 mL * 50 mg/mL = 10000 mg salt. Den andra lösningen innehåller 300 mL * 100 mg/mL = 30000 mg salt. Den totala volymen är 200 mL + 300 mL = 500 mL. Den totala mängden salt är 10000 mg + 30000 mg = 40000 mg. Den slutliga koncentrationen är 40000 mg / 500 mL = 80 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Om du kombinerar 100 mL av en 400 mg/mL saltlösning med 100 mL rent vatten (0 mg/mL), vad är koncentrationen av den resulterande lösningen i mg/mL?",
+    "options": [
+      "200 mg/mL",
+      "100 mg/mL",
+      "300 mg/mL",
+      "400 mg/mL"
+    ],
+    "explanation": "Saltlösningen innehåller 100 mL * 400 mg/mL = 40000 mg salt. Det rena vattnet innehåller 0 mg salt. Den totala volymen är 100 mL + 100 mL = 200 mL. Den totala mängden salt är 40000 mg. Den slutliga koncentrationen är 40000 mg / 200 mL = 200 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Vad är den slutliga koncentrationen i mg/mL när man blandar 250 mL av en 20 mg/mL lösning med 250 mL av en 60 mg/mL lösning?",
+    "options": [
+      "40 mg/mL",
+      "20 mg/mL",
+      "30 mg/mL",
+      "80 mg/mL"
+    ],
+    "explanation": "Den första lösningen innehåller 250 mL * 20 mg/mL = 5000 mg salt. Den andra lösningen innehåller 250 mL * 60 mg/mL = 15000 mg salt. Den totala volymen är 250 mL + 250 mL = 500 mL. Den totala mängden salt är 5000 mg + 15000 mg = 20000 mg. Den slutliga koncentrationen är 20000 mg / 500 mL = 40 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "En forskare blandar 500 mL av en 10 mg/mL saltlösning med 500 mL av en 30 mg/mL saltlösning. Vad är den resulterande koncentrationen av salt i mg/mL?",
+    "options": [
+      "20 mg/mL",
+      "10 mg/mL",
+      "15 mg/mL",
+      "30 mg/mL"
+    ],
+    "explanation": "Den första lösningen innehåller 500 mL * 10 mg/mL = 5000 mg salt. Den andra lösningen innehåller 500 mL * 30 mg/mL = 15000 mg salt. Den totala volymen är 500 mL + 500 mL = 1000 mL. Den totala mängden salt är 5000 mg + 15000 mg = 20000 mg. Den slutliga koncentrationen är 20000 mg / 1000 mL = 20 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Du har två saltlösningar: 300 mL vid 40 mg/mL och 100 mL vid 80 mg/mL. Om du blandar dem, vad är den resulterande koncentrationen i mg/mL?",
+    "options": [
+      "50 mg/mL",
+      "40 mg/mL",
+      "60 mg/mL",
+      "80 mg/mL"
+    ],
+    "explanation": "Den första lösningen innehåller 300 mL * 40 mg/mL = 12000 mg salt. Den andra lösningen innehåller 100 mL * 80 mg/mL = 8000 mg salt. Den totala volymen är 300 mL + 100 mL = 400 mL. Den totala mängden salt är 12000 mg + 8000 mg = 20000 mg. Den slutliga koncentrationen är 20000 mg / 400 mL = 50 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "En lösning på 600 mL med en koncentration på 25 mg/mL blandas med 400 mL av en 50 mg/mL lösning. Vad är den slutliga koncentrationen?",
+    "options": [
+      "35 mg/mL",
+      "25 mg/mL",
+      "40 mg/mL",
+      "50 mg/mL"
+    ],
+    "explanation": "Den första lösningen innehåller 600 mL * 25 mg/mL = 15000 mg salt. Den andra lösningen innehåller 400 mL * 50 mg/mL = 20000 mg salt. Den totala volymen är 600 mL + 400 mL = 1000 mL. Den totala mängden salt är 15000 mg + 20000 mg = 35000 mg. Den slutliga koncentrationen är 35000 mg / 1000 mL = 35 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "50 mL av en 20 mg/mL saltlösning blandas med 450 mL rent vatten. Vad är den slutliga koncentrationen i mg/mL?",
+    "options": [
+      "2 mg/mL",
+      "1 mg/mL",
+      "4 mg/mL",
+      "20 mg/mL"
+    ],
+    "explanation": "Saltlösningen innehåller 50 mL * 20 mg/mL = 1000 mg salt. Det rena vattnet innehåller 0 mg salt. Den totala volymen är 50 mL + 450 mL = 500 mL. Den totala mängden salt är 1000 mg. Den slutliga koncentrationen är 1000 mg / 500 mL = 2 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Du blandar 700 mL av en lösning vid 10 mg/mL med 300 mL av en lösning vid 30 mg/mL. Vad är den slutliga koncentrationen i mg/mL?",
+    "options": [
+      "16 mg/mL",
+      "10 mg/mL",
+      "20 mg/mL",
+      "30 mg/mL"
+    ],
+    "explanation": "Den första lösningen innehåller 700 mL * 10 mg/mL = 7000 mg salt. Den andra lösningen innehåller 300 mL * 30 mg/mL = 9000 mg salt. Den totala volymen är 700 mL + 300 mL = 1000 mL. Den totala mängden salt är 7000 mg + 9000 mg = 16000 mg. Den slutliga koncentrationen är 16000 mg / 1000 mL = 16 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "Om 150 mL av en 4 mg/mL saltlösning tillsätts till 350 mL av en 8 mg/mL saltlösning, vad är den slutliga koncentrationen i mg/mL?",
+    "options": [
+      "6,8 mg/mL",
+      "4 mg/mL",
+      "6 mg/mL",
+      "8 mg/mL"
+    ],
+    "explanation": "Den första lösningen innehåller 150 mL * 4 mg/mL = 600 mg salt. Den andra lösningen innehåller 350 mL * 8 mg/mL = 2800 mg salt. Den totala volymen är 150 mL + 350 mL = 500 mL. Den totala mängden salt är 600 mg + 2800 mg = 3400 mg. Den slutliga koncentrationen är 3400 mg / 500 mL = 6,8 mg/mL.",
+    "timeTag": 1757056837
+  }
+]

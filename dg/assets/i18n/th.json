@@ -1,0 +1,144 @@
+{
+  "menu": {
+    "title": "ฝึกคณิตศาสตร์",
+    "start": "เริ่ม",
+    "language": "ภาษา",
+    "feedback": "ข้อเสนอแนะ",
+    "commonBack": "ย้อนกลับ",
+    "commonYes": "ใช่",
+    "commonNo": "ไม่ใช่",
+    "commonNext": "ถัดไป",
+    "commonCheck": "ตรวจสอบ",
+    "loaderLoading": "กำลังโหลด...",
+    "loaderErrorTitle": "เกิดข้อผิดพลาดในการโหลด",
+    "loaderBackToMenu": "กลับสู่เมนู",
+    "resultsTitle": "เสร็จเรียบร้อย!",
+    "resultsRestart": "เริ่มใหม่",
+    "resultsMenu": "เมนู",
+    "subtopicsTitle": "เลือกหัวข้อ",
+    "formatMcq": "ปรนัย",
+    "formatCalculus": "คำนวณ",
+    "formatSort": "เรียงลำดับ"
+  },
+  "language": {
+    "title": "เลือกภาษา",
+    "english": "อังกฤษ",
+    "swedish": "สวีเดน",
+    "finnish": "ฟินแลนด์",
+    "thai": "ไทย",
+    "selected": "เลือกแล้ว: {name}"
+  },
+  "gameplay": {
+    "title": "ตอบคำถาม",
+    "correct": "ถูกต้อง!",
+    "wrongPrefix": "ผิด! คำตอบที่ถูกคือ {answer}",
+    "next": "ถัดไป",
+    "menu": "เมนู",
+    "quitTitle": "ออกจากควิซหรือไม่?",
+    "quitMessage": "ต้องการกลับไปยังเมนูหลักหรือไม่?",
+    "score": "คะแนน: {score} / {total}",
+    "qnum": "คำถาม {n} / {total}",
+    "sortGuide": "ลากปุ่มให้เรียงตามลำดับที่ถูกต้อง."
+  },
+  "units": {
+    "ml": "มล.",
+    "cl": "ซล.",
+    "dl": "ดล.",
+    "l": "ล.",
+    "mg": "มก."
+  },
+  "exercise": {
+    "easy_liquids_units": {
+      "title": "แปลงเป็นมิลลิลิตร",
+      "guide": "แปลงเป็นมิลลิลิตร."
+    },
+    "liquids_units_integers": {
+      "title": "หน่วยสมมูล (จำนวนเต็ม)",
+      "guide": "แปลงปริมาตรจำนวนเต็มระหว่างลิตร เดซิลิตร เซนติลิตร และมิลลิลิตร."
+    },
+    "liquids_units_decimals": {
+      "title": "หน่วยสมมูล (ทศนิยม)",
+      "guide": "แปลงปริมาตรทศนิยมระหว่างลิตร เดซิลิตร เซนติลิตร และมิลลิลิตร."
+    },
+    "integer_liquids_calculation": {
+      "title": "บวก/ลบ ปริมาตร (จำนวนเต็ม)",
+      "guide": "บวกหรือลบปริมาตรจำนวนเต็มที่กำหนดและตอบเป็นมิลลิลิตร."
+    },
+    "decimal_liquids_calculation": {
+      "title": "บวก/ลบ ปริมาตร (ทศนิยม)",
+      "guide": "บวกหรือลบปริมาตรทศนิยมที่กำหนดและตอบเป็นมิลลิลิตร."
+    },
+    "advanced_decimal_liquids_calculation": {
+      "title": "คูณ/หาร ปริมาตร (ทศนิยม)",
+      "guide": "คูณหรือหารปริมาตรทศนิยมที่กำหนดและตอบเป็นมิลลิลิตร."
+    },
+    "easy_liquid_mass": {
+      "title": "ปริมาณเกลือในน้ำ",
+      "guide": "ใช้สัดส่วน mg/ml เพื่อหามวลเกลือในน้ำ."
+    },
+    "watering_liquid_mass": {
+      "title": "เจือจางสารละลาย",
+      "guide": "คำนวณมวลเกลือใหม่หลังเติมน้ำเจือจางสารละลาย."
+    },
+    "blending_liquid_mass": {
+      "title": "ผสมสารละลาย",
+      "guide": "ผสมสารละลายที่ให้มาและรายงานมวลเกลือรวม."
+    },
+    "easy_liquid_percent": {
+      "title": "ปริมาณเกลือในน้ำ",
+      "guide": "ใช้ค่าเปอร์เซ็นต์เพื่อหาปริมาณเกลือในน้ำ."
+    },
+    "watering_liquid_percent": {
+      "title": "เจือจางสารละลาย",
+      "guide": "หาความเข้มข้นใหม่หลังจากเติมน้ำ."
+    },
+    "blending_liquid_percent": {
+      "title": "ผสมสารละลาย",
+      "guide": "หาค่าเปอร์เซ็นต์ที่ได้เมื่อผสมสารละลายสองชนิด."
+    },
+    "convert_to_ml": {
+      "title": "แปลงเป็นมิลลิลิตร",
+      "guide": "แปลงแต่ละค่าที่ให้เป็นมิลลิลิตร."
+    },
+    "sort_liquid_units": {
+      "title": "เรียงลำดับปริมาตร",
+      "guide": "จัดปริมาตรจากน้อยไปมาก."
+    },
+    "sort_liquid_units_decimal": {
+      "title": "เรียงลำดับปริมาตร (ทศนิยม)",
+      "guide": "จัดปริมาตรจากน้อยไปมาก."
+    },
+    "add_and_convert_to_ml": {
+      "title": "บวกแล้วแปลงเป็นมิลลิลิตร",
+      "guide": "บวกแล้วตอบเป็นมิลลิลิตร."
+    },
+    "subtract_and_convert_to_ml": {
+      "title": "ลบแล้วแปลงเป็นมิลลิลิตร",
+      "guide": "ลบแล้วตอบเป็นมิลลิลิตร."
+    },
+    "multiply_and_convert_to_ml": {
+      "title": "คูณแล้วแปลงเป็นมิลลิลิตร",
+      "guide": "คูณแล้วตอบเป็นมิลลิลิตร."
+    },
+    "divide_and_convert_to_ml": {
+      "title": "หารแล้วแปลงเป็นมิลลิลิตร",
+      "guide": "หารแล้วตอบเป็นมิลลิลิตร."
+    },
+    "liquid_mass_concentration_amount": {
+      "title": "มวลเกลือจากความเข้มข้น",
+      "guide": "สารละลายมีความเข้มข้นของเกลือ {concentration} มีกี่มิลลิกรัมของเกลือใน {volumeLabel}?"
+    },
+    "sort_liquid_mass_concentration": {
+      "title": "เรียงตามความเข้มข้น",
+      "guide": "จัดลำดับสารละลายจากความเข้มข้นต่ำสุดไปสูงสุด."
+    }
+  },
+  "topic": {
+    "skills": "คณิตศาสตร์เชิงทักษะ",
+    "measurement": "การวัดและหน่วย",
+    "liquid_units": "หน่วยปริมาตร",
+    "liquid_calculation": "การคำนวณปริมาตร",
+    "liquid_mass_concentration": "มวลและความเข้มข้น",
+    "liquid_percent": "เปอร์เซ็นต์ของสารละลาย"
+  }
+}

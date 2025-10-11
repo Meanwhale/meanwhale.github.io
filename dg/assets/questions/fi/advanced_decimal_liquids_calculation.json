@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Jos sinulla on 2,5 l vettä ja jaat sen tasan 5 lasiin, kuinka paljon vettä on jokaisessa lasissa?",
+    "options": [
+      "500 ml",
+      "0,05 dl",
+      "50 cl",
+      "0,005 l"
+    ],
+    "explanation": "2,5 l jaettuna 5:llä on 0,5 l. 0,5 l on yhtä suuri kuin 500 ml:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Pullossa on 1,2 l mehua. Jos kaadat siitä pois 0,4 l, kuinka paljon mehua jää pulloon?",
+    "options": [
+      "80 cl",
+      "80 dl",
+      "0,08 ml",
+      "8 l"
+    ],
+    "explanation": "1,2 l - 0,4 l = 0,8 l. 0,8 l on yhtä suuri kuin 80 cl:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Jos sinulla on 3 l maitoa ja haluat jakaa sen 6 yhtä suureen osaan, kuinka paljon maitoa on kussakin osassa?",
+    "options": [
+      "50 cl",
+      "0,05 dl",
+      "50 ml",
+      "5 l"
+    ],
+    "explanation": "3 l jaettuna 6:lla on 0,5 l. 0,5 l on yhtä suuri kuin 50 cl:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Sinulla on 0,8 l limonadia ja haluat jakaa sen tasan 4 ystävän kesken. Kuinka paljon limonadia jokainen ystävä saa?",
+    "options": [
+      "200 ml",
+      "0,2 cl",
+      "20 dl",
+      "2 l"
+    ],
+    "explanation": "0,8 l jaettuna 4:llä on 0,2 l. 0,2 l on yhtä suuri kuin 200 ml:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Resepti vaatii 0,6 l vettä. Jos haluat tehdä vain puolet reseptistä, kuinka paljon vettä tarvitset?",
+    "options": [
+      "300 ml",
+      "0,3 cl",
+      "3 dl",
+      "3 l"
+    ],
+    "explanation": "0,6 l jaettuna 2:lla on 0,3 l. 0,3 l on yhtä suuri kuin 300 ml:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Jos sinulla on 0,7 l limsaa ja juot 0,1 l, kuinka paljon limsaa on jäljellä?",
+    "options": [
+      "60 cl",
+      "0,06 dl",
+      "6 ml",
+      "6 l"
+    ],
+    "explanation": "0,7 l - 0,1 l = 0,6 l. 0,6 l on yhtä suuri kuin 60 cl:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Sinulla on 1,5 l mehua. Jos kaadat sen 3 yhtä suureen lasiin, kuinka paljon mehua on jokaisessa lasissa?",
+    "options": [
+      "500 ml",
+      "0,5 cl",
+      "5 dl",
+      "5 l"
+    ],
+    "explanation": "1,5 l jaettuna 3:lla on 0,5 l. 0,5 l on yhtä suuri kuin 500 ml:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Astia sisältää 2,4 l nestettä. Jos jaat nesteen 8 yhtä suureen osaan, kuinka paljon on kussakin osassa?",
+    "options": [
+      "30 cl",
+      "0,03 dl",
+      "3 ml",
+      "3 l"
+    ],
+    "explanation": "2,4 l jaettuna 8:lla on 0,3 l. 0,3 l on yhtä suuri kuin 30 cl:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Jos sinulla on 4,2 l liuosta ja sinun täytyy jakaa se 7 yhtä suureen astiaan, kuinka paljon liuosta menee kuhunkin astiaan?",
+    "options": [
+      "60 cl",
+      "0,06 dl",
+      "6 ml",
+      "6 l"
+    ],
+    "explanation": "4,2 l jaettuna 7:llä on 0,6 l. 0,6 l on yhtä suuri kuin 60 cl:aa.",
+    "timeTag": 1756971954
+  },
+  {
+    "question": "Sinulla on 0,9 l vettä ja haluat jakaa sen 3 yhtä suureen kuppiin. Kuinka paljon vettä menee kuhunkin kuppiin?",
+    "options": [
+      "300 ml",
+      "0,3 cl",
+      "3 dl",
+      "3 l"
+    ],
+    "explanation": "0,9 l jaettuna 3:lla on 0,3 l. 0,3 l on yhtä suuri kuin 300 ml:aa.",
+    "timeTag": 1756971954
+  }
+]

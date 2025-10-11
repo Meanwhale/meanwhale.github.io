@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Vilken av följande representerar den minsta volymen?",
+    "options": [
+      "10 ml",
+      "1 cl",
+      "1 dl",
+      "1 l"
+    ],
+    "explanation": "För att jämföra, konvertera alla volymer till ml: 10 ml, 1 cl = 10 ml, 1 dl = 100 ml, 1 l = 1000 ml. Alltså är 10 ml den minsta volymen.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Identifiera den största kvantiteten:",
+    "options": [
+      "1000 ml",
+      "10 cl",
+      "1 dl",
+      "1 l"
+    ],
+    "explanation": "Konvertera alla till ml: 1000 ml, 10 cl = 100 ml, 1 dl = 100 ml, 1 l = 1000 ml. 1000 ml och 1 l är de största, så 1000 ml är rätt svar.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Vilket av dessa är minst mängd vätska?",
+    "options": [
+      "1 ml",
+      "2 cl",
+      "3 dl",
+      "4 l"
+    ],
+    "explanation": "Konvertera till ml: 1 ml, 2 cl = 20 ml, 3 dl = 300 ml, 4 l = 4000 ml. 1 ml är den minsta mängden.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Vilken av följande volymer är den största?",
+    "options": [
+      "900 ml",
+      "80 cl",
+      "7 dl",
+      "6 l"
+    ],
+    "explanation": "Konvertera till ml: 900 ml, 80 cl = 800 ml, 7 dl = 700 ml, 6 l = 6000 ml. Alltså är 6 l den största.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Vad är den minsta mängden vätska?",
+    "options": [
+      "5 ml",
+      "15 cl",
+      "25 dl",
+      "35 l"
+    ],
+    "explanation": "Konvertera till ml: 5 ml, 15 cl = 150 ml, 25 dl = 2500 ml, 35 l = 35000 ml. Därför är 5 ml det minsta.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Hitta den maximala volymen:",
+    "options": [
+      "1000 l",
+      "900 dl",
+      "800 cl",
+      "700 ml"
+    ],
+    "explanation": "Konverterar allt till liter: 1000 l, 900 dl = 90 l, 800 cl = 8 l, 700 ml = 0,7 l. Alltså är 1000 l det maximala.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Vilken rymmer minst?",
+    "options": [
+      "20 ml",
+      "30 cl",
+      "40 dl",
+      "50 l"
+    ],
+    "explanation": "Konvertera till ml: 20 ml, 30 cl = 300 ml, 40 dl = 4000 ml, 50 l = 50000 ml. 20 ml är minst.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Vilken representerar mest vätska?",
+    "options": [
+      "100 l",
+      "200 dl",
+      "300 cl",
+      "400 ml"
+    ],
+    "explanation": "Konverterar allt till liter: 100 l, 200 dl = 20 l, 300 cl = 3 l, 400 ml = 0,4 l. Därför representerar 100 l mest.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Vilken mätning är den minsta?",
+    "options": [
+      "3 ml",
+      "6 cl",
+      "9 dl",
+      "12 l"
+    ],
+    "explanation": "Konverterar allt till ml: 3 ml, 6 cl = 60 ml, 9 dl = 900 ml, 12 l = 12000 ml. 3 ml är den minsta.",
+    "timeTag": 1756971182
+  },
+  {
+    "question": "Identifiera den största volymen:",
+    "options": [
+      "500 l",
+      "4000 dl",
+      "30000 cl",
+      "200000 ml"
+    ],
+    "explanation": "Konverterar allt till liter: 500 l, 4000 dl = 400 l, 30000 cl = 300 l, 200000 ml = 200 l. Alltså är 500 l den största.",
+    "timeTag": 1756971182
+  }
+]

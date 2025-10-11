@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Kuinka monta millilitraa on 5 senttilitrassa?",
+    "options": [
+      "50 millilitraa",
+      "5 millilitraa",
+      "500 millilitraa",
+      "0,5 millilitraa"
+    ],
+    "explanation": "1 senttilitra (cl) on yhtä suuri kuin 10 millilitraa (ml). Siksi 5 cl on 5 * 10 = 50 ml."
+  },
+  {
+    "question": "Muunna 3 desilitraa millilitroiksi.",
+    "options": [
+      "300 millilitraa",
+      "30 millilitraa",
+      "3 millilitraa",
+      "3000 millilitraa"
+    ],
+    "explanation": "1 desilitra (dl) on yhtä suuri kuin 100 millilitraa (ml). Siksi 3 dl on 3 * 100 = 300 ml."
+  },
+  {
+    "question": "Jos sinulla on 2 senttilitraa vettä ja lisäät 3 senttilitraa, kuinka monta millilitraa sinulla on yhteensä?",
+    "options": [
+      "50 millilitraa",
+      "5 millilitraa",
+      "23 millilitraa",
+      "500 millilitraa"
+    ],
+    "explanation": "Laske ensin senttilitrojen kokonaismäärä: 2 cl + 3 cl = 5 cl. Muunna sitten senttilitrat millilitroiksi: 5 cl * 10 ml/cl = 50 ml."
+  },
+  {
+    "question": "Laske 7 senttilitraa kerrottuna 2:lla millilitroina.",
+    "options": [
+      "140 millilitraa",
+      "9 millilitraa",
+      "72 millilitraa",
+      "14 millilitraa"
+    ],
+    "explanation": "Laske ensin senttilitrojen kokonaismäärä: 7 cl * 2 = 14 cl. Muunna sitten senttilitrat millilitroiksi: 14 cl * 10 ml/cl = 140 ml."
+  },
+  {
+    "question": "Kuinka monta millilitraa on 0,8 desilitrassa?",
+    "options": [
+      "80 millilitraa",
+      "8 millilitraa",
+      "800 millilitraa",
+      "0,08 millilitraa"
+    ],
+    "explanation": "1 desilitra (dl) on yhtä suuri kuin 100 millilitraa (ml). Siksi 0,8 dl on 0,8 * 100 = 80 ml."
+  },
+  {
+    "question": "Muunna 1,5 senttilitraa millilitroiksi.",
+    "options": [
+      "15 millilitraa",
+      "150 millilitraa",
+      "0,15 millilitraa",
+      "1,5 millilitraa"
+    ],
+    "explanation": "1 senttilitra (cl) on yhtä suuri kuin 10 millilitraa (ml). Siksi 1,5 cl on 1,5 * 10 = 15 ml."
+  },
+  {
+    "question": "Jos sinulla on 4 desilitraa mehua ja kaadat pois 1 desilitran, kuinka monta millilitraa jää jäljelle?",
+    "options": [
+      "300 millilitraa",
+      "30 millilitraa",
+      "400 millilitraa",
+      "100 millilitraa"
+    ],
+    "explanation": "Laske ensin jäljellä olevat desilitrat: 4 dl - 1 dl = 3 dl. Muunna sitten desilitrat millilitroiksi: 3 dl * 100 ml/dl = 300 ml."
+  },
+  {
+    "question": "Laske 0,5 desilitraa kerrottuna 4:llä millilitroina.",
+    "options": [
+      "200 millilitraa",
+      "20 millilitraa",
+      "54 millilitraa",
+      "0,2 millilitraa"
+    ],
+    "explanation": "Laske ensin desilitrojen kokonaismäärä: 0,5 dl * 4 = 2 dl. Muunna sitten desilitrat millilitroiksi: 2 dl * 100 ml/dl = 200 ml."
+  },
+  {
+    "question": "Kuinka monta senttilitraa on yhtä suuri kuin 60 millilitraa?",
+    "options": [
+      "6 senttilitraa",
+      "600 senttilitraa",
+      "0,6 senttilitraa",
+      "60 senttilitraa"
+    ],
+    "explanation": "1 senttilitra (cl) on yhtä suuri kuin 10 millilitraa (ml). Muunna millilitrat senttilitroiksi jakamalla 10:llä. Siksi 60 ml / 10 ml/cl = 6 cl."
+  },
+  {
+    "question": "Kuinka monta desilitraa on yhtä suuri kuin 800 millilitraa?",
+    "options": [
+      "8 desilitraa",
+      "80 desilitraa",
+      "0,8 desilitraa",
+      "8000 desilitraa"
+    ],
+    "explanation": "1 desilitra (dl) on yhtä suuri kuin 100 millilitraa (ml). Muunna millilitrat desilitroiksi jakamalla 100:lla. Siksi 800 ml / 100 ml/dl = 8 dl."
+  },
+  {
+    "question": "Sinulla on 200 millilitraa mehua. Kuinka monta senttilitraa tämä on?",
+    "options": [
+      "20 senttilitraa",
+      "2 senttilitraa",
+      "2000 senttilitraa",
+      "0,2 senttilitraa"
+    ],
+    "explanation": "Koska 1 senttilitra (cl) on yhtä suuri kuin 10 millilitraa (ml), jaa millilitrojen määrä 10:llä saadaksesi senttilitrojen määrän: 200 ml / 10 ml/cl = 20 cl."
+  },
+  {
+    "question": "Sinulla on 900 millilitraa vettä. Kuinka monta desilitraa tämä on?",
+    "options": [
+      "9 desilitraa",
+      "90 desilitraa",
+      "0,9 desilitraa",
+      "9000 desilitraa"
+    ],
+    "explanation": "Koska 1 desilitra (dl) on yhtä suuri kuin 100 millilitraa (ml), jaa millilitrojen määrä 100:lla saadaksesi desilitrojen määrän: 900 ml / 100 ml/dl = 9 dl."
+  },
+  {
+    "question": "Jos sinulla on 2 senttilitraa ja 1 desilitra, kuinka monta millilitraa sinulla on yhteensä?",
+    "options": [
+      "120 millilitraa",
+      "3 millilitraa",
+      "21 millilitraa",
+      "30 millilitraa"
+    ],
+    "explanation": "Muunna ensin mitat millilitroiksi: 2 cl = 20 ml ja 1 dl = 100 ml. Lisää sitten arvot: 20 ml + 100 ml = 120 ml."
+  },
+  {
+    "question": "Sinulla on kolme 50 millilitran mukillista vettä. Kuinka monta senttilitraa vettä sinulla on yhteensä?",
+    "options": [
+      "15 senttilitraa",
+      "150 senttilitraa",
+      "1,5 senttilitraa",
+      "5 senttilitraa"
+    ],
+    "explanation": "Laske ensin veden kokonaismäärä millilitroina: 3 * 50 ml = 150 ml. Muunna sitten millilitrat senttilitroiksi: 150 ml / 10 ml/cl = 15 cl."
+  },
+  {
+    "question": "Reseptissä tarvitaan 2 desilitraa maitoa. Sinulla on vain milliltramitta. Kuinka monta millilitraa maitoa tarvitset?",
+    "options": [
+      "200 millilitraa",
+      "20 millilitraa",
+      "2000 millilitraa",
+      "2 millilitraa"
+    ],
+    "explanation": "Koska 1 desilitra (dl) on yhtä suuri kuin 100 millilitraa (ml), kerro desilitrojen määrä 100:lla saadaksesi millilitrojen määrän: 2 dl * 100 ml/dl = 200 ml."
+  },
+  {
+    "question": "Jot juot 600 millilitraa vettä, kuinka monta desilitraa joit?",
+    "options": [
+      "6 desilitraa",
+      "60 desilitraa",
+      "0,6 desilitraa",
+      "6000 desilitraa"
+    ],
+    "explanation": "Koska 1 desilitra (dl) on yhtä suuri kuin 100 millilitraa (ml), jaa millilitrojen määrä 100:lla saadaksesi desilitrat: 600 ml / 100 ml/dl = 6 dl."
+  }
+]

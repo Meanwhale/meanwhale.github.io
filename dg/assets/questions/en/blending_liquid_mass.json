@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Solution A has a concentration of 100 mg/mL and Solution B has a concentration of 200 mg/mL. If you mix 50 mL of Solution A with 50 mL of Solution B, what is the final concentration of the mixture in mg/mL?",
+    "options": [
+      "150 mg/mL",
+      "100 mg/mL",
+      "200 mg/mL",
+      "250 mg/mL"
+    ],
+    "explanation": "Solution A contains 50 mL * 100 mg/mL = 5000 mg of salt. Solution B contains 50 mL * 200 mg/mL = 10000 mg of salt.  The total volume is 50 mL + 50 mL = 100 mL. The total amount of salt is 5000 mg + 10000 mg = 15000 mg. The final concentration is 15000 mg / 100 mL = 150 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "You have 200 mL of a salt solution with a concentration of 50 mg/mL. You mix it with 300 mL of a salt solution with a concentration of 100 mg/mL. What is the concentration of the final solution in mg/mL?",
+    "options": [
+      "80 mg/mL",
+      "60 mg/mL",
+      "70 mg/mL",
+      "90 mg/mL"
+    ],
+    "explanation": "The first solution contains 200 mL * 50 mg/mL = 10000 mg of salt. The second solution contains 300 mL * 100 mg/mL = 30000 mg of salt. The total volume is 200 mL + 300 mL = 500 mL. The total salt is 10000 mg + 30000 mg = 40000 mg. The final concentration is 40000 mg / 500 mL = 80 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "If you combine 100 mL of a 400 mg/mL salt solution with 100 mL of pure water (0 mg/mL), what is the concentration of the resulting solution in mg/mL?",
+    "options": [
+      "200 mg/mL",
+      "100 mg/mL",
+      "300 mg/mL",
+      "400 mg/mL"
+    ],
+    "explanation": "The salt solution contains 100 mL * 400 mg/mL = 40000 mg of salt. The pure water contains 0 mg of salt. The total volume is 100 mL + 100 mL = 200 mL. The total amount of salt is 40000 mg. The final concentration is 40000 mg / 200 mL = 200 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "What is the final concentration in mg/mL when mixing 250 mL of a 20 mg/mL solution with 250 mL of a 60 mg/mL solution?",
+    "options": [
+      "40 mg/mL",
+      "20 mg/mL",
+      "30 mg/mL",
+      "80 mg/mL"
+    ],
+    "explanation": "The first solution contains 250 mL * 20 mg/mL = 5000 mg of salt. The second solution contains 250 mL * 60 mg/mL = 15000 mg of salt. The total volume is 250 mL + 250 mL = 500 mL. The total amount of salt is 5000 mg + 15000 mg = 20000 mg. The final concentration is 20000 mg / 500 mL = 40 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "A scientist mixes 500 mL of a 10 mg/mL salt solution with 500 mL of a 30 mg/mL salt solution. What is the resulting concentration of salt in mg/mL?",
+    "options": [
+      "20 mg/mL",
+      "10 mg/mL",
+      "15 mg/mL",
+      "30 mg/mL"
+    ],
+    "explanation": "The first solution contains 500 mL * 10 mg/mL = 5000 mg of salt. The second solution contains 500 mL * 30 mg/mL = 15000 mg of salt. The total volume is 500 mL + 500 mL = 1000 mL. The total amount of salt is 5000 mg + 15000 mg = 20000 mg. The final concentration is 20000 mg / 1000 mL = 20 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "You have two salt solutions: 300 mL at 40 mg/mL and 100 mL at 80 mg/mL. If you mix them, what is the resulting concentration in mg/mL?",
+    "options": [
+      "50 mg/mL",
+      "40 mg/mL",
+      "60 mg/mL",
+      "80 mg/mL"
+    ],
+    "explanation": "The first solution contains 300 mL * 40 mg/mL = 12000 mg of salt. The second solution contains 100 mL * 80 mg/mL = 8000 mg of salt. The total volume is 300 mL + 100 mL = 400 mL. The total salt is 12000 mg + 8000 mg = 20000 mg.  The final concentration is 20000 mg / 400 mL = 50 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "A solution of 600 mL with a concentration of 25 mg/mL is mixed with 400 mL of a 50 mg/mL solution.  What is the final concentration?",
+    "options": [
+      "35 mg/mL",
+      "25 mg/mL",
+      "40 mg/mL",
+      "50 mg/mL"
+    ],
+    "explanation": "The first solution contains 600 mL * 25 mg/mL = 15000 mg of salt. The second solution contains 400 mL * 50 mg/mL = 20000 mg of salt. The total volume is 600 mL + 400 mL = 1000 mL. The total amount of salt is 15000 mg + 20000 mg = 35000 mg. The final concentration is 35000 mg / 1000 mL = 35 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "50 mL of a 20 mg/mL salt solution is mixed with 450 mL of pure water. What is the final concentration in mg/mL?",
+    "options": [
+      "2 mg/mL",
+      "1 mg/mL",
+      "4 mg/mL",
+      "20 mg/mL"
+    ],
+    "explanation": "The salt solution contains 50 mL * 20 mg/mL = 1000 mg of salt. The pure water contains 0 mg of salt. The total volume is 50 mL + 450 mL = 500 mL. The total amount of salt is 1000 mg. The final concentration is 1000 mg / 500 mL = 2 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "You mix 700 mL of a solution at 10 mg/mL with 300 mL of a solution at 30 mg/mL. What is the final concentration in mg/mL?",
+    "options": [
+      "16 mg/mL",
+      "10 mg/mL",
+      "20 mg/mL",
+      "30 mg/mL"
+    ],
+    "explanation": "The first solution contains 700 mL * 10 mg/mL = 7000 mg of salt. The second solution contains 300 mL * 30 mg/mL = 9000 mg of salt. The total volume is 700 mL + 300 mL = 1000 mL. The total amount of salt is 7000 mg + 9000 mg = 16000 mg. The final concentration is 16000 mg / 1000 mL = 16 mg/mL.",
+    "timeTag": 1757056837
+  },
+  {
+    "question": "If 150 mL of a 4 mg/mL salt solution is added to 350 mL of a 8 mg/mL salt solution, what is the final concentration in mg/mL?",
+    "options": [
+      "6.8 mg/mL",
+      "4 mg/mL",
+      "6 mg/mL",
+      "8 mg/mL"
+    ],
+    "explanation": "The first solution contains 150 mL * 4 mg/mL = 600 mg of salt. The second solution contains 350 mL * 8 mg/mL = 2800 mg of salt. The total volume is 150 mL + 350 mL = 500 mL. The total amount of salt is 600 mg + 2800 mg = 3400 mg. The final concentration is 3400 mg / 500 mL = 6.8 mg/mL.",
+    "timeTag": 1757056837
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Vilket av följande motsvarar 2,5 L?",
+    "options": [
+      "250 cL",
+      "0,25 dL",
+      "25 000 mL",
+      "25 dL"
+    ],
+    "explanation": "För att omvandla liter (L) till centiliter (cL), multiplicera med 100. 2,5 L * 100 = 250 cL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilken kvantitet är samma som 70 dL?",
+    "options": [
+      "7 L",
+      "0,7 cL",
+      "7 000 mL",
+      "700 cL"
+    ],
+    "explanation": "För att omvandla deciliter (dL) till liter (L), dividera med 10. 70 dL / 10 = 7 L.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilken volym är lika med 0,8 L?",
+    "options": [
+      "800 mL",
+      "8 cL",
+      "0,08 dL",
+      "80 dL"
+    ],
+    "explanation": "För att omvandla liter (L) till milliliter (mL), multiplicera med 1000. 0,8 L * 1000 = 800 mL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilken av dessa mätningar är samma som 3,2 dL?",
+    "options": [
+      "320 mL",
+      "0,32 L",
+      "32 cL",
+      "3 200 L"
+    ],
+    "explanation": "För att omvandla deciliter (dL) till milliliter (mL), multiplicera med 100/1. 3,2 dL * 100 = 320 mL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilken volym är identisk med 9,5 cL?",
+    "options": [
+      "95 mL",
+      "0,95 L",
+      "950 dL",
+      "9 500 mL"
+    ],
+    "explanation": "För att omvandla centiliter (cL) till milliliter (mL), multiplicera med 1. 9,5 cL * 1 = 95 mL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Hur många liter är 450 cL?",
+    "options": [
+      "4,5 L",
+      "45 L",
+      "0,45 L",
+      "45 000 mL"
+    ],
+    "explanation": "För att omvandla centiliter (cL) till liter (L), dividera med 100. 450 cL / 100 = 4,5 L.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vad är 6,8 dL uttryckt i liter?",
+    "options": [
+      "0,68 L",
+      "68 L",
+      "680 L",
+      "6 800 mL"
+    ],
+    "explanation": "För att omvandla deciliter (dL) till liter (L), dividera med 10. 6,8 dL / 10 = 0,68 L.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "270 mL är samma som:",
+    "options": [
+      "2,7 dL",
+      "27 L",
+      "0,27 cL",
+      "2 700 cL"
+    ],
+    "explanation": "För att omvandla milliliter (mL) till deciliter (dL), dividera med 100. 270 mL / 100 = 2,7 dL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilket av följande är lika med 0,05 L?",
+    "options": [
+      "5 cL",
+      "50 dL",
+      "500 mL",
+      "0,5 dL"
+    ],
+    "explanation": "För att omvandla liter (L) till centiliter (cL), multiplicera med 100. 0,05 L * 100 = 5 cL.",
+    "timeTag": 1756971181
+  },
+  {
+    "question": "Vilket av dessa motsvarar 1,2 L?",
+    "options": [
+      "1 200 mL",
+      "12 cL",
+      "0,12 dL",
+      "1,2 dL"
+    ],
+    "explanation": "För att omvandla liter (L) till milliliter (mL), multiplicera med 1000. 1,2 L * 1000 = 1 200 mL",
+    "timeTag": 1756971181
+  }
+]

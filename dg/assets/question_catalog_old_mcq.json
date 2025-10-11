@@ -1,0 +1,122 @@
+{
+  "areas": [
+    {
+      "id": "skills",
+      "name": "area.skills",
+      "topics": [
+        {
+          "id": "measurement",
+          "name": "topic.measurement",
+          "subtopics": [
+            {
+              "id": "liquid_units",
+              "icon": "liquid_units",
+              "name": "subtopic.liquid_units",
+              "exercise": [
+                {
+                  "id": "sort_liquid_units",
+                  "name": "type.sort_liquid_units",
+                  "format": "sort",
+                  "task": "sort_liquid_units"
+                },
+                {
+                  "id": "sort_liquid_units_decimal",
+                  "name": "type.sort_liquid_units_decimal",
+                  "format": "sort",
+                  "task": "sort_liquid_units_decimal"
+                },
+                {
+                  "id": "convert_to_ml",
+                  "name": "type.simple_convert_to_ml",
+                  "format": "calculus",
+                  "task": "simple_convert_to_ml"
+                }
+              ]
+            },
+            {
+              "id": "liquid_calculation",
+              "icon": "liquid_calculation",
+              "name": "subtopic.liquid_calculation",
+              "exercise": [
+                {
+                  "id": "add_and_convert_to_ml",
+                  "name": "type.add_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "add_and_convert_to_ml"
+                },
+                {
+                  "id": "subtract_and_convert_to_ml",
+                  "name": "type.subtract_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "subtract_and_convert_to_ml"
+                },
+                {
+                  "id": "multiply_and_convert_to_ml",
+                  "name": "type.multiply_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "multiply_and_convert_to_ml"
+                },
+                {
+                  "id": "divide_and_convert_to_ml",
+                  "name": "type.divide_and_convert_to_ml",
+                  "format": "calculus",
+                  "task": "divide_and_convert_to_ml"
+                }
+              ]
+            },
+            {
+              "id": "liquid_mass_concentration",
+              "icon": "liquid_mass_concentration",
+              "name": "subtopic.liquid_mass_concentration",
+              "exercise": [
+                {
+                  "id": "easy_liquid_mass",
+                  "name": "type.easy_liquid_mass",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain mg/ml of salt, how much salt is in some amount of that solution. Use different ways to say the question. Use these in units in questions and answers: mL, mg. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "watering_liquid_mass",
+                  "name": "type.watering_liquid_mass",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain mg/ml of salt, how much salt mg/ml is there when water is added to the solution. Use different ways to say the question. Use these in units in questions and answers: mL, mg. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "blending_liquid_mass",
+                  "name": "type.blending_liquid_mass",
+                  "prompt": "Easy and practical questions about mixing salt solutions: how much salt (mg/ml) after mixing two solutions. Use different ways to say the question. Use these in units in questions and answers: mL, mg. In questions and answers, use integers between 1 and 1000.",
+                  "format": "mcq"
+                }
+              ]
+            },
+            {
+              "id": "liquid_percent",
+              "icon": "liquid_percent",
+              "name": "subtopic.liquid_percent",
+              "exercise": [
+                {
+                  "id": "easy_liquid_percent",
+                  "name": "type.easy_liquid_percent",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain percentage of salt, how many percent of salt is in some amount of that solution. Use different ways to say the question. Use these in units in questions and answers: %, mg. In questions and answers, use integers between 1 and 100.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "watering_liquid_percent",
+                  "name": "type.watering_liquid_percent",
+                  "prompt": "Easy and practical questions about salt in water: if solution has certain percentage of salt, how many percent of salt is there when water is added to the solution. Use different ways to say the question. Use these in units in questions and answers: %, mg. In questions and answers, use integers between 1 and 100.",
+                  "format": "mcq"
+                },
+                {
+                  "id": "blending_liquid_percent",
+                  "name": "type.blending_liquid_percent",
+                  "prompt": "Easy and practical questions about mixing salt solutions: how many percent of salt after mixing two solutions. Use different ways to say the question. Use these in units in questions and answers: %, mg. In questions and answers, use integers between 1 and 100.",
+                  "format": "mcq"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
