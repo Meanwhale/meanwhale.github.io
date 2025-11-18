@@ -1,9 +1,24 @@
 {
   "menu": {
-    "title": "Math Trainer",
+    "title": "Math Practice",
     "start": "Start",
     "language": "Language",
-    "feedback": "Feedback"
+    "feedback": "Feedback",
+    "commonBack": "Back",
+    "commonYes": "Yes",
+    "commonNo": "No",
+    "commonNext": "Next",
+    "commonCheck": "Check",
+    "loaderLoading": "Loading…",
+    "loaderErrorTitle": "Loading error",
+    "loaderBackToMenu": "Back to Menu",
+    "resultsTitle": "All done!",
+    "resultsRestart": "Restart",
+    "resultsMenu": "Menu",
+    "subtopicsTitle": "Choose a Topic",
+    "formatMcq": "Multiple Choice",
+    "formatCalculus": "Calculation",
+    "formatSort": "Sorting"
   },
   "language": {
     "title": "Select Language",
@@ -12,16 +27,6 @@
     "finnish": "Finnish",
     "thai": "Thai",
     "selected": "Selected: {name}"
-  },
-  "common": {
-    "back": "Back",
-    "yes": "Yes",
-    "no": "No"
-  },
-  "loader": {
-    "loading": "Loading…",
-    "errorTitle": "Loading error",
-    "backToMenu": "Back to Menu"
   },
   "gameplay": {
     "title": "Quiz Time",
@@ -32,41 +37,101 @@
     "quitTitle": "Quit Quiz?",
     "quitMessage": "Do you want to return to the main menu?",
     "score": "Score: {score} / {total}",
-    "qnum": "Question {n} / {total}"
-  },
-  "results": {
-    "title": "All done!",
-    "restart": "Restart",
-    "menu": "Menu"
-  },
-  "subtopics": {
-    "title": "Choose a Topic"
-  },
-  "format": {
-    "mcq": "Multiple Choice",
-    "calculus": "Calculation",
-    "sort": "Sorting"
+    "qnum": "Question {n} / {total}",
+    "sortGuide" : "Drag the buttons into the correct order."
   },
   "units": {
     "ml": "mL",
     "cl": "cL",
     "dl": "dL",
-    "l": "L"
+    "l": "L",
+    "mg": "mg"
   },
   "exercise": {
-    "easy_liquids_units": "Very Easy Units",
-    "liquids_units_integers": "Units Equivalence (Integers)",
-    "liquids_units_decimals": "Units Equivalence (Decimals)",
-    "integer_liquids_calculation": "Add/Subtract Liquids (Integers)",
-    "decimal_liquids_calculation": "Add/Subtract Liquids (Decimals)",
-    "advanced_decimal_liquids_calculation": "Multiply/Divide Liquids (Decimals)",
-    "easy_liquid_mass": "Salt in Water (mg/ml)",
-    "watering_liquid_mass": "Diluting Solution (mg/ml)",
-    "blending_liquid_mass": "Mixing Solutions (mg/ml)",
-    "easy_liquid_percent": "Salt in Water (%)",
-    "watering_liquid_percent": "Diluting Solution (%)",
-    "blending_liquid_percent": "Mixing Solutions (%)",
-    "convert_to_ml": "Convert to mL"
+    "easy_liquids_units": {
+      "title": "Convert to millilitres",
+      "guide": "Convert to millilitres."
+    },
+    "liquids_units_integers": {
+      "title": "Units Equivalence (Integers)",
+      "guide": "Convert whole-number liquid measurements between litres, decilitres, centilitres, and millilitres."
+    },
+    "liquids_units_decimals": {
+      "title": "Units Equivalence (Decimals)",
+      "guide": "Convert decimal liquid measurements between litres, decilitres, centilitres, and millilitres."
+    },
+    "integer_liquids_calculation": {
+      "title": "Add/Subtract Liquids (Integers)",
+      "guide": "Add or subtract the given whole-number liquid measures and answer in millilitres."
+    },
+    "decimal_liquids_calculation": {
+      "title": "Add/Subtract Liquids (Decimals)",
+      "guide": "Add or subtract the given decimal liquid measures and answer in millilitres."
+    },
+    "advanced_decimal_liquids_calculation": {
+      "title": "Multiply/Divide Liquids (Decimals)",
+      "guide": "Multiply or divide decimal liquid measures and answer in millilitres."
+    },
+    "easy_liquid_mass": {
+      "title": "Salt in Water",
+      "guide": "Use the mg/ml ratio to find the mass of salt in the water."
+    },
+    "watering_liquid_mass": {
+      "title": "Diluting Solution",
+      "guide": "Calculate the new salt mass after diluting the solution with water."
+    },
+    "blending_liquid_mass": {
+      "title": "Mixing Solutions",
+      "guide": "Combine the given solutions and report the total salt mass."
+    },
+    "easy_liquid_percent": {
+      "title": "Salt in Water",
+      "guide": "Use the percentage to find how much salt is in the water."
+    },
+    "watering_liquid_percent": {
+      "title": "Diluting Solution",
+      "guide": "Work out the new percentage strength after adding water."
+    },
+    "blending_liquid_percent": {
+      "title": "Mixing Solutions",
+      "guide": "Find the resulting percentage when two solutions are mixed."
+    },
+    "convert_to_ml": {
+      "title": "Convert to Millilitres",
+      "guide": "Convert each measurement to millilitres."
+    },
+    "sort_liquid_units": {
+      "title": "Sort Liquid Measures",
+      "guide": "Arrange the liquid measurements from smallest to largest."
+    },
+    "sort_liquid_units_decimal": {
+      "title": "Sort Liquid Measures (Decimals)",
+      "guide": "Arrange the liquid measurements from smallest to largest."
+    },
+    "add_and_convert_to_ml": {
+      "title": "Add and Convert to Millilitres",
+      "guide": "Add and express in millilitres."
+    },
+    "subtract_and_convert_to_ml": {
+      "title": "Subtract and Convert to Millilitres",
+      "guide": "Subtract and express in millilitres."
+    },
+    "multiply_and_convert_to_ml": {
+      "title": "Multiply and Convert to Millilitres",
+      "guide": "Multiply and express in millilitres.."
+    },
+    "divide_and_convert_to_ml": {
+      "title": "Divide and Convert to Millilitres",
+      "guide": "Divide and express in millilitres."
+    },
+    "liquid_mass_concentration_amount": {
+      "title": "Salt Amount from Concentration",
+      "guide": "A solution has salt concentration {concentration}. How many mg of salt are in {volumeLabel}?"
+    },
+    "sort_liquid_mass_concentration": {
+      "title": "Sort by Concentration",
+      "guide": "Arrange the solutions from lowest to highest concentration"
+    }
   },
   "topic": {
     "skills": "Skills-Based Math",

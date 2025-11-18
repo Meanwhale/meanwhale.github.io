@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Login</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.2/firebase-ui-auth.css" />
+</head>
+
+<body>
+  <h1>Login</h1>
+  <div id="firebaseui-auth-container"></div>
+  <p id="status"></p>
+
+  <!-- Firebase SDKs (compat for FirebaseUI) -->
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/ui/6.0.2/firebase-ui-auth.js"></script>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyCeRJx0UKqnYmhr6u_ZWyCrbU45Xb0ReIs",
+      authDomain: "dolfin-math.firebaseapp.com",
+      projectId: "dolfin-math",
+      storageBucket: "dolfin-math.firebasestorage.app",
+      messagingSenderId: "499035696239",
+      appId: "1:499035696239:web:3a5ee2c439acd40797319a",
+      measurementId: "G-W9DWNKS6P6"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+
+    // Initialize the FirebaseUI Widget using Firebase.
+    const ui = new firebaseui.auth.AuthUI(firebase.auth());
+
+    ui.start("#firebaseui-auth-container", {
+      signInOptions: [
+        firebase.auth.EmailAuthProvider.PROVIDER_ID, // email + password
+      ],
+      callbacks: {
+        signInSuccessWithAuthResult: (authResult) => {
+          document.getElementById("status").textContent =
+            "Signed in: " + authResult.user.email;
+          // Do not redirect.
+          return false;
+        },
+      },
+      // Other UI configuration options...
+    });
+  </script>
