@@ -78,6 +78,13 @@
                   "format": "mcq"
                 }
               ]
+            },
+            {
+              "id": "liquid_percent",
+              "icon": "liquid_percent",
+              "name": "topic.liquid_percent",
+              "exercise": [
+              ]
             }
           ]
         }
