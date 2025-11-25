@@ -4,9 +4,33 @@
       "id": "skills",
       "name": "area.skills",
       "topics": [
+
         {
-          "id": "measurement",
-          "name": "topic.measurement",
+          "id": "decimals",
+          "name": "topic.decimals",
+          "subtopics": [
+            {
+              "id": "decimals",
+              "icon": "decimals",
+              "name": "topic.decimals",
+              "exercise": [
+                {
+                  "id": "decimals_easy",
+                  "format": "calculus",
+                  "task": "decimals_easy"
+                },
+                {
+                  "id": "decimals_medium",
+                  "format": "calculus",
+                  "task": "decimals_medium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "liquid_measurement",
+          "name": "topic.liquid_calculation",
           "subtopics": [
             {
               "id": "liquid_units",
@@ -56,7 +80,13 @@
                   "task": "divide_and_convert_to_ml"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "mass_concentration",
+          "name": "topic.liquid_mass_concentration",
+          "subtopics": [
             {
               "id": "liquid_mass_concentration",
               "icon": "liquid_mass_concentration",
