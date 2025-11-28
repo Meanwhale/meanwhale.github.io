@@ -4,25 +4,45 @@
       "id": "skills",
       "name": "area.skills",
       "topics": [
-
         {
           "id": "decimals",
           "name": "topic.decimals",
           "subtopics": [
             {
-              "id": "decimals",
+              "id": "decimals_sort",
               "icon": "decimals",
-              "name": "topic.decimals",
+              "name": "{{menu.formatSort}}",
               "exercise": [
                 {
-                  "id": "decimals_easy",
-                  "format": "calculus",
-                  "task": "decimals_easy"
+                  "id": "decimals_sort_easy",
+                  "format": "sort",
+                  "task": "decimals_sort_easy",
+                  "name": "{{math.lowPrecision}}"
                 },
                 {
-                  "id": "decimals_medium",
+                  "id": "decimals_sort_medium",
+                  "format": "sort",
+                  "task": "decimals_sort_medium",
+                  "name": "{{math.highPrecision}}"
+                }
+              ]
+            },
+            {
+              "id": "decimals_calculus",
+              "icon": "decimals",
+              "name": "{{menu.formatCalculus}}",
+              "exercise": [
+                {
+                  "id": "decimals_calculus_easy",
                   "format": "calculus",
-                  "task": "decimals_medium"
+                  "task": "decimals_calculus_easy",
+                  "name": "{{math.addition}}, {{math.subtraction}}"
+                },
+                {
+                  "id": "decimals_calculus_medium",
+                  "format": "calculus",
+                  "task": "decimals_calculus_medium",
+                  "name": "{{math.multiply}}, {{math.divide}}"
                 }
               ]
             }

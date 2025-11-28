@@ -4,11 +4,6 @@
     "start": "Start",
     "language": "Language",
     "feedback": "Feedback",
-    "commonBack": "Back",
-    "commonYes": "Yes",
-    "commonNo": "No",
-    "commonNext": "Next",
-    "commonCheck": "Check",
     "loaderLoading": "Loading…",
     "loaderErrorTitle": "Loading error",
     "loaderBackToMenu": "Back to Menu",
@@ -20,6 +15,16 @@
     "formatMcq": "Multiple Choice",
     "formatCalculus": "Calculation",
     "formatSort": "Sorting"
+  },
+  "common": {
+    "back": "Back",
+    "yes": "Yes",
+    "no": "No",
+    "next": "Next",
+    "check": "Check",
+    "easy": "easy",
+    "medium": "medium",
+    "hard": "hard"
   },
   "language": {
     "title": "Select Language",
@@ -39,7 +44,7 @@
     "quitMessage": "Do you want to return to the main menu?",
     "score": "Score: {score} / {total}",
     "qnum": "Question {n} / {total}",
-    "sortGuide" : "Drag the buttons into the correct order."
+    "sortGuide": "Drag the buttons into the correct order."
   },
   "units": {
     "ml": "mL",
@@ -47,6 +52,15 @@
     "dl": "dL",
     "l": "L",
     "mg": "mg"
+  },
+  "math": {
+    "decimals": "Decimals",
+    "addition": "Addition",
+    "subtraction": "Subtraction",
+    "multiply": "Multiply",
+    "divide": "Divide",
+    "lowPrecision": "Low precision",
+    "highPrecision": "High precision"
   },
   "exercise": {
     "easy_liquids_units": {
@@ -136,6 +150,7 @@
   },
   "topic": {
     "skills": "Skills-Based Math",
+    "decimals": "{{math.decimals}}",
     "measurement": "Measurement & Units",
     "liquid_units": "Liquid Units",
     "liquid_calculation": "Liquid Calculations",

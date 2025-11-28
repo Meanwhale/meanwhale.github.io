@@ -4,11 +4,6 @@
     "start": "เริ่ม",
     "language": "ภาษา",
     "feedback": "ข้อเสนอแนะ",
-    "commonBack": "ย้อนกลับ",
-    "commonYes": "ใช่",
-    "commonNo": "ไม่ใช่",
-    "commonNext": "ถัดไป",
-    "commonCheck": "ตรวจสอบ",
     "loaderLoading": "กำลังโหลด...",
     "loaderErrorTitle": "เกิดข้อผิดพลาดในการโหลด",
     "loaderBackToMenu": "กลับสู่เมนู",
@@ -16,9 +11,20 @@
     "resultsRestart": "เริ่มใหม่",
     "resultsMenu": "เมนู",
     "subtopicsTitle": "เลือกหัวข้อ",
+    "chooseExercise": "เลือกแบบฝึกหัด",
     "formatMcq": "ปรนัย",
     "formatCalculus": "คำนวณ",
     "formatSort": "เรียงลำดับ"
+  },
+  "common": {
+    "back": "ย้อนกลับ",
+    "yes": "ใช่",
+    "no": "ไม่ใช่",
+    "next": "ถัดไป",
+    "check": "ตรวจสอบ",
+    "easy": "ง่าย",
+    "medium": "ปานกลาง",
+    "hard": "ยาก"
   },
   "language": {
     "title": "เลือกภาษา",
@@ -46,6 +52,15 @@
     "dl": "ดล.",
     "l": "ล.",
     "mg": "มก."
+  },
+  "math": {
+    "decimals": "ทศนิยม",
+    "addition": "การบวก",
+    "subtraction": "การลบ",
+    "multiply": "การคูณ",
+    "divide": "การหาร",
+    "lowPrecision": "ความละเอียดต่ำ",
+    "highPrecision": "ความละเอียดสูง"
   },
   "exercise": {
     "easy_liquids_units": {
@@ -135,6 +150,7 @@
   },
   "topic": {
     "skills": "คณิตศาสตร์เชิงทักษะ",
+    "decimals": "{{math.decimals}}",
     "measurement": "การวัดและหน่วย",
     "liquid_units": "หน่วยปริมาตร",
     "liquid_calculation": "การคำนวณปริมาตร",

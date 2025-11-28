@@ -4,11 +4,6 @@
     "start": "Starta",
     "language": "Språk",
     "feedback": "Feedback",
-    "commonBack": "Tillbaka",
-    "commonYes": "Ja",
-    "commonNo": "Nej",
-    "commonNext": "Nästa",
-    "commonCheck": "Kontrollera",
     "loaderLoading": "Laddar...",
     "loaderErrorTitle": "Laddningsfel",
     "loaderBackToMenu": "Till huvudmenyn",
@@ -16,9 +11,20 @@
     "resultsRestart": "Starta om",
     "resultsMenu": "Meny",
     "subtopicsTitle": "Välj ett ämne",
+    "chooseExercise": "Välj en övning",
     "formatMcq": "Flerval",
     "formatCalculus": "Beräkning",
     "formatSort": "Sortering"
+  },
+  "common": {
+    "back": "Tillbaka",
+    "yes": "Ja",
+    "no": "Nej",
+    "next": "Nästa",
+    "check": "Kontrollera",
+    "easy": "lätt",
+    "medium": "medel",
+    "hard": "svår"
   },
   "language": {
     "title": "Välj språk",
@@ -46,6 +52,15 @@
     "dl": "dl",
     "l": "l",
     "mg": "mg"
+  },
+  "math": {
+    "decimals": "Decimaltal",
+    "addition": "Addition",
+    "subtraction": "Subtraktion",
+    "multiply": "Multiplicera",
+    "divide": "Dividera",
+    "lowPrecision": "Låg precision",
+    "highPrecision": "Hög precision"
   },
   "exercise": {
     "easy_liquids_units": {
@@ -135,6 +150,7 @@
   },
   "topic": {
     "skills": "Färdighetsbaserad matematik",
+    "decimals": "{{math.decimals}}",
     "measurement": "Mätning och enheter",
     "liquid_units": "Volymenheter",
     "liquid_calculation": "Beräkningar med vätskor",
